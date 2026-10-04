@@ -1,0 +1,786 @@
+snapshot_utc,event_id,commence_time,home_team,away_team,book,market,player,side,point,price,book_last_update
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_pass_yds,Jared Goff,Over,260.5,-111,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_pass_yds,Jared Goff,Under,260.5,-113,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_pass_yds,Bryce Young,Over,244.5,-112,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_pass_yds,Bryce Young,Under,244.5,-112,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_reception_yds,Amon-Ra St. Brown,Over,78.5,-113,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_reception_yds,Amon-Ra St. Brown,Under,78.5,-111,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_reception_yds,Tetairoa McMillan,Over,73.5,-113,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_reception_yds,Tetairoa McMillan,Under,73.5,-111,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_reception_yds,Jameson Williams,Over,52.5,-111,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_reception_yds,Jameson Williams,Under,52.5,-113,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_reception_yds,Sam LaPorta,Over,49.5,-115,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_reception_yds,Sam LaPorta,Under,49.5,-109,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_reception_yds,Jahmyr Gibbs,Over,38.5,-109,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_reception_yds,Jahmyr Gibbs,Under,38.5,-115,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_reception_yds,Darren Waller,Over,37.5,-109,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_reception_yds,Darren Waller,Under,37.5,-115,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_reception_yds,Brycen Tremayne,Over,33.5,-112,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_reception_yds,Brycen Tremayne,Under,33.5,-112,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_reception_yds,Chuba Hubbard,Over,18.5,-109,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_reception_yds,Chuba Hubbard,Under,18.5,-115,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_reception_yds,Isaac TeSlaa,Over,17.5,-116,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_reception_yds,Isaac TeSlaa,Under,17.5,-108,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_reception_yds,John Metchie III,Over,17.5,-115,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_reception_yds,John Metchie III,Under,17.5,-109,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_reception_yds,Tommy Tremble,Over,13.5,-110,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_reception_yds,Tommy Tremble,Under,13.5,-114,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_reception_yds,Mitchell Evans,Over,7.5,-117,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_reception_yds,Mitchell Evans,Under,7.5,-107,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_reception_yds,Brock Wright,Over,5.5,-113,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_reception_yds,Brock Wright,Under,5.5,-111,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_receptions,Amon-Ra St. Brown,Over,7.5,111,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_receptions,Amon-Ra St. Brown,Under,7.5,-141,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_receptions,Tetairoa McMillan,Over,5.5,107,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_receptions,Tetairoa McMillan,Under,5.5,-137,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_receptions,Jahmyr Gibbs,Over,4.5,-125,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_receptions,Jahmyr Gibbs,Under,4.5,-102,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_receptions,Sam LaPorta,Over,4.5,113,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_receptions,Sam LaPorta,Under,4.5,-144,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_receptions,Darren Waller,Over,3.5,-119,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_receptions,Darren Waller,Under,3.5,-107,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_receptions,Jameson Williams,Over,3.5,-108,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_receptions,Jameson Williams,Under,3.5,-118,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_receptions,Chuba Hubbard,Over,2.5,-149,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_receptions,Chuba Hubbard,Under,2.5,117,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_receptions,Brycen Tremayne,Over,2.5,-122,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_receptions,Brycen Tremayne,Under,2.5,-105,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_receptions,John Metchie III,Over,1.5,-158,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_receptions,John Metchie III,Under,1.5,124,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_receptions,Tommy Tremble,Over,1.5,-152,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_receptions,Tommy Tremble,Under,1.5,119,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_receptions,Isaac TeSlaa,Over,1.5,-106,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_receptions,Isaac TeSlaa,Under,1.5,-120,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_receptions,Mitchell Evans,Over,1.5,159,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_receptions,Mitchell Evans,Under,1.5,-205,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_receptions,Brock Wright,Over,0.5,-145,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_receptions,Brock Wright,Under,0.5,113,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_rush_yds,Jahmyr Gibbs,Over,98.5,-110,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_rush_yds,Jahmyr Gibbs,Under,98.5,-114,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_rush_yds,Chuba Hubbard,Over,66.5,-113,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_rush_yds,Chuba Hubbard,Under,66.5,-111,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_rush_yds,Bryce Young,Over,12.5,-115,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_rush_yds,Bryce Young,Under,12.5,-109,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_rush_yds,AJ Dillon,Over,12.5,-113,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_rush_yds,AJ Dillon,Under,12.5,-111,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_rush_yds,Sione Vaki,Over,11.5,-118,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_rush_yds,Sione Vaki,Under,11.5,-106,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_rush_yds,Jared Goff,Over,0.5,-122,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,draftkings,player_rush_yds,Jared Goff,Under,0.5,-103,2026-10-04T23:45:05Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_pass_yds,Bryce Young,Over,243.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_pass_yds,Bryce Young,Under,243.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_pass_yds,Jared Goff,Over,257.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_pass_yds,Jared Goff,Under,257.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_reception_yds,Brycen Tremayne,Over,33.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_reception_yds,Brycen Tremayne,Under,33.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_reception_yds,Isaac TeSlaa,Over,17.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_reception_yds,Isaac TeSlaa,Under,17.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_reception_yds,Chuba Hubbard,Over,18.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_reception_yds,Chuba Hubbard,Under,18.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_reception_yds,Jahmyr Gibbs,Over,35.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_reception_yds,Jahmyr Gibbs,Under,35.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_reception_yds,Mitchell Evans,Over,7.5,-128,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_reception_yds,Mitchell Evans,Under,7.5,100,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_reception_yds,Brock Wright,Over,5.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_reception_yds,Brock Wright,Under,5.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_reception_yds,Amon-Ra St. Brown,Over,76.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_reception_yds,Amon-Ra St. Brown,Under,76.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_reception_yds,Tetairoa McMillan,Over,71.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_reception_yds,Tetairoa McMillan,Under,71.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_reception_yds,John Metchie III,Over,20.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_reception_yds,John Metchie III,Under,20.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_reception_yds,Darren Waller,Over,37.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_reception_yds,Darren Waller,Under,37.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_reception_yds,Tommy Tremble,Over,13.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_reception_yds,Tommy Tremble,Under,13.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_reception_yds,Sam LaPorta,Over,47.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_reception_yds,Sam LaPorta,Under,47.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_reception_yds,Jameson Williams,Over,51.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_reception_yds,Jameson Williams,Under,51.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_receptions,Tommy Tremble,Over,1.5,-162,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_receptions,Tommy Tremble,Under,1.5,122,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_receptions,Jameson Williams,Over,3.5,-108,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_receptions,Jameson Williams,Under,3.5,-122,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_receptions,Brycen Tremayne,Over,2.5,-120,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_receptions,Brycen Tremayne,Under,2.5,-110,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_receptions,Amon-Ra St. Brown,Over,6.5,-148,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_receptions,Amon-Ra St. Brown,Under,6.5,112,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_receptions,Chuba Hubbard,Over,2.5,-158,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_receptions,Chuba Hubbard,Under,2.5,118,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_receptions,John Metchie III,Over,1.5,-182,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_receptions,John Metchie III,Under,1.5,136,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_receptions,Brock Wright,Over,0.5,-158,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_receptions,Brock Wright,Under,0.5,118,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_receptions,Darren Waller,Over,3.5,-114,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_receptions,Darren Waller,Under,3.5,-114,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_receptions,Sam LaPorta,Over,4.5,106,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_receptions,Sam LaPorta,Under,4.5,-140,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_receptions,Isaac TeSlaa,Over,1.5,102,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_receptions,Isaac TeSlaa,Under,1.5,-136,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_receptions,Tetairoa McMillan,Over,4.5,-178,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_receptions,Tetairoa McMillan,Under,4.5,132,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_receptions,Mitchell Evans,Over,1.5,154,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_receptions,Mitchell Evans,Under,1.5,-210,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_receptions,Jahmyr Gibbs,Over,4.5,-130,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_receptions,Jahmyr Gibbs,Under,4.5,-102,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_rush_yds,Jahmyr Gibbs,Over,95.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_rush_yds,Jahmyr Gibbs,Under,95.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_rush_yds,Sione Vaki,Over,10.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_rush_yds,Sione Vaki,Under,10.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_rush_yds,AJ Dillon,Over,11.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_rush_yds,AJ Dillon,Under,11.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_rush_yds,Jared Goff,Over,1.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_rush_yds,Jared Goff,Under,1.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_rush_yds,Bryce Young,Over,12.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_rush_yds,Bryce Young,Under,12.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_rush_yds,Chuba Hubbard,Over,64.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,player_rush_yds,Chuba Hubbard,Under,64.5,-113,2026-10-04T23:44:48Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_pass_yds,Bryce Young,Over,242.5,-114,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_pass_yds,Bryce Young,Under,242.5,-114,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_pass_yds,Jared Goff,Over,259.5,-112,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_pass_yds,Jared Goff,Under,259.5,-115,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_reception_yds,Amon-Ra St. Brown,Over,76.5,-115,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_reception_yds,Amon-Ra St. Brown,Under,76.5,-112,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_reception_yds,Chuba Hubbard,Over,18.5,-115,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_reception_yds,Chuba Hubbard,Under,18.5,-112,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_reception_yds,Isaac TeSlaa,Over,17.5,-116,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_reception_yds,Isaac TeSlaa,Under,17.5,-111,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_reception_yds,Sam LaPorta,Over,47.5,-116,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_reception_yds,Sam LaPorta,Under,47.5,-111,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_reception_yds,Tetairoa McMillan,Over,72.5,-120,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_reception_yds,Tetairoa McMillan,Under,72.5,-108,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_reception_yds,Jahmyr Gibbs,Over,37.5,-112,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_reception_yds,Jahmyr Gibbs,Under,37.5,-115,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_reception_yds,Brock Wright,Over,5.5,-112,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_reception_yds,Brock Wright,Under,5.5,-115,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_reception_yds,Jameson Williams,Over,52.5,-120,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_reception_yds,Jameson Williams,Under,52.5,-108,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_reception_yds,Tommy Tremble,Over,13.5,-115,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_reception_yds,Tommy Tremble,Under,13.5,-112,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_reception_yds,Darren Waller,Over,37.5,-114,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_reception_yds,Darren Waller,Under,37.5,-114,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_reception_yds,Brycen Tremayne,Over,33.5,-114,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_reception_yds,Brycen Tremayne,Under,33.5,-114,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_reception_yds,Mitchell Evans,Over,7.5,-120,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_reception_yds,Mitchell Evans,Under,7.5,-108,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_receptions,Sam LaPorta,Over,4.5,120,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_receptions,Sam LaPorta,Under,4.5,-156,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_receptions,Jahmyr Gibbs,Over,4.5,-123,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_receptions,Jahmyr Gibbs,Under,4.5,-104,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_receptions,Jameson Williams,Over,3.5,-106,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_receptions,Jameson Williams,Under,3.5,-122,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_receptions,Amon-Ra St. Brown,Over,6.5,-145,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_receptions,Amon-Ra St. Brown,Under,6.5,112,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_receptions,Chuba Hubbard,Over,2.5,-156,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_receptions,Chuba Hubbard,Under,2.5,121,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_receptions,Isaac TeSlaa,Over,1.5,105,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_receptions,Isaac TeSlaa,Under,1.5,-135,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_receptions,Tommy Tremble,Over,1.5,-152,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_receptions,Tommy Tremble,Under,1.5,117,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_receptions,Darren Waller,Over,3.5,-120,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_receptions,Darren Waller,Under,3.5,-108,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_receptions,Tetairoa McMillan,Over,5.5,112,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_receptions,Tetairoa McMillan,Under,5.5,-145,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_receptions,Brycen Tremayne,Over,2.5,-120,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_receptions,Brycen Tremayne,Under,2.5,-108,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_receptions,Mitchell Evans,Over,1.5,158,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_receptions,Mitchell Evans,Under,1.5,-208,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_rush_yds,Bryce Young,Over,12.5,-118,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_rush_yds,Bryce Young,Under,12.5,-110,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_rush_yds,Jahmyr Gibbs,Over,96.5,-103,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_rush_yds,Jahmyr Gibbs,Under,96.5,-125,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_rush_yds,Chuba Hubbard,Over,66.5,-116,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_rush_yds,Chuba Hubbard,Under,66.5,-111,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_rush_yds,Sione Vaki,Over,11.5,-116,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_rush_yds,Sione Vaki,Under,11.5,-111,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_rush_yds,AJ Dillon,Over,12.5,-114,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,player_rush_yds,AJ Dillon,Under,12.5,-114,2026-10-04T23:45:31Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_pass_yds,Bryce Young,Over,244.5,-117,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_pass_yds,Bryce Young,Under,244.5,-114,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_pass_yds,Jared Goff,Over,262.5,-114,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_pass_yds,Jared Goff,Under,262.5,-117,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_reception_yds,Sam LaPorta,Over,48.5,-117,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_reception_yds,Sam LaPorta,Under,48.5,-114,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_reception_yds,Chuba Hubbard,Over,20.5,-114,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_reception_yds,Chuba Hubbard,Under,20.5,-117,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_reception_yds,Tommy Tremble,Over,13.5,-121,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_reception_yds,Tommy Tremble,Under,13.5,-110,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_reception_yds,Jahmyr Gibbs,Over,35.5,-118,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_reception_yds,Jahmyr Gibbs,Under,35.5,-112,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_reception_yds,Jameson Williams,Over,50.5,-118,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_reception_yds,Jameson Williams,Under,50.5,-113,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_reception_yds,Tetairoa McMillan,Over,75.5,-115,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_reception_yds,Tetairoa McMillan,Under,75.5,-115,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_reception_yds,Brock Wright,Over,4.5,-118,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_reception_yds,Brock Wright,Under,4.5,-113,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_reception_yds,Isaac TeSlaa,Over,17.5,-118,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_reception_yds,Isaac TeSlaa,Under,17.5,-113,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_reception_yds,Darren Waller,Over,35.5,-117,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_reception_yds,Darren Waller,Under,35.5,-114,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_reception_yds,Amon-Ra St. Brown,Over,78.5,-114,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_reception_yds,Amon-Ra St. Brown,Under,78.5,-117,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_receptions,Jameson Williams,Over,3.5,-108,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_receptions,Jahmyr Gibbs,Over,4.5,-113,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_receptions,Isaac TeSlaa,Over,1.5,-112,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_receptions,Amon-Ra St. Brown,Over,6.5,-157,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_receptions,Sam LaPorta,Over,4.5,102,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_receptions,Darren Waller,Over,3.5,-110,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_receptions,Chuba Hubbard,Over,2.5,-150,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_receptions,Tommy Tremble,Over,1.5,-150,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_receptions,Tetairoa McMillan,Over,5.5,108,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_receptions,Brock Wright,Over,0.5,-150,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_rush_yds,Chuba Hubbard,Over,68.5,-113,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_rush_yds,Chuba Hubbard,Under,68.5,-118,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_rush_yds,AJ Dillon,Over,11.5,-120,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_rush_yds,AJ Dillon,Under,11.5,-112,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_rush_yds,Jahmyr Gibbs,Over,96.5,-117,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_rush_yds,Jahmyr Gibbs,Under,96.5,-114,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_rush_yds,Sione Vaki,Over,10.5,-117,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_rush_yds,Sione Vaki,Under,10.5,-114,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_rush_yds,Bryce Young,Over,13.5,-115,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betrivers,player_rush_yds,Bryce Young,Under,13.5,-115,2026-10-04T23:45:15Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_pass_yds,Bryce Young,Over,214.5,-250,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_pass_yds,Bryce Young,Under,214.5,185,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_pass_yds,Bryce Young,Over,224.5,-190,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_pass_yds,Bryce Young,Under,224.5,145,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_pass_yds,Bryce Young,Over,234.5,-145,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_pass_yds,Bryce Young,Under,234.5,110,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_pass_yds,Bryce Young,Over,244.5,-115,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_pass_yds,Bryce Young,Under,244.5,-115,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_pass_yds,Bryce Young,Over,254.5,110,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_pass_yds,Bryce Young,Under,254.5,-145,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_pass_yds,Bryce Young,Over,264.5,140,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_pass_yds,Bryce Young,Under,264.5,-185,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_pass_yds,Bryce Young,Over,274.5,170,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_pass_yds,Bryce Young,Under,274.5,-230,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_pass_yds,Jared Goff,Over,230.5,-245,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_pass_yds,Jared Goff,Under,230.5,180,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_pass_yds,Jared Goff,Over,240.5,-185,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_pass_yds,Jared Goff,Under,240.5,140,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_pass_yds,Jared Goff,Over,250.5,-145,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_pass_yds,Jared Goff,Under,250.5,110,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_pass_yds,Jared Goff,Over,260.5,-115,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_pass_yds,Jared Goff,Under,260.5,-115,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_pass_yds,Jared Goff,Over,270.5,110,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_pass_yds,Jared Goff,Under,270.5,-145,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_pass_yds,Jared Goff,Over,280.5,140,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_pass_yds,Jared Goff,Under,280.5,-185,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_pass_yds,Jared Goff,Over,290.5,170,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_pass_yds,Jared Goff,Under,290.5,-230,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Amon-Ra St. Brown,Over,58.5,-280,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Amon-Ra St. Brown,Under,58.5,205,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Amon-Ra St. Brown,Over,68.5,-170,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Amon-Ra St. Brown,Under,68.5,130,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Amon-Ra St. Brown,Over,78.5,-115,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Amon-Ra St. Brown,Under,78.5,-115,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Amon-Ra St. Brown,Over,88.5,125,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Amon-Ra St. Brown,Under,88.5,-165,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Amon-Ra St. Brown,Over,98.5,180,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Amon-Ra St. Brown,Under,98.5,-245,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Brock Wright,Over,5.5,-115,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Brock Wright,Under,5.5,-115,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Chuba Hubbard,Over,18.5,-110,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Chuba Hubbard,Under,18.5,-120,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Darren Waller,Over,27.5,-210,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Darren Waller,Under,27.5,155,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Darren Waller,Over,32.5,-150,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Darren Waller,Under,32.5,115,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Darren Waller,Over,37.5,-110,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Darren Waller,Under,37.5,-120,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Darren Waller,Over,42.5,120,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Darren Waller,Under,42.5,-160,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Darren Waller,Over,47.5,155,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Darren Waller,Under,47.5,-210,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Isaac TeSlaa,Over,17.5,-120,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Isaac TeSlaa,Under,17.5,-110,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Jahmyr Gibbs,Over,28.5,-210,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Jahmyr Gibbs,Under,28.5,155,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Jahmyr Gibbs,Over,33.5,-145,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Jahmyr Gibbs,Under,33.5,110,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Jahmyr Gibbs,Over,38.5,-110,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Jahmyr Gibbs,Under,38.5,-120,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Jahmyr Gibbs,Over,43.5,120,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Jahmyr Gibbs,Under,43.5,-160,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Jahmyr Gibbs,Over,48.5,150,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Jahmyr Gibbs,Under,48.5,-200,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Jameson Williams,Over,42.5,-190,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Jameson Williams,Under,42.5,145,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Jameson Williams,Over,47.5,-145,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Jameson Williams,Under,47.5,110,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Jameson Williams,Over,52.5,-115,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Jameson Williams,Under,52.5,-115,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Jameson Williams,Over,57.5,110,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Jameson Williams,Under,57.5,-145,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Jameson Williams,Over,62.5,135,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Jameson Williams,Under,62.5,-180,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Sam LaPorta,Over,39.5,-210,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Sam LaPorta,Under,39.5,155,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Sam LaPorta,Over,44.5,-160,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Sam LaPorta,Under,44.5,120,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Sam LaPorta,Over,49.5,-120,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Sam LaPorta,Under,49.5,-110,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Sam LaPorta,Over,54.5,105,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Sam LaPorta,Under,54.5,-135,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Sam LaPorta,Over,59.5,135,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Sam LaPorta,Under,59.5,-180,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Tetairoa McMillan,Over,63.5,-185,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Tetairoa McMillan,Under,63.5,140,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Tetairoa McMillan,Over,68.5,-145,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Tetairoa McMillan,Under,68.5,110,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Tetairoa McMillan,Over,73.5,-120,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Tetairoa McMillan,Under,73.5,-110,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Tetairoa McMillan,Over,78.5,105,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Tetairoa McMillan,Under,78.5,-135,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Tetairoa McMillan,Over,83.5,125,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Tetairoa McMillan,Under,83.5,-165,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Tommy Tremble,Over,13.5,-115,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_reception_yds,Tommy Tremble,Under,13.5,-115,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_receptions,Amon-Ra St. Brown,Over,7.5,110,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_receptions,Amon-Ra St. Brown,Under,7.5,-145,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_receptions,Brock Wright,Over,0.5,-150,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_receptions,Brock Wright,Under,0.5,115,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_receptions,Chuba Hubbard,Over,2.5,-150,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_receptions,Chuba Hubbard,Under,2.5,115,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_receptions,Darren Waller,Over,3.5,-120,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_receptions,Darren Waller,Under,3.5,-110,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_receptions,Isaac TeSlaa,Over,1.5,-110,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_receptions,Isaac TeSlaa,Under,1.5,-120,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_receptions,Jahmyr Gibbs,Over,4.5,-125,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_receptions,Jahmyr Gibbs,Under,4.5,-105,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_receptions,Jameson Williams,Over,3.5,-110,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_receptions,Jameson Williams,Under,3.5,-120,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_receptions,Sam LaPorta,Over,4.5,110,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_receptions,Sam LaPorta,Under,4.5,-145,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_receptions,Tetairoa McMillan,Over,5.5,105,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_receptions,Tetairoa McMillan,Under,5.5,-135,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_receptions,Tommy Tremble,Over,1.5,-160,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_receptions,Tommy Tremble,Under,1.5,120,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_rush_yds,AJ Dillon,Over,12.5,-115,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_rush_yds,AJ Dillon,Under,12.5,-115,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_rush_yds,Bryce Young,Over,12.5,-120,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_rush_yds,Bryce Young,Under,12.5,-110,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_rush_yds,Chuba Hubbard,Over,46.5,-400,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_rush_yds,Chuba Hubbard,Under,46.5,275,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_rush_yds,Chuba Hubbard,Over,56.5,-200,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_rush_yds,Chuba Hubbard,Under,56.5,150,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_rush_yds,Chuba Hubbard,Over,66.5,-115,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_rush_yds,Chuba Hubbard,Under,66.5,-115,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_rush_yds,Chuba Hubbard,Over,76.5,145,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_rush_yds,Chuba Hubbard,Under,76.5,-190,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_rush_yds,Chuba Hubbard,Over,86.5,225,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_rush_yds,Chuba Hubbard,Under,86.5,-310,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_rush_yds,Jahmyr Gibbs,Over,78.5,-300,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_rush_yds,Jahmyr Gibbs,Under,78.5,215,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_rush_yds,Jahmyr Gibbs,Over,88.5,-180,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_rush_yds,Jahmyr Gibbs,Under,88.5,135,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_rush_yds,Jahmyr Gibbs,Over,98.5,-115,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_rush_yds,Jahmyr Gibbs,Under,98.5,-115,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_rush_yds,Jahmyr Gibbs,Over,108.5,130,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_rush_yds,Jahmyr Gibbs,Under,108.5,-170,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_rush_yds,Jahmyr Gibbs,Over,118.5,190,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_rush_yds,Jahmyr Gibbs,Under,118.5,-260,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_rush_yds,Jared Goff,Over,0.5,-125,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_rush_yds,Jared Goff,Under,0.5,-105,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_rush_yds,Sione Vaki,Over,11.5,-120,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,player_rush_yds,Sione Vaki,Under,11.5,-110,2026-10-04T23:45:19Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_pass_yds,Jared Goff,Over,259.5,105,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_pass_yds,Jared Goff,Under,259.5,-140,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_pass_yds,Bryce Young,Over,244.5,-120,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_pass_yds,Bryce Young,Under,244.5,-110,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_reception_yds,Sam LaPorta,Over,45.5,-115,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_reception_yds,Sam LaPorta,Under,45.5,-115,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_reception_yds,Jahmyr Gibbs,Over,37.5,-115,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_reception_yds,Jahmyr Gibbs,Under,37.5,-115,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_reception_yds,Jameson Williams,Over,48.5,-135,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_reception_yds,Jameson Williams,Under,48.5,100,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_reception_yds,Isaac TeSlaa,Over,17.5,-115,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_reception_yds,Isaac TeSlaa,Under,17.5,-115,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_reception_yds,Tommy Tremble,Over,14.5,-115,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_reception_yds,Tommy Tremble,Under,14.5,-115,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_reception_yds,Amon-Ra St. Brown,Over,77.5,-115,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_reception_yds,Amon-Ra St. Brown,Under,77.5,-115,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_reception_yds,Tetairoa McMillan,Over,72.5,-115,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_reception_yds,Tetairoa McMillan,Under,72.5,-115,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_reception_yds,Chuba Hubbard,Over,18.5,-120,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_reception_yds,Chuba Hubbard,Under,18.5,-110,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_reception_yds,Brock Wright,Over,2.5,-115,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_reception_yds,Brock Wright,Under,2.5,-115,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_reception_yds,Brycen Tremayne,Over,31.5,-115,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_reception_yds,Brycen Tremayne,Under,31.5,-115,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_reception_yds,Darren Waller,Over,35.5,-120,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_reception_yds,Darren Waller,Under,35.5,-110,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_reception_yds,Mitchell Evans,Over,7.5,-115,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_reception_yds,Mitchell Evans,Under,7.5,-115,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_receptions,Isaac TeSlaa,Over,1.5,-115,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_receptions,Isaac TeSlaa,Under,1.5,-115,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_receptions,Amon-Ra St. Brown,Over,6.5,-150,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_receptions,Amon-Ra St. Brown,Under,6.5,110,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_receptions,Sam LaPorta,Over,4.5,-105,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_receptions,Sam LaPorta,Under,4.5,-125,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_receptions,Chuba Hubbard,Over,2.5,-175,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_receptions,Chuba Hubbard,Under,2.5,130,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_receptions,Jahmyr Gibbs,Over,4.5,-120,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_receptions,Jahmyr Gibbs,Under,4.5,-110,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_receptions,Darren Waller,Over,3.5,-105,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_receptions,Darren Waller,Under,3.5,-125,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_receptions,Tommy Tremble,Over,1.5,-150,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_receptions,Tommy Tremble,Under,1.5,110,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_receptions,Tetairoa McMillan,Over,5.5,120,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_receptions,Tetairoa McMillan,Under,5.5,-160,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_receptions,Brock Wright,Over,0.5,-150,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_receptions,Brock Wright,Under,0.5,110,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_receptions,Brycen Tremayne,Over,2.5,-125,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_receptions,Brycen Tremayne,Under,2.5,-105,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_receptions,Jameson Williams,Over,3.5,-111,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_receptions,Jameson Williams,Under,3.5,-120,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_rush_yds,Bryce Young,Over,11.5,-120,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_rush_yds,Bryce Young,Under,11.5,-110,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_rush_yds,Chuba Hubbard,Over,64.5,-125,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_rush_yds,Chuba Hubbard,Under,64.5,-105,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_rush_yds,AJ Dillon,Over,12.5,-115,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_rush_yds,AJ Dillon,Under,12.5,-115,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_rush_yds,Jahmyr Gibbs,Over,96.5,-115,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_rush_yds,Jahmyr Gibbs,Under,96.5,-115,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_rush_yds,Sione Vaki,Over,11.5,-115,2026-10-04T23:45:34Z
+20261004T234537Z,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,player_rush_yds,Sione Vaki,Under,11.5,-115,2026-10-04T23:45:34Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_pass_yds,Tyler Shough,Over,257.5,-113,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_pass_yds,Tyler Shough,Under,257.5,-111,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_pass_yds,Michael Penix Jr.,Over,228.5,-111,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_pass_yds,Michael Penix Jr.,Under,228.5,-113,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Chris Olave,Over,85.5,-111,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Chris Olave,Under,85.5,-113,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Drake London,Over,78.5,-113,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Drake London,Under,78.5,-111,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Devaughn Vele,Over,45.5,-109,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Devaughn Vele,Under,45.5,-115,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Juwan Johnson,Over,40.5,-114,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Juwan Johnson,Under,40.5,-111,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Bijan Robinson,Over,39.5,-116,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Bijan Robinson,Under,39.5,-109,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Kyle Pitts,Over,28.5,-113,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Kyle Pitts,Under,28.5,-111,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Jahan Dotson,Over,18.5,-112,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Jahan Dotson,Under,18.5,-112,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Noah Fant,Over,17.5,-113,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Noah Fant,Under,17.5,-111,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Alvin Kamara,Over,15.5,-115,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Alvin Kamara,Under,15.5,-109,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Austin Hooper,Over,10.5,-117,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Austin Hooper,Under,10.5,-108,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Olamide Zaccheaus,Over,8.5,-107,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Olamide Zaccheaus,Under,8.5,-117,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Chris Olave,Over,6.5,-141,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Chris Olave,Under,6.5,111,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Drake London,Over,5.5,-147,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Drake London,Under,5.5,116,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Bijan Robinson,Over,4.5,-103,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Bijan Robinson,Under,4.5,-124,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Devaughn Vele,Over,4.5,128,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Devaughn Vele,Under,4.5,-163,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Juwan Johnson,Over,3.5,-115,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Juwan Johnson,Under,3.5,-111,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Alvin Kamara,Over,3.5,125,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Alvin Kamara,Under,3.5,-160,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Kyle Pitts,Over,2.5,-137,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Kyle Pitts,Under,2.5,107,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Noah Fant,Over,1.5,-194,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Noah Fant,Under,1.5,151,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Jahan Dotson,Over,1.5,-131,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Jahan Dotson,Under,1.5,103,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Austin Hooper,Over,1.5,142,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Austin Hooper,Under,1.5,-182,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Olamide Zaccheaus,Over,1.5,150,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Olamide Zaccheaus,Under,1.5,-193,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_rush_yds,Bijan Robinson,Over,86.5,-113,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_rush_yds,Bijan Robinson,Under,86.5,-111,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_rush_yds,Alvin Kamara,Over,37.5,-109,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_rush_yds,Alvin Kamara,Under,37.5,-115,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_rush_yds,Brian Robinson Jr.,Over,28.5,-115,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_rush_yds,Brian Robinson Jr.,Under,28.5,-109,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_rush_yds,Kendre Miller,Over,25.5,-112,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_rush_yds,Kendre Miller,Under,25.5,-112,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_rush_yds,Tyler Shough,Over,18.5,-110,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_rush_yds,Tyler Shough,Under,18.5,-114,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_rush_yds,Michael Penix Jr.,Over,5.5,-113,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_rush_yds,Michael Penix Jr.,Under,5.5,-111,2026-10-04T23:44:41Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_pass_yds,Michael Penix Jr.,Over,224.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_pass_yds,Michael Penix Jr.,Under,224.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_pass_yds,Tyler Shough,Over,254.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_pass_yds,Tyler Shough,Under,254.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Bijan Robinson,Over,39.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Bijan Robinson,Under,39.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Juwan Johnson,Over,40.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Juwan Johnson,Under,40.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Jahan Dotson,Over,20.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Jahan Dotson,Under,20.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Drake London,Over,78.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Drake London,Under,78.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Olamide Zaccheaus,Over,7.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Olamide Zaccheaus,Under,7.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Austin Hooper,Over,10.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Austin Hooper,Under,10.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Alvin Kamara,Over,15.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Alvin Kamara,Under,15.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Noah Fant,Over,16.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Noah Fant,Under,16.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Kyle Pitts,Over,29.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Kyle Pitts,Under,29.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Devaughn Vele,Over,44.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Devaughn Vele,Under,44.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Chris Olave,Over,85.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Chris Olave,Under,85.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Noah Fant,Over,1.5,-205,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Noah Fant,Under,1.5,152,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Olamide Zaccheaus,Over,1.5,148,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Olamide Zaccheaus,Under,1.5,-200,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Alvin Kamara,Over,3.5,128,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Alvin Kamara,Under,3.5,-172,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Austin Hooper,Over,1.5,136,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Austin Hooper,Under,1.5,-182,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Juwan Johnson,Over,3.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Juwan Johnson,Under,3.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Drake London,Over,5.5,-136,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Drake London,Under,5.5,102,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Devaughn Vele,Over,3.5,-172,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Devaughn Vele,Under,3.5,128,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Jahan Dotson,Over,1.5,-148,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Jahan Dotson,Under,1.5,112,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Chris Olave,Over,7.5,124,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Chris Olave,Under,7.5,-166,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Kyle Pitts,Over,2.5,-148,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Kyle Pitts,Under,2.5,112,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Bijan Robinson,Over,4.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Bijan Robinson,Under,4.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_rush_yds,Bijan Robinson,Over,85.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_rush_yds,Bijan Robinson,Under,85.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_rush_yds,Brian Robinson Jr.,Over,29.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_rush_yds,Brian Robinson Jr.,Under,29.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_rush_yds,Alvin Kamara,Over,37.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_rush_yds,Alvin Kamara,Under,37.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_rush_yds,Tyler Shough,Over,16.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_rush_yds,Tyler Shough,Under,16.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_rush_yds,Michael Penix Jr.,Over,5.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_rush_yds,Michael Penix Jr.,Under,5.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_rush_yds,Kendre Miller,Over,25.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_rush_yds,Kendre Miller,Under,25.5,-114,2026-10-04T23:45:11Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_pass_yds,Tyler Shough,Over,257.5,-115,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_pass_yds,Tyler Shough,Under,257.5,-112,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_pass_yds,Michael Penix Jr.,Over,228.5,-114,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_pass_yds,Michael Penix Jr.,Under,228.5,-114,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Devaughn Vele,Over,44.5,-114,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Devaughn Vele,Under,44.5,-114,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Bijan Robinson,Over,39.5,-115,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Bijan Robinson,Under,39.5,-112,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Chris Olave,Over,85.5,-114,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Chris Olave,Under,85.5,-114,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Drake London,Over,78.5,-116,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Drake London,Under,78.5,-111,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Jahan Dotson,Over,18.5,-115,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Jahan Dotson,Under,18.5,-112,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Austin Hooper,Over,10.5,-114,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Austin Hooper,Under,10.5,-114,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Noah Fant,Over,17.5,-114,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Noah Fant,Under,17.5,-114,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Olamide Zaccheaus,Over,7.5,-123,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Olamide Zaccheaus,Under,7.5,-104,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Kyle Pitts,Over,29.5,-114,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Kyle Pitts,Under,29.5,-114,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Alvin Kamara,Over,15.5,-116,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Alvin Kamara,Under,15.5,-111,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Juwan Johnson,Over,41.5,-114,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Juwan Johnson,Under,41.5,-114,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Alvin Kamara,Over,3.5,126,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Alvin Kamara,Under,3.5,-164,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Kyle Pitts,Over,2.5,-141,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Kyle Pitts,Under,2.5,108,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Jahan Dotson,Over,1.5,-135,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Jahan Dotson,Under,1.5,104,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Juwan Johnson,Over,3.5,-116,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Juwan Johnson,Under,3.5,-111,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Bijan Robinson,Over,4.5,-108,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Bijan Robinson,Under,4.5,-120,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Austin Hooper,Over,1.5,145,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Austin Hooper,Under,1.5,-192,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Drake London,Over,5.5,-156,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Drake London,Under,5.5,120,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Noah Fant,Over,1.5,-167,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Noah Fant,Under,1.5,127,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Chris Olave,Over,6.5,-149,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Chris Olave,Under,6.5,115,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Devaughn Vele,Over,3.5,-156,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Devaughn Vele,Under,3.5,120,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Olamide Zaccheaus,Over,1.5,155,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Olamide Zaccheaus,Under,1.5,-204,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_rush_yds,Michael Penix Jr.,Over,5.5,-115,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_rush_yds,Michael Penix Jr.,Under,5.5,-112,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_rush_yds,Tyler Shough,Over,16.5,-114,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_rush_yds,Tyler Shough,Under,16.5,-114,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_rush_yds,Brian Robinson Jr.,Over,29.5,-114,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_rush_yds,Brian Robinson Jr.,Under,29.5,-114,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_rush_yds,Bijan Robinson,Over,86.5,-115,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_rush_yds,Bijan Robinson,Under,86.5,-112,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_rush_yds,Kendre Miller,Over,25.5,-115,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_rush_yds,Kendre Miller,Under,25.5,-112,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_rush_yds,Alvin Kamara,Over,37.5,-112,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_rush_yds,Alvin Kamara,Under,37.5,-115,2026-10-04T23:45:37Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_pass_yds,Tyler Shough,Over,256.5,-117,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_pass_yds,Tyler Shough,Under,256.5,-114,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_pass_yds,Michael Penix Jr.,Over,218.5,-117,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_pass_yds,Michael Penix Jr.,Under,218.5,-114,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Olamide Zaccheaus,Over,7.5,-115,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Olamide Zaccheaus,Under,7.5,-115,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Kyle Pitts,Over,25.5,-113,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Kyle Pitts,Under,25.5,-118,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Noah Fant,Over,16.5,-120,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Noah Fant,Under,16.5,-112,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Jahan Dotson,Over,17.5,-118,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Jahan Dotson,Under,17.5,-112,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Austin Hooper,Over,9.5,-118,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Austin Hooper,Under,9.5,-113,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Juwan Johnson,Over,40.5,-114,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Juwan Johnson,Under,40.5,-117,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Chris Olave,Over,82.5,-114,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Chris Olave,Under,82.5,-117,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Alvin Kamara,Over,15.5,-110,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Alvin Kamara,Under,15.5,-121,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Devaughn Vele,Over,44.5,-118,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Devaughn Vele,Under,44.5,-113,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Bijan Robinson,Over,38.5,-115,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Bijan Robinson,Under,38.5,-115,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Drake London,Over,76.5,-117,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Drake London,Under,76.5,-114,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_receptions,Kyle Pitts,Over,2.5,-141,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_receptions,Juwan Johnson,Over,3.5,-129,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_receptions,Jahan Dotson,Over,1.5,-141,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_receptions,Bijan Robinson,Over,4.5,-118,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_receptions,Chris Olave,Over,6.5,-157,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_receptions,Devaughn Vele,Over,4.5,118,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_receptions,Olamide Zaccheaus,Over,1.5,138,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_receptions,Austin Hooper,Over,1.5,145,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_receptions,Noah Fant,Over,1.5,-195,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_receptions,Alvin Kamara,Over,3.5,125,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_receptions,Drake London,Over,5.5,-130,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_rush_yds,Alvin Kamara,Over,35.5,-120,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_rush_yds,Alvin Kamara,Under,35.5,-112,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_rush_yds,Tyler Shough,Over,15.5,-114,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_rush_yds,Tyler Shough,Under,15.5,-117,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_rush_yds,Brian Robinson Jr.,Over,30.5,-110,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_rush_yds,Brian Robinson Jr.,Under,30.5,-121,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_rush_yds,Kendre Miller,Over,26.5,-117,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_rush_yds,Kendre Miller,Under,26.5,-114,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_rush_yds,Bijan Robinson,Over,89.5,-117,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_rush_yds,Bijan Robinson,Under,89.5,-114,2026-10-04T23:45:03Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_pass_yds,Tyler Shough,Over,254.5,-115,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_pass_yds,Tyler Shough,Under,254.5,-115,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_pass_yds,Michael Penix Jr.,Over,226.5,-115,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_pass_yds,Michael Penix Jr.,Under,226.5,-115,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Chris Olave,Over,84.5,-115,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Chris Olave,Under,84.5,-115,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Devaughn Vele,Over,44.5,-115,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Devaughn Vele,Under,44.5,-115,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Jahan Dotson,Over,18.5,-120,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Jahan Dotson,Under,18.5,-111,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Bijan Robinson,Over,39.5,-115,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Bijan Robinson,Under,39.5,-115,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Kyle Pitts,Over,28.5,-115,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Kyle Pitts,Under,28.5,-115,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Drake London,Over,77.5,-115,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Drake London,Under,77.5,-115,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Alvin Kamara,Over,16.5,-115,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Alvin Kamara,Under,16.5,-115,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Juwan Johnson,Over,38.5,-120,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Juwan Johnson,Under,38.5,-111,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Olamide Zaccheaus,Over,9.5,-115,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Olamide Zaccheaus,Under,9.5,-115,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Austin Hooper,Over,9.5,-115,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Austin Hooper,Under,9.5,-115,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Noah Fant,Over,15.5,-120,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Noah Fant,Under,15.5,-110,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Bijan Robinson,Over,4.5,-105,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Bijan Robinson,Under,4.5,-125,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Kyle Pitts,Over,2.5,-150,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Kyle Pitts,Under,2.5,110,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Drake London,Over,5.5,-160,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Drake London,Under,5.5,120,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Chris Olave,Over,6.5,-140,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Chris Olave,Under,6.5,105,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Devaughn Vele,Over,3.5,-155,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Devaughn Vele,Under,3.5,115,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Jahan Dotson,Over,1.5,-135,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Jahan Dotson,Under,1.5,100,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Austin Hooper,Over,1.5,150,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Austin Hooper,Under,1.5,-200,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Olamide Zaccheaus,Over,1.5,155,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Olamide Zaccheaus,Under,1.5,-210,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_rush_yds,Bijan Robinson,Over,85.5,-115,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_rush_yds,Bijan Robinson,Under,85.5,-115,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_rush_yds,Brian Robinson Jr.,Over,30.5,-115,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_rush_yds,Brian Robinson Jr.,Under,30.5,-115,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_rush_yds,Kendre Miller,Over,25.5,-115,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_rush_yds,Kendre Miller,Under,25.5,-115,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_rush_yds,Alvin Kamara,Over,36.5,-115,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_rush_yds,Alvin Kamara,Under,36.5,-115,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_rush_yds,Tyler Shough,Over,16.5,-115,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_rush_yds,Tyler Shough,Under,16.5,-115,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_rush_yds,Michael Penix Jr.,Over,3.5,-125,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_rush_yds,Michael Penix Jr.,Under,3.5,-105,2026-10-04T23:43:43Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Michael Penix Jr.,Over,228.5,-115,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Michael Penix Jr.,Under,228.5,-115,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Tyler Shough,Over,257.5,-115,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Tyler Shough,Under,257.5,-115,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Alvin Kamara,Over,15.5,-120,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Alvin Kamara,Under,15.5,-110,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Austin Hooper,Over,10.5,-120,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Austin Hooper,Under,10.5,-110,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Bijan Robinson,Over,39.5,-120,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Bijan Robinson,Under,39.5,-110,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Chris Olave,Over,85.5,-115,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Chris Olave,Under,85.5,-115,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Devaughn Vele,Over,45.5,-110,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Devaughn Vele,Under,45.5,-120,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Drake London,Over,78.5,-115,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Drake London,Under,78.5,-115,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Jahan Dotson,Over,18.5,-115,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Jahan Dotson,Under,18.5,-115,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Juwan Johnson,Over,40.5,-115,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Juwan Johnson,Under,40.5,-115,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Kyle Pitts,Over,28.5,-115,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Kyle Pitts,Under,28.5,-115,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Noah Fant,Over,17.5,-115,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Noah Fant,Under,17.5,-115,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Olamide Zaccheaus,Over,8.5,-110,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Olamide Zaccheaus,Under,8.5,-120,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Alvin Kamara,Over,3.5,125,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Alvin Kamara,Under,3.5,-165,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Austin Hooper,Over,1.5,140,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Austin Hooper,Under,1.5,-185,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Bijan Robinson,Over,4.5,-105,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Bijan Robinson,Under,4.5,-125,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Chris Olave,Over,6.5,-145,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Chris Olave,Under,6.5,110,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Devaughn Vele,Over,4.5,125,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Devaughn Vele,Under,4.5,-165,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Drake London,Over,5.5,-150,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Drake London,Under,5.5,115,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Jahan Dotson,Over,1.5,-135,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Jahan Dotson,Under,1.5,105,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Juwan Johnson,Over,3.5,-120,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Juwan Johnson,Under,3.5,-110,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Kyle Pitts,Over,2.5,-135,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Kyle Pitts,Under,2.5,105,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Noah Fant,Over,1.5,-200,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Noah Fant,Under,1.5,150,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Olamide Zaccheaus,Over,1.5,150,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Olamide Zaccheaus,Under,1.5,-200,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Alvin Kamara,Over,37.5,-110,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Alvin Kamara,Under,37.5,-120,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Bijan Robinson,Over,86.5,-115,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Bijan Robinson,Under,86.5,-115,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Brian Robinson Jr.,Over,28.5,-120,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Brian Robinson Jr.,Under,28.5,-110,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Kendre Miller,Over,25.5,-115,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Kendre Miller,Under,25.5,-115,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Michael Penix Jr.,Over,5.5,-115,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Michael Penix Jr.,Under,5.5,-115,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Tyler Shough,Over,18.5,-115,2026-10-04T23:45:08Z
+20261004T234537Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Tyler Shough,Under,18.5,-115,2026-10-04T23:45:08Z
