@@ -122,8 +122,9 @@ def build() -> pl.DataFrame:
         [(pl.col(f"home_{c}") - pl.col(f"away_{c}")).alias(f"d_{c}") for c in inj_cols]
     )
     diffs = [(pl.col(f"h_r_{c}") - pl.col(f"a_r_{c}")).alias(f"d_{c}") for c in stats]
+    sums = [(pl.col(f"h_r_{c}") + pl.col(f"a_r_{c}")).alias(f"s_{c}") for c in stats]
     df = df.with_columns(
-        *diffs,
+        *diffs, *sums,
         (pl.col("home_rest") - pl.col("away_rest")).alias("rest_diff"),
         (pl.col("roof").is_in(["dome", "closed"])).cast(pl.Int8).alias("indoor"),
         pl.col("wind").fill_null(0).alias("wind"),
@@ -131,10 +132,10 @@ def build() -> pl.DataFrame:
         (pl.col("location") == "Neutral").cast(pl.Int8).alias("neutral"),
         pl.col("div_game").cast(pl.Int8),
     )
-    keep = ["game_id", "season", "week", "gameday", "home_team", "away_team", "result",
+    keep = ["game_id", "season", "week", "gameday", "home_team", "away_team", "result", "total",
             "spread_line", "total_line", "home_moneyline", "away_moneyline",
             "rest_diff", "indoor", "wind", "temp", "neutral", "div_game",
-            *[f"d_{c}" for c in stats],
+            *[f"d_{c}" for c in stats], *[f"s_{c}" for c in stats],
             "d_qb_epa", "d_qb_exp", *[f"d_{c}" for c in inj_cols]]
     return df.select(keep).sort("gameday")
 
