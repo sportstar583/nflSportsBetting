@@ -112,6 +112,7 @@ def build(upcoming: pl.DataFrame | None = None, wind: dict | None = None) -> pl.
 
     # teammates' skill snap share lost to injury (more volume for those who play)
     import features
+    cov_def, cov_rec = coverage_feats()
     inj_all = features.injury_snaps()
     inj = inj_all.select("season", "week", "team", pl.col("inj_skill").alias("team_inj_skill"),
                          pl.col("inj_wr").alias("team_inj_wr"), pl.col("inj_rb").alias("team_inj_rb"),
@@ -139,6 +140,11 @@ def build(upcoming: pl.DataFrame | None = None, wind: dict | None = None) -> pl.
           .join(inj, on=["season", "week", "team"], how="left")
           .join(opp_inj, on=["season", "week", "opponent_team"], how="left")
           .join(own_injury(), on=["season", "week", "team", "player_id"], how="left")
+          .join(cov_def, on=["season", "opponent_team"], how="left")
+          .join(cov_rec, on=["season", "player_id"], how="left")
+          .with_columns((pl.col("opp_man_rate_prev") * pl.col("plr_ypt_man_prev")
+                         + (1 - pl.col("opp_man_rate_prev")) * pl.col("plr_ypt_zone_prev")).alias("plr_cov_matchup_prev"),
+                        (pl.col("plr_ypt_man_prev") - pl.col("plr_ypt_zone_prev")).alias("plr_man_edge_prev"))
           .with_columns(pl.col("team_inj_skill", "team_inj_wr", "team_inj_rb", "team_inj_te",
                                "opp_inj_db", "opp_inj_front", "own_q", "own_dnp", "own_out").fill_null(0)))
     return df
@@ -250,6 +256,44 @@ def defense_yoe(ctx: pl.DataFrame) -> pl.DataFrame:
     return (order.join(ff, on=["game_id", "team"], how="left").sort("def_team", "gameday")
             .with_columns([ewm(c, "def_team").alias(f"opp_{c}_alw") for c in cols])
             .select("game_id", "def_team", *[f"opp_{c}_alw" for c in cols]))
+
+
+COV_PRIOR = 25  # targets of shrinkage toward the league average for a receiver's man/zone splits
+
+
+def coverage_feats() -> tuple[pl.DataFrame, pl.DataFrame]:
+    """Prior-season coverage tendencies (the per-play coverage feed ends after 2025, so only
+    last season's numbers are known before a current-season game).
+
+    Returns (defense, receiver) frames keyed on the season they apply to (= data season + 1):
+    defense: man-coverage rate; receiver: yards per target vs man and vs zone, shrunk."""
+    part = (pl.read_parquet(DATA / "raw" / "participation.parquet")
+            .filter(pl.col("defense_man_zone_type").is_in(["MAN_COVERAGE", "ZONE_COVERAGE"]))
+            .select(pl.col("nflverse_game_id").alias("game_id"), "play_id",
+                    (pl.col("defense_man_zone_type") == "MAN_COVERAGE").alias("man")))
+    pbp = (pl.scan_parquet(DATA / "raw" / "pbp.parquet")
+           .filter(pl.col("pass") == 1)
+           .select("game_id", "play_id", "season", "defteam", "receiver_player_id", "yards_gained",
+                   "complete_pass", "sack")
+           .collect())
+    plays = (part.join(pbp, on=["game_id", "play_id"])
+             .with_columns(pl.col("defteam").replace(RENAMES)))
+    defense = (plays.group_by("season", "defteam").agg(pl.col("man").mean().alias("opp_man_rate_prev"))
+               .with_columns((pl.col("season") + 1).alias("season")).rename({"defteam": "opponent_team"}))
+    tg = plays.filter(pl.col("receiver_player_id").is_not_null() & (pl.col("sack") == 0))
+    lg = tg.group_by("man").agg(pl.col("yards_gained").mean().alias("lg")).sort("man")
+    lg_zone, lg_man = lg["lg"].to_list()
+    rec = (tg.group_by("season", "receiver_player_id", "man")
+           .agg(pl.len().alias("n"), pl.col("yards_gained").sum().alias("yds"))
+           .with_columns(pl.when(pl.col("man")).then(pl.lit(lg_man)).otherwise(pl.lit(lg_zone)).alias("lg"))
+           .with_columns(((pl.col("yds") + COV_PRIOR * pl.col("lg")) / (pl.col("n") + COV_PRIOR)).alias("ypt"))
+           .pivot(on="man", index=["season", "receiver_player_id"], values=["ypt", "n"])
+           .rename({"ypt_true": "plr_ypt_man_prev", "ypt_false": "plr_ypt_zone_prev",
+                    "n_true": "plr_tgt_man_prev", "n_false": "plr_tgt_zone_prev", "receiver_player_id": "player_id"})
+           .with_columns((pl.col("season") + 1).alias("season"),
+                         pl.col("plr_ypt_man_prev").fill_null(lg_man), pl.col("plr_ypt_zone_prev").fill_null(lg_zone),
+                         pl.col("plr_tgt_man_prev", "plr_tgt_zone_prev").fill_null(0)))
+    return defense, rec
 
 
 def own_injury() -> pl.DataFrame:

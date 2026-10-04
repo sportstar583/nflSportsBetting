@@ -25,6 +25,8 @@ DATASETS = {
     "pfr_rush": lambda: nfl.load_pfr_advstats(seasons=SEASONS, stat_type="rush", summary_level="week"),
     "pfr_pass": lambda: nfl.load_pfr_advstats(seasons=SEASONS, stat_type="pass", summary_level="week"),
     "ff_opportunity": lambda: nfl.load_ff_opportunity(SEASONS),
+    # per-play coverage (man/zone, shell) and routes; the feed ends after 2025
+    "participation": lambda: nfl.load_participation([s for s in SEASONS if s <= 2025]),
 }
 
 

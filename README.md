@@ -163,3 +163,12 @@ ten of its candidates):
 NFL Savant (nflsavant.com) has no public API; the rebuilt site has an internal JSON API, but its
 route/alignment data depends on participation data that ends in 2025 ("Receiver not found" for
 2026 players) and its play-by-play explorer is built on the same nflverse pbp we already use.
+
+## Man/zone coverage (tested, not used)
+nflverse's participation data has per-play coverage (man/zone, shell, route) for 2018-2025; the
+feed ended after 2025, so for a current-season game only last season's tendencies are knowable.
+`props.coverage_feats()` builds them: each defense's prior-season man rate and each receiver's
+prior-season yards per target vs man and vs zone (shrunk), plus the matchup product. They add
+nothing: a defense's man rate has only 0.37 year-to-year correlation, and the features' correlation
+with a receiver beating his own average is ~0 (receiving MAE 22.77 -> 22.79-22.82 with them, receptions
+unchanged). They stay computed in the feature frame for re-testing if a current-season source appears.
