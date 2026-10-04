@@ -47,3 +47,8 @@ Same strategy as the college repo's card, printed by `backtest_totals.py` for ea
 2022-2025: 51.0%-53.0% across the 8 variants (best: GBM line+env, 236-209, +5.5u), no variant
 above breakeven in every season. No edge; note an NFL week has ~16 games, so 6 picks is over a
 third of the slate, far less selective than the college card.
+
+`python scripts/backtest_totals.py N` sets picks per side (default 3). Top 2 each way: 50.5%-54.9%
+(best GBM line+env 168-138, but 50.6% in 2024). Top 1 each way: 49.4%-56.5% on ~160 bets each
+(ridge adj+tempo 91-72 is the only variant above breakeven every season). With 24 card variants
+tried, the best results are what chance alone would produce; none is significant.

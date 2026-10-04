@@ -4,6 +4,7 @@ Same protocol as backtest.py: train on prior seasons, bet when |model - line| >=
 -110 pricing. Features are team-pair sums (pace/scoring environment) plus weather.
 """
 import itertools
+import sys
 from pathlib import Path
 
 import numpy as np
@@ -43,7 +44,7 @@ def ou(pred, line, total, edge):
     return n, int(win.sum()), win.sum() * (100 / 110) - loss.sum()
 
 
-CARD_N = 3
+CARD_N = int(sys.argv[1]) if len(sys.argv) > 1 else 3  # picks each way per week
 
 
 def card(te: pl.DataFrame, pred: np.ndarray, n: int = CARD_N) -> pl.DataFrame:
