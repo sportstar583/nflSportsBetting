@@ -124,30 +124,82 @@ def build(upcoming: pl.DataFrame | None = None, wind: dict | None = None) -> pl.
           .join(extra_stats(), on=["game_id", "player_id"], how="left")
           .join(ctx.drop("gameday"), on=["game_id", "team"], how="left")
           .with_columns((pl.col("carries") / pl.col("team_car")).alias("carry_share"),
-                        (pl.col("receiving_yards") / pl.col("targets")).alias("yds_per_tgt"),
-                        (pl.col("rushing_yards") / pl.col("carries")).alias("yds_per_car"),
-                        (pl.col("passing_yards") / pl.col("attempts")).alias("yds_per_att"))
+                        # null (not 0/0 = NaN, which would poison the rolling mean) when there was no volume
+                        pl.when(pl.col("targets") > 0).then(pl.col("receiving_yards") / pl.col("targets")).alias("yds_per_tgt"),
+                        pl.when(pl.col("carries") > 0).then(pl.col("rushing_yards") / pl.col("carries")).alias("yds_per_car"),
+                        pl.when(pl.col("attempts") > 0).then(pl.col("passing_yards") / pl.col("attempts")).alias("yds_per_att"))
           .sort("player_id", "gameday"))
     rolling = ["passing_yards", "attempts", "yds_per_att", "rushing_yards", "carries", "carry_share",
                "yds_per_car", "receiving_yards", "receptions", "targets", "target_share",
                "air_yards_share", "yds_per_tgt", "offense_pct", "passing_epa", "fantasy_points_ppr"] + EXTRA
     df = df.with_columns([ewm(c, "player_id").alias(f"e_{c}") for c in rolling]
                          + [pl.col("game_id").cum_count().over("player_id").alias("n_prior")])
+    df = (df.join(own_injury(), on=["season", "week", "team", "player_id"], how="left")
+          .with_columns(pl.col("own_q", "own_dnp", "own_out").fill_null(0)))
     df = role_defense(df)
     df = (df.join(dfn, left_on=["game_id", "opponent_team"], right_on=["game_id", "def_team"], how="left")
           .join(defense_yoe(ctx), left_on=["game_id", "opponent_team"], right_on=["game_id", "def_team"], how="left")
           .join(adj, left_on=["game_id", "opponent_team"], right_on=["game_id", "def_team"], how="left")
           .join(inj, on=["season", "week", "team"], how="left")
           .join(opp_inj, on=["season", "week", "opponent_team"], how="left")
-          .join(own_injury(), on=["season", "week", "team", "player_id"], how="left")
           .join(cov_def, on=["season", "opponent_team"], how="left")
           .join(cov_rec, on=["season", "player_id"], how="left")
           .with_columns((pl.col("opp_man_rate_prev") * pl.col("plr_ypt_man_prev")
                          + (1 - pl.col("opp_man_rate_prev")) * pl.col("plr_ypt_zone_prev")).alias("plr_cov_matchup_prev"),
                         (pl.col("plr_ypt_man_prev") - pl.col("plr_ypt_zone_prev")).alias("plr_man_edge_prev"))
           .with_columns(pl.col("team_inj_skill", "team_inj_wr", "team_inj_rb", "team_inj_te",
-                               "opp_inj_db", "opp_inj_front", "own_q", "own_dnp", "own_out").fill_null(0)))
-    return df
+                               "opp_inj_db", "opp_inj_front").fill_null(0)))
+    return vacated_volume(df, sched)
+
+
+ABSORB_CAR, ABSORB_TGT = 0.35, 0.19
+
+
+def vacated_volume(df: pl.DataFrame, sched: pl.DataFrame) -> pl.DataFrame:
+    """Redistribute injured teammates' usage to the players who are active.
+
+    For each team-game, the carry share (RBs) and target share (WR/TE/RB) of players listed
+    Out/Doubtful, taken from their rolling usage entering that week, is split among the active
+    players at the position in proportion to their own usage. e_carries_adj / e_targets_adj and
+    the matching yardage are the model's volume inputs with the injury already applied, so a
+    backup whose starter is out is projected on the starter's volume, not on his own history.
+    """
+    # each player's usage *including* his latest game, to carry into a week he misses
+    usage = (df.sort("player_id", "gameday")
+             .with_columns(pl.col("carry_share").ewm_mean(half_life=HALF_LIFE, ignore_nulls=True).over("player_id").alias("cs"),
+                           pl.col("target_share").ewm_mean(half_life=HALF_LIFE, ignore_nulls=True).over("player_id").alias("ts"))
+             .select("player_id", "position", pl.col("gameday").str.to_date().alias("asof"), "cs", "ts")
+             .drop_nulls("asof").sort("asof"))
+    games = pl.concat([sched.select("game_id", "season", "week", pl.col(t).alias("team"), "gameday")
+                       for t in ("home_team", "away_team")]).with_columns(pl.col("season", "week").cast(pl.Int32))
+    out = (pl.read_parquet(DATA / "raw" / "injuries.parquet")
+           .filter(pl.col("report_status").is_in(["Out", "Doubtful"]) & pl.col("gsis_id").is_not_null())
+           .select(pl.col("season").cast(pl.Int32), pl.col("week").cast(pl.Int32), pl.col("team").replace(RENAMES),
+                   pl.col("gsis_id").alias("player_id"))
+           .unique()
+           .join(games, on=["season", "week", "team"])
+           .with_columns((pl.col("gameday").str.to_date() - pl.duration(days=1)).alias("asof"))
+           .sort("asof")
+           .join_asof(usage, on="asof", by="player_id", strategy="backward", tolerance="400d"))
+    vac = out.group_by("game_id", "team").agg(
+        pl.col("cs").filter(pl.col("position") == "RB").sum().alias("vac_car"),
+        pl.col("ts").filter(pl.col("position").is_in(["WR", "TE", "RB"])).sum().alias("vac_tgt"))
+    active = pl.col("own_out") == 0
+    healthy = df.group_by("game_id", "team").agg(
+        pl.col("e_carry_share").filter(active & (pl.col("position") == "RB")).sum().alias("hc"),
+        pl.col("e_target_share").filter(active & pl.col("position").is_in(["WR", "TE", "RB"])).sum().alias("ht"))
+    df = (df.join(vac, on=["game_id", "team"], how="left").join(healthy, on=["game_id", "team"], how="left")
+          .with_columns(pl.col("vac_car", "vac_tgt").fill_null(0)))
+    # only part of the vacated work reaches the known backups (the rest goes to call-ups, or the
+    # team runs/throws less at the spot); fitted on 2018-2021: carries 0.35, targets 0.19
+    car_mult = 1 + ABSORB_CAR * pl.col("vac_car") / pl.col("hc").clip(0.3)
+    tgt_mult = 1 + ABSORB_TGT * pl.col("vac_tgt") / pl.col("ht").clip(0.3)
+    return df.with_columns(
+        (pl.col("e_carries") * car_mult).alias("e_carries_adj"), (pl.col("e_rushing_yards") * car_mult).alias("e_rushing_yards_adj"),
+        (pl.col("e_targets") * tgt_mult).alias("e_targets_adj"), (pl.col("e_receiving_yards") * tgt_mult).alias("e_receiving_yards_adj"),
+        (pl.col("e_receptions") * tgt_mult).alias("e_receptions_adj"),
+        (pl.col("e_carry_share") * car_mult).alias("e_carry_share_adj"), (pl.col("e_target_share") * tgt_mult).alias("e_target_share_adj"),
+        car_mult.alias("car_mult"), tgt_mult.alias("tgt_mult"))
 
 
 ROLES = {"WR1": ("WR", 1), "WR2": ("WR", 2), "WR3": ("WR", 3), "RB1": ("RB", 1), "TE1": ("TE", 1)}
@@ -160,7 +212,10 @@ def role_defense(df: pl.DataFrame) -> pl.DataFrame:
     relative to his own rolling average entering the game. Both are then rolled per defense
     (prior games only) and joined to each player as opp_role_alw / opp_role_ratio for his role.
     """
-    usage = (pl.when(pl.col("position") == "RB").then(pl.col("e_carry_share"))
+    # rank among players who are active: a listed-Out starter must not hold the RB1/WR1 slot
+    # (in completed games Out players have no row, so this only matters for upcoming games)
+    usage = (pl.when(pl.col("own_out") == 1).then(None)
+             .when(pl.col("position") == "RB").then(pl.col("e_carry_share"))
              .otherwise(pl.col("e_target_share")))
     df = df.with_columns(
         usage.rank(method="ordinal", descending=True).over("game_id", "team", "position").alias("pos_rank"))
@@ -311,6 +366,8 @@ def own_injury() -> pl.DataFrame:
 COMMON = ["implied_total", "team_spread", "indoor", "wind", "e_team_plays", "e_team_pass_rate",
           "e_offense_pct", "team_inj_skill", "team_inj_wr", "team_inj_rb", "team_inj_te",
           "opp_inj_db", "opp_inj_front", "own_q", "own_dnp", "n_prior"]
+# Volume features are the injury-ADJUSTED ones (vacated_volume): a backup whose starter is out is
+# shown to the model as a lead back. Same overall MAE; clearly better when a starter is out.
 # Next Gen / PFR / expected-yards features were chosen by ablation (walk-forward MAE); the rest of
 # EXTRA is computed but unused: it overfit (rushing MAE rose from 25.31 to 25.49 with all of them).
 MARKETS = {
@@ -320,16 +377,16 @@ MARKETS = {
                   "opp_pass_yds_alw", "opp_adj_def_pass",
                   "e_ngs_ttt", "e_ngs_agg", "e_ngs_iay_pass", "e_ngs_cpoe", "e_ngs_ays"]),
     "rush_yds": ("rushing_yards", ["RB"], pl.col("e_carries") >= 6,
-                 ["e_rushing_yards", "e_carries", "e_carry_share", "e_yds_per_car",
+                 ["e_rushing_yards_adj", "e_carries_adj", "e_carry_share_adj", "e_yds_per_car",
                   "opp_rb_rush_alw", "opp_adj_def_run", "role_rank", "opp_role_alw", "opp_role_ratio",
                   "e_pfr_rush_bt", "e_ff_rush_yoe"]),
     "rec_yds": ("receiving_yards", ["WR", "TE", "RB"], pl.col("e_targets") >= 3,
-                ["e_receiving_yards", "e_receptions", "e_targets", "e_target_share", "e_air_yards_share",
+                ["e_receiving_yards_adj", "e_receptions_adj", "e_targets_adj", "e_target_share_adj", "e_air_yards_share",
                  "e_yds_per_tgt", "opp_wr_rec_alw", "opp_te_rec_alw", "opp_rb_rec_alw", "opp_adj_def_pass",
                  "is_wr", "is_te", "role_rank", "opp_role_alw", "opp_role_ratio",
                  "e_ngs_iay", "e_pfr_drop_pct"]),
     "receptions": ("receptions", ["WR", "TE", "RB"], pl.col("e_targets") >= 3,
-                   ["e_receptions", "e_targets", "e_target_share", "e_air_yards_share",
+                   ["e_receptions_adj", "e_targets_adj", "e_target_share_adj", "e_air_yards_share",
                     "opp_wr_rec_alw", "opp_te_rec_alw", "opp_rb_rec_alw", "opp_adj_def_pass",
                     "is_wr", "is_te", "role_rank", "opp_role_alw", "opp_role_ratio",
                     "e_ngs_iay", "e_pfr_drop_pct"]),

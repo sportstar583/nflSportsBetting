@@ -172,3 +172,20 @@ prior-season yards per target vs man and vs zone (shrunk), plus the matchup prod
 nothing: a defense's man rate has only 0.37 year-to-year correlation, and the features' correlation
 with a receiver beating his own average is ~0 (receiving MAE 22.77 -> 22.79-22.82 with them, receptions
 unchanged). They stay computed in the feature frame for re-testing if a current-season source appears.
+
+## Vacated volume: when a starter is out, the backup is projected on the starter's work
+`props.vacated_volume()` takes the rolling carry share (RBs) and target share (WR/TE/RB) of every
+player listed Out/Doubtful and redistributes it to the active players at the position in proportion
+to their own usage. Only part of the vacated work actually reaches known backups (the rest goes to
+call-ups or the team runs/throws less at the spot): fitted on 2018-2021, 35% of carries and 19% of
+targets. The model's volume inputs are the adjusted ones (`e_carries_adj`, `e_targets_adj`, ...).
+Check on 2022-2025: backups with a starter out got 13.4 carries vs 10.4 from their own history and
+13.1 adjusted. Overall MAE is unchanged (differences < 0.03); on games with a large vacancy the
+error drops (rushing 23.0 -> 22.1, receiving 22.4 -> 22.0, receptions 1.60 -> 1.52).
+
+Two fixes came out of the same case: the role rank (WR1/RB1...) is now computed among active
+players, so a listed-Out starter no longer holds the RB1 slot in an upcoming game, and per-unit
+rates (yards per carry/target/attempt) are null rather than 0/0 = NaN in games with no volume,
+which had been poisoning some players' rolling averages.
+Example (2026 week 4): Seattle's two lead backs Out moved Emanuel Wilson's projection from 24.7 to
+48.4 rushing yards against a 43.5-46.5 line.
