@@ -129,12 +129,25 @@ def build(upcoming: pl.DataFrame | None = None, wind: dict | None = None) -> pl.
     df = (df.join(dfn, left_on=["game_id", "opponent_team"], right_on=["game_id", "def_team"], how="left")
           .join(adj, left_on=["game_id", "opponent_team"], right_on=["game_id", "def_team"], how="left")
           .join(inj, on=["season", "week", "team"], how="left")
-          .with_columns(pl.col("team_inj_skill").fill_null(0)))
+          .join(own_injury(), on=["season", "week", "team", "player_id"], how="left")
+          .with_columns(pl.col("team_inj_skill", "own_q", "own_dnp", "own_out").fill_null(0)))
     return df
 
 
+def own_injury() -> pl.DataFrame:
+    """The player's own final injury report: Questionable, missed/limited practice, Out/Doubtful."""
+    inj = (pl.read_parquet(DATA / "raw" / "injuries.parquet")
+           .filter(pl.col("game_type").is_not_null() & pl.col("gsis_id").is_not_null())
+           .with_columns(pl.col("team").replace(RENAMES), pl.col("season").cast(pl.Int32),
+                         pl.col("week").cast(pl.Int32), pl.col("gsis_id").alias("player_id")))
+    return inj.group_by("season", "week", "team", "player_id").agg(
+        (pl.col("report_status") == "Questionable").any().cast(pl.Int8).alias("own_q"),
+        pl.col("practice_status").str.contains("Did Not|Limited").any().cast(pl.Int8).alias("own_dnp"),
+        pl.col("report_status").is_in(["Out", "Doubtful"]).any().cast(pl.Int8).alias("own_out"))
+
+
 COMMON = ["implied_total", "team_spread", "indoor", "wind", "e_team_plays", "e_team_pass_rate",
-          "e_offense_pct", "team_inj_skill", "n_prior"]
+          "e_offense_pct", "team_inj_skill", "own_q", "own_dnp", "n_prior"]
 MARKETS = {
     # name: (target, positions, eligibility filter on pre-game usage, features)
     "pass_yds": ("passing_yards", ["QB"], pl.col("e_attempts") >= 20,

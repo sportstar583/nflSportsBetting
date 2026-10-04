@@ -14,6 +14,11 @@ line / predicted. Each book's price is turned into an expected value per unit st
     python scripts/props_week.py            # latest snapshot in props_log/
     python scripts/props_week.py props_log/20261004T045441Z.csv --top 30
 
+Each row carries `team_spread` (positive = the player's team is favored; the model uses it, along
+with the implied team total, for game script) and `inj`, the player's own final injury report
+(Q = Questionable, ltd = limited/missed practice, both model features). Players listed Out or
+Doubtful are dropped.
+
 Rows whose consensus line is more than NEWS_GAP away from the player's recent average are
 flagged `news`: that is usually an injury, a QB change or a new role the books know about and
 the model doesn't, so their big "edges" are mostly the model being stale.
@@ -163,7 +168,11 @@ def project(df: pl.DataFrame, game_ids: list[str]) -> pl.DataFrame:
         te = m.filter(pl.col("game_id").is_in(game_ids))
         model = props.new_model().fit(tr.select(cols).to_numpy(), tr[target].to_numpy())
         out.append(te.select("game_id", "player_id", "player_display_name", "team", "opponent_team", "position",
-                             pl.col(f"e_{target}").alias("recent_avg"), "wind")
+                             pl.col(f"e_{target}").alias("recent_avg"), "wind", "team_spread",
+                             pl.when(pl.col("own_out") == 1).then(pl.lit("OUT/D"))
+                             .when(pl.col("own_q") == 1).then(pl.lit("Q"))
+                             .when(pl.col("own_dnp") == 1).then(pl.lit("ltd"))
+                             .otherwise(pl.lit("")).alias("inj"))
                    .with_columns(pl.lit(name).alias("mkt"),
                                  pl.Series("pred", model.predict(te.select(cols).to_numpy())),
                                  pl.col("player_display_name").map_elements(norm_name, return_dtype=pl.String)
@@ -207,9 +216,19 @@ def main():
     book = (snap.pivot(on="side", index=["home", "away", "book", "mkt", "key", "player", "point"],
                        values="price", aggregate_function="first")
             .rename({"Over": "over_price", "Under": "under_price"}))
+    # main line only: Bovada etc. also list alternate ladders; keep each book's point priced closest
+    # to even on both sides, where the model's distribution is most trustworthy
+    book = (book.filter(pl.col("over_price").is_not_null() & pl.col("under_price").is_not_null())
+            .with_columns((pl.col("over_price") - pl.col("under_price")).abs().alias("_skew"))
+            .sort("_skew").group_by("home", "away", "book", "mkt", "key", maintain_order=True).first()
+            .drop("_skew"))
     g2 = games.select("game_id", pl.col("home_team").alias("home"), pl.col("away_team").alias("away"))
     book = book.join(g2, on=["home", "away"])
     matched = book.join(preds, on=["game_id", "mkt", "key"], how="inner")
+    out_players = matched.filter(pl.col("inj") == "OUT/D")["player"].unique().to_list()
+    if out_players:
+        print("  listed Out/Doubtful, dropped (a bet on them is usually voided): " + ", ".join(sorted(out_players)))
+        matched = matched.filter(pl.col("inj") != "OUT/D")
     lines = book.select("mkt", "key", "game_id").unique()
     n_match = matched.select("mkt", "key", "game_id").unique().height
     print(f"matched {n_match} of {lines.height} player-markets to a projection")
@@ -228,8 +247,8 @@ def main():
         for side, price, p in (("Over", r["over_price"], po), ("Under", r["under_price"], 1 - po)):
             if price is None:
                 continue
-            rows.append({**{k: r[k] for k in ("game_id", "player_id", "player", "team", "opponent_team", "mkt", "book", "point", "pred",
-                                              "recent_avg")},
+            rows.append({**{k: r[k] for k in ("game_id", "player_id", "player", "team", "opponent_team", "mkt", "book",
+                                              "point", "pred", "recent_avg", "team_spread", "inj")},
                          "side": side, "price": int(price), "p_model": p,
                          "p_book_fair": None if fair is None else (fair if side == "Over" else 1 - fair),
                          "ev": p * payout(price) - (1 - p)})
@@ -254,12 +273,13 @@ def main():
     with pl.Config(tbl_rows=args.top, tbl_cols=20, tbl_width_chars=200, float_precision=2,
                    tbl_hide_dataframe_shape=True, tbl_hide_column_data_types=True):
         print(f"\nTop {args.top} by model EV (best book per player-market):")
-        print(best.head(args.top).select("player", "team", "opponent_team", "mkt", "side", "book", "point", "price",
-                                         "consensus_line", "pred", "recent_avg", "p_model", "p_book_fair", "ev", "news"))
+        print(best.head(args.top).select("player", "team", "opponent_team", "team_spread", "inj", "mkt", "side", "book",
+                                         "point", "price", "consensus_line", "pred", "recent_avg", "p_model",
+                                         "p_book_fair", "ev", "news"))
         clean = best.filter(~pl.col("news"))
         print(f"\nTop {args.top} without a news flag ({best.height - clean.height} flagged rows hidden):")
-        print(clean.head(args.top).select("player", "team", "mkt", "side", "book", "point", "price", "consensus_line",
-                                          "pred", "recent_avg", "p_model", "p_book_fair", "ev"))
+        print(clean.head(args.top).select("player", "team", "team_spread", "inj", "mkt", "side", "book", "point", "price",
+                                          "consensus_line", "pred", "recent_avg", "p_model", "p_book_fair", "ev"))
         gap = cons.with_columns(((pl.col("pred") - pl.col("consensus_line")) / pl.col("consensus_line"))
                                 .alias("gap_pct")).sort("gap_pct")
         print("\nLargest model-vs-consensus gaps (model below the line):")
