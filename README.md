@@ -23,3 +23,6 @@ Result: the models do not beat the closing line (MAE ~9.57 vs 9.54 for the marke
 python scripts/backtest_totals.py   # predicts total - total_line, walk-forward 2022-2025
 ```
 Also no edge: MAE 10.25-10.28 vs 10.19 for the closing total, and every edge cutoff with a meaningful sample loses money at -110.
+
+## Run/pass splits and pace
+Features now include rolling pass/run EPA (offense and defense), plays per game and pass rate, all computed from play-by-play, so no pace API or key is needed. Spread and totals backtests were re-run with them (`base+splits`, `all`, `line+env+splits+pace`): still no edge (MAE 9.61-9.73 vs 9.54 for spreads, 10.27-10.31 vs 10.19 for totals).

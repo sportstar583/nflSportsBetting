@@ -7,21 +7,32 @@ DATA = Path(__file__).resolve().parent.parent / "data"
 WINDOW = 8  # games, rolling across seasons
 
 
+STATS = ["off_epa", "off_sr", "def_epa", "def_sr", "pf", "pa",
+         "off_pass_epa", "off_run_epa", "def_pass_epa", "def_run_epa", "off_plays", "off_pass_rate"]
+
+
 def team_game_epa() -> pl.DataFrame:
-    """Per team-game offensive/defensive EPA/play and success rate."""
+    """Per team-game EPA/play (overall, pass, run), success rate and pace (plays, pass rate)."""
     pbp = (
         pl.scan_parquet(DATA / "raw" / "pbp.parquet")
         .filter(pl.col("play_type").is_in(["pass", "run"]) & pl.col("epa").is_not_null())
-        .select("game_id", "posteam", "defteam", "epa", "success")
+        .select("game_id", "posteam", "defteam", "play_type", "epa", "success")
         .collect()
     )
-    off = pbp.group_by("game_id", "posteam").agg(
-        pl.col("epa").mean().alias("off_epa"), pl.col("success").mean().alias("off_sr")
-    ).rename({"posteam": "team"})
-    dfn = pbp.group_by("game_id", "defteam").agg(
-        pl.col("epa").mean().alias("def_epa"), pl.col("success").mean().alias("def_sr")
-    ).rename({"defteam": "team"})
-    return off.join(dfn, on=["game_id", "team"])
+
+    def split(side: str, prefix: str) -> pl.DataFrame:
+        pt = pl.col("play_type")
+        aggs = [
+            pl.col("epa").mean().alias(f"{prefix}_epa"),
+            pl.col("success").mean().alias(f"{prefix}_sr"),
+            pl.col("epa").filter(pt == "pass").mean().alias(f"{prefix}_pass_epa"),
+            pl.col("epa").filter(pt == "run").mean().alias(f"{prefix}_run_epa"),
+        ]
+        if prefix == "off":
+            aggs += [pl.len().alias("off_plays"), (pt == "pass").mean().alias("off_pass_rate")]
+        return pbp.group_by("game_id", side).agg(aggs).rename({side: "team"})
+
+    return split("posteam", "off").join(split("defteam", "def"), on=["game_id", "team"])
 
 
 def rolling_team_form(sched: pl.DataFrame, epa: pl.DataFrame) -> pl.DataFrame:
@@ -32,7 +43,7 @@ def rolling_team_form(sched: pl.DataFrame, epa: pl.DataFrame) -> pl.DataFrame:
         sched.select("game_id", "gameday", pl.col("away_team").alias("team"),
                      pl.col("away_score").alias("pf"), pl.col("home_score").alias("pa")),
     ]).join(epa, on=["game_id", "team"], how="left").sort("team", "gameday")
-    stats = ["off_epa", "off_sr", "def_epa", "def_sr", "pf", "pa"]
+    stats = STATS
     return long.with_columns(
         [pl.col(c).shift(1).rolling_mean(WINDOW, min_samples=3).over("team").alias(f"r_{c}")
          for c in stats]
@@ -93,7 +104,7 @@ def build() -> pl.DataFrame:
         .filter(pl.col("game_type").is_in(["REG", "WC", "DIV", "CON", "SB"]))
     )
     form = rolling_team_form(sched, team_game_epa())
-    stats = ["off_epa", "off_sr", "def_epa", "def_sr", "pf", "pa"]
+    stats = STATS
     h = form.rename({c: f"h_r_{c[2:]}" for c in form.columns if c.startswith("r_")})
     a = form.rename({c: f"a_r_{c[2:]}" for c in form.columns if c.startswith("r_")})
     df = (
