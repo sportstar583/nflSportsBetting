@@ -96,3 +96,24 @@ yet about beating real prop lines. That needs historical prop lines.
 in the next 7 days into `props_log/<timestamp>.csv` (committed, so the history survives).
 Needs `ODDS_API_KEY` in the environment or a gitignored `.env`. Free tier: 500 credits/month;
 each game costs 4 credits (4 markets x 1 region). Run near open and near kickoff each week.
+
+## This week's projections vs. the logged lines
+`python scripts/props_week.py [props_log/<snapshot>.csv] [--top N]` (run `python scripts/props.py` once
+first; it saves the walk-forward predictions used for calibration). For every unplayed game in the
+snapshot it builds stat-less rows for each team's skill players, computes the same pre-game
+features as the backtest (wind from Open-Meteo's live forecast), refits each market on all completed
+games and predicts the median. P(over) for each book's line comes from out-of-sample residuals of
+similar predictions; each price gets an EV, and the best per player-market goes to
+`data/props_edges_<snapshot>.csv` (every book and side in `_all.csv`).
+
+Read the output with care:
+- Rows marked `news` have a consensus line more than 35% away from the player's recent average.
+  That is nearly always injury, QB or role news the books have priced in and the model can't see,
+  so their large "edges" mean the model is out of date. The script also warns when the books list a
+  different passing QB than the team's last game (e.g. a backup starting), because receiving
+  projections don't account for it.
+- QB rushing, and low-usage backs and receivers, have no projection (same eligibility rules as the backtest).
+- On the 2026-10-04 snapshot (week 4) the model sides with the under 54-58% of the time in every
+  market, against the books' 50% after removing the vig. Either the books shade toward overs or the
+  model runs low against real lines; only grading these snapshots against results will tell which.
+  Until then the EVs rank disagreements; they are not proven edges.

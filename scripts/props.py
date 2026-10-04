@@ -31,11 +31,18 @@ def ewm(col: str, by: str) -> pl.Expr:
     return pl.col(col).shift(1).ewm_mean(half_life=HALF_LIFE, ignore_nulls=True).over(by)
 
 
-def load() -> tuple[pl.DataFrame, pl.DataFrame]:
+def load(upcoming: pl.DataFrame | None = None, wind: dict | None = None) -> tuple[pl.DataFrame, pl.DataFrame]:
+    """`upcoming`: stat-less player rows for unplayed games to project (see props_week.py);
+    `wind`: game_id -> forecast mph for those games, since nflverse only fills wind after kickoff."""
     sched = (pl.read_parquet(DATA / "raw" / "schedules.parquet")
              .with_columns(pl.col("home_team", "away_team").replace(RENAMES)))
-    ps = (pl.read_parquet(DATA / "raw" / "player_stats.parquet")
-          .filter(pl.col("position").is_in(SKILL))
+    if wind:
+        sched = sched.with_columns(pl.col("game_id").replace_strict(wind, default=None, return_dtype=pl.Float64)
+                                   .fill_null(pl.col("wind").cast(pl.Float64)).alias("wind"))
+    ps = pl.read_parquet(DATA / "raw" / "player_stats.parquet")
+    if upcoming is not None:
+        ps = pl.concat([ps, upcoming], how="diagonal_relaxed")
+    ps = (ps.filter(pl.col("position").is_in(SKILL))
           .with_columns(pl.col("team", "opponent_team").replace(RENAMES))
           .join(sched.select("game_id", "gameday"), on="game_id"))
     return sched, ps
@@ -91,8 +98,8 @@ def snap_share() -> pl.DataFrame:
             .select("game_id", pl.col("gsis_id").alias("player_id"), "offense_pct"))
 
 
-def build() -> pl.DataFrame:
-    sched, ps = load()
+def build(upcoming: pl.DataFrame | None = None, wind: dict | None = None) -> pl.DataFrame:
+    sched, ps = load(upcoming, wind)
     ctx = team_context(sched, ps)
     dfn = defense_allowed(ps, ctx)
 
@@ -147,20 +154,33 @@ MARKETS = {
 }
 
 
+def add_flags(df: pl.DataFrame) -> pl.DataFrame:
+    return df.with_columns((pl.col("position") == "WR").cast(pl.Int8).alias("is_wr"),
+                           (pl.col("position") == "TE").cast(pl.Int8).alias("is_te"))
+
+
+def eligible(df: pl.DataFrame, name: str) -> pl.DataFrame:
+    _, positions, elig, _ = MARKETS[name]
+    return df.filter(pl.col("position").is_in(positions) & (pl.col("n_prior") >= 3)
+                     & elig.fill_null(False) & pl.col("implied_total").is_not_null())
+
+
+def new_model() -> HistGradientBoostingRegressor:
+    return HistGradientBoostingRegressor(loss="absolute_error", max_iter=300, learning_rate=0.05,
+                                         max_leaf_nodes=15, min_samples_leaf=50, random_state=0)
+
+
 def evaluate(df: pl.DataFrame) -> pl.DataFrame:
-    df = df.with_columns((pl.col("position") == "WR").cast(pl.Int8).alias("is_wr"),
-                         (pl.col("position") == "TE").cast(pl.Int8).alias("is_te"))
+    df = add_flags(df)
     out = []
     for name, (target, positions, elig, feats) in MARKETS.items():
-        m = df.filter(pl.col("position").is_in(positions) & (pl.col("n_prior") >= 3)
-                      & elig.fill_null(False) & pl.col("implied_total").is_not_null())
+        m = eligible(df, name)
         cols = feats + COMMON
         print(f"\n== {name} ({target}, {'/'.join(positions)}) ==")
         preds = []
         for s in TEST_SEASONS:
             tr, te = m.filter(pl.col("season") < s), m.filter(pl.col("season") == s)
-            model = HistGradientBoostingRegressor(loss="absolute_error", max_iter=300, learning_rate=0.05,
-                                                  max_leaf_nodes=15, min_samples_leaf=50, random_state=0)
+            model = new_model()
             model.fit(tr.select(cols).to_numpy(), tr[target].to_numpy())
             preds.append(te.with_columns(pl.Series("pred", model.predict(te.select(cols).to_numpy()))))
         te = pl.concat(preds)
