@@ -152,7 +152,8 @@ def build(upcoming: pl.DataFrame | None = None, wind: dict | None = None) -> pl.
     return vacated_volume(df, sched)
 
 
-ABSORB_CAR, ABSORB_TGT = 0.35, 0.19
+ABSORB_CAR, ABSORB_TGT = 0.36, 0.17  # refit below after any change to players_out / VACATE_DAYS
+VACATE_DAYS = 16  # the absent player must have played within this many days (his last 2 games)
 
 
 def vacated_volume(df: pl.DataFrame, sched: pl.DataFrame) -> pl.DataFrame:
@@ -172,15 +173,13 @@ def vacated_volume(df: pl.DataFrame, sched: pl.DataFrame) -> pl.DataFrame:
              .drop_nulls("asof").sort("asof"))
     games = pl.concat([sched.select("game_id", "season", "week", pl.col(t).alias("team"), "gameday")
                        for t in ("home_team", "away_team")]).with_columns(pl.col("season", "week").cast(pl.Int32))
-    out = (pl.read_parquet(DATA / "raw" / "injuries.parquet")
-           .filter(pl.col("report_status").is_in(["Out", "Doubtful"]) & pl.col("gsis_id").is_not_null())
-           .select(pl.col("season").cast(pl.Int32), pl.col("week").cast(pl.Int32), pl.col("team").replace(RENAMES),
-                   pl.col("gsis_id").alias("player_id"))
-           .unique()
+    # only players who played recently vacate anything: a long absence is already reflected in
+    # the teammates' rolling usage, so counting it again would double the adjustment
+    out = (players_out()
            .join(games, on=["season", "week", "team"])
            .with_columns((pl.col("gameday").str.to_date() - pl.duration(days=1)).alias("asof"))
            .sort("asof")
-           .join_asof(usage, on="asof", by="player_id", strategy="backward", tolerance="400d"))
+           .join_asof(usage, on="asof", by="player_id", strategy="backward", tolerance=f"{VACATE_DAYS}d"))
     vac = out.group_by("game_id", "team").agg(
         pl.col("cs").filter(pl.col("position") == "RB").sum().alias("vac_car"),
         pl.col("ts").filter(pl.col("position").is_in(["WR", "TE", "RB"])).sum().alias("vac_tgt"))
@@ -351,16 +350,36 @@ def coverage_feats() -> tuple[pl.DataFrame, pl.DataFrame]:
     return defense, rec
 
 
+NOT_PLAYING = ["RES", "PUP", "NFI", "SUS", "INA", "RSN", "EXE"]  # weekly roster statuses that mean no game
+
+
+def players_out() -> pl.DataFrame:
+    """Every (season, week, team, player_id) not playing: Out/Doubtful on the final injury report,
+    or a roster status like reserve/IR, PUP or suspended. Players on IR are not on the weekly
+    injury report at all, so the roster file is the only place they show up."""
+    inj = (pl.read_parquet(DATA / "raw" / "injuries.parquet")
+           .filter(pl.col("report_status").is_in(["Out", "Doubtful"]) & pl.col("gsis_id").is_not_null())
+           .select(pl.col("season").cast(pl.Int32), pl.col("week").cast(pl.Int32), pl.col("team").replace(RENAMES),
+                   pl.col("gsis_id").alias("player_id")))
+    ros = (pl.read_parquet(DATA / "raw" / "rosters_weekly.parquet")
+           .filter(pl.col("status").is_in(NOT_PLAYING) & pl.col("gsis_id").is_not_null())
+           .select(pl.col("season").cast(pl.Int32), pl.col("week").cast(pl.Int32), pl.col("team").replace(RENAMES),
+                   pl.col("gsis_id").alias("player_id")))
+    return pl.concat([inj, ros]).unique()
+
+
 def own_injury() -> pl.DataFrame:
-    """The player's own final injury report: Questionable, missed/limited practice, Out/Doubtful."""
+    """The player's own status: Questionable, missed/limited practice, not playing (report or roster)."""
     inj = (pl.read_parquet(DATA / "raw" / "injuries.parquet")
            .filter(pl.col("game_type").is_not_null() & pl.col("gsis_id").is_not_null())
            .with_columns(pl.col("team").replace(RENAMES), pl.col("season").cast(pl.Int32),
                          pl.col("week").cast(pl.Int32), pl.col("gsis_id").alias("player_id")))
-    return inj.group_by("season", "week", "team", "player_id").agg(
+    rep = inj.group_by("season", "week", "team", "player_id").agg(
         (pl.col("report_status") == "Questionable").any().cast(pl.Int8).alias("own_q"),
-        pl.col("practice_status").str.contains("Did Not|Limited").any().cast(pl.Int8).alias("own_dnp"),
-        pl.col("report_status").is_in(["Out", "Doubtful"]).any().cast(pl.Int8).alias("own_out"))
+        pl.col("practice_status").str.contains("Did Not|Limited").any().cast(pl.Int8).alias("own_dnp"))
+    out = players_out().with_columns(pl.lit(1, dtype=pl.Int8).alias("own_out"))
+    return (rep.join(out, on=["season", "week", "team", "player_id"], how="full", coalesce=True)
+            .with_columns(pl.col("own_q", "own_dnp", "own_out").fill_null(0)))
 
 
 COMMON = ["implied_total", "team_spread", "indoor", "wind", "e_team_plays", "e_team_pass_rate",

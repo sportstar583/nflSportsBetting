@@ -27,6 +27,7 @@ DATASETS = {
     "ff_opportunity": lambda: nfl.load_ff_opportunity(SEASONS),
     # per-play coverage (man/zone, shell) and routes; the feed ends after 2025
     "participation": lambda: nfl.load_participation([s for s in SEASONS if s <= 2025]),
+    "rosters_weekly": lambda: nfl.load_rosters_weekly(SEASONS),  # status: ACT, RES (IR), PUP, SUS, INA...
 }
 
 
