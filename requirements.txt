@@ -2,3 +2,4 @@ nflreadpy
 polars
 pandas
 pyarrow
+scikit-learn
