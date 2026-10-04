@@ -126,12 +126,51 @@ def build(upcoming: pl.DataFrame | None = None, wind: dict | None = None) -> pl.
                "air_yards_share", "yds_per_tgt", "offense_pct", "passing_epa", "fantasy_points_ppr"]
     df = df.with_columns([ewm(c, "player_id").alias(f"e_{c}") for c in rolling]
                          + [pl.col("game_id").cum_count().over("player_id").alias("n_prior")])
+    df = role_defense(df)
     df = (df.join(dfn, left_on=["game_id", "opponent_team"], right_on=["game_id", "def_team"], how="left")
           .join(adj, left_on=["game_id", "opponent_team"], right_on=["game_id", "def_team"], how="left")
           .join(inj, on=["season", "week", "team"], how="left")
           .join(own_injury(), on=["season", "week", "team", "player_id"], how="left")
           .with_columns(pl.col("team_inj_skill", "own_q", "own_dnp", "own_out").fill_null(0)))
     return df
+
+
+ROLES = {"WR1": ("WR", 1), "WR2": ("WR", 2), "WR3": ("WR", 3), "RB1": ("RB", 1), "TE1": ("TE", 1)}
+
+
+def role_defense(df: pl.DataFrame) -> pl.DataFrame:
+    """Pre-game role (WR1/WR2/WR3/RB1/TE1 by rolling usage) and the opponent's record against it.
+
+    For each defense-game, the yards gained by the opposing WR1 (etc.) and that player's yards
+    relative to his own rolling average entering the game. Both are then rolled per defense
+    (prior games only) and joined to each player as opp_role_alw / opp_role_ratio for his role.
+    """
+    usage = (pl.when(pl.col("position") == "RB").then(pl.col("e_carry_share"))
+             .otherwise(pl.col("e_target_share")))
+    df = df.with_columns(
+        usage.rank(method="ordinal", descending=True).over("game_id", "team", "position").alias("pos_rank"))
+    df = df.with_columns(
+        pl.when(usage.is_null()).then(None)
+        .when((pl.col("position") == "WR") & (pl.col("pos_rank") <= 3)).then(pl.lit("WR") + pl.col("pos_rank").cast(pl.String))
+        .when((pl.col("position") == "RB") & (pl.col("pos_rank") == 1)).then(pl.lit("RB1"))
+        .when((pl.col("position") == "TE") & (pl.col("pos_rank") == 1)).then(pl.lit("TE1"))
+        .alias("role"))
+    yds = pl.when(pl.col("position") == "RB").then(pl.col("rushing_yards")).otherwise(pl.col("receiving_yards"))
+    exp = pl.when(pl.col("position") == "RB").then(pl.col("e_rushing_yards")).otherwise(pl.col("e_receiving_yards"))
+    per_game = (df.filter(pl.col("role").is_not_null() & (pl.col("n_prior") >= 3))
+                .select("game_id", "gameday", pl.col("opponent_team").alias("def_team"), "role",
+                        yds.alias("yds"), (yds / exp.clip(5.0)).alias("ratio"))
+                .group_by("game_id", "gameday", "def_team", "role").agg(pl.col("yds", "ratio").mean()))
+    wide = per_game.pivot(on="role", index=["game_id", "gameday", "def_team"], values=["yds", "ratio"])
+    # every defense-game, even those with no qualifying opponent, keeps the rolling window honest
+    order = df.select("game_id", "gameday", pl.col("opponent_team").alias("def_team")).unique()
+    wide = (order.join(wide, on=["game_id", "gameday", "def_team"], how="left").sort("def_team", "gameday")
+            .with_columns([ewm(f"{k}_{r}", "def_team").alias(f"opp_{k}_{r}") for r in ROLES for k in ("yds", "ratio")])
+            .select("game_id", "def_team", *[f"opp_{k}_{r}" for r in ROLES for k in ("yds", "ratio")]))
+    df = df.join(wide, left_on=["game_id", "opponent_team"], right_on=["game_id", "def_team"], how="left")
+    pick = lambda k: pl.coalesce([pl.when(pl.col("role") == r).then(pl.col(f"opp_{k}_{r}")) for r in ROLES])
+    return df.with_columns(pick("yds").alias("opp_role_alw"), pick("ratio").alias("opp_role_ratio"),
+                           pl.col("pos_rank").clip(1, 4).alias("role_rank"))
 
 
 def own_injury() -> pl.DataFrame:
@@ -155,15 +194,15 @@ MARKETS = {
                   "opp_pass_yds_alw", "opp_adj_def_pass"]),
     "rush_yds": ("rushing_yards", ["RB"], pl.col("e_carries") >= 6,
                  ["e_rushing_yards", "e_carries", "e_carry_share", "e_yds_per_car",
-                  "opp_rb_rush_alw", "opp_adj_def_run"]),
+                  "opp_rb_rush_alw", "opp_adj_def_run", "role_rank", "opp_role_alw", "opp_role_ratio"]),
     "rec_yds": ("receiving_yards", ["WR", "TE", "RB"], pl.col("e_targets") >= 3,
                 ["e_receiving_yards", "e_receptions", "e_targets", "e_target_share", "e_air_yards_share",
                  "e_yds_per_tgt", "opp_wr_rec_alw", "opp_te_rec_alw", "opp_rb_rec_alw", "opp_adj_def_pass",
-                 "is_wr", "is_te"]),
+                 "is_wr", "is_te", "role_rank", "opp_role_alw", "opp_role_ratio"]),
     "receptions": ("receptions", ["WR", "TE", "RB"], pl.col("e_targets") >= 3,
                    ["e_receptions", "e_targets", "e_target_share", "e_air_yards_share",
                     "opp_wr_rec_alw", "opp_te_rec_alw", "opp_rb_rec_alw", "opp_adj_def_pass",
-                    "is_wr", "is_te"]),
+                    "is_wr", "is_te", "role_rank", "opp_role_alw", "opp_role_ratio"]),
 }
 
 
