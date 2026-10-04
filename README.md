@@ -89,3 +89,10 @@ median model "beats" a raw average just by leaning under. The last column remove
 the naive line by the typical gap (fit on earlier seasons). The model clearly adds information over
 recent averages, but sportsbook lines already use game script and matchups, so this says nothing
 yet about beating real prop lines. That needs historical prop lines.
+
+## Prop line log (free, The Odds API)
+`python scripts/prop_lines.py --dry-run` shows upcoming games and the credit cost;
+`python scripts/prop_lines.py` snapshots pass/rush/receiving yards and receptions props for games
+in the next 7 days into `props_log/<timestamp>.csv` (committed, so the history survives).
+Needs `ODDS_API_KEY` in the environment or a gitignored `.env`. Free tier: 500 credits/month;
+each game costs 4 credits (4 markets x 1 region). Run near open and near kickoff each week.
