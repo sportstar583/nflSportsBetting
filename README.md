@@ -52,3 +52,10 @@ third of the slate, far less selective than the college card.
 (best GBM line+env 168-138, but 50.6% in 2024). Top 1 each way: 49.4%-56.5% on ~160 bets each
 (ridge adj+tempo 91-72 is the only variant above breakeven every season). With 24 card variants
 tried, the best results are what chance alone would produce; none is significant.
+
+## Recency bias
+`python scripts/recency.py`: does a bad week against the spread predict the next one (or a
+bounce-back)? 2018-present, closing spreads, same-season consecutive games.
+No: last week's ATS margin has ~zero correlation with this week's (-0.017), every bucket of
+last week's result covers 49-52%, teams after two straight non-covers cover 50.2%, and backing
+teams that missed by 14+ went 51.3% (-9u at -110). The closing line already adjusts for last week.
