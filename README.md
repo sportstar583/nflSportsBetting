@@ -96,3 +96,21 @@ yet about beating real prop lines. That needs historical prop lines.
 in the next 7 days into `props_log/<timestamp>.csv` (committed, so the history survives).
 Needs `ODDS_API_KEY` in the environment or a gitignored `.env`. Free tier: 500 credits/month;
 each game costs 4 credits (4 markets x 1 region). Run near open and near kickoff each week.
+
+## Wind rule on forecast wind (what a bettor knew)
+`python scripts/weather_forecast.py` pulls Open-Meteo's archived short-range forecast for every
+outdoor game (1,597 games, 2018-2026); `backtest_totals.py` then tests the under rule on it.
+Forecast and measured wind correlate 0.74; the forecast reads ~1 mph lower on average.
+
+| Under when... | Record | Win % | Units (-110) | Seasons > breakeven |
+| --- | --- | --- | --- | --- |
+| Measured wind >= 10 (hindsight) | 276-193 | 58.8% | +57.9 | 7/8 full |
+| Forecast >= 10 mph | 186-143 | 56.5% | +26.1 | 5/8 full |
+| Forecast >= 8.1 mph (same share of games as measured >= 10) | 320-230 | 58.2% | +60.9 | 6/8 full |
+| Forecast >= 12 mph | 100-81 | 55.2% | +9.9 | 5/8 full |
+
+Part of the hindsight result was surprise wind (measured >= 10 but forecast calm: 63.3%), which
+nobody could bet. But games that were forecast windy still went under 56-58% at every threshold,
+against the closing total. Losing seasons: 2020 and 2024. This is the strongest result in the repo,
+but it is a well-known angle, three thresholds were looked at, and the forecast used is the one
+close to kickoff, so bet it near game time. Track it on 2026 before trusting it.
