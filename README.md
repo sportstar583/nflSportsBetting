@@ -59,3 +59,13 @@ bounce-back)? 2018-present, closing spreads, same-season consecutive games.
 No: last week's ATS margin has ~zero correlation with this week's (-0.017), every bucket of
 last week's result covers 49-52%, teams after two straight non-covers cover 50.2%, and backing
 teams that missed by 14+ went 51.3% (-9u at -110). The closing line already adjusts for last week.
+
+## Skill-player injury rule
+`python scripts/injury_rule.py [gap]`: back the team that lost less WR/RB/TE snap share to
+Out/Doubtful players (default gap 0.5 starters). 2018-present: 428-372 (53.5%, +17u at -110),
+about 2 standard errors above a coin flip but only 0.6 above breakeven, and seasons are
+inconsistent. A weak lean to track, not an edge.
+
+## Pace and totals
+Faster-paced matchups do score more, but the closing total already prices it: pace correlates
++0.24 with the total line and about 0 with (total - line); over rates by pace quintile are 46-51%.
