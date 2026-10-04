@@ -162,7 +162,7 @@ def project(df: pl.DataFrame, game_ids: list[str]) -> pl.DataFrame:
         tr = m.filter(pl.col(target).is_not_null() & ~pl.col("game_id").is_in(game_ids))
         te = m.filter(pl.col("game_id").is_in(game_ids))
         model = props.new_model().fit(tr.select(cols).to_numpy(), tr[target].to_numpy())
-        out.append(te.select("game_id", "player_display_name", "team", "opponent_team", "position",
+        out.append(te.select("game_id", "player_id", "player_display_name", "team", "opponent_team", "position",
                              pl.col(f"e_{target}").alias("recent_avg"), "wind")
                    .with_columns(pl.lit(name).alias("mkt"),
                                  pl.Series("pred", model.predict(te.select(cols).to_numpy())),
@@ -228,7 +228,7 @@ def main():
         for side, price, p in (("Over", r["over_price"], po), ("Under", r["under_price"], 1 - po)):
             if price is None:
                 continue
-            rows.append({**{k: r[k] for k in ("player", "team", "opponent_team", "mkt", "book", "point", "pred",
+            rows.append({**{k: r[k] for k in ("game_id", "player_id", "player", "team", "opponent_team", "mkt", "book", "point", "pred",
                                               "recent_avg")},
                          "side": side, "price": int(price), "p_model": p,
                          "p_book_fair": None if fair is None else (fair if side == "Over" else 1 - fair),
@@ -244,7 +244,12 @@ def main():
             .sort("ev", descending=True))
 
     stamp = path.stem
+    bets = bets.join(best.select("player", "mkt", "news"), on=["player", "mkt"], how="left")
     bets.write_csv(DATA / f"props_edges_{stamp}_all.csv")
+    # committed copy, so grade_props.py can score what the model said before kickoff
+    proj = ROOT / "props_log" / "projections"
+    proj.mkdir(exist_ok=True)
+    bets.write_csv(proj / f"{stamp}.csv")
     best.write_csv(DATA / f"props_edges_{stamp}.csv")
     with pl.Config(tbl_rows=args.top, tbl_cols=20, tbl_width_chars=200, float_precision=2,
                    tbl_hide_dataframe_shape=True, tbl_hide_column_data_types=True):
@@ -265,7 +270,8 @@ def main():
                                              (pl.col("ev") > 0).mean().alias("share_pos_ev")).sort("mkt", "side")
         print("\nModel vs book, averaged over every offered price (a well-calibrated model should be near the book):")
         print(s)
-    print(f"\nwrote data/props_edges_{stamp}.csv (best per player-market) and _all.csv (every book/side)")
+    print(f"\nwrote data/props_edges_{stamp}.csv (best per player-market) and _all.csv (every book/side);"
+          f" props_log/projections/{stamp}.csv (commit it before kickoff)")
 
 
 if __name__ == "__main__":

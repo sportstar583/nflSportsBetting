@@ -117,3 +117,16 @@ Read the output with care:
   market, against the books' 50% after removing the vig. Either the books shade toward overs or the
   model runs low against real lines; only grading these snapshots against results will tell which.
   Until then the EVs rank disagreements; they are not proven edges.
+
+## Grading the lines and the model
+`props_week.py` also writes `props_log/projections/<snapshot>.csv` (committed), so what the model said
+before kickoff is kept. After the games, run `python scripts/pull_data.py` then
+`python scripts/grade_props.py [snapshot prefix]`. For each snapshot it reports:
+- **Lines alone:** over hit rate per market and the return from betting every over or every under
+  at the listed price. This tests whether the books shade toward overs.
+- **The model:** Brier score of `p_model` vs. the books' no-vig probability, and the record and units
+  of the best bet per player-market above several EV cutoffs, split by news flag and by side.
+
+A player who didn't play is a void; an active player with no stats grades as 0. Per-line results go
+to `props_log/grades/`. One week is a few hundred correlated bets, so read a single week as noise;
+the question is whether the under lean and the positive-EV picks hold up over many weeks.
