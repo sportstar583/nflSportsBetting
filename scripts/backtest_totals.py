@@ -20,8 +20,10 @@ BASE = ["total_line", "indoor", "wind", "temp", "neutral", "div_game"]
 STATS = ["s_off_epa", "s_off_sr", "s_def_epa", "s_def_sr", "s_pf", "s_pa"]
 SPLITS = ["s_off_pass_epa", "s_off_run_epa", "s_def_pass_epa", "s_def_run_epa",
           "s_off_plays", "s_off_pass_rate"]
+ADJ = ["s_adj_all", "s_adj_pass", "s_adj_run", "s_sec_per_play"]
 FEATURE_SETS = {"line+env": BASE, "line+env+stats": BASE + STATS,
-                "line+env+splits+pace": BASE + SPLITS}
+                "line+env+splits+pace": BASE + SPLITS,
+                "line+env+adj+tempo": BASE + ADJ}
 # residual target: predict (total - total_line), so the line is an offset, not a feature to fit
 MODELS = {
     "ridge": lambda: make_pipeline(StandardScaler(), Ridge(alpha=50)),
@@ -44,7 +46,7 @@ def ou(pred, line, total, edge):
 def main():
     df = (pl.read_parquet(DATA / "features.parquet")
           .filter(pl.col("total").is_not_null() & pl.col("total_line").is_not_null())
-          .drop_nulls(BASE + STATS + SPLITS))
+          .drop_nulls(BASE + STATS + SPLITS + ADJ))
     for (name, make), (fs_name, feats) in itertools.product(MODELS.items(), FEATURE_SETS.items()):
         print(f"\n== {name} / {fs_name} ==")
         preds, rows = [], []

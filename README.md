@@ -26,3 +26,18 @@ Also no edge: MAE 10.25-10.28 vs 10.19 for the closing total, and every edge cut
 
 ## Run/pass splits and pace
 Features now include rolling pass/run EPA (offense and defense), plays per game and pass rate, all computed from play-by-play, so no pace API or key is needed. Spread and totals backtests were re-run with them (`base+splits`, `all`, `line+env+splits+pace`): still no edge (MAE 9.61-9.73 vs 9.54 for spreads, 10.27-10.31 vs 10.19 for totals).
+
+## Opponent-adjusted EPA and tempo (ported from the college repo)
+`scripts/adjust.py` fits, walk-forward for every week, a play-weighted ridge regression
+(EPA/play = mean + offense + opponent defense + home field) over the prior two years with a
+180-day half-life, for all plays, passes and runs; plus decayed seconds per play from drive clock.
+Features: `d_adj_*` (net rating gap, spreads), `s_adj_*` (combined expected EPA, totals),
+`d_/s_sec_per_play`. Backtest sets `adj`, `adj+qb+inj` (spreads) and `line+env+adj+tempo` (totals).
+
+The adjusted ratings are better ratings (correlation with the closing spread 0.86 vs 0.78 for
+raw rolling EPA) but give no betting edge: spread MAE 9.65-9.79 vs 9.54 market, and they
+lost at every edge cutoff; totals MAE 10.25-10.29 vs 10.19. Better ratings mostly agree
+more with the market.
+
+Also fixed: schedules and injuries use `OAK` for 2018-19 while pbp uses `LV`, which dropped all
+32 of those Raiders games from training. Team codes are now normalized.

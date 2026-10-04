@@ -3,9 +3,14 @@ from pathlib import Path
 
 import polars as pl
 
+import adjust
+
 DATA = Path(__file__).resolve().parent.parent / "data"
 WINDOW = 8  # games, rolling across seasons
 
+
+# schedules/injuries use the old abbreviation; pbp uses the current one throughout
+RENAMES = {"OAK": "LV", "SD": "LAC", "STL": "LA"}
 
 STATS = ["off_epa", "off_sr", "def_epa", "def_sr", "pf", "pa",
          "off_pass_epa", "off_run_epa", "def_pass_epa", "def_run_epa", "off_plays", "off_pass_rate"]
@@ -83,7 +88,8 @@ POS_GROUPS = {"QB": ["QB"], "OL": ["T", "G", "C", "OL", "OT", "OG"], "SKILL": ["
 
 def injury_counts() -> pl.DataFrame:
     """Players ruled Out/Doubtful per team-week by position group (Friday report, pre-game)."""
-    inj = pl.read_parquet(DATA / "raw" / "injuries.parquet").filter(
+    inj = pl.read_parquet(DATA / "raw" / "injuries.parquet").with_columns(
+        pl.col("team").replace(RENAMES)).filter(
         pl.col("report_status").is_in(["Out", "Doubtful"]) & pl.col("game_type").is_not_null())
     group = pl.lit(None, dtype=pl.Utf8)
     for g, positions in POS_GROUPS.items():
@@ -102,6 +108,7 @@ def build() -> pl.DataFrame:
     sched = (
         pl.read_parquet(DATA / "raw" / "schedules.parquet")
         .filter(pl.col("game_type").is_in(["REG", "WC", "DIV", "CON", "SB"]))
+        .with_columns(pl.col("home_team", "away_team").replace(RENAMES))
     )
     form = rolling_team_form(sched, team_game_epa())
     stats = STATS
@@ -132,6 +139,22 @@ def build() -> pl.DataFrame:
     ).with_columns(
         [(pl.col(f"home_{c}") - pl.col(f"away_{c}")).alias(f"d_{c}") for c in inj_cols]
     )
+    tg = adjust.team_games(DATA / "raw" / "pbp.parquet", sched)
+    adj = adjust.adjusted_ratings(tg, sched)
+    adj_cols = [c for c in adj.columns if c not in ("game_id", "team")]
+    for side, pre in (("home", "h"), ("away", "a")):
+        df = df.join(adj.rename({c: f"{pre}_{c}" for c in adj_cols}),
+                     left_on=["game_id", f"{side}_team"], right_on=["game_id", "team"], how="left")
+    adj_feats = []
+    for sp in adjust.SPLITS:
+        o, d = f"adj_off_{sp}", f"adj_def_{sp}"
+        adj_feats += [  # net rating gap (spreads) and combined expected EPA (totals)
+            ((pl.col(f"h_{o}") - pl.col(f"h_{d}")) - (pl.col(f"a_{o}") - pl.col(f"a_{d}"))).alias(f"d_adj_{sp}"),
+            (pl.col(f"h_{o}") + pl.col(f"a_{d}") + pl.col(f"a_{o}") + pl.col(f"h_{d}")).alias(f"s_adj_{sp}"),
+        ]
+    adj_feats += [(pl.col("h_sec_per_play") + pl.col("a_sec_per_play")).alias("s_sec_per_play"),
+                  (pl.col("h_sec_per_play") - pl.col("a_sec_per_play")).alias("d_sec_per_play")]
+    df = df.with_columns(adj_feats)
     diffs = [(pl.col(f"h_r_{c}") - pl.col(f"a_r_{c}")).alias(f"d_{c}") for c in stats]
     sums = [(pl.col(f"h_r_{c}") + pl.col(f"a_r_{c}")).alias(f"s_{c}") for c in stats]
     df = df.with_columns(
@@ -147,7 +170,9 @@ def build() -> pl.DataFrame:
             "spread_line", "total_line", "home_moneyline", "away_moneyline",
             "rest_diff", "indoor", "wind", "temp", "neutral", "div_game",
             *[f"d_{c}" for c in stats], *[f"s_{c}" for c in stats],
-            "d_qb_epa", "d_qb_exp", *[f"d_{c}" for c in inj_cols]]
+            "d_qb_epa", "d_qb_exp", *[f"d_{c}" for c in inj_cols],
+            *[f"{p}_adj_{sp}" for sp in adjust.SPLITS for p in ("d", "s")],
+            "s_sec_per_play", "d_sec_per_play"]
     return df.select(keep).sort("gameday")
 
 

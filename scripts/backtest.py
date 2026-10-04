@@ -23,9 +23,12 @@ QB = ["d_qb_epa", "d_qb_exp"]
 INJ = ["d_inj_qb", "d_inj_ol", "d_inj_skill", "d_inj_dl", "d_inj_lb", "d_inj_db"]
 SPLITS = ["d_off_pass_epa", "d_off_run_epa", "d_def_pass_epa", "d_def_run_epa",
           "d_off_plays", "d_off_pass_rate"]
+ENV = ["spread_line", "rest_diff", "indoor", "wind", "temp", "neutral", "div_game"]
+ADJ = ["d_adj_all", "d_adj_pass", "d_adj_run", "d_sec_per_play"]
 FEATURE_SETS = {"base": BASE, "base+qb": BASE + QB, "base+qb+inj": BASE + QB + INJ,
-                "base+splits": BASE + SPLITS, "all": BASE + QB + INJ + SPLITS}
-ALL = BASE + QB + INJ + SPLITS
+                "base+splits": BASE + SPLITS, "all": BASE + QB + INJ + SPLITS,
+                "adj": ENV + ADJ, "adj+qb+inj": ENV + ADJ + QB + INJ}
+ALL = BASE + QB + INJ + SPLITS + ADJ
 
 MODELS = {
     "ridge": lambda: make_pipeline(StandardScaler(), Ridge(alpha=50)),
