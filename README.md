@@ -69,3 +69,23 @@ inconsistent. A weak lean to track, not an edge.
 ## Pace and totals
 Faster-paced matchups do score more, but the closing total already prices it: pace correlates
 +0.24 with the total line and about 0 with (total - line); over rates by pace quintile are 46-51%.
+
+## Player props (projections; no prop lines yet)
+`python scripts/props.py`: walk-forward 2022-2025 projections of the median for QB passing
+yards, RB rushing yards, and WR/TE/RB receiving yards and receptions, from opportunity (snap share,
+target/carry share), efficiency, game environment (implied team total and spread from the closing
+lines, pace, wind), opponent (adjusted defense, yards allowed to the position) and teammate injuries.
+Per-player predictions are written to `data/props_<market>_preds.parquet`.
+
+| Market | Player-games | MAE model | MAE recent avg | Model side vs skew-corrected naive line |
+| --- | --- | --- | --- | --- |
+| Passing yards | 2,212 | 64.1 | 66.2 | 59.7% |
+| Rushing yards | 3,360 | 25.6 | 26.4 | 55.4% |
+| Receiving yards | 9,863 | 22.9 | 23.9 | 55.2% |
+| Receptions | 9,863 | 1.67 | 1.72 | 54.1% |
+
+Yardage is right-skewed, so results land under a player's recent average 52-60% of the time; a
+median model "beats" a raw average just by leaning under. The last column removes that by shifting
+the naive line by the typical gap (fit on earlier seasons). The model clearly adds information over
+recent averages, but sportsbook lines already use game script and matchups, so this says nothing
+yet about beating real prop lines. That needs historical prop lines.
