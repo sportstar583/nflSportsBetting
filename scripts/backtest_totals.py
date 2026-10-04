@@ -17,14 +17,16 @@ from sklearn.preprocessing import StandardScaler
 DATA = Path(__file__).resolve().parent.parent / "data"
 TEST_SEASONS = [2022, 2023, 2024, 2025]
 EDGES = [0, 1, 2, 3]
-BASE = ["total_line", "indoor", "wind", "temp", "neutral", "div_game"]
+BASE = ["total_line", "indoor", "wind", "wind_over_10", "weather_missing", "temp", "neutral", "div_game"]
+INJ = ["s_inj_ol", "s_inj_skill", "s_inj_def"]  # snap share lost, both teams
 STATS = ["s_off_epa", "s_off_sr", "s_def_epa", "s_def_sr", "s_pf", "s_pa"]
 SPLITS = ["s_off_pass_epa", "s_off_run_epa", "s_def_pass_epa", "s_def_run_epa",
           "s_off_plays", "s_off_pass_rate"]
 ADJ = ["s_adj_all", "s_adj_pass", "s_adj_run", "s_sec_per_play"]
 FEATURE_SETS = {"line+env": BASE, "line+env+stats": BASE + STATS,
                 "line+env+splits+pace": BASE + SPLITS,
-                "line+env+adj+tempo": BASE + ADJ}
+                "line+env+adj+tempo": BASE + ADJ,
+                "line+env+adj+tempo+inj": BASE + ADJ + INJ}
 # residual target: predict (total - total_line), so the line is an offset, not a feature to fit
 MODELS = {
     "ridge": lambda: make_pipeline(StandardScaler(), Ridge(alpha=50)),
@@ -59,10 +61,22 @@ def card(te: pl.DataFrame, pred: np.ndarray, n: int = CARD_N) -> pl.DataFrame:
         (pl.col("res") == 1).sum().alias("w"), (pl.col("res") == -1).sum().alias("l")).sort("season")
 
 
+def wind_rule(df: pl.DataFrame) -> None:
+    """Fixed rule, no model: bet the under in outdoor games with observed wind >= 10 mph."""
+    w = df.filter((pl.col("season").is_in(TEST_SEASONS + [2018, 2019, 2020, 2021]))
+                  & (pl.col("indoor") == 0) & (pl.col("weather_missing") == 0) & (pl.col("wind") >= 10))
+    r = w.with_columns((pl.col("total") - pl.col("total_line")).sign().alias("c")).group_by("season").agg(
+        (pl.col("c") == -1).sum().alias("w"), (pl.col("c") == 1).sum().alias("l")).sort("season")
+    rows = "  ".join(f"{s}: {a}-{b}" for s, a, b in r.iter_rows())
+    W, L = r["w"].sum(), r["l"].sum()
+    print(f"\nwind rule, under if wind>=10: {rows}  total {W}-{L} ({W / (W + L):.3f}), units={W * 100 / 110 - L:+.1f}")
+
+
 def main():
     df = (pl.read_parquet(DATA / "features.parquet")
           .filter(pl.col("total").is_not_null() & pl.col("total_line").is_not_null())
-          .drop_nulls(BASE + STATS + SPLITS + ADJ))
+          .drop_nulls(BASE + STATS + SPLITS + ADJ + INJ))
+    wind_rule(df)
     for (name, make), (fs_name, feats) in itertools.product(MODELS.items(), FEATURE_SETS.items()):
         print(f"\n== {name} / {fs_name} ==")
         preds, rows = [], []

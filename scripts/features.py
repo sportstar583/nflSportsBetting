@@ -9,6 +9,12 @@ DATA = Path(__file__).resolve().parent.parent / "data"
 WINDOW = 8  # games, rolling across seasons
 
 
+# Missing outdoor weather (half of 2022, every future game) gets the outdoor median and a flag,
+# instead of 0 mph / 70F, which made it look like a calm day.
+OUTDOOR_MEDIAN_WIND, OUTDOOR_MEDIAN_TEMP = 8.0, 57.0
+WIND_KNEE = 10  # mph; totals drop above it
+WIND_CAP = 30   # a few readings (e.g. 44 mph, 2023 SF@PHI) look like data errors; cap their leverage
+
 # schedules/injuries use the old abbreviation; pbp uses the current one throughout
 RENAMES = {"OAK": "LV", "SD": "LAC", "STL": "LA"}
 
@@ -81,27 +87,49 @@ def qb_form(sched: pl.DataFrame) -> pl.DataFrame:
                      pl.col("p_n").alias("qb_n")), league
 
 
-POS_GROUPS = {"QB": ["QB"], "OL": ["T", "G", "C", "OL", "OT", "OG"], "SKILL": ["WR", "TE", "RB", "FB"],
-              "DL": ["DE", "DT", "NT", "DL"], "LB": ["LB", "OLB", "ILB", "MLB"],
-              "DB": ["CB", "S", "FS", "SS", "DB"]}
+INJ_GROUPS = {  # QB is left out: the starting-QB rating already covers it
+    "ol": (["T", "G", "C", "OL", "OT", "OG"], "off_share"),
+    "skill": (["WR", "TE", "RB", "FB"], "off_share"),
+    "def": (["DE", "DT", "NT", "DL", "LB", "OLB", "ILB", "MLB", "CB", "S", "FS", "SS", "DB"], "def_share"),
+}
+SNAP_GAMES = 4  # a player's role = mean snap share over his last 4 games played
 
 
-def injury_counts() -> pl.DataFrame:
-    """Players ruled Out/Doubtful per team-week by position group (Friday report, pre-game)."""
-    inj = pl.read_parquet(DATA / "raw" / "injuries.parquet").with_columns(
-        pl.col("team").replace(RENAMES)).filter(
-        pl.col("report_status").is_in(["Out", "Doubtful"]) & pl.col("game_type").is_not_null())
-    group = pl.lit(None, dtype=pl.Utf8)
-    for g, positions in POS_GROUPS.items():
-        group = pl.when(pl.col("position").is_in(positions)).then(pl.lit(g)).otherwise(group)
-    return (inj.with_columns(group.alias("grp"), pl.col("season").cast(pl.Int32),
-                             pl.col("week").cast(pl.Int32))
-            .drop_nulls("grp")
-            .group_by("season", "week", "team", "grp").agg(pl.len().cast(pl.Int32).alias("len"))
-            .pivot(on="grp", index=["season", "week", "team"], values="len")
-            .fill_null(0)
-            .rename({g: f"inj_{g.lower()}" for g in POS_GROUPS if g in
-                     set(inj.select(group.alias("g"))["g"].drop_nulls().unique())}))
+def injury_snaps() -> pl.DataFrame:
+    """Snap share lost to Out/Doubtful players per team-week, by group.
+
+    Each player on the final injury report counts by his snap share in his last SNAP_GAMES
+    games before that week, so a starter is ~1.0 and a backup ~0.1. Players with no snaps in
+    the past year (practice squad, long-term absences already in team form) count 0.
+    """
+    key = (pl.col("season").cast(pl.Int32) * 100 + pl.col("week").cast(pl.Int32)) * 10
+    snaps = (
+        pl.read_parquet(DATA / "raw" / "snap_counts.parquet")
+        .with_columns(key.alias("k"))
+        .sort("pfr_player_id", "k")
+        .with_columns(
+            pl.col("offense_pct").rolling_mean(SNAP_GAMES, min_samples=1).over("pfr_player_id").alias("off_share"),
+            pl.col("defense_pct").rolling_mean(SNAP_GAMES, min_samples=1).over("pfr_player_id").alias("def_share"),
+        )
+        .select("pfr_player_id", "k", "off_share", "def_share")
+    )
+    ids = (pl.read_parquet(DATA / "raw" / "players.parquet")
+           .select("gsis_id", "pfr_id").drop_nulls().unique("gsis_id"))
+    inj = (
+        pl.read_parquet(DATA / "raw" / "injuries.parquet")
+        .filter(pl.col("report_status").is_in(["Out", "Doubtful"]) & pl.col("game_type").is_not_null())
+        .unique(["season", "week", "team", "gsis_id"])
+        .with_columns(pl.col("team").replace(RENAMES), (key - 1).alias("k"),
+                      pl.col("season").cast(pl.Int32), pl.col("week").cast(pl.Int32))
+        .join(ids, on="gsis_id", how="left")
+        .sort("k")
+        .join_asof(snaps.sort("k"), on="k", by_left="pfr_id", by_right="pfr_player_id",
+                   strategy="backward", tolerance=1000)  # last game strictly before, within ~a year
+    )
+    lost = []
+    for g, (positions, share) in INJ_GROUPS.items():
+        lost.append(pl.col(share).filter(pl.col("position").is_in(positions)).fill_null(0).sum().alias(f"inj_{g}"))
+    return inj.group_by("season", "week", "team").agg(lost)
 
 
 def build() -> pl.DataFrame:
@@ -129,7 +157,7 @@ def build() -> pl.DataFrame:
         (pl.col("home_qb_epa") - pl.col("away_qb_epa")).alias("d_qb_epa"),
         (pl.col("home_qb_n").clip(0, 1500) - pl.col("away_qb_n").clip(0, 1500)).alias("d_qb_exp"),
     )
-    inj = injury_counts()
+    inj = injury_snaps()
     inj_cols = [c for c in inj.columns if c.startswith("inj_")]
     for side in ("home", "away"):
         i = inj.rename({"team": f"{side}_team", **{c: f"{side}_{c}" for c in inj_cols}})
@@ -138,6 +166,7 @@ def build() -> pl.DataFrame:
         [pl.col(f"{s}_{c}").fill_null(0) for s in ("home", "away") for c in inj_cols]
     ).with_columns(
         [(pl.col(f"home_{c}") - pl.col(f"away_{c}")).alias(f"d_{c}") for c in inj_cols]
+        + [(pl.col(f"home_{c}") + pl.col(f"away_{c}")).alias(f"s_{c}") for c in inj_cols]
     )
     tg = adjust.team_games(DATA / "raw" / "pbp.parquet", sched)
     adj = adjust.adjusted_ratings(tg, sched)
@@ -155,22 +184,30 @@ def build() -> pl.DataFrame:
     adj_feats += [(pl.col("h_sec_per_play") + pl.col("a_sec_per_play")).alias("s_sec_per_play"),
                   (pl.col("h_sec_per_play") - pl.col("a_sec_per_play")).alias("d_sec_per_play")]
     df = df.with_columns(adj_feats)
+    # weather: future games have no roof listed, so take the stadium's last known roof
+    df = df.sort("gameday").with_columns(pl.col("roof").fill_null(strategy="forward").over("stadium_id"))
+    indoor = pl.col("roof").is_in(["dome", "closed"]).fill_null(False).cast(pl.Int8)
+    missing = ((indoor == 0) & pl.col("wind").is_null()).cast(pl.Int8)
+    wind = (pl.when(indoor == 1).then(pl.lit(0.0))
+            .otherwise(pl.col("wind").fill_null(OUTDOOR_MEDIAN_WIND).clip(upper_bound=WIND_CAP)))
     diffs = [(pl.col(f"h_r_{c}") - pl.col(f"a_r_{c}")).alias(f"d_{c}") for c in stats]
     sums = [(pl.col(f"h_r_{c}") + pl.col(f"a_r_{c}")).alias(f"s_{c}") for c in stats]
     df = df.with_columns(
         *diffs, *sums,
         (pl.col("home_rest") - pl.col("away_rest")).alias("rest_diff"),
-        (pl.col("roof").is_in(["dome", "closed"])).cast(pl.Int8).alias("indoor"),
-        pl.col("wind").fill_null(0).alias("wind"),
-        pl.col("temp").fill_null(70).alias("temp"),
+        indoor.alias("indoor"),
+        missing.alias("weather_missing"),
+        wind.alias("wind"),
+        ((wind - WIND_KNEE).clip(lower_bound=0)).alias("wind_over_10"),
+        pl.when(indoor == 1).then(pl.lit(70.0)).otherwise(pl.col("temp").fill_null(OUTDOOR_MEDIAN_TEMP)).alias("temp"),
         (pl.col("location") == "Neutral").cast(pl.Int8).alias("neutral"),
         pl.col("div_game").cast(pl.Int8),
     )
     keep = ["game_id", "season", "week", "gameday", "home_team", "away_team", "result", "total",
             "spread_line", "total_line", "home_moneyline", "away_moneyline",
-            "rest_diff", "indoor", "wind", "temp", "neutral", "div_game",
+            "rest_diff", "indoor", "wind", "wind_over_10", "weather_missing", "temp", "neutral", "div_game",
             *[f"d_{c}" for c in stats], *[f"s_{c}" for c in stats],
-            "d_qb_epa", "d_qb_exp", *[f"d_{c}" for c in inj_cols],
+            "d_qb_epa", "d_qb_exp", *[f"d_{c}" for c in inj_cols], *[f"s_{c}" for c in inj_cols],
             *[f"{p}_adj_{sp}" for sp in adjust.SPLITS for p in ("d", "s")],
             "s_sec_per_play", "d_sec_per_play"]
     return df.select(keep).sort("gameday")

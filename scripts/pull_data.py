@@ -15,6 +15,8 @@ DATASETS = {
     "player_stats": lambda: nfl.load_player_stats(SEASONS),
     "injuries": lambda: nfl.load_injuries(SEASONS),
     "rosters": lambda: nfl.load_rosters(SEASONS),
+    "snap_counts": lambda: nfl.load_snap_counts(SEASONS),
+    "players": lambda: nfl.load_players(),
 }
 
 

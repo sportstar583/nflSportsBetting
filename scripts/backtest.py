@@ -17,13 +17,15 @@ from sklearn.preprocessing import StandardScaler
 DATA = Path(__file__).resolve().parent.parent / "data"
 TEST_SEASONS = [2022, 2023, 2024, 2025]
 EDGES = [0, 1, 2, 3]
-BASE = ["spread_line", "rest_diff", "indoor", "wind", "temp", "neutral", "div_game",
+BASE = ["spread_line", "rest_diff", "indoor", "wind", "wind_over_10", "weather_missing", "temp",
+        "neutral", "div_game",
         "d_off_epa", "d_off_sr", "d_def_epa", "d_def_sr", "d_pf", "d_pa"]
 QB = ["d_qb_epa", "d_qb_exp"]
-INJ = ["d_inj_qb", "d_inj_ol", "d_inj_skill", "d_inj_dl", "d_inj_lb", "d_inj_db"]
+INJ = ["d_inj_ol", "d_inj_skill", "d_inj_def"]  # snap share lost to Out/Doubtful players
 SPLITS = ["d_off_pass_epa", "d_off_run_epa", "d_def_pass_epa", "d_def_run_epa",
           "d_off_plays", "d_off_pass_rate"]
-ENV = ["spread_line", "rest_diff", "indoor", "wind", "temp", "neutral", "div_game"]
+ENV = ["spread_line", "rest_diff", "indoor", "wind", "wind_over_10", "weather_missing", "temp",
+       "neutral", "div_game"]
 ADJ = ["d_adj_all", "d_adj_pass", "d_adj_run", "d_sec_per_play"]
 FEATURE_SETS = {"base": BASE, "base+qb": BASE + QB, "base+qb+inj": BASE + QB + INJ,
                 "base+splits": BASE + SPLITS, "all": BASE + QB + INJ + SPLITS,
