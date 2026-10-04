@@ -130,3 +130,19 @@ before kickoff is kept. After the games, run `python scripts/pull_data.py` then
 A player who didn't play is a void; an active player with no stats grades as 0. Per-line results go
 to `props_log/grades/`. One week is a few hundred correlated bets, so read a single week as noise;
 the question is whether the under lean and the positive-EV picks hold up over many weeks.
+
+## Injuries, roles and matchups in the prop model
+Added to `props.py` (all pre-game, all tested walk-forward 2022-2025):
+- **Player's own injury report** (Questionable, limited/no practice): MAE within 0.03 of before.
+  Out/Doubtful players are dropped from the weekly card.
+- **Teammate injuries by position** (starters' snap share out at WR, RB, TE) and **opponent's
+  defensive injuries** (secondary, front seven). Raw effect, 2019-present: WRs produce 14% above
+  their own average when 0.6-1.2 of a starting WR is out and 32% above when more is; RBs 42% above
+  when a starting RB is out; TEs +5%. The opponent's missing DBs add only ~4% for receivers at the
+  extreme, and missing front-seven starters do nothing measurable for rushers. The books know all
+  this too. In the model: passing MAE 64.07 -> 63.72, rushing 25.33 -> 25.31, receiving 22.82 -> 22.81.
+- **Role-based defense** (opponent's rolling record against WR1/WR2/WR3/RB1/TE1, raw and relative
+  to each player's own average): a weak signal (correlation +0.03 for WR1s; the toughest fifth of
+  defenses hold WR1s to 98% of their average, the softest 103%; RB1s +0.08 to +0.11) but a
+  consistent gain: rushing 25.50 -> 25.33, receiving 22.90 -> 22.82, receptions 1.670 -> 1.664.
+No slot/outside or coverage data (nflverse has none), so WR1 is "top target share", not alignment.

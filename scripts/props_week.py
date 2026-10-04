@@ -169,6 +169,14 @@ def project(df: pl.DataFrame, game_ids: list[str]) -> pl.DataFrame:
         model = props.new_model().fit(tr.select(cols).to_numpy(), tr[target].to_numpy())
         out.append(te.select("game_id", "player_id", "player_display_name", "team", "opponent_team", "position",
                              pl.col(f"e_{target}").alias("recent_avg"), "wind", "team_spread",
+                             # starters' snap share out at the player's own position (vacated volume)
+                             # and on the opposing unit he attacks (DBs for passing game, front seven for rushing)
+                             pl.when(pl.col("position") == "WR").then(pl.col("team_inj_wr"))
+                             .when(pl.col("position") == "TE").then(pl.col("team_inj_te"))
+                             .when(pl.col("position") == "RB").then(pl.col("team_inj_rb"))
+                             .otherwise(pl.col("team_inj_wr")).round(2).alias("mates_out"),
+                             pl.when(name == "rush_yds").then(pl.col("opp_inj_front"))
+                             .otherwise(pl.col("opp_inj_db")).round(2).alias("opp_out"),
                              pl.when(pl.col("own_out") == 1).then(pl.lit("OUT/D"))
                              .when(pl.col("own_q") == 1).then(pl.lit("Q"))
                              .when(pl.col("own_dnp") == 1).then(pl.lit("ltd"))
@@ -248,7 +256,8 @@ def main():
             if price is None:
                 continue
             rows.append({**{k: r[k] for k in ("game_id", "player_id", "player", "team", "opponent_team", "mkt", "book",
-                                              "point", "pred", "recent_avg", "team_spread", "inj")},
+                                              "point", "pred", "recent_avg", "team_spread", "inj",
+                                              "mates_out", "opp_out")},
                          "side": side, "price": int(price), "p_model": p,
                          "p_book_fair": None if fair is None else (fair if side == "Over" else 1 - fair),
                          "ev": p * payout(price) - (1 - p)})
@@ -278,8 +287,13 @@ def main():
                                          "p_book_fair", "ev", "news"))
         clean = best.filter(~pl.col("news"))
         print(f"\nTop {args.top} without a news flag ({best.height - clean.height} flagged rows hidden):")
-        print(clean.head(args.top).select("player", "team", "team_spread", "inj", "mkt", "side", "book", "point", "price",
-                                          "consensus_line", "pred", "recent_avg", "p_model", "p_book_fair", "ev"))
+        print(clean.head(args.top).select("player", "team", "team_spread", "inj", "mates_out", "opp_out", "mkt", "side",
+                                          "book", "point", "price", "consensus_line", "pred", "recent_avg", "p_model",
+                                          "p_book_fair", "ev"))
+        boost = best.filter(pl.col("mates_out") >= 0.6).sort("mates_out", descending=True)
+        print(f"\nInjury upgrades: a starter (>= 0.6 snap share) out at the player's own position, "
+              f"so the model expects more volume ({boost.select('player').n_unique()} players):")
+        print(boost.select("player", "team", "mates_out", "mkt", "side", "point", "pred", "recent_avg", "p_model", "ev", "news"))
         gap = cons.with_columns(((pl.col("pred") - pl.col("consensus_line")) / pl.col("consensus_line"))
                                 .alias("gap_pct")).sort("gap_pct")
         print("\nLargest model-vs-consensus gaps (model below the line):")

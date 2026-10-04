@@ -112,7 +112,12 @@ def build(upcoming: pl.DataFrame | None = None, wind: dict | None = None) -> pl.
 
     # teammates' skill snap share lost to injury (more volume for those who play)
     import features
-    inj = features.injury_snaps().select("season", "week", "team", pl.col("inj_skill").alias("team_inj_skill"))
+    inj_all = features.injury_snaps()
+    inj = inj_all.select("season", "week", "team", pl.col("inj_skill").alias("team_inj_skill"),
+                         pl.col("inj_wr").alias("team_inj_wr"), pl.col("inj_rb").alias("team_inj_rb"),
+                         pl.col("inj_te").alias("team_inj_te"))
+    opp_inj = inj_all.select("season", "week", pl.col("team").alias("opponent_team"),
+                             pl.col("inj_db").alias("opp_inj_db"), pl.col("inj_front").alias("opp_inj_front"))
 
     df = (ps.join(snap_share(), on=["game_id", "player_id"], how="left")
           .join(ctx.drop("gameday"), on=["game_id", "team"], how="left")
@@ -130,8 +135,10 @@ def build(upcoming: pl.DataFrame | None = None, wind: dict | None = None) -> pl.
     df = (df.join(dfn, left_on=["game_id", "opponent_team"], right_on=["game_id", "def_team"], how="left")
           .join(adj, left_on=["game_id", "opponent_team"], right_on=["game_id", "def_team"], how="left")
           .join(inj, on=["season", "week", "team"], how="left")
+          .join(opp_inj, on=["season", "week", "opponent_team"], how="left")
           .join(own_injury(), on=["season", "week", "team", "player_id"], how="left")
-          .with_columns(pl.col("team_inj_skill", "own_q", "own_dnp", "own_out").fill_null(0)))
+          .with_columns(pl.col("team_inj_skill", "team_inj_wr", "team_inj_rb", "team_inj_te",
+                               "opp_inj_db", "opp_inj_front", "own_q", "own_dnp", "own_out").fill_null(0)))
     return df
 
 
@@ -186,7 +193,8 @@ def own_injury() -> pl.DataFrame:
 
 
 COMMON = ["implied_total", "team_spread", "indoor", "wind", "e_team_plays", "e_team_pass_rate",
-          "e_offense_pct", "team_inj_skill", "own_q", "own_dnp", "n_prior"]
+          "e_offense_pct", "team_inj_skill", "team_inj_wr", "team_inj_rb", "team_inj_te",
+          "opp_inj_db", "opp_inj_front", "own_q", "own_dnp", "n_prior"]
 MARKETS = {
     # name: (target, positions, eligibility filter on pre-game usage, features)
     "pass_yds": ("passing_yards", ["QB"], pl.col("e_attempts") >= 20,

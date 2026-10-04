@@ -91,6 +91,10 @@ INJ_GROUPS = {  # QB is left out: the starting-QB rating already covers it
     "ol": (["T", "G", "C", "OL", "OT", "OG"], "off_share"),
     "skill": (["WR", "TE", "RB", "FB"], "off_share"),
     "def": (["DE", "DT", "NT", "DL", "LB", "OLB", "ILB", "MLB", "CB", "S", "FS", "SS", "DB"], "def_share"),
+    # finer groups for player props: who gets the vacated targets/carries, and which unit is depleted
+    "wr": (["WR"], "off_share"), "rb": (["RB", "FB"], "off_share"), "te": (["TE"], "off_share"),
+    "db": (["CB", "S", "FS", "SS", "DB"], "def_share"),
+    "front": (["DE", "DT", "NT", "DL", "LB", "OLB", "ILB", "MLB"], "def_share"),
 }
 SNAP_GAMES = 4  # a player's role = mean snap share over his last 4 games played
 
