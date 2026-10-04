@@ -4,6 +4,7 @@ For each test season, train on all prior seasons, predict result, and bet
 against the closing line when |model - market| >= EDGE points.
 Standard -110 pricing (win +0.909u, lose -1u, push 0).
 """
+import itertools
 from pathlib import Path
 
 import numpy as np
@@ -16,8 +17,12 @@ from sklearn.preprocessing import StandardScaler
 DATA = Path(__file__).resolve().parent.parent / "data"
 TEST_SEASONS = [2022, 2023, 2024, 2025]
 EDGES = [0, 1, 2, 3]
-FEATS = ["spread_line", "rest_diff", "indoor", "wind", "temp", "neutral", "div_game",
-         "d_off_epa", "d_off_sr", "d_def_epa", "d_def_sr", "d_pf", "d_pa"]
+BASE = ["spread_line", "rest_diff", "indoor", "wind", "temp", "neutral", "div_game",
+        "d_off_epa", "d_off_sr", "d_def_epa", "d_def_sr", "d_pf", "d_pa"]
+QB = ["d_qb_epa", "d_qb_exp"]
+INJ = ["d_inj_qb", "d_inj_ol", "d_inj_skill", "d_inj_dl", "d_inj_lb", "d_inj_db"]
+FEATURE_SETS = {"base": BASE, "base+qb": BASE + QB, "base+qb+inj": BASE + QB + INJ}
+ALL = BASE + QB + INJ
 
 MODELS = {
     "ridge": lambda: make_pipeline(StandardScaler(), Ridge(alpha=50)),
@@ -44,9 +49,9 @@ def ats(pred, spread, result, edge):
 def main():
     df = (pl.read_parquet(DATA / "features.parquet")
           .filter(pl.col("result").is_not_null() & pl.col("spread_line").is_not_null())
-          .drop_nulls(FEATS))
-    for name, make in MODELS.items():
-        print(f"\n== {name} ==")
+          .drop_nulls(ALL))
+    for (name, make), (fs_name, FEATS) in itertools.product(MODELS.items(), FEATURE_SETS.items()):
+        print(f"\n== {name} / {fs_name} ==")
         preds, rows = [], []
         for s in TEST_SEASONS:
             tr, te = df.filter(pl.col("season") < s), df.filter(pl.col("season") == s)

@@ -39,6 +39,54 @@ def rolling_team_form(sched: pl.DataFrame, epa: pl.DataFrame) -> pl.DataFrame:
     ).select("game_id", "team", *[f"r_{c}" for c in stats])
 
 
+QB_PRIOR_DB = 200  # dropbacks of shrinkage toward the league-average QB
+
+
+def qb_form(sched: pl.DataFrame) -> pl.DataFrame:
+    """Shrunk career EPA/dropback for each QB entering each game (prior games only)."""
+    db = (
+        pl.scan_parquet(DATA / "raw" / "pbp.parquet")
+        .filter((pl.col("qb_dropback") == 1) & pl.col("qb_epa").is_not_null()
+                & pl.col("passer_player_id").is_not_null())
+        .group_by("game_id", "passer_player_id")
+        .agg(pl.col("qb_epa").sum().alias("epa_sum"), pl.len().alias("n"))
+        .collect()
+        .join(sched.select("game_id", "gameday"), on="game_id")
+        .sort("passer_player_id", "gameday")
+    )
+    league = db["epa_sum"].sum() / db["n"].sum()
+    db = db.with_columns(
+        pl.col("epa_sum").cum_sum().shift(1).over("passer_player_id").fill_null(0).alias("p_epa"),
+        pl.col("n").cum_sum().shift(1).over("passer_player_id").fill_null(0).alias("p_n"),
+    ).with_columns(
+        ((pl.col("p_epa") + QB_PRIOR_DB * league) / (pl.col("p_n") + QB_PRIOR_DB)).alias("qb_epa"),
+    )
+    return db.select("game_id", pl.col("passer_player_id").alias("qb_id"), "qb_epa",
+                     pl.col("p_n").alias("qb_n")), league
+
+
+POS_GROUPS = {"QB": ["QB"], "OL": ["T", "G", "C", "OL", "OT", "OG"], "SKILL": ["WR", "TE", "RB", "FB"],
+              "DL": ["DE", "DT", "NT", "DL"], "LB": ["LB", "OLB", "ILB", "MLB"],
+              "DB": ["CB", "S", "FS", "SS", "DB"]}
+
+
+def injury_counts() -> pl.DataFrame:
+    """Players ruled Out/Doubtful per team-week by position group (Friday report, pre-game)."""
+    inj = pl.read_parquet(DATA / "raw" / "injuries.parquet").filter(
+        pl.col("report_status").is_in(["Out", "Doubtful"]) & pl.col("game_type").is_not_null())
+    group = pl.lit(None, dtype=pl.Utf8)
+    for g, positions in POS_GROUPS.items():
+        group = pl.when(pl.col("position").is_in(positions)).then(pl.lit(g)).otherwise(group)
+    return (inj.with_columns(group.alias("grp"), pl.col("season").cast(pl.Int32),
+                             pl.col("week").cast(pl.Int32))
+            .drop_nulls("grp")
+            .group_by("season", "week", "team", "grp").agg(pl.len().cast(pl.Int32).alias("len"))
+            .pivot(on="grp", index=["season", "week", "team"], values="len")
+            .fill_null(0)
+            .rename({g: f"inj_{g.lower()}" for g in POS_GROUPS if g in
+                     set(inj.select(group.alias("g"))["g"].drop_nulls().unique())}))
+
+
 def build() -> pl.DataFrame:
     sched = (
         pl.read_parquet(DATA / "raw" / "schedules.parquet")
@@ -51,6 +99,27 @@ def build() -> pl.DataFrame:
     df = (
         sched.join(h, left_on=["game_id", "home_team"], right_on=["game_id", "team"])
         .join(a, left_on=["game_id", "away_team"], right_on=["game_id", "team"])
+    )
+    qb, league = qb_form(sched)
+    for side in ("home", "away"):
+        q = qb.rename({"qb_epa": f"{side}_qb_epa", "qb_n": f"{side}_qb_n"})
+        df = df.join(q, left_on=["game_id", f"{side}_qb_id"], right_on=["game_id", "qb_id"], how="left")
+    df = df.with_columns(  # QB with no prior dropbacks in the data -> league-average, n=0
+        pl.col("home_qb_epa").fill_null(league), pl.col("away_qb_epa").fill_null(league),
+        pl.col("home_qb_n").fill_null(0), pl.col("away_qb_n").fill_null(0),
+    ).with_columns(
+        (pl.col("home_qb_epa") - pl.col("away_qb_epa")).alias("d_qb_epa"),
+        (pl.col("home_qb_n").clip(0, 1500) - pl.col("away_qb_n").clip(0, 1500)).alias("d_qb_exp"),
+    )
+    inj = injury_counts()
+    inj_cols = [c for c in inj.columns if c.startswith("inj_")]
+    for side in ("home", "away"):
+        i = inj.rename({"team": f"{side}_team", **{c: f"{side}_{c}" for c in inj_cols}})
+        df = df.join(i, on=["season", "week", f"{side}_team"], how="left")
+    df = df.with_columns(
+        [pl.col(f"{s}_{c}").fill_null(0) for s in ("home", "away") for c in inj_cols]
+    ).with_columns(
+        [(pl.col(f"home_{c}") - pl.col(f"away_{c}")).alias(f"d_{c}") for c in inj_cols]
     )
     diffs = [(pl.col(f"h_r_{c}") - pl.col(f"a_r_{c}")).alias(f"d_{c}") for c in stats]
     df = df.with_columns(
@@ -65,7 +134,8 @@ def build() -> pl.DataFrame:
     keep = ["game_id", "season", "week", "gameday", "home_team", "away_team", "result",
             "spread_line", "total_line", "home_moneyline", "away_moneyline",
             "rest_diff", "indoor", "wind", "temp", "neutral", "div_game",
-            *[f"d_{c}" for c in stats]]
+            *[f"d_{c}" for c in stats],
+            "d_qb_epa", "d_qb_exp", *[f"d_{c}" for c in inj_cols]]
     return df.select(keep).sort("gameday")
 
 
