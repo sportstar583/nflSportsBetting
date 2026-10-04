@@ -31,25 +31,36 @@ STADIUMS = {  # stadium_id -> (lat, lon)
 GAME_HOURS = 3  # average forecast over kickoff hour and the next 3
 
 
-def fetch(lat, lon, start, end) -> pl.DataFrame:
-    """Hourly forecast for one stadium and one season (small requests; retried)."""
+CACHE = DATA / "raw" / "forecast_cache"
+
+
+def fetch(lat, lon, start, end) -> pl.DataFrame | None:
+    """Hourly forecast for one stadium-season, cached on disk; None if the API keeps failing."""
+    path = CACHE / f"{lat}_{lon}_{start}_{end}.parquet"
+    if path.exists():
+        return pl.read_parquet(path)
     params = {"latitude": lat, "longitude": lon, "hourly": "wind_speed_10m,temperature_2m",
               "wind_speed_unit": "mph", "temperature_unit": "fahrenheit",
               "timezone": "America/New_York",  # nflverse gametime is Eastern
               "start_date": str(start), "end_date": str(end)}
-    for attempt in range(4):
+    for attempt in range(6):
         try:
             r = requests.get(URL, params=params, timeout=120)
             r.raise_for_status()
             break
-        except requests.RequestException:
-            if attempt == 3:
-                raise
-            time.sleep(2 ** (attempt + 1))
+        except requests.RequestException as e:
+            if attempt == 5:
+                print(f"  failed {start}..{end}: {type(e).__name__}", flush=True)
+                return None
+            time.sleep(min(60, 5 * 2 ** attempt))
     h = r.json()["hourly"]
-    return pl.DataFrame({"time": h["time"], "wind": h["wind_speed_10m"], "temp": h["temperature_2m"]},
-                        schema={"time": pl.Utf8, "wind": pl.Float64, "temp": pl.Float64}
-                        ).with_columns(pl.col("time").str.to_datetime("%Y-%m-%dT%H:%M"))
+    df = pl.DataFrame({"time": h["time"], "wind": h["wind_speed_10m"], "temp": h["temperature_2m"]},
+                      schema={"time": pl.Utf8, "wind": pl.Float64, "temp": pl.Float64}
+                      ).with_columns(pl.col("time").str.to_datetime("%Y-%m-%dT%H:%M"))
+    CACHE.mkdir(parents=True, exist_ok=True)
+    df.write_parquet(path)
+    time.sleep(1)  # be polite to the free API
+    return df
 
 
 def main():
@@ -66,15 +77,18 @@ def main():
         games = games.filter(pl.col("date") < dt.date.today())
         if games.is_empty():
             continue
-        hourly = pl.concat([fetch(lat, lon, g["date"].min(), g["date"].max())
-                            for _, g in games.group_by("season")])
+        parts = [fetch(lat, lon, g["date"].min(), g["date"].max()) for _, g in games.group_by("season")]
+        parts = [p for p in parts if p is not None]
+        if not parts:
+            continue
+        hourly = pl.concat(parts)
         for gid, date, gt in games.select("game_id", "date", "gametime").iter_rows():
             hh = int(gt.split(":")[0])
             start = pl.datetime(date.year, date.month, date.day, hh)
             w = hourly.filter((pl.col("time") >= start)
                               & (pl.col("time") <= start + pl.duration(hours=GAME_HOURS)))
             rows.append({"game_id": gid, "fc_wind": w["wind"].mean(), "fc_temp": w["temp"].mean()})
-        print(f"{sid}: {games.height} games")
+        print(f"{sid}: {games.height} games", flush=True)
     out = pl.DataFrame(rows)
     out.write_parquet(DATA / "raw" / "forecast_weather.parquet")
     print(f"forecast weather: {out.height} games, {out['fc_wind'].null_count()} missing")

@@ -61,15 +61,32 @@ def card(te: pl.DataFrame, pred: np.ndarray, n: int = CARD_N) -> pl.DataFrame:
         (pl.col("res") == 1).sum().alias("w"), (pl.col("res") == -1).sum().alias("l")).sort("season")
 
 
-def wind_rule(df: pl.DataFrame) -> None:
-    """Fixed rule, no model: bet the under in outdoor games with observed wind >= 10 mph."""
-    w = df.filter((pl.col("season").is_in(TEST_SEASONS + [2018, 2019, 2020, 2021]))
-                  & (pl.col("indoor") == 0) & (pl.col("weather_missing") == 0) & (pl.col("wind") >= 10))
-    r = w.with_columns((pl.col("total") - pl.col("total_line")).sign().alias("c")).group_by("season").agg(
-        (pl.col("c") == -1).sum().alias("w"), (pl.col("c") == 1).sum().alias("l")).sort("season")
+def _rule_line(label: str, d: pl.DataFrame, wind_col: str, knee: float = 10) -> None:
+    r = (d.filter(pl.col(wind_col) >= knee)
+         .with_columns((pl.col("total") - pl.col("total_line")).sign().alias("c"))
+         .group_by("season").agg((pl.col("c") == -1).sum().alias("w"), (pl.col("c") == 1).sum().alias("l"))
+         .sort("season"))
     rows = "  ".join(f"{s}: {a}-{b}" for s, a, b in r.iter_rows())
     W, L = r["w"].sum(), r["l"].sum()
-    print(f"\nwind rule, under if wind>=10: {rows}  total {W}-{L} ({W / (W + L):.3f}), units={W * 100 / 110 - L:+.1f}")
+    print(f"{label}: {rows}  total {W}-{L} ({W / max(W + L, 1):.3f}), units={W * 100 / 110 - L:+.1f}")
+
+
+def wind_rule(df: pl.DataFrame) -> None:
+    """Fixed rule, no model: bet the under in outdoor games with wind >= 10 mph.
+
+    nflverse wind is measured at kickoff (hindsight); the forecast version uses only what
+    was knowable before the game (scripts/weather_forecast.py).
+    """
+    out = df.filter((pl.col("indoor") == 0) & (pl.col("weather_missing") == 0))
+    print()
+    _rule_line("wind rule, observed wind>=10", out, "wind")
+    fc_path = DATA / "raw" / "forecast_weather.parquet"
+    if fc_path.exists():
+        fc = df.filter(pl.col("indoor") == 0).join(pl.read_parquet(fc_path), on="game_id").drop_nulls("fc_wind")
+        _rule_line("wind rule, FORECAST wind>=10", fc, "fc_wind")
+        both = fc.filter(pl.col("weather_missing") == 0)
+        _rule_line("  observed>=10, same games", both, "wind")
+        _rule_line("  forecast>=10, same games", both, "fc_wind")
 
 
 def main():
