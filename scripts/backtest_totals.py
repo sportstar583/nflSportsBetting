@@ -43,6 +43,21 @@ def ou(pred, line, total, edge):
     return n, int(win.sum()), win.sum() * (100 / 110) - loss.sum()
 
 
+CARD_N = 3
+
+
+def card(te: pl.DataFrame, pred: np.ndarray, n: int = CARD_N) -> pl.DataFrame:
+    """Each week: the n biggest over edges and n biggest under edges (as in the college repo's card)."""
+    d = te.select("season", "week", "total", "total_line").with_columns(edge=pl.Series(pred) - pl.col("total_line"))
+    overs = d.filter(pl.col("edge") > 0).sort("edge", descending=True).group_by("season", "week").head(n)
+    unders = d.filter(pl.col("edge") < 0).sort("edge").group_by("season", "week").head(n)
+    picks = pl.concat([overs, unders])
+    side = pl.when(pl.col("edge") > 0).then(1).otherwise(-1)
+    res = side * (pl.col("total") - pl.col("total_line")).sign()
+    return picks.with_columns(res.alias("res")).group_by("season").agg(
+        (pl.col("res") == 1).sum().alias("w"), (pl.col("res") == -1).sum().alias("l")).sort("season")
+
+
 def main():
     df = (pl.read_parquet(DATA / "features.parquet")
           .filter(pl.col("total").is_not_null() & pl.col("total_line").is_not_null())
@@ -62,6 +77,11 @@ def main():
         for e in EDGES:
             n, w, u = ou(p, ln, y, e)
             print(f"edge>={e}: bets={n:4d} win%={w / max(n, 1):.3f} units={u:+.1f} roi={u / max(n, 1):+.3f}")
+        c = card(te, p)
+        by_season = "  ".join(f"{s}: {w}-{l}" for s, w, l in c.iter_rows())
+        w, l = c["w"].sum(), c["l"].sum()
+        print(f"card top {CARD_N} each way: {by_season}  total {w}-{l} ({w / (w + l):.3f}), "
+              f"units={w * 100 / 110 - l:+.1f}")
 
 
 if __name__ == "__main__":

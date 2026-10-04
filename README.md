@@ -41,3 +41,9 @@ more with the market.
 
 Also fixed: schedules and injuries use `OAK` for 2018-19 while pbp uses `LV`, which dropped all
 32 of those Raiders games from training. Team codes are now normalized.
+
+## Weekly card (top 3 overs + top 3 unders), totals
+Same strategy as the college repo's card, printed by `backtest_totals.py` for each model/feature set.
+2022-2025: 51.0%-53.0% across the 8 variants (best: GBM line+env, 236-209, +5.5u), no variant
+above breakeven in every season. No edge; note an NFL week has ~16 games, so 6 picks is over a
+third of the slate, far less selective than the college card.
