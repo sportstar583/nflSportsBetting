@@ -146,3 +146,20 @@ Added to `props.py` (all pre-game, all tested walk-forward 2022-2025):
   defenses hold WR1s to 98% of their average, the softest 103%; RB1s +0.08 to +0.11) but a
   consistent gain: rushing 25.50 -> 25.33, receiving 22.90 -> 22.82, receptions 1.670 -> 1.664.
 No slot/outside or coverage data (nflverse has none), so WR1 is "top target share", not alignment.
+
+## Richer stats: Next Gen Stats, PFR advanced stats, expected yards
+`pull_data.py` now also pulls nflverse's weekly Next Gen Stats (receiving/rushing/passing), PFR
+advanced stats and `ff_opportunity` (expected yards from opportunity), all current through the
+latest week. `props.py` rolls every one of them per player, but only the subsets that survived a
+walk-forward ablation are model features (the rest overfit: rushing MAE rose 25.31 -> 25.49 with all
+ten of its candidates):
+- **Passing:** NGS time to throw, aggressiveness, intended air yards, CPOE, air yards to sticks.
+  MAE 63.72 -> 63.31 (the biggest single gain so far). PFR pressure/bad-throw rates, expected
+  passing yards and the defense's passing yards over expectation allowed all made it worse.
+- **Rushing:** PFR broken tackles and rush yards over expectation: 25.31 -> 25.24.
+- **Receiving yards / receptions:** NGS intended air yards and PFR drop rate: 22.81 -> 22.77 and
+  1.665 -> 1.662. Separation, cushion, YAC over expectation and expected yards did not help.
+
+NFL Savant (nflsavant.com) has no public API; the rebuilt site has an internal JSON API, but its
+route/alignment data depends on participation data that ends in 2025 ("Receiver not found" for
+2026 players) and its play-by-play explorer is built on the same nflverse pbp we already use.

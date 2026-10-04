@@ -120,6 +120,7 @@ def build(upcoming: pl.DataFrame | None = None, wind: dict | None = None) -> pl.
                              pl.col("inj_db").alias("opp_inj_db"), pl.col("inj_front").alias("opp_inj_front"))
 
     df = (ps.join(snap_share(), on=["game_id", "player_id"], how="left")
+          .join(extra_stats(), on=["game_id", "player_id"], how="left")
           .join(ctx.drop("gameday"), on=["game_id", "team"], how="left")
           .with_columns((pl.col("carries") / pl.col("team_car")).alias("carry_share"),
                         (pl.col("receiving_yards") / pl.col("targets")).alias("yds_per_tgt"),
@@ -128,11 +129,12 @@ def build(upcoming: pl.DataFrame | None = None, wind: dict | None = None) -> pl.
           .sort("player_id", "gameday"))
     rolling = ["passing_yards", "attempts", "yds_per_att", "rushing_yards", "carries", "carry_share",
                "yds_per_car", "receiving_yards", "receptions", "targets", "target_share",
-               "air_yards_share", "yds_per_tgt", "offense_pct", "passing_epa", "fantasy_points_ppr"]
+               "air_yards_share", "yds_per_tgt", "offense_pct", "passing_epa", "fantasy_points_ppr"] + EXTRA
     df = df.with_columns([ewm(c, "player_id").alias(f"e_{c}") for c in rolling]
                          + [pl.col("game_id").cum_count().over("player_id").alias("n_prior")])
     df = role_defense(df)
     df = (df.join(dfn, left_on=["game_id", "opponent_team"], right_on=["game_id", "def_team"], how="left")
+          .join(defense_yoe(ctx), left_on=["game_id", "opponent_team"], right_on=["game_id", "def_team"], how="left")
           .join(adj, left_on=["game_id", "opponent_team"], right_on=["game_id", "def_team"], how="left")
           .join(inj, on=["season", "week", "team"], how="left")
           .join(opp_inj, on=["season", "week", "opponent_team"], how="left")
@@ -180,6 +182,76 @@ def role_defense(df: pl.DataFrame) -> pl.DataFrame:
                            pl.col("pos_rank").clip(1, 4).alias("role_rank"))
 
 
+NGS_REC = {"avg_separation": "ngs_sep", "avg_cushion": "ngs_cushion", "avg_intended_air_yards": "ngs_iay",
+           "avg_yac_above_expectation": "ngs_yac_oe", "catch_percentage": "ngs_catch_pct"}
+NGS_RUSH = {"efficiency": "ngs_eff", "percent_attempts_gte_eight_defenders": "ngs_8box",
+            "rush_yards_over_expected_per_att": "ngs_ryoe_att", "expected_rush_yards": "ngs_exp_rush"}
+NGS_PASS = {"avg_time_to_throw": "ngs_ttt", "aggressiveness": "ngs_agg", "avg_intended_air_yards": "ngs_iay_pass",
+            "completion_percentage_above_expectation": "ngs_cpoe", "avg_air_yards_to_sticks": "ngs_ays"}
+PFR = {"rec": {"receiving_drop_pct": "pfr_drop_pct", "receiving_broken_tackles": "pfr_rec_bt"},
+       "rush": {"rushing_yards_before_contact_avg": "pfr_ybc", "rushing_yards_after_contact_avg": "pfr_yac_c",
+                "rushing_broken_tackles": "pfr_rush_bt"},
+       "pass": {"times_pressured_pct": "pfr_pressure_pct", "passing_bad_throw_pct": "pfr_bad_throw_pct",
+                "times_blitzed": "pfr_blitzed"}}
+FF = {"rec_yards_gained_exp": "ff_rec_yds_exp", "receptions_exp": "ff_rec_exp", "rush_yards_gained_exp": "ff_rush_yds_exp",
+      "pass_yards_gained_exp": "ff_pass_yds_exp"}
+EXTRA = (list(NGS_REC.values()) + list(NGS_RUSH.values()) + list(NGS_PASS.values())
+         + [v for d in PFR.values() for v in d.values()] + list(FF.values())
+         + ["ff_rec_yoe", "ff_rush_yoe", "ff_pass_yoe"])
+
+
+def extra_stats() -> pl.DataFrame:
+    """Per player-game: Next Gen Stats, PFR advanced stats and expected yards from opportunity.
+
+    NGS lists only players over its weekly minimums (nulls otherwise). Keyed (game_id, player_id);
+    NGS has no game_id so it's mapped through (season, week, team)."""
+    raw = DATA / "raw"
+    sched = (pl.read_parquet(raw / "schedules.parquet")
+             .with_columns(pl.col("home_team", "away_team").replace(RENAMES)))
+    team_game = pl.concat([sched.select("game_id", "season", "week", pl.col(t).alias("team"))
+                           for t in ("home_team", "away_team")])
+    out = []
+    for name, cols in (("receiving", NGS_REC), ("rushing", NGS_RUSH), ("passing", NGS_PASS)):
+        ngs = (pl.read_parquet(raw / f"ngs_{name}.parquet").filter(pl.col("week") >= 1)
+               .with_columns(pl.col("team_abbr").replace(RENAMES).alias("team"),
+                             pl.col("season").cast(pl.Int32), pl.col("week").cast(pl.Int32))
+               .join(team_game, on=["season", "week", "team"])
+               .select("game_id", pl.col("player_gsis_id").alias("player_id"),
+                       *[pl.col(c).cast(pl.Float64).alias(v) for c, v in cols.items()]))
+        out.append(ngs)
+    ids = pl.read_parquet(raw / "players.parquet").select("gsis_id", "pfr_id").drop_nulls().unique("pfr_id")
+    for name, cols in PFR.items():
+        pfr = (pl.read_parquet(raw / f"pfr_{name}.parquet").join(ids, left_on="pfr_player_id", right_on="pfr_id")
+               .select("game_id", pl.col("gsis_id").alias("player_id"),
+                       *[pl.col(c).cast(pl.Float64).alias(v) for c, v in cols.items()]))
+        out.append(pfr)
+    ff = (pl.read_parquet(raw / "ff_opportunity.parquet").filter(pl.col("player_id").is_not_null())
+          .select("game_id", "player_id", *[pl.col(c).cast(pl.Float64).alias(v) for c, v in FF.items()],
+                  (pl.col("rec_yards_gained") - pl.col("rec_yards_gained_exp")).alias("ff_rec_yoe"),
+                  (pl.col("rush_yards_gained") - pl.col("rush_yards_gained_exp")).alias("ff_rush_yoe"),
+                  (pl.col("pass_yards_gained") - pl.col("pass_yards_gained_exp")).alias("ff_pass_yoe")))
+    out.append(ff)
+    df = out[0].unique(["game_id", "player_id"])
+    for o in out[1:]:
+        df = df.join(o.unique(["game_id", "player_id"]), on=["game_id", "player_id"], how="full", coalesce=True)
+    return df
+
+
+def defense_yoe(ctx: pl.DataFrame) -> pl.DataFrame:
+    """Per defense-game: yards over expectation allowed (receiving, rushing, passing), rolled."""
+    ff = (pl.read_parquet(DATA / "raw" / "ff_opportunity.parquet")
+          .with_columns(pl.col("posteam").replace(RENAMES).alias("team"))
+          .group_by("game_id", "team").agg(
+              (pl.col("rec_yards_gained") - pl.col("rec_yards_gained_exp")).sum().alias("rec_yoe"),
+              (pl.col("rush_yards_gained") - pl.col("rush_yards_gained_exp")).sum().alias("rush_yoe"),
+              (pl.col("pass_yards_gained") - pl.col("pass_yards_gained_exp")).sum().alias("pass_yoe")))
+    order = ctx.select("game_id", "gameday", pl.col("opp").alias("def_team"), "team")
+    cols = ["rec_yoe", "rush_yoe", "pass_yoe"]
+    return (order.join(ff, on=["game_id", "team"], how="left").sort("def_team", "gameday")
+            .with_columns([ewm(c, "def_team").alias(f"opp_{c}_alw") for c in cols])
+            .select("game_id", "def_team", *[f"opp_{c}_alw" for c in cols]))
+
+
 def own_injury() -> pl.DataFrame:
     """The player's own final injury report: Questionable, missed/limited practice, Out/Doubtful."""
     inj = (pl.read_parquet(DATA / "raw" / "injuries.parquet")
@@ -195,22 +267,28 @@ def own_injury() -> pl.DataFrame:
 COMMON = ["implied_total", "team_spread", "indoor", "wind", "e_team_plays", "e_team_pass_rate",
           "e_offense_pct", "team_inj_skill", "team_inj_wr", "team_inj_rb", "team_inj_te",
           "opp_inj_db", "opp_inj_front", "own_q", "own_dnp", "n_prior"]
+# Next Gen / PFR / expected-yards features were chosen by ablation (walk-forward MAE); the rest of
+# EXTRA is computed but unused: it overfit (rushing MAE rose from 25.31 to 25.49 with all of them).
 MARKETS = {
     # name: (target, positions, eligibility filter on pre-game usage, features)
     "pass_yds": ("passing_yards", ["QB"], pl.col("e_attempts") >= 20,
                  ["e_passing_yards", "e_attempts", "e_yds_per_att", "e_passing_epa",
-                  "opp_pass_yds_alw", "opp_adj_def_pass"]),
+                  "opp_pass_yds_alw", "opp_adj_def_pass",
+                  "e_ngs_ttt", "e_ngs_agg", "e_ngs_iay_pass", "e_ngs_cpoe", "e_ngs_ays"]),
     "rush_yds": ("rushing_yards", ["RB"], pl.col("e_carries") >= 6,
                  ["e_rushing_yards", "e_carries", "e_carry_share", "e_yds_per_car",
-                  "opp_rb_rush_alw", "opp_adj_def_run", "role_rank", "opp_role_alw", "opp_role_ratio"]),
+                  "opp_rb_rush_alw", "opp_adj_def_run", "role_rank", "opp_role_alw", "opp_role_ratio",
+                  "e_pfr_rush_bt", "e_ff_rush_yoe"]),
     "rec_yds": ("receiving_yards", ["WR", "TE", "RB"], pl.col("e_targets") >= 3,
                 ["e_receiving_yards", "e_receptions", "e_targets", "e_target_share", "e_air_yards_share",
                  "e_yds_per_tgt", "opp_wr_rec_alw", "opp_te_rec_alw", "opp_rb_rec_alw", "opp_adj_def_pass",
-                 "is_wr", "is_te", "role_rank", "opp_role_alw", "opp_role_ratio"]),
+                 "is_wr", "is_te", "role_rank", "opp_role_alw", "opp_role_ratio",
+                 "e_ngs_iay", "e_pfr_drop_pct"]),
     "receptions": ("receptions", ["WR", "TE", "RB"], pl.col("e_targets") >= 3,
                    ["e_receptions", "e_targets", "e_target_share", "e_air_yards_share",
                     "opp_wr_rec_alw", "opp_te_rec_alw", "opp_rb_rec_alw", "opp_adj_def_pass",
-                    "is_wr", "is_te", "role_rank", "opp_role_alw", "opp_role_ratio"]),
+                    "is_wr", "is_te", "role_rank", "opp_role_alw", "opp_role_ratio",
+                    "e_ngs_iay", "e_pfr_drop_pct"]),
 }
 
 
