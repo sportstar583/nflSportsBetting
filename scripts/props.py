@@ -190,9 +190,20 @@ def qb_quality(df: pl.DataFrame) -> pl.DataFrame:
     starters = (df.filter((pl.col("position") == "QB") & (pl.col("e_attempts") >= 15))
                 .sort("e_attempts", descending=True).group_by("game_id", "team").first()
                 .select("game_id", "team", "season", "week", "e_passing_epa"))
-    starters = starters.with_columns(
+    # completed weeks: rank among that week's starters. Unplayed games (a partial slate, or a single
+    # game) are ranked against the latest completed week of the season, not among themselves.
+    played = df.filter(pl.col("passing_yards").is_not_null()).select("game_id").unique()
+    done = starters.join(played, on="game_id").with_columns(
         (pl.col("e_passing_epa").rank() / pl.len()).over("season", "week").alias("qb_qtile"))
-    df = df.join(starters.select("game_id", "team", "qb_qtile"), on=["game_id", "team"], how="left")
+    todo = starters.join(played, on="game_id", how="anti")
+    if todo.height:
+        ref = done.filter(pl.col("season") == todo["season"].max())
+        ref = ref.filter(pl.col("week") == ref["week"].max()) if ref.height else done.filter(pl.col("season") == done["season"].max() - 1)
+        vals = np.sort(ref["e_passing_epa"].drop_nulls().to_numpy())
+        todo = todo.with_columns(pl.Series("qb_qtile", np.searchsorted(vals, todo["e_passing_epa"].fill_null(np.nan).to_numpy(), side="right")
+                                           / max(len(vals), 1), dtype=pl.Float64))
+        done = pl.concat([done, todo.select(done.columns)])
+    df = df.join(done.select("game_id", "team", "qb_qtile"), on=["game_id", "team"], how="left")
     return df.with_columns((pl.col("opp_adj_def_pass") * (pl.col("qb_qtile") - 0.5)).alias("def_x_qb"))
 
 
