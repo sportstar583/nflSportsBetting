@@ -238,8 +238,8 @@ def qb_usage(df: pl.DataFrame) -> pl.DataFrame:
              .sort("asof")
              .join_asof(hist, on="asof", by_left=["player_id", "expected_qb"], by_right=["player_id", "qb"],
                         strategy="backward", tolerance="400d"))
-    # the team's pass rate with this passer (a QB change changes how much the team throws);
-    # tested: helps passing yards (63.13 -> 62.91), not the other markets
+    # the team's pass rate with this passer: computed for the feature table, but NOT a model
+    # feature (a pbp-based version tested at 63.13 -> 62.91; the attempts-based one came out 63.23)
     team_hist = (df.select("game_id", "team", "game_qb", "gameday", "team_pass_rate").unique(["game_id", "team"])
                  .filter(pl.col("game_qb").is_not_null()).sort("team", "game_qb", "gameday")
                  .with_columns(pl.col("team_pass_rate").ewm_mean(half_life=HALF_LIFE, ignore_nulls=True).over("team", "game_qb").alias("e_team_pass_rate_qb"),
@@ -483,8 +483,7 @@ MARKETS = {
     "pass_yds": ("passing_yards", ["QB"], pl.col("e_attempts") >= 20,
                  ["e_passing_yards", "e_attempts", "e_yds_per_att", "e_passing_epa",
                   "opp_pass_yds_alw", "opp_adj_def_pass",
-                  "e_ngs_ttt", "e_ngs_agg", "e_ngs_iay_pass", "e_ngs_cpoe", "e_ngs_ays", "e_giveaways", "e_proe_neutral",
-                  "e_team_pass_rate_qb", "n_team_qb"]),
+                  "e_ngs_ttt", "e_ngs_agg", "e_ngs_iay_pass", "e_ngs_cpoe", "e_ngs_ays", "e_giveaways", "e_proe_neutral"]),
     "rush_yds": ("rushing_yards", ["RB"], pl.col("e_carries") >= 6,
                  ["e_rushing_yards_adj", "e_carries_adj", "e_carry_share_adj", "e_yds_per_car",
                   "opp_rb_rush_alw", "opp_adj_def_run", "role_rank", "opp_role_alw", "opp_role_ratio",
