@@ -201,3 +201,15 @@ DraftKings 08-27, FanDuel/Pinnacle 09-10, so weeks 1-4 of 2026 are available.
 Mind the selection: a fetch restricted by usage *in the graded week* (e.g. `--only-week 3 --scale 2`)
 keeps only players who had a big game, which inflates the over rate; fetch the full season list
 before reading the hit rates.
+
+## The model vs the market line (and the blend)
+`python scripts/line_vs_model.py` joins every graded line we hold (prop-line history + our own
+snapshots) to out-of-sample model projections (trained on earlier seasons) and measures what the
+model adds. On 647 player-markets from 2026 weeks 1-4: the consensus line beats the model in every
+yardage market (MAE passing 60.2 vs 62.3, rushing 23.3 vs 24.7, receiving 26.1 vs 26.7); receptions
+favour the model (2.05 vs 2.14, n=68). Betting the model's side of the line won 51.5% (breakeven
+52.4%). The best blend `line + k*(model - line)` has k = 0.0-0.2 for yardage, 1.0 for receptions.
+Streaks go the other way: after an over, players went over 50% the next week; after an under, 62%.
+`props_week.py` now bets on the blended projection (`BLEND`: 0.1/0.2/0.2/0.5), which shrinks the
+model's disagreement with the market and the number of "edges" with it. Re-run `line_vs_model.py`
+as graded weeks accumulate and update `BLEND`.

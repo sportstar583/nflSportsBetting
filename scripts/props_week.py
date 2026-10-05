@@ -6,6 +6,10 @@ features exactly as in the backtest. The model is refit on every completed game 
 the median of each market. Outdoor wind comes from Open-Meteo's live forecast (nflverse only
 fills wind after kickoff).
 
+The projection used for betting is a blend, line + k * (model - line), with k per market from
+line_vs_model.py (the market line is more accurate than the model; k is 0.1-0.2 for yardage, 0.5
+for receptions). `pred` is the raw model, `pred_blend` what the EVs use.
+
 P(over a line) comes from the walk-forward residuals that props.py saved: among out-of-sample
 player-games whose prediction was close to this one, how often did actual / predicted exceed
 line / predicted. Each book's price is turned into an expected value per unit staked.
@@ -58,6 +62,10 @@ TEAMS = {
 }
 NEIGHBORS = 400  # historical predictions used to estimate each P(over)
 NEWS_GAP = 0.35  # line this far from the recent average: books likely priced injury/role news we lack
+# Weight of the model next to the consensus line: projection = line + k * (model - line).
+# From line_vs_model.py on 647 graded 2026 player-markets (weeks 1-4): the line beat the model in
+# every yardage market (best k 0.0-0.2); receptions favoured the model (k=1.0, n=68), shrunk here.
+BLEND = {"pass_yds": 0.1, "rush_yds": 0.2, "rec_yds": 0.2, "receptions": 0.5}
 
 
 def norm_name(s: str) -> str:
@@ -245,9 +253,13 @@ def main():
         print("  unmatched (no projection: too few games/usage, or a name mismatch): "
               + ", ".join(sorted(set(miss["key"].to_list()))[:40]))
 
+    cons_line = matched.group_by("game_id", "mkt", "key").agg(pl.col("point").median().alias("cons_line"))
+    matched = matched.join(cons_line, on=["game_id", "mkt", "key"]).with_columns(
+        (pl.col("cons_line") + pl.col("mkt").replace_strict(BLEND, return_dtype=pl.Float64)
+         * (pl.col("pred") - pl.col("cons_line"))).alias("pred_blend"))
     rows = []
     for r in matched.iter_rows(named=True):
-        po = p_over(hist, r["mkt"], r["pred"], r["point"])
+        po = p_over(hist, r["mkt"], r["pred_blend"], r["point"])
         fair = None
         if r["over_price"] is not None and r["under_price"] is not None:
             io, iu = 1 / (1 + payout(r["over_price"])), 1 / (1 + payout(r["under_price"]))
@@ -256,7 +268,7 @@ def main():
             if price is None:
                 continue
             rows.append({**{k: r[k] for k in ("game_id", "player_id", "player", "team", "opponent_team", "mkt", "book",
-                                              "point", "pred", "recent_avg", "team_spread", "inj",
+                                              "point", "pred", "pred_blend", "recent_avg", "team_spread", "inj",
                                               "mates_out", "opp_out")},
                          "side": side, "price": int(price), "p_model": p,
                          "p_book_fair": None if fair is None else (fair if side == "Over" else 1 - fair),
@@ -264,7 +276,7 @@ def main():
     bets = pl.DataFrame(rows)
     cons = (matched.group_by("game_id", "mkt", "key")
             .agg(pl.col("player").first(), pl.col("point").median().alias("consensus_line"),
-                 pl.col("pred").first(), pl.col("recent_avg").first(), pl.len().alias("books")))
+                 pl.col("pred").first(), pl.col("pred_blend").first(), pl.col("recent_avg").first(), pl.len().alias("books")))
     best = (bets.sort("ev", descending=True).group_by("player", "mkt", maintain_order=True).first()
             .join(cons.select("player", "mkt", "consensus_line", "books"), on=["player", "mkt"])
             .with_columns(((pl.col("consensus_line") / pl.col("recent_avg") - 1).abs() > NEWS_GAP)
@@ -283,12 +295,12 @@ def main():
                    tbl_hide_dataframe_shape=True, tbl_hide_column_data_types=True):
         print(f"\nTop {args.top} by model EV (best book per player-market):")
         print(best.head(args.top).select("player", "team", "opponent_team", "team_spread", "inj", "mkt", "side", "book",
-                                         "point", "price", "consensus_line", "pred", "recent_avg", "p_model",
+                                         "point", "price", "consensus_line", "pred", "pred_blend", "recent_avg", "p_model",
                                          "p_book_fair", "ev", "news"))
         clean = best.filter(~pl.col("news"))
         print(f"\nTop {args.top} without a news flag ({best.height - clean.height} flagged rows hidden):")
         print(clean.head(args.top).select("player", "team", "team_spread", "inj", "mates_out", "opp_out", "mkt", "side",
-                                          "book", "point", "price", "consensus_line", "pred", "recent_avg", "p_model",
+                                          "book", "point", "price", "consensus_line", "pred", "pred_blend", "recent_avg", "p_model",
                                           "p_book_fair", "ev"))
         boost = best.filter(pl.col("mates_out") >= 0.6).sort("mates_out", descending=True)
         print(f"\nInjury upgrades: a starter (>= 0.6 snap share) out at the player's own position, "
