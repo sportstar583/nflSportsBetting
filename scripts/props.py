@@ -146,6 +146,7 @@ def build(upcoming: pl.DataFrame | None = None, wind: dict | None = None) -> pl.
     df = qb_usage(df)
     df = (df.join(dfn, left_on=["game_id", "opponent_team"], right_on=["game_id", "def_team"], how="left")
           .join(defense_yoe(ctx), left_on=["game_id", "opponent_team"], right_on=["game_id", "def_team"], how="left")
+          .join(turnovers(ctx), on=["game_id", "team"], how="left")
           .join(adj, left_on=["game_id", "opponent_team"], right_on=["game_id", "def_team"], how="left")
           .join(inj, on=["season", "week", "team"], how="left")
           .join(opp_inj, on=["season", "week", "opponent_team"], how="left")
@@ -334,6 +335,18 @@ def extra_stats() -> pl.DataFrame:
     return df
 
 
+def turnovers(ctx: pl.DataFrame) -> pl.DataFrame:
+    """Per team-game: rolling giveaways (INTs + lost fumbles) per game. The opponent's takeaway
+    rate was tested too and made every market worse; the offense's own rate helps passing."""
+    pbp = (pl.scan_parquet(DATA / "raw" / "pbp" / "*.parquet").filter(pl.col("play_type").is_in(["pass", "run"]))
+           .select("game_id", "posteam", "interception", "fumble_lost").collect()
+           .with_columns(pl.col("posteam").replace(RENAMES).alias("team")))
+    give = pbp.group_by("game_id", "team").agg((pl.col("interception") + pl.col("fumble_lost")).sum().alias("giveaways"))
+    return (ctx.select("game_id", "team", "gameday").join(give, on=["game_id", "team"], how="left")
+            .sort("team", "gameday").with_columns(ewm("giveaways", "team").alias("e_giveaways"))
+            .select("game_id", "team", "e_giveaways"))
+
+
 def defense_yoe(ctx: pl.DataFrame) -> pl.DataFrame:
     """Per defense-game: yards over expectation allowed (receiving, rushing, passing), rolled."""
     ff = (pl.read_parquet(DATA / "raw" / "ff_opportunity.parquet")
@@ -431,7 +444,7 @@ MARKETS = {
     "pass_yds": ("passing_yards", ["QB"], pl.col("e_attempts") >= 20,
                  ["e_passing_yards", "e_attempts", "e_yds_per_att", "e_passing_epa",
                   "opp_pass_yds_alw", "opp_adj_def_pass",
-                  "e_ngs_ttt", "e_ngs_agg", "e_ngs_iay_pass", "e_ngs_cpoe", "e_ngs_ays"]),
+                  "e_ngs_ttt", "e_ngs_agg", "e_ngs_iay_pass", "e_ngs_cpoe", "e_ngs_ays", "e_giveaways"]),
     "rush_yds": ("rushing_yards", ["RB"], pl.col("e_carries") >= 6,
                  ["e_rushing_yards_adj", "e_carries_adj", "e_carry_share_adj", "e_yds_per_car",
                   "opp_rb_rush_alw", "opp_adj_def_run", "role_rank", "opp_role_alw", "opp_role_ratio",
@@ -440,7 +453,7 @@ MARKETS = {
                 ["e_receiving_yards_adj", "e_receptions_adj", "e_targets_adj", "e_target_share_adj", "e_air_yards_share",
                  "e_yds_per_tgt", "opp_wr_rec_alw", "opp_te_rec_alw", "opp_rb_rec_alw", "opp_adj_def_pass",
                  "is_wr", "is_te", "role_rank", "opp_role_alw", "opp_role_ratio",
-                 "e_ngs_iay", "e_pfr_drop_pct", "e_target_share_qb", "e_targets_qb", "n_qb"]),
+                 "e_ngs_iay", "e_pfr_drop_pct", "e_target_share_qb", "e_targets_qb", "n_qb", "e_giveaways"]),
     "receptions": ("receptions", ["WR", "TE", "RB"], pl.col("e_targets") >= 3,
                    ["e_receptions_adj", "e_targets_adj", "e_target_share_adj", "e_air_yards_share",
                     "opp_wr_rec_alw", "opp_te_rec_alw", "opp_rb_rec_alw", "opp_adj_def_pass",
