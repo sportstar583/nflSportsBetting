@@ -137,6 +137,7 @@ def build(upcoming: pl.DataFrame | None = None, wind: dict | None = None) -> pl.
     df = (df.join(own_injury(), on=["season", "week", "team", "player_id"], how="left")
           .with_columns(pl.col("own_q", "own_dnp", "own_out").fill_null(0)))
     df = role_defense(df)
+    df = qb_usage(df)
     df = (df.join(dfn, left_on=["game_id", "opponent_team"], right_on=["game_id", "def_team"], how="left")
           .join(defense_yoe(ctx), left_on=["game_id", "opponent_team"], right_on=["game_id", "def_team"], how="left")
           .join(adj, left_on=["game_id", "opponent_team"], right_on=["game_id", "def_team"], how="left")
@@ -199,6 +200,36 @@ def vacated_volume(df: pl.DataFrame, sched: pl.DataFrame) -> pl.DataFrame:
         (pl.col("e_receptions") * tgt_mult).alias("e_receptions_adj"),
         (pl.col("e_carry_share") * car_mult).alias("e_carry_share_adj"), (pl.col("e_target_share") * tgt_mult).alias("e_target_share_adj"),
         car_mult.alias("car_mult"), tgt_mult.alias("tgt_mult"))
+
+
+def qb_usage(df: pl.DataFrame) -> pl.DataFrame:
+    """A receiver's rolling usage with the quarterback expected to start this game.
+
+    The expected starter is the team's primary passer (most attempts) in its previous game.
+    For each receiver, target share / targets / receiving yards are rolled over his prior games
+    with that same passer only (e_*_qb), plus how many such games (n_qb). Receivers' roles change
+    with the passer (Drake London: 39% target share with Penix, 23% with Cousins), and the plain
+    rolling average blurs them together."""
+    qb = (df.filter(pl.col("position") == "QB").sort("attempts", descending=True)
+          .group_by("game_id", "team").first().select("game_id", "team", pl.col("player_id").alias("game_qb")))
+    tg = (df.select("game_id", "team", "gameday").unique().join(qb, on=["game_id", "team"], how="left")
+          .sort("team", "gameday")
+          .with_columns(pl.col("game_qb").shift(1).over("team").alias("expected_qb")))
+    df = df.join(tg.select("game_id", "team", "game_qb", "expected_qb"), on=["game_id", "team"], how="left")
+    hist = (df.filter(pl.col("game_qb").is_not_null() & pl.col("position").is_in(["WR", "TE", "RB"]))
+            .sort("player_id", "game_qb", "gameday")
+            .with_columns(pl.col("target_share").ewm_mean(half_life=HALF_LIFE, ignore_nulls=True).over("player_id", "game_qb").alias("e_target_share_qb"),
+                          pl.col("targets").ewm_mean(half_life=HALF_LIFE, ignore_nulls=True).over("player_id", "game_qb").alias("e_targets_qb"),
+                          pl.col("receiving_yards").ewm_mean(half_life=HALF_LIFE, ignore_nulls=True).over("player_id", "game_qb").alias("e_receiving_yards_qb"),
+                          pl.col("game_id").cum_count().over("player_id", "game_qb").alias("n_qb"))
+            .select("player_id", pl.col("game_qb").alias("qb"), pl.col("gameday").str.to_date().alias("asof"),
+                    "e_target_share_qb", "e_targets_qb", "e_receiving_yards_qb", "n_qb")
+            .sort("asof"))
+    keyed = (df.with_columns((pl.col("gameday").str.to_date() - pl.duration(days=1)).alias("asof"))
+             .sort("asof")
+             .join_asof(hist, on="asof", by_left=["player_id", "expected_qb"], by_right=["player_id", "qb"],
+                        strategy="backward", tolerance="400d"))
+    return keyed.drop("asof").with_columns(pl.col("n_qb").fill_null(0))
 
 
 ROLES = {"WR1": ("WR", 1), "WR2": ("WR", 2), "WR3": ("WR", 3), "RB1": ("RB", 1), "TE1": ("TE", 1)}
@@ -403,12 +434,12 @@ MARKETS = {
                 ["e_receiving_yards_adj", "e_receptions_adj", "e_targets_adj", "e_target_share_adj", "e_air_yards_share",
                  "e_yds_per_tgt", "opp_wr_rec_alw", "opp_te_rec_alw", "opp_rb_rec_alw", "opp_adj_def_pass",
                  "is_wr", "is_te", "role_rank", "opp_role_alw", "opp_role_ratio",
-                 "e_ngs_iay", "e_pfr_drop_pct"]),
+                 "e_ngs_iay", "e_pfr_drop_pct", "e_target_share_qb", "e_targets_qb", "n_qb"]),
     "receptions": ("receptions", ["WR", "TE", "RB"], pl.col("e_targets") >= 3,
                    ["e_receptions_adj", "e_targets_adj", "e_target_share_adj", "e_air_yards_share",
                     "opp_wr_rec_alw", "opp_te_rec_alw", "opp_rb_rec_alw", "opp_adj_def_pass",
                     "is_wr", "is_te", "role_rank", "opp_role_alw", "opp_role_ratio",
-                    "e_ngs_iay", "e_pfr_drop_pct"]),
+                    "e_ngs_iay", "e_pfr_drop_pct", "e_target_share_qb", "e_targets_qb", "e_receiving_yards_qb", "n_qb"]),
 }
 
 
