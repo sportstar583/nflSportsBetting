@@ -208,7 +208,8 @@ def main():
     ap.add_argument("snapshot", nargs="?", help="props_log CSV (default: newest)")
     ap.add_argument("--top", type=int, default=25)
     args = ap.parse_args()
-    path = Path(args.snapshot) if args.snapshot else max((ROOT / "props_log").glob("*.csv"))
+    path = Path(args.snapshot) if args.snapshot else max(
+        p for p in (ROOT / "props_log").glob("*.csv") if p.stem[:8].isdigit())  # newest timestamped snapshot
     snap = load_snapshot(path)
     sched = (pl.read_parquet(DATA / "raw" / "schedules.parquet")
              .with_columns(pl.col("home_team", "away_team").replace(props.RENAMES)))
