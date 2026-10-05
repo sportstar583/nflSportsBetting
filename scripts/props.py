@@ -55,14 +55,20 @@ def team_context(sched: pl.DataFrame, ps: pl.DataFrame) -> pl.DataFrame:
         t, o = ("home_team", "away_team") if home else ("away_team", "home_team")
         sgn = 1 if home else -1
         side.append(sched.select(
-            "game_id", "gameday", pl.col(t).alias("team"), pl.col(o).alias("opp"),
+            "game_id", "gameday", "week", pl.col(t).alias("team"), pl.col(o).alias("opp"),
+            # schedule situation: days of rest (short week), coming off a bye
+            pl.col("home_rest" if home else "away_rest").cast(pl.Float64).alias("rest"),
             (pl.col("total_line") / 2 + sgn * pl.col("spread_line") / 2).alias("implied_total"),
             (sgn * pl.col("spread_line")).alias("team_spread"),  # + means team favored
             pl.col("roof").is_in(["dome", "closed"]).cast(pl.Int8).alias("indoor"),
             pl.when(pl.col("roof").is_in(["dome", "closed"])).then(0.0)
             .otherwise(pl.col("wind").cast(pl.Float64)).alias("wind"),
         ))
-    ctx = pl.concat(side)
+    ctx = (pl.concat(side).sort("team", "gameday")
+           .with_columns((pl.col("rest") <= 5).cast(pl.Int8).alias("short_rest"),
+                         ((pl.col("week") - pl.col("week").shift(1).over("team") >= 2) & (pl.col("week") > 1))
+                         .fill_null(False).cast(pl.Int8).alias("off_bye"))
+           .drop("week"))
     vol = ps.group_by("game_id", "team").agg(
         pl.col("attempts").sum().alias("team_att"), pl.col("carries").sum().alias("team_car"),
         pl.col("targets").sum().alias("team_tgt"))
@@ -415,7 +421,7 @@ def own_injury() -> pl.DataFrame:
 
 COMMON = ["implied_total", "team_spread", "indoor", "wind", "e_team_plays", "e_team_pass_rate",
           "e_offense_pct", "team_inj_skill", "team_inj_wr", "team_inj_rb", "team_inj_te",
-          "opp_inj_db", "opp_inj_front", "own_q", "own_dnp", "n_prior"]
+          "opp_inj_db", "opp_inj_front", "own_q", "own_dnp", "n_prior", "rest", "short_rest", "off_bye"]
 # Volume features are the injury-ADJUSTED ones (vacated_volume): a backup whose starter is out is
 # shown to the model as a lead back. Same overall MAE; clearly better when a starter is out.
 # Next Gen / PFR / expected-yards features were chosen by ablation (walk-forward MAE); the rest of
