@@ -159,7 +159,26 @@ def build(upcoming: pl.DataFrame | None = None, wind: dict | None = None) -> pl.
                         (pl.col("plr_ypt_man_prev") - pl.col("plr_ypt_zone_prev")).alias("plr_man_edge_prev"))
           .with_columns(pl.col("team_inj_skill", "team_inj_wr", "team_inj_rb", "team_inj_te",
                                "opp_inj_db", "opp_inj_front").fill_null(0)))
-    return qb_quality(vacated_volume(df, sched))
+    return prior_year(qb_quality(vacated_volume(df, sched)))
+
+
+def prior_year(df: pl.DataFrame) -> pl.DataFrame:
+    """Age, last season's per-game averages, and this season's rolling level minus them (the
+    'jump'). Hot starts persist more for young players (RBs <= 25 kept 69% of an early jump,
+    26-29 44%; WRs <= 25 53%, 30+ none; QBs 30+ 18%), so the jump and age go in together.
+    Passing MAE 62.82 -> 62.46 with jump + age; rushing 25.15 -> 25.04 with prior average,
+    jump, age and jump x age. Nothing for receivers. New team / new coach: tested, no gain."""
+    players = pl.read_parquet(DATA / "raw" / "players.parquet").select(pl.col("gsis_id").alias("player_id"), "birth_date")
+    prev = (pl.read_parquet(DATA / "raw" / "player_stats.parquet").filter(pl.col("season_type") == "REG")
+            .group_by("season", "player_id")
+            .agg(pl.col("passing_yards").mean().alias("prev_pass_avg"), pl.col("rushing_yards").mean().alias("prev_rush_avg"),
+                 pl.len().alias("g"))
+            .filter(pl.col("g") >= 6).drop("g").with_columns(pl.col("season") + 1))
+    return (df.join(players, on="player_id", how="left").join(prev, on=["season", "player_id"], how="left")
+            .with_columns((pl.col("season") - pl.col("birth_date").str.to_date().dt.year()).cast(pl.Float64).alias("age"))
+            .with_columns((pl.col("e_passing_yards") - pl.col("prev_pass_avg")).alias("jump_pass"),
+                          (pl.col("e_rushing_yards_adj") - pl.col("prev_rush_avg")).alias("jump_rush"))
+            .with_columns((pl.col("jump_rush") * (pl.col("age") - 27)).alias("jump_rush_x_age")))
 
 
 def qb_quality(df: pl.DataFrame) -> pl.DataFrame:
@@ -499,11 +518,11 @@ MARKETS = {
                  ["e_passing_yards", "e_attempts", "e_yds_per_att", "e_passing_epa",
                   "opp_pass_yds_alw", "opp_adj_def_pass",
                   "e_ngs_ttt", "e_ngs_agg", "e_ngs_iay_pass", "e_ngs_cpoe", "e_ngs_ays", "e_giveaways", "e_proe_neutral",
-                  "qb_qtile", "def_x_qb"]),
+                  "qb_qtile", "def_x_qb", "jump_pass", "age"]),
     "rush_yds": ("rushing_yards", ["RB"], pl.col("e_carries") >= 6,
                  ["e_rushing_yards_adj", "e_carries_adj", "e_carry_share_adj", "e_yds_per_car",
                   "opp_rb_rush_alw", "opp_adj_def_run", "role_rank", "opp_role_alw", "opp_role_ratio",
-                  "e_pfr_rush_bt", "e_ff_rush_yoe"]),
+                  "e_pfr_rush_bt", "e_ff_rush_yoe", "prev_rush_avg", "jump_rush", "age", "jump_rush_x_age"]),
     "rec_yds": ("receiving_yards", ["WR", "TE", "RB"], pl.col("e_targets") >= 3,
                 ["e_receiving_yards_adj", "e_receptions_adj", "e_targets_adj", "e_target_share_adj", "e_air_yards_share",
                  "e_yds_per_tgt", "opp_wr_rec_alw", "opp_te_rec_alw", "opp_rb_rec_alw", "opp_adj_def_pass",
