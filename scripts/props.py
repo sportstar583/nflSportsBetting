@@ -159,7 +159,22 @@ def build(upcoming: pl.DataFrame | None = None, wind: dict | None = None) -> pl.
                         (pl.col("plr_ypt_man_prev") - pl.col("plr_ypt_zone_prev")).alias("plr_man_edge_prev"))
           .with_columns(pl.col("team_inj_skill", "team_inj_wr", "team_inj_rb", "team_inj_te",
                                "opp_inj_db", "opp_inj_front").fill_null(0)))
-    return vacated_volume(df, sched)
+    return qb_quality(vacated_volume(df, sched))
+
+
+def qb_quality(df: pl.DataFrame) -> pl.DataFrame:
+    """Where this game's QB ranks among the week's starters (percentile of rolling passing EPA,
+    pre-game), and its interaction with the opponent's pass-defense rating. A defense's rating
+    matters more against weak QBs (176 yds per rating unit vs 105 against strong ones), and the
+    rank normalises passing EPA across eras. Passing MAE 63.13 -> ~62.2; nothing for receivers.
+    A defense's own good-vs-bad-QB split was tested and is not a persistent trait."""
+    starters = (df.filter((pl.col("position") == "QB") & (pl.col("e_attempts") >= 15))
+                .sort("e_attempts", descending=True).group_by("game_id", "team").first()
+                .select("game_id", "team", "season", "week", "e_passing_epa"))
+    starters = starters.with_columns(
+        (pl.col("e_passing_epa").rank() / pl.len()).over("season", "week").alias("qb_qtile"))
+    df = df.join(starters.select("game_id", "team", "qb_qtile"), on=["game_id", "team"], how="left")
+    return df.with_columns((pl.col("opp_adj_def_pass") * (pl.col("qb_qtile") - 0.5)).alias("def_x_qb"))
 
 
 ABSORB_CAR, ABSORB_TGT = 0.36, 0.17  # refit below after any change to players_out / VACATE_DAYS
@@ -483,7 +498,8 @@ MARKETS = {
     "pass_yds": ("passing_yards", ["QB"], pl.col("e_attempts") >= 20,
                  ["e_passing_yards", "e_attempts", "e_yds_per_att", "e_passing_epa",
                   "opp_pass_yds_alw", "opp_adj_def_pass",
-                  "e_ngs_ttt", "e_ngs_agg", "e_ngs_iay_pass", "e_ngs_cpoe", "e_ngs_ays", "e_giveaways", "e_proe_neutral"]),
+                  "e_ngs_ttt", "e_ngs_agg", "e_ngs_iay_pass", "e_ngs_cpoe", "e_ngs_ays", "e_giveaways", "e_proe_neutral",
+                  "qb_qtile", "def_x_qb"]),
     "rush_yds": ("rushing_yards", ["RB"], pl.col("e_carries") >= 6,
                  ["e_rushing_yards_adj", "e_carries_adj", "e_carry_share_adj", "e_yds_per_car",
                   "opp_rb_rush_alw", "opp_adj_def_run", "role_rank", "opp_role_alw", "opp_role_ratio",
