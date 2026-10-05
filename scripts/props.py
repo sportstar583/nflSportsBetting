@@ -128,6 +128,7 @@ def build(upcoming: pl.DataFrame | None = None, wind: dict | None = None) -> pl.
 
     df = (ps.join(snap_share(), on=["game_id", "player_id"], how="left")
           .join(extra_stats(), on=["game_id", "player_id"], how="left")
+          .join(receiver_adot(), on=["game_id", "player_id"], how="left")
           .join(ctx.drop("gameday"), on=["game_id", "team"], how="left")
           .with_columns((pl.col("carries") / pl.col("team_car")).alias("carry_share"),
                         # null (not 0/0 = NaN, which would poison the rolling mean) when there was no volume
@@ -137,7 +138,7 @@ def build(upcoming: pl.DataFrame | None = None, wind: dict | None = None) -> pl.
           .sort("player_id", "gameday"))
     rolling = ["passing_yards", "attempts", "yds_per_att", "rushing_yards", "carries", "carry_share",
                "yds_per_car", "receiving_yards", "receptions", "targets", "target_share",
-               "air_yards_share", "yds_per_tgt", "offense_pct", "passing_epa", "fantasy_points_ppr"] + EXTRA
+               "air_yards_share", "yds_per_tgt", "offense_pct", "passing_epa", "fantasy_points_ppr", "adot"] + EXTRA
     df = df.with_columns([ewm(c, "player_id").alias(f"e_{c}") for c in rolling]
                          + [pl.col("game_id").cum_count().over("player_id").alias("n_prior")])
     df = (df.join(own_injury(), on=["season", "week", "team", "player_id"], how="left")
@@ -336,6 +337,17 @@ def extra_stats() -> pl.DataFrame:
     return df
 
 
+def receiver_adot() -> pl.DataFrame:
+    """Per receiver-game: average depth of target from play-by-play air yards. Covers 99% of
+    receivers (Next Gen's intended air yards covers 58%, only players over its minimums) and
+    replaces it in the receiving models (receiving MAE 22.74 -> 22.72)."""
+    pbp = (pl.scan_parquet(DATA / "raw" / "pbp" / "*.parquet")
+           .filter((pl.col("play_type") == "pass") & pl.col("air_yards").is_not_null() & (pl.col("sack") == 0))
+           .select("game_id", "receiver_player_id", "air_yards").collect())
+    return (pbp.group_by("game_id", "receiver_player_id").agg(pl.col("air_yards").mean().alias("adot"))
+            .rename({"receiver_player_id": "player_id"}))
+
+
 def proe(ctx: pl.DataFrame) -> pl.DataFrame:
     """Per team-game: pass rate over expected in neutral situations (win prob 20-80%, Q1-Q3),
     from nflverse's per-play xpass; rolled per team. Only passing yards use it. Full-game PROE,
@@ -469,12 +481,12 @@ MARKETS = {
                 ["e_receiving_yards_adj", "e_receptions_adj", "e_targets_adj", "e_target_share_adj", "e_air_yards_share",
                  "e_yds_per_tgt", "opp_wr_rec_alw", "opp_te_rec_alw", "opp_rb_rec_alw", "opp_adj_def_pass",
                  "is_wr", "is_te", "role_rank", "opp_role_alw", "opp_role_ratio",
-                 "e_ngs_iay", "e_pfr_drop_pct", "e_target_share_qb", "e_targets_qb", "n_qb", "e_giveaways"]),
+                 "e_adot", "e_pfr_drop_pct", "e_target_share_qb", "e_targets_qb", "n_qb", "e_giveaways"]),
     "receptions": ("receptions", ["WR", "TE", "RB"], pl.col("e_targets") >= 3,
                    ["e_receptions_adj", "e_targets_adj", "e_target_share_adj", "e_air_yards_share",
                     "opp_wr_rec_alw", "opp_te_rec_alw", "opp_rb_rec_alw", "opp_adj_def_pass",
                     "is_wr", "is_te", "role_rank", "opp_role_alw", "opp_role_ratio",
-                    "e_ngs_iay", "e_pfr_drop_pct", "e_target_share_qb", "e_targets_qb", "e_receiving_yards_qb", "n_qb"]),
+                    "e_adot", "e_pfr_drop_pct", "e_target_share_qb", "e_targets_qb", "e_receiving_yards_qb", "n_qb"]),
 }
 
 
