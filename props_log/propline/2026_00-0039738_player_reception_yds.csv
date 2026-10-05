@@ -1,0 +1,16 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039738,Blake Corum,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,prizepicks,0.5,True
+00-0039738,Blake Corum,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,novig,0.5,True
+00-0039738,Blake Corum,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,hardrock,24.5,True
+00-0039738,Blake Corum,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fliff,0.5,True
+00-0039738,Blake Corum,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betrivers,2.5,True
+00-0039738,Blake Corum,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,prizepicks,3.5,True
+00-0039738,Blake Corum,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,pinnacle,3.5,True
+00-0039738,Blake Corum,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,prophetx,3.5,True
+00-0039738,Blake Corum,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,hardrock,24.5,True
+00-0039738,Blake Corum,player_reception_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,betrivers,2.5,True
+00-0039738,Blake Corum,player_reception_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,pinnacle,2.5,True
+00-0039738,Blake Corum,player_reception_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,hardrock,39.5,True
+00-0039738,Blake Corum,player_reception_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,prophetx,3.5,True
+00-0039738,Blake Corum,player_reception_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,prizepicks,2.5,True
+00-0039738,Blake Corum,player_reception_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,betr,1.5,True

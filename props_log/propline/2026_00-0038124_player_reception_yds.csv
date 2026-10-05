@@ -1,0 +1,37 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038124,Christian Watson,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,betway,67.5,True
+00-0038124,Christian Watson,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,pick6,67.5,True
+00-0038124,Christian Watson,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,sportzino,65.5,True
+00-0038124,Christian Watson,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,prizepicks,61.5,True
+00-0038124,Christian Watson,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,rebet,68.5,True
+00-0038124,Christian Watson,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,dabble,65.5,True
+00-0038124,Christian Watson,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,novig,65.5,True
+00-0038124,Christian Watson,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,pinnacle,67.5,True
+00-0038124,Christian Watson,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,sleeper,68.5,True
+00-0038124,Christian Watson,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,courtside,64.5,True
+00-0038124,Christian Watson,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,hardrock,64.5,True
+00-0038124,Christian Watson,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,prophetx,67.5,True
+00-0038124,Christian Watson,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,bovada,66.5,True
+00-0038124,Christian Watson,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,prophetx,71.5,True
+00-0038124,Christian Watson,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,parlayplay,69.5,True
+00-0038124,Christian Watson,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,prizepicks,23.5,True
+00-0038124,Christian Watson,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,courtside,71.5,True
+00-0038124,Christian Watson,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,pinnacle,71.5,True
+00-0038124,Christian Watson,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,novig,72.5,True
+00-0038124,Christian Watson,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,betway,69.5,True
+00-0038124,Christian Watson,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,bovada,69.5,True
+00-0038124,Christian Watson,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,betonlineag,69.5,True
+00-0038124,Christian Watson,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,lowvig,69.5,True
+00-0038124,Christian Watson,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prizepicks,24.5,True
+00-0038124,Christian Watson,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prophetx,61.5,True
+00-0038124,Christian Watson,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,betway,58.5,True
+00-0038124,Christian Watson,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,pinnacle,60.5,True
+00-0038124,Christian Watson,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,bovada,58.5,True
+00-0038124,Christian Watson,player_reception_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,prizepicks,19.5,True
+00-0038124,Christian Watson,player_reception_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,bovada,56.5,True
+00-0038124,Christian Watson,player_reception_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,pinnacle,56.5,True
+00-0038124,Christian Watson,player_reception_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,prophetx,57.5,True
+00-0038124,Christian Watson,player_reception_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betmgm,56.5,True
+00-0038124,Christian Watson,player_reception_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betway,56.5,True
+00-0038124,Christian Watson,player_reception_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betr,54.5,True
+00-0038124,Christian Watson,player_reception_yds,147649,2026-08-22T01:00:00Z,Denver Broncos,Green Bay Packers,underdog,7.5,True

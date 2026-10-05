@@ -1,0 +1,39 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040676,Cam Ward,player_pass_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,novig,186.5,True
+00-0040676,Cam Ward,player_pass_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,pick6,186.5,True
+00-0040676,Cam Ward,player_pass_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,betway,190.5,True
+00-0040676,Cam Ward,player_pass_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,pinnacle,187.5,True
+00-0040676,Cam Ward,player_pass_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,rebet,187.5,True
+00-0040676,Cam Ward,player_pass_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,sleeper,186.5,True
+00-0040676,Cam Ward,player_pass_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,dabble,188.5,True
+00-0040676,Cam Ward,player_pass_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,bovada,186.5,True
+00-0040676,Cam Ward,player_pass_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,sportzino,188.5,True
+00-0040676,Cam Ward,player_pass_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,hardrock,174.5,True
+00-0040676,Cam Ward,player_pass_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,courtside,178.5,True
+00-0040676,Cam Ward,player_pass_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,prophetx,188.5,True
+00-0040676,Cam Ward,player_pass_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,dabble,185.5,True
+00-0040676,Cam Ward,player_pass_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,prophetx,177.5,True
+00-0040676,Cam Ward,player_pass_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,parlayplay,188.5,True
+00-0040676,Cam Ward,player_pass_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,novig,176.5,True
+00-0040676,Cam Ward,player_pass_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,bovada,175.5,True
+00-0040676,Cam Ward,player_pass_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,courtside,175.5,True
+00-0040676,Cam Ward,player_pass_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,betway,175.5,True
+00-0040676,Cam Ward,player_pass_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,hardrock,299.5,True
+00-0040676,Cam Ward,player_pass_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,pinnacle,178.5,True
+00-0040676,Cam Ward,player_pass_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,sleeper,176.5,True
+00-0040676,Cam Ward,player_pass_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,pinnacle,185.5,True
+00-0040676,Cam Ward,player_pass_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,bovada,187.5,True
+00-0040676,Cam Ward,player_pass_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,betway,189.5,True
+00-0040676,Cam Ward,player_pass_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,hardrock,324.5,True
+00-0040676,Cam Ward,player_pass_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,prophetx,192.5,True
+00-0040676,Cam Ward,player_pass_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,betr,206.5,True
+00-0040676,Cam Ward,player_pass_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,bovada,201.5,True
+00-0040676,Cam Ward,player_pass_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,prophetx,201.5,True
+00-0040676,Cam Ward,player_pass_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,betway,196.5,True
+00-0040676,Cam Ward,player_pass_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,pinnacle,201.5,True
+00-0040676,Cam Ward,player_pass_yds,159453,2026-08-29T22:00:00Z,Tennessee Titans,Chicago Bears,underdog,66.5,True
+00-0040676,Cam Ward,player_pass_yds,159453,2026-08-29T22:00:00Z,Tennessee Titans,Chicago Bears,betr,75.5,True
+00-0040676,Cam Ward,player_pass_yds,148033,2026-08-24T00:10:00Z,Tennessee Titans,Seattle Seahawks,underdog,85.5,True
+00-0040676,Cam Ward,player_pass_yds,148033,2026-08-24T00:10:00Z,Tennessee Titans,Seattle Seahawks,betr,92.5,True
+00-0040676,Cam Ward,player_pass_yds,59772,2026-08-14T04:00:00Z,San Francisco 49ers,Tennessee Titans,betr,49.5,True
+00-0040676,Cam Ward,player_pass_yds,59772,2026-08-14T04:00:00Z,San Francisco 49ers,Tennessee Titans,underdog,49.5,True

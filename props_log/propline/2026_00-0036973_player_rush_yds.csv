@@ -1,0 +1,22 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036973,Travis Etienne,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,sleeper,38.5,True
+00-0036973,Travis Etienne,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,bovada,39.5,True
+00-0036973,Travis Etienne,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,hardrock,99.5,True
+00-0036973,Travis Etienne,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,prizepicks,29.5,True
+00-0036973,Travis Etienne,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,novig,40.5,True
+00-0036973,Travis Etienne,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,pinnacle,38.5,True
+00-0036973,Travis Etienne,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,parlayplay,41.5,True
+00-0036973,Travis Etienne,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,betway,41.5,True
+00-0036973,Travis Etienne,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,courtside,39.5,True
+00-0036973,Travis Etienne,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,dabble,39.5,True
+00-0036973,Travis Etienne,player_rush_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,bovada,42.5,True
+00-0036973,Travis Etienne,player_rush_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,betway,38.5,True
+00-0036973,Travis Etienne,player_rush_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,pinnacle,40.5,True
+00-0036973,Travis Etienne,player_rush_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,prizepicks,15.5,True
+00-0036973,Travis Etienne,player_rush_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,prophetx,43.5,True
+00-0036973,Travis Etienne,player_rush_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,pinnacle,57.5,True
+00-0036973,Travis Etienne,player_rush_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betway,56.5,True
+00-0036973,Travis Etienne,player_rush_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betr,56.5,True
+00-0036973,Travis Etienne,player_rush_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,prophetx,54.5,True
+00-0036973,Travis Etienne,player_rush_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,bovada,55.5,True
+00-0036973,Travis Etienne,player_rush_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,prizepicks,26.5,True

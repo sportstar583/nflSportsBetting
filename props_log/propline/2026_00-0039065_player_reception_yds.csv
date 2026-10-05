@@ -1,0 +1,20 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039065,Sam LaPorta,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,pinnacle,45.5,True
+00-0039065,Sam LaPorta,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,bovada,46.5,True
+00-0039065,Sam LaPorta,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,dabble,42.5,True
+00-0039065,Sam LaPorta,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,courtside,48.5,True
+00-0039065,Sam LaPorta,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,novig,46.5,True
+00-0039065,Sam LaPorta,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,sleeper,46.5,True
+00-0039065,Sam LaPorta,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,prophetx,47.5,True
+00-0039065,Sam LaPorta,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,betway,42.5,True
+00-0039065,Sam LaPorta,player_reception_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,betway,45.5,True
+00-0039065,Sam LaPorta,player_reception_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,pinnacle,46.5,True
+00-0039065,Sam LaPorta,player_reception_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,prophetx,45.5,True
+00-0039065,Sam LaPorta,player_reception_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,bovada,45.5,True
+00-0039065,Sam LaPorta,player_reception_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,lowvig,45.5,True
+00-0039065,Sam LaPorta,player_reception_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,betonlineag,45.5,True
+00-0039065,Sam LaPorta,player_reception_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betway,41.5,True
+00-0039065,Sam LaPorta,player_reception_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,bovada,43.5,True
+00-0039065,Sam LaPorta,player_reception_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,prophetx,44.5,True
+00-0039065,Sam LaPorta,player_reception_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betr,41.5,True
+00-0039065,Sam LaPorta,player_reception_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,pinnacle,44.5,True

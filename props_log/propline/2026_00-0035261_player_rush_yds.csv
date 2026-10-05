@@ -1,0 +1,36 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0035261,Tony Pollard,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,betway,49.5,True
+00-0035261,Tony Pollard,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,dabble,44.5,True
+00-0035261,Tony Pollard,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,rebet,48.5,True
+00-0035261,Tony Pollard,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,sleeper,48.5,True
+00-0035261,Tony Pollard,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,pick6,47.5,True
+00-0035261,Tony Pollard,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,sportzino,44.5,True
+00-0035261,Tony Pollard,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,courtside,45.5,True
+00-0035261,Tony Pollard,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,pinnacle,48.5,True
+00-0035261,Tony Pollard,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,novig,47.5,True
+00-0035261,Tony Pollard,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,parlayplay,46.5,True
+00-0035261,Tony Pollard,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,prophetx,45.5,True
+00-0035261,Tony Pollard,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,hardrock,49.5,True
+00-0035261,Tony Pollard,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,bovada,47.5,True
+00-0035261,Tony Pollard,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,courtside,44.5,True
+00-0035261,Tony Pollard,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,parlayplay,58.5,True
+00-0035261,Tony Pollard,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,novig,56.5,True
+00-0035261,Tony Pollard,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,prophetx,56.5,True
+00-0035261,Tony Pollard,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,betway,61.5,True
+00-0035261,Tony Pollard,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,pinnacle,59.5,True
+00-0035261,Tony Pollard,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,dabble,60.5,True
+00-0035261,Tony Pollard,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,sleeper,58.5,True
+00-0035261,Tony Pollard,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,bovada,59.5,True
+00-0035261,Tony Pollard,player_rush_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,pinnacle,39.5,True
+00-0035261,Tony Pollard,player_rush_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,betway,41.5,True
+00-0035261,Tony Pollard,player_rush_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,prophetx,47.5,True
+00-0035261,Tony Pollard,player_rush_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,bovada,41.5,True
+00-0035261,Tony Pollard,player_rush_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,betway,50.5,True
+00-0035261,Tony Pollard,player_rush_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,prophetx,51.5,True
+00-0035261,Tony Pollard,player_rush_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,betr,54.5,True
+00-0035261,Tony Pollard,player_rush_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,pinnacle,48.5,True
+00-0035261,Tony Pollard,player_rush_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,bovada,48.5,True
+00-0035261,Tony Pollard,player_rush_yds,159453,2026-08-29T22:00:00Z,Tennessee Titans,Chicago Bears,underdog,17.5,True
+00-0035261,Tony Pollard,player_rush_yds,148033,2026-08-24T00:10:00Z,Tennessee Titans,Seattle Seahawks,underdog,20.5,True
+00-0035261,Tony Pollard,player_rush_yds,59772,2026-08-14T04:00:00Z,San Francisco 49ers,Tennessee Titans,betr,13.5,True
+00-0035261,Tony Pollard,player_rush_yds,59772,2026-08-14T04:00:00Z,San Francisco 49ers,Tennessee Titans,underdog,15.5,True

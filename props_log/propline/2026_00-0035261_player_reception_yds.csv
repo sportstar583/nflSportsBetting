@@ -1,0 +1,34 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0035261,Tony Pollard,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,courtside,10.5,True
+00-0035261,Tony Pollard,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,parlayplay,10.5,True
+00-0035261,Tony Pollard,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,rebet,8.5,True
+00-0035261,Tony Pollard,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,pinnacle,8.5,True
+00-0035261,Tony Pollard,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,pick6,9.5,True
+00-0035261,Tony Pollard,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,betway,9.5,True
+00-0035261,Tony Pollard,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,hardrock,8.5,True
+00-0035261,Tony Pollard,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,dabble,8.5,True
+00-0035261,Tony Pollard,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,novig,8.5,True
+00-0035261,Tony Pollard,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,prophetx,10.5,True
+00-0035261,Tony Pollard,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,sportzino,8.5,True
+00-0035261,Tony Pollard,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,bovada,9.5,True
+00-0035261,Tony Pollard,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,sleeper,9.5,True
+00-0035261,Tony Pollard,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,fliff,9.5,True
+00-0035261,Tony Pollard,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,hardrock,24.5,True
+00-0035261,Tony Pollard,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,courtside,7.5,True
+00-0035261,Tony Pollard,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,betway,7.5,True
+00-0035261,Tony Pollard,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,polymarket_us,29.5,True
+00-0035261,Tony Pollard,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,novig,7.5,True
+00-0035261,Tony Pollard,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,pinnacle,6.5,True
+00-0035261,Tony Pollard,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,dabble,5.5,True
+00-0035261,Tony Pollard,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,sleeper,6.5,True
+00-0035261,Tony Pollard,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,betrivers,7.5,True
+00-0035261,Tony Pollard,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,parlayplay,7.5,True
+00-0035261,Tony Pollard,player_reception_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,hardrock,24.5,True
+00-0035261,Tony Pollard,player_reception_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,prophetx,8.5,True
+00-0035261,Tony Pollard,player_reception_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,betway,9.5,True
+00-0035261,Tony Pollard,player_reception_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,pinnacle,9.5,True
+00-0035261,Tony Pollard,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,hardrock,64.5,True
+00-0035261,Tony Pollard,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,betway,9.5,True
+00-0035261,Tony Pollard,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,pinnacle,9.5,True
+00-0035261,Tony Pollard,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,betr,7.5,True
+00-0035261,Tony Pollard,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,prophetx,8.5,True

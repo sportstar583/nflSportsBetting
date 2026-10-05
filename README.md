@@ -189,3 +189,15 @@ rates (yards per carry/target/attempt) are null rather than 0/0 = NaN in games w
 which had been poisoning some players' rolling averages.
 Example (2026 week 4): Seattle's two lead backs Out moved Emanuel Wilson's projection from 24.7 to
 48.4 rushing yards against a 43.5-46.5 line.
+
+## Past prop lines from prop-line.com (free tier)
+`python scripts/propline_history.py [--only-week N] [--markets ...] [--scale S] [--budget B]`
+pulls each player's main line per book per game from `/players/{name}/history` (lines are visible on
+the free tier; prices and results are redacted, so actual stats come from nflverse) into
+`props_log/propline/` (committed; one cached file per player-market, one request each, 1000/day).
+`--no-fetch` grades from the cache. The report per week: over rate by market, biggest overs and
+unders vs the consensus (median) line, and over rate by team. Coverage starts 2026-08-14 (Bovada),
+DraftKings 08-27, FanDuel/Pinnacle 09-10, so weeks 1-4 of 2026 are available.
+Mind the selection: a fetch restricted by usage *in the graded week* (e.g. `--only-week 3 --scale 2`)
+keeps only players who had a big game, which inflates the over rate; fetch the full season list
+before reading the hit rates.

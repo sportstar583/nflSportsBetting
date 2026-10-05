@@ -1,0 +1,18 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038728,Jared Wayne,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,hardrock,64.5,True
+00-0038728,Jared Wayne,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,prophetx,13.5,True
+00-0038728,Jared Wayne,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,parlayplay,14.5,True
+00-0038728,Jared Wayne,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,novig,13.5,True
+00-0038728,Jared Wayne,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,betway,15.5,True
+00-0038728,Jared Wayne,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,sleeper,14.5,True
+00-0038728,Jared Wayne,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,dabble,16.5,True
+00-0038728,Jared Wayne,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,courtside,15.5,True
+00-0038728,Jared Wayne,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,pinnacle,15.5,True
+00-0038728,Jared Wayne,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,prizepicks,15.5,True
+00-0038728,Jared Wayne,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,bovada,15.5,True
+00-0038728,Jared Wayne,player_reception_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,prizepicks,12.5,True
+00-0038728,Jared Wayne,player_reception_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,fliff,12.5,True
+00-0038728,Jared Wayne,player_reception_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,betway,12.5,True
+00-0038728,Jared Wayne,player_reception_yds,159454,2026-08-28T23:00:00Z,Carolina Panthers,Houston Texans,underdog,16.5,True
+00-0038728,Jared Wayne,player_reception_yds,147566,2026-08-21T00:00:00Z,Houston Texans,Las Vegas Raiders,betr,24.5,True
+00-0038728,Jared Wayne,player_reception_yds,147566,2026-08-21T00:00:00Z,Houston Texans,Las Vegas Raiders,underdog,24.5,True

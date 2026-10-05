@@ -1,0 +1,17 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0037805,Jeremy Ruckert,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,prizepicks,13.5,True
+00-0037805,Jeremy Ruckert,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,sleeper,15.5,True
+00-0037805,Jeremy Ruckert,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,novig,15.5,True
+00-0037805,Jeremy Ruckert,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,sportzino,12.5,True
+00-0037805,Jeremy Ruckert,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,prophetx,18.5,True
+00-0037805,Jeremy Ruckert,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,pinnacle,14.5,True
+00-0037805,Jeremy Ruckert,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,rebet,15.5,True
+00-0037805,Jeremy Ruckert,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,parlayplay,17.5,True
+00-0037805,Jeremy Ruckert,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,courtside,18.5,True
+00-0037805,Jeremy Ruckert,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,dabble,12.5,True
+00-0037805,Jeremy Ruckert,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,prizepicks,8.5,True
+00-0037805,Jeremy Ruckert,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,hardrock,24.5,True
+00-0037805,Jeremy Ruckert,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,pinnacle,8.5,True
+00-0037805,Jeremy Ruckert,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,dabble,8.5,True
+00-0037805,Jeremy Ruckert,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,courtside,8.5,True
+00-0037805,Jeremy Ruckert,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,sleeper,8.5,True

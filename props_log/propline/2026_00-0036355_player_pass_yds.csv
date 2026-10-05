@@ -1,0 +1,41 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036355,Justin Herbert,player_pass_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,dabble,213.5,True
+00-0036355,Justin Herbert,player_pass_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,pinnacle,199.5,True
+00-0036355,Justin Herbert,player_pass_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,novig,198.5,True
+00-0036355,Justin Herbert,player_pass_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sleeper,201.5,True
+00-0036355,Justin Herbert,player_pass_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,betway,198.5,True
+00-0036355,Justin Herbert,player_pass_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,rebet,199.5,True
+00-0036355,Justin Herbert,player_pass_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,pick6,202.5,True
+00-0036355,Justin Herbert,player_pass_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,courtside,200.5,True
+00-0036355,Justin Herbert,player_pass_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,parlayplay,198.5,True
+00-0036355,Justin Herbert,player_pass_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sportzino,198.5,True
+00-0036355,Justin Herbert,player_pass_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prophetx,198.5,True
+00-0036355,Justin Herbert,player_pass_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,bovada,198.5,True
+00-0036355,Justin Herbert,player_pass_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,hardrock,199.5,True
+00-0036355,Justin Herbert,player_pass_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prizepicks,168.5,True
+00-0036355,Justin Herbert,player_pass_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,prizepicks,145.5,True
+00-0036355,Justin Herbert,player_pass_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,parlayplay,225.5,True
+00-0036355,Justin Herbert,player_pass_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,novig,227.5,True
+00-0036355,Justin Herbert,player_pass_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,betway,222.5,True
+00-0036355,Justin Herbert,player_pass_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,pinnacle,224.5,True
+00-0036355,Justin Herbert,player_pass_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,prophetx,215.5,True
+00-0036355,Justin Herbert,player_pass_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,courtside,224.5,True
+00-0036355,Justin Herbert,player_pass_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,dabble,223.5,True
+00-0036355,Justin Herbert,player_pass_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,sleeper,227.5,True
+00-0036355,Justin Herbert,player_pass_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,bovada,228.5,True
+00-0036355,Justin Herbert,player_pass_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,lowvig,225.5,True
+00-0036355,Justin Herbert,player_pass_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,betonlineag,225.5,True
+00-0036355,Justin Herbert,player_pass_yds,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,prizepicks,149.5,True
+00-0036355,Justin Herbert,player_pass_yds,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,betway,224.5,True
+00-0036355,Justin Herbert,player_pass_yds,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,bovada,222.5,True
+00-0036355,Justin Herbert,player_pass_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,betr,237.5,True
+00-0036355,Justin Herbert,player_pass_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,bovada,236.5,True
+00-0036355,Justin Herbert,player_pass_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,prizepicks,164.5,True
+00-0036355,Justin Herbert,player_pass_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,betway,238.5,True
+00-0036355,Justin Herbert,player_pass_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,hardrock,124.5,True
+00-0036355,Justin Herbert,player_pass_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,prophetx,238.5,True
+00-0036355,Justin Herbert,player_pass_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,pinnacle,233.5,True
+00-0036355,Justin Herbert,player_pass_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,betmgm,236.5,True
+00-0036355,Justin Herbert,player_pass_yds,150823,2026-08-28T02:00:00Z,Los Angeles Chargers,Los Angeles Rams,underdog,26.5,True
+00-0036355,Justin Herbert,player_pass_yds,147565,2026-08-21T02:00:00Z,Los Angeles Chargers,San Francisco 49ers,betr,27.5,True
+00-0036355,Justin Herbert,player_pass_yds,147565,2026-08-21T02:00:00Z,Los Angeles Chargers,San Francisco 49ers,underdog,28.5,True

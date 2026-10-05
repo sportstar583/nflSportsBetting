@@ -1,0 +1,36 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0033873,Patrick Mahomes,player_pass_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,novig,238.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,betway,237.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,pinnacle,238.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,lowvig,240.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,betonlineag,240.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,bovada,237.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,courtside,240.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,sleeper,240.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,dabble,236.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,pick6,239.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,sportzino,236.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,rebet,238.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,hardrock,249.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,prophetx,236.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,novig,236.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,sleeper,237.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,pinnacle,235.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,betway,233.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,dabble,236.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,courtside,235.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,prophetx,233.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,bovada,234.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,32646,2026-09-21T00:22:43Z,Kansas City Chiefs,Indianapolis Colts,lowvig,220.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,32646,2026-09-21T00:22:43Z,Kansas City Chiefs,Indianapolis Colts,betonlineag,220.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,32646,2026-09-21T00:22:43Z,Kansas City Chiefs,Indianapolis Colts,bovada,219.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,32646,2026-09-21T00:22:43Z,Kansas City Chiefs,Indianapolis Colts,betway,223.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,32646,2026-09-21T00:22:43Z,Kansas City Chiefs,Indianapolis Colts,prophetx,217.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,32646,2026-09-21T00:22:43Z,Kansas City Chiefs,Indianapolis Colts,pinnacle,220.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,prophetx,222.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,betway,224.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,betr,225.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,pinnacle,224.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,bovada,220.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,lowvig,220.5,True
+00-0033873,Patrick Mahomes,player_pass_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,betonlineag,220.5,True

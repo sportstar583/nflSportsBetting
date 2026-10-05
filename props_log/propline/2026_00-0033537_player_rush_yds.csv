@@ -1,0 +1,37 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0033537,Deshaun Watson,player_rush_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,parlayplay,28.5,True
+00-0033537,Deshaun Watson,player_rush_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,rebet,27.5,True
+00-0033537,Deshaun Watson,player_rush_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,novig,27.5,True
+00-0033537,Deshaun Watson,player_rush_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,prophetx,28.5,True
+00-0033537,Deshaun Watson,player_rush_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betway,27.5,True
+00-0033537,Deshaun Watson,player_rush_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,sleeper,28.5,True
+00-0033537,Deshaun Watson,player_rush_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,hardrock,24.5,True
+00-0033537,Deshaun Watson,player_rush_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,27.5,True
+00-0033537,Deshaun Watson,player_rush_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betonlineag,29.5,True
+00-0033537,Deshaun Watson,player_rush_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,bovada,28.5,True
+00-0033537,Deshaun Watson,player_rush_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,lowvig,29.5,True
+00-0033537,Deshaun Watson,player_rush_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,dabble,26.5,True
+00-0033537,Deshaun Watson,player_rush_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,courtside,29.5,True
+00-0033537,Deshaun Watson,player_rush_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,prizepicks,18.5,True
+00-0033537,Deshaun Watson,player_rush_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,pinnacle,25.5,True
+00-0033537,Deshaun Watson,player_rush_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,prizepicks,28.5,True
+00-0033537,Deshaun Watson,player_rush_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,hardrock,79.5,True
+00-0033537,Deshaun Watson,player_rush_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,betway,26.5,True
+00-0033537,Deshaun Watson,player_rush_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,parlayplay,26.5,True
+00-0033537,Deshaun Watson,player_rush_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,courtside,24.5,True
+00-0033537,Deshaun Watson,player_rush_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,prophetx,26.5,True
+00-0033537,Deshaun Watson,player_rush_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,sleeper,25.5,True
+00-0033537,Deshaun Watson,player_rush_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,novig,25.5,True
+00-0033537,Deshaun Watson,player_rush_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,dabble,25.5,True
+00-0033537,Deshaun Watson,player_rush_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,bovada,25.5,True
+00-0033537,Deshaun Watson,player_rush_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,betway,22.5,True
+00-0033537,Deshaun Watson,player_rush_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,prophetx,22.5,True
+00-0033537,Deshaun Watson,player_rush_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,pinnacle,22.5,True
+00-0033537,Deshaun Watson,player_rush_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,prizepicks,6.5,True
+00-0033537,Deshaun Watson,player_rush_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,hardrock,79.5,True
+00-0033537,Deshaun Watson,player_rush_yds,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,betr,19.5,True
+00-0033537,Deshaun Watson,player_rush_yds,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,betway,17.5,True
+00-0033537,Deshaun Watson,player_rush_yds,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,pinnacle,16.5,True
+00-0033537,Deshaun Watson,player_rush_yds,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,prophetx,17.5,True
+00-0033537,Deshaun Watson,player_rush_yds,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,fliff,16.5,True
+00-0033537,Deshaun Watson,player_rush_yds,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,prizepicks,5.5,True

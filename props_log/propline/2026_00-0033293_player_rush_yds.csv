@@ -1,0 +1,36 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0033293,Aaron Jones,player_rush_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,courtside,68.5,True
+00-0033293,Aaron Jones,player_rush_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,parlayplay,64.5,True
+00-0033293,Aaron Jones,player_rush_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,pinnacle,65.5,True
+00-0033293,Aaron Jones,player_rush_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,dabble,64.5,True
+00-0033293,Aaron Jones,player_rush_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,bovada,66.5,True
+00-0033293,Aaron Jones,player_rush_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,sleeper,65.5,True
+00-0033293,Aaron Jones,player_rush_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,prophetx,66.5,True
+00-0033293,Aaron Jones,player_rush_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,sportzino,66.5,True
+00-0033293,Aaron Jones,player_rush_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,novig,66.5,True
+00-0033293,Aaron Jones,player_rush_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,rebet,66.5,True
+00-0033293,Aaron Jones,player_rush_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,prizepicks,39.5,True
+00-0033293,Aaron Jones,player_rush_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,pick6,66.5,True
+00-0033293,Aaron Jones,player_rush_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,hardrock,64.5,True
+00-0033293,Aaron Jones,player_rush_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,betway,65.5,True
+00-0033293,Aaron Jones,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,bovada,51.5,True
+00-0033293,Aaron Jones,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,betway,52.5,True
+00-0033293,Aaron Jones,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,prizepicks,49.5,True
+00-0033293,Aaron Jones,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,pinnacle,52.5,True
+00-0033293,Aaron Jones,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,courtside,53.5,True
+00-0033293,Aaron Jones,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,sleeper,52.5,True
+00-0033293,Aaron Jones,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,novig,53.5,True
+00-0033293,Aaron Jones,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,parlayplay,50.5,True
+00-0033293,Aaron Jones,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,prophetx,50.5,True
+00-0033293,Aaron Jones,player_rush_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,prophetx,54.5,True
+00-0033293,Aaron Jones,player_rush_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,pinnacle,54.5,True
+00-0033293,Aaron Jones,player_rush_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,bovada,54.5,True
+00-0033293,Aaron Jones,player_rush_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,betway,61.5,True
+00-0033293,Aaron Jones,player_rush_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,prizepicks,26.5,True
+00-0033293,Aaron Jones,player_rush_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,bovada,28.5,True
+00-0033293,Aaron Jones,player_rush_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,pinnacle,29.5,True
+00-0033293,Aaron Jones,player_rush_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betmgm,29.5,True
+00-0033293,Aaron Jones,player_rush_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,fanatics,30.5,True
+00-0033293,Aaron Jones,player_rush_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betway,30.5,True
+00-0033293,Aaron Jones,player_rush_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betr,29.5,True
+00-0033293,Aaron Jones,player_rush_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,prizepicks,10.5,True

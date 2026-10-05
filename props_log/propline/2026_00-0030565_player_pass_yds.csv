@@ -1,0 +1,37 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0030565,Geno Smith,player_pass_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,pinnacle,227.5,True
+00-0030565,Geno Smith,player_pass_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,sleeper,227.5,True
+00-0030565,Geno Smith,player_pass_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,novig,227.5,True
+00-0030565,Geno Smith,player_pass_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,prophetx,227.5,True
+00-0030565,Geno Smith,player_pass_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,sportzino,218.5,True
+00-0030565,Geno Smith,player_pass_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,courtside,227.5,True
+00-0030565,Geno Smith,player_pass_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,prizepicks,217.5,True
+00-0030565,Geno Smith,player_pass_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,hardrock,224.5,True
+00-0030565,Geno Smith,player_pass_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,dabble,225.5,True
+00-0030565,Geno Smith,player_pass_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,rebet,223.5,True
+00-0030565,Geno Smith,player_pass_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,pick6,230.5,True
+00-0030565,Geno Smith,player_pass_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,betway,220.5,True
+00-0030565,Geno Smith,player_pass_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,bovada,227.5,True
+00-0030565,Geno Smith,player_pass_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,novig,226.5,True
+00-0030565,Geno Smith,player_pass_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,pinnacle,225.5,True
+00-0030565,Geno Smith,player_pass_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,sleeper,228.5,True
+00-0030565,Geno Smith,player_pass_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,prizepicks,145.5,True
+00-0030565,Geno Smith,player_pass_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,betway,226.5,True
+00-0030565,Geno Smith,player_pass_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,prophetx,217.5,True
+00-0030565,Geno Smith,player_pass_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,courtside,218.5,True
+00-0030565,Geno Smith,player_pass_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,dabble,224.5,True
+00-0030565,Geno Smith,player_pass_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,bovada,226.5,True
+00-0030565,Geno Smith,player_pass_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prizepicks,137.5,True
+00-0030565,Geno Smith,player_pass_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,betway,208.5,True
+00-0030565,Geno Smith,player_pass_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,pinnacle,207.5,True
+00-0030565,Geno Smith,player_pass_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prophetx,207.5,True
+00-0030565,Geno Smith,player_pass_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,bovada,207.5,True
+00-0030565,Geno Smith,player_pass_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,betr,206.5,True
+00-0030565,Geno Smith,player_pass_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,bovada,210.5,True
+00-0030565,Geno Smith,player_pass_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,betway,210.5,True
+00-0030565,Geno Smith,player_pass_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,prizepicks,138.5,True
+00-0030565,Geno Smith,player_pass_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,pinnacle,212.5,True
+00-0030565,Geno Smith,player_pass_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,prophetx,210.5,True
+00-0030565,Geno Smith,player_pass_yds,147550,2026-08-21T23:00:00Z,Pittsburgh Steelers,New York Jets,underdog,42.5,True
+00-0030565,Geno Smith,player_pass_yds,59770,2026-08-15T02:00:00Z,New York Jets,Tampa Bay Buccaneers,betr,35.5,True
+00-0030565,Geno Smith,player_pass_yds,59770,2026-08-15T02:00:00Z,New York Jets,Tampa Bay Buccaneers,underdog,36.5,True

@@ -1,0 +1,44 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036912,DeVonta Smith,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,prophetx,68.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,betrivers,64.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,hardrock,65.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,dabble,66.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,pinnacle,65.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,fanduel,65.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,sleeper,65.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,draftkings,66.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,polymarket_us,59.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,kalshi,89.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,parlayplay,64.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,novig,65.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,fanatics,65.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,courtside,68.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,fliff,65.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,underdog,66.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,rebet,65.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,bovada,66.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,betway,72.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,prophetx,119.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,sleeper,72.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,parlayplay,73.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,dabble,72.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,pinnacle,70.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,rebet,70.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,novig,68.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,betonlineag,72.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,lowvig,72.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,bovada,69.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,underdog,60.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,prophetx,59.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,pinnacle,60.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,betway,58.5,True
+00-0036912,DeVonta Smith,player_reception_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,bovada,58.5,True
+00-0036912,DeVonta Smith,player_reception_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betway,64.5,True
+00-0036912,DeVonta Smith,player_reception_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,lowvig,66.5,True
+00-0036912,DeVonta Smith,player_reception_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betonlineag,66.5,True
+00-0036912,DeVonta Smith,player_reception_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,bovada,64.5,True
+00-0036912,DeVonta Smith,player_reception_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,fanatics,65.5,True
+00-0036912,DeVonta Smith,player_reception_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,pinnacle,64.5,True
+00-0036912,DeVonta Smith,player_reception_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betmgm,62.5,True
+00-0036912,DeVonta Smith,player_reception_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betr,65.5,True
+00-0036912,DeVonta Smith,player_reception_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,prophetx,67.5,True

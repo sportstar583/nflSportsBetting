@@ -1,0 +1,40 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0033077,Dak Prescott,player_pass_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,courtside,267.5,True
+00-0033077,Dak Prescott,player_pass_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,parlayplay,266.5,True
+00-0033077,Dak Prescott,player_pass_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,prophetx,273.5,True
+00-0033077,Dak Prescott,player_pass_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,rebet,266.5,True
+00-0033077,Dak Prescott,player_pass_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,novig,266.5,True
+00-0033077,Dak Prescott,player_pass_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,pick6,268.5,True
+00-0033077,Dak Prescott,player_pass_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,sportzino,270.5,True
+00-0033077,Dak Prescott,player_pass_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,dabble,270.5,True
+00-0033077,Dak Prescott,player_pass_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,betway,263.5,True
+00-0033077,Dak Prescott,player_pass_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,hardrock,274.5,True
+00-0033077,Dak Prescott,player_pass_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,bovada,266.5,True
+00-0033077,Dak Prescott,player_pass_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,sleeper,266.5,True
+00-0033077,Dak Prescott,player_pass_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,hardrock,149.5,True
+00-0033077,Dak Prescott,player_pass_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,courtside,264.5,True
+00-0033077,Dak Prescott,player_pass_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,dabble,268.5,True
+00-0033077,Dak Prescott,player_pass_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,sleeper,263.5,True
+00-0033077,Dak Prescott,player_pass_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,novig,267.5,True
+00-0033077,Dak Prescott,player_pass_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,prophetx,264.5,True
+00-0033077,Dak Prescott,player_pass_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,pinnacle,261.5,True
+00-0033077,Dak Prescott,player_pass_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,parlayplay,261.5,True
+00-0033077,Dak Prescott,player_pass_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,betway,268.5,True
+00-0033077,Dak Prescott,player_pass_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,bovada,264.5,True
+00-0033077,Dak Prescott,player_pass_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,betonlineag,268.5,True
+00-0033077,Dak Prescott,player_pass_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,lowvig,268.5,True
+00-0033077,Dak Prescott,player_pass_yds,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,betway,270.5,True
+00-0033077,Dak Prescott,player_pass_yds,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,betonlineag,265.5,True
+00-0033077,Dak Prescott,player_pass_yds,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,bovada,265.5,True
+00-0033077,Dak Prescott,player_pass_yds,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,lowvig,265.5,True
+00-0033077,Dak Prescott,player_pass_yds,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,hardrock,149.5,True
+00-0033077,Dak Prescott,player_pass_yds,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,pinnacle,266.5,True
+00-0033077,Dak Prescott,player_pass_yds,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,prophetx,262.5,True
+00-0033077,Dak Prescott,player_pass_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,prophetx,263.5,True
+00-0033077,Dak Prescott,player_pass_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,pinnacle,261.5,True
+00-0033077,Dak Prescott,player_pass_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betr,260.5,True
+00-0033077,Dak Prescott,player_pass_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betway,254.5,True
+00-0033077,Dak Prescott,player_pass_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betmgm,256.5,True
+00-0033077,Dak Prescott,player_pass_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,bovada,259.5,True
+00-0033077,Dak Prescott,player_pass_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betonlineag,260.5,True
+00-0033077,Dak Prescott,player_pass_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,lowvig,260.5,True

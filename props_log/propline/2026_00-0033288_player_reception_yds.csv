@@ -1,0 +1,32 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0033288,George Kittle,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,prophetx,63.5,True
+00-0033288,George Kittle,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,betway,63.5,True
+00-0033288,George Kittle,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,pick6,64.5,True
+00-0033288,George Kittle,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,novig,62.5,True
+00-0033288,George Kittle,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,dabble,60.5,True
+00-0033288,George Kittle,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,hardrock,64.5,True
+00-0033288,George Kittle,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,pinnacle,64.5,True
+00-0033288,George Kittle,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,rebet,64.5,True
+00-0033288,George Kittle,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,bovada,61.5,True
+00-0033288,George Kittle,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,prizepicks,54.5,True
+00-0033288,George Kittle,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,sportzino,61.5,True
+00-0033288,George Kittle,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,sleeper,63.5,True
+00-0033288,George Kittle,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,parlayplay,59.5,True
+00-0033288,George Kittle,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,courtside,62.5,True
+00-0033288,George Kittle,player_reception_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,courtside,48.5,True
+00-0033288,George Kittle,player_reception_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,betway,43.5,True
+00-0033288,George Kittle,player_reception_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,pinnacle,44.5,True
+00-0033288,George Kittle,player_reception_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,dabble,44.5,True
+00-0033288,George Kittle,player_reception_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,prizepicks,41.5,True
+00-0033288,George Kittle,player_reception_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,sleeper,46.5,True
+00-0033288,George Kittle,player_reception_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,novig,41.5,True
+00-0033288,George Kittle,player_reception_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,prophetx,47.5,True
+00-0033288,George Kittle,player_reception_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,bovada,46.5,True
+00-0033288,George Kittle,player_reception_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,prophetx,42.5,True
+00-0033288,George Kittle,player_reception_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,betway,38.5,True
+00-0033288,George Kittle,player_reception_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,prizepicks,13.5,True
+00-0033288,George Kittle,player_reception_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,bovada,39.5,True
+00-0033288,George Kittle,player_reception_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,prophetx,35.5,True
+00-0033288,George Kittle,player_reception_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,prizepicks,9.5,True
+00-0033288,George Kittle,player_reception_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,bovada,32.5,True
+00-0033288,George Kittle,player_reception_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,pinnacle,33.5,True

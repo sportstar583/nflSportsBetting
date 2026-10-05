@@ -1,0 +1,32 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038597,Chase Brown,player_rush_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,parlayplay,58.5,True
+00-0038597,Chase Brown,player_rush_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,pick6,59.5,True
+00-0038597,Chase Brown,player_rush_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,prophetx,61.5,True
+00-0038597,Chase Brown,player_rush_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,dabble,61.5,True
+00-0038597,Chase Brown,player_rush_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,pinnacle,60.5,True
+00-0038597,Chase Brown,player_rush_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,rebet,58.5,True
+00-0038597,Chase Brown,player_rush_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,novig,58.5,True
+00-0038597,Chase Brown,player_rush_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,courtside,59.5,True
+00-0038597,Chase Brown,player_rush_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,sleeper,59.5,True
+00-0038597,Chase Brown,player_rush_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,sportzino,62.5,True
+00-0038597,Chase Brown,player_rush_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,hardrock,64.5,True
+00-0038597,Chase Brown,player_rush_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,bovada,61.5,True
+00-0038597,Chase Brown,player_rush_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,betonlineag,60.5,True
+00-0038597,Chase Brown,player_rush_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,lowvig,60.5,True
+00-0038597,Chase Brown,player_rush_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,betway,60.5,True
+00-0038597,Chase Brown,player_rush_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,dabble,63.5,True
+00-0038597,Chase Brown,player_rush_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,prophetx,62.5,True
+00-0038597,Chase Brown,player_rush_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,novig,63.5,True
+00-0038597,Chase Brown,player_rush_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,pinnacle,63.5,True
+00-0038597,Chase Brown,player_rush_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,betway,60.5,True
+00-0038597,Chase Brown,player_rush_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,sleeper,63.5,True
+00-0038597,Chase Brown,player_rush_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,bovada,63.5,True
+00-0038597,Chase Brown,player_rush_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,betway,57.5,True
+00-0038597,Chase Brown,player_rush_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,prophetx,56.5,True
+00-0038597,Chase Brown,player_rush_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,lowvig,55.5,True
+00-0038597,Chase Brown,player_rush_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,betonlineag,55.5,True
+00-0038597,Chase Brown,player_rush_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,bovada,53.5,True
+00-0038597,Chase Brown,player_rush_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,pinnacle,55.5,True
+00-0038597,Chase Brown,player_rush_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betway,58.5,True
+00-0038597,Chase Brown,player_rush_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,pinnacle,56.5,True
+00-0038597,Chase Brown,player_rush_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betr,57.5,True

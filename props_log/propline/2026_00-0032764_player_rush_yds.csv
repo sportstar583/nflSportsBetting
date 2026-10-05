@@ -1,0 +1,35 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0032764,Derrick Henry,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,prophetx,98.5,True
+00-0032764,Derrick Henry,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,parlayplay,99.5,True
+00-0032764,Derrick Henry,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,dabble,96.5,True
+00-0032764,Derrick Henry,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,rebet,98.5,True
+00-0032764,Derrick Henry,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,sleeper,97.5,True
+00-0032764,Derrick Henry,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,novig,97.5,True
+00-0032764,Derrick Henry,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,pick6,99.5,True
+00-0032764,Derrick Henry,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,sportzino,97.5,True
+00-0032764,Derrick Henry,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,pinnacle,97.5,True
+00-0032764,Derrick Henry,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,hardrock,99.5,True
+00-0032764,Derrick Henry,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,courtside,94.5,True
+00-0032764,Derrick Henry,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,betway,97.5,True
+00-0032764,Derrick Henry,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,bovada,98.5,True
+00-0032764,Derrick Henry,player_rush_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,parlayplay,89.5,True
+00-0032764,Derrick Henry,player_rush_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,prophetx,119.5,True
+00-0032764,Derrick Henry,player_rush_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,pinnacle,91.5,True
+00-0032764,Derrick Henry,player_rush_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,sleeper,92.5,True
+00-0032764,Derrick Henry,player_rush_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,novig,90.5,True
+00-0032764,Derrick Henry,player_rush_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,dabble,90.5,True
+00-0032764,Derrick Henry,player_rush_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,betway,89.5,True
+00-0032764,Derrick Henry,player_rush_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,bovada,88.5,True
+00-0032764,Derrick Henry,player_rush_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,lowvig,89.5,True
+00-0032764,Derrick Henry,player_rush_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,betonlineag,89.5,True
+00-0032764,Derrick Henry,player_rush_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,bovada,90.5,True
+00-0032764,Derrick Henry,player_rush_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,pinnacle,94.5,True
+00-0032764,Derrick Henry,player_rush_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,prophetx,92.5,True
+00-0032764,Derrick Henry,player_rush_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,betway,96.5,True
+00-0032764,Derrick Henry,player_rush_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,prophetx,78.5,True
+00-0032764,Derrick Henry,player_rush_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,pinnacle,80.5,True
+00-0032764,Derrick Henry,player_rush_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,betr,80.5,True
+00-0032764,Derrick Henry,player_rush_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,lowvig,79.5,True
+00-0032764,Derrick Henry,player_rush_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,betonlineag,79.5,True
+00-0032764,Derrick Henry,player_rush_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,bovada,79.5,True
+00-0032764,Derrick Henry,player_rush_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,betway,77.5,True

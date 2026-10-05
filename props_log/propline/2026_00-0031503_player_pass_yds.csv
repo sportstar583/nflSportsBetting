@@ -1,0 +1,27 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0031503,Jameis Winston,player_pass_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,novig,206.5,True
+00-0031503,Jameis Winston,player_pass_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,pinnacle,208.5,True
+00-0031503,Jameis Winston,player_pass_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,sleeper,207.5,True
+00-0031503,Jameis Winston,player_pass_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,rebet,210.5,True
+00-0031503,Jameis Winston,player_pass_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,pick6,206.5,True
+00-0031503,Jameis Winston,player_pass_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,prophetx,208.5,True
+00-0031503,Jameis Winston,player_pass_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,dabble,215.5,True
+00-0031503,Jameis Winston,player_pass_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,hardrock,224.5,True
+00-0031503,Jameis Winston,player_pass_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,sportzino,204.5,True
+00-0031503,Jameis Winston,player_pass_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,prizepicks,208.5,True
+00-0031503,Jameis Winston,player_pass_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,betway,211.5,True
+00-0031503,Jameis Winston,player_pass_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,bovada,206.5,True
+00-0031503,Jameis Winston,player_pass_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,courtside,213.5,True
+00-0031503,Jameis Winston,player_pass_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,novig,204.5,True
+00-0031503,Jameis Winston,player_pass_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,courtside,194.5,True
+00-0031503,Jameis Winston,player_pass_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,betway,199.5,True
+00-0031503,Jameis Winston,player_pass_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,hardrock,324.5,True
+00-0031503,Jameis Winston,player_pass_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,prizepicks,168.5,True
+00-0031503,Jameis Winston,player_pass_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,prophetx,208.5,True
+00-0031503,Jameis Winston,player_pass_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,pinnacle,200.5,True
+00-0031503,Jameis Winston,player_pass_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,parlayplay,199.5,True
+00-0031503,Jameis Winston,player_pass_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,dabble,203.5,True
+00-0031503,Jameis Winston,player_pass_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,sleeper,198.5,True
+00-0031503,Jameis Winston,player_pass_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,bovada,198.5,True
+00-0031503,Jameis Winston,player_pass_yds,160074,2026-08-28T23:30:00Z,New York Jets,New York Giants,underdog,97.5,True
+00-0031503,Jameis Winston,player_pass_yds,147686,2026-08-22T20:00:00Z,Miami Dolphins,New York Giants,underdog,73.5,True

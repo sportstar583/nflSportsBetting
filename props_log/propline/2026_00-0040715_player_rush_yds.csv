@@ -1,0 +1,39 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040715,Cam Skattebo,player_rush_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,bovada,62.5,True
+00-0040715,Cam Skattebo,player_rush_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,pinnacle,62.5,True
+00-0040715,Cam Skattebo,player_rush_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,rebet,62.5,True
+00-0040715,Cam Skattebo,player_rush_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,novig,62.5,True
+00-0040715,Cam Skattebo,player_rush_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,prizepicks,67.5,True
+00-0040715,Cam Skattebo,player_rush_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,sleeper,62.5,True
+00-0040715,Cam Skattebo,player_rush_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,courtside,62.5,True
+00-0040715,Cam Skattebo,player_rush_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,hardrock,64.5,True
+00-0040715,Cam Skattebo,player_rush_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,sportzino,65.5,True
+00-0040715,Cam Skattebo,player_rush_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,prophetx,63.5,True
+00-0040715,Cam Skattebo,player_rush_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,pick6,62.5,True
+00-0040715,Cam Skattebo,player_rush_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,betway,65.5,True
+00-0040715,Cam Skattebo,player_rush_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,dabble,65.5,True
+00-0040715,Cam Skattebo,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,bovada,57.5,True
+00-0040715,Cam Skattebo,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,prizepicks,52.5,True
+00-0040715,Cam Skattebo,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,novig,60.5,True
+00-0040715,Cam Skattebo,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,parlayplay,56.5,True
+00-0040715,Cam Skattebo,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,courtside,58.5,True
+00-0040715,Cam Skattebo,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,betway,58.5,True
+00-0040715,Cam Skattebo,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,prophetx,119.5,True
+00-0040715,Cam Skattebo,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,pinnacle,59.5,True
+00-0040715,Cam Skattebo,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,dabble,57.5,True
+00-0040715,Cam Skattebo,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,sleeper,59.5,True
+00-0040715,Cam Skattebo,player_rush_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betway,51.5,True
+00-0040715,Cam Skattebo,player_rush_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betonlineag,53.5,True
+00-0040715,Cam Skattebo,player_rush_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,bovada,51.5,True
+00-0040715,Cam Skattebo,player_rush_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,prizepicks,24.5,True
+00-0040715,Cam Skattebo,player_rush_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,lowvig,53.5,True
+00-0040715,Cam Skattebo,player_rush_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,pinnacle,52.5,True
+00-0040715,Cam Skattebo,player_rush_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,prophetx,51.5,True
+00-0040715,Cam Skattebo,player_rush_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betr,49.5,True
+00-0040715,Cam Skattebo,player_rush_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,prizepicks,24.5,True
+00-0040715,Cam Skattebo,player_rush_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,prophetx,50.5,True
+00-0040715,Cam Skattebo,player_rush_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,lowvig,50.5,True
+00-0040715,Cam Skattebo,player_rush_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betonlineag,50.5,True
+00-0040715,Cam Skattebo,player_rush_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betway,48.5,True
+00-0040715,Cam Skattebo,player_rush_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,pinnacle,50.5,True
+00-0040715,Cam Skattebo,player_rush_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betmgm,48.5,True

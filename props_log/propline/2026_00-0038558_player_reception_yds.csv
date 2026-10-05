@@ -1,0 +1,30 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038558,Darnell Washington,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,hardrock,24.5,True
+00-0038558,Darnell Washington,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,prophetx,17.5,True
+00-0038558,Darnell Washington,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betway,17.5,True
+00-0038558,Darnell Washington,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,dabble,16.5,True
+00-0038558,Darnell Washington,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,sleeper,17.5,True
+00-0038558,Darnell Washington,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,novig,18.5,True
+00-0038558,Darnell Washington,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,prizepicks,14.5,True
+00-0038558,Darnell Washington,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,16.5,True
+00-0038558,Darnell Washington,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,rebet,16.5,True
+00-0038558,Darnell Washington,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,parlayplay,15.5,True
+00-0038558,Darnell Washington,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,prophetx,15.5,True
+00-0038558,Darnell Washington,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,parlayplay,13.5,True
+00-0038558,Darnell Washington,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,courtside,13.5,True
+00-0038558,Darnell Washington,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,betway,13.5,True
+00-0038558,Darnell Washington,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,hardrock,64.5,True
+00-0038558,Darnell Washington,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,prizepicks,12.5,True
+00-0038558,Darnell Washington,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,dabble,12.5,True
+00-0038558,Darnell Washington,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,sleeper,14.5,True
+00-0038558,Darnell Washington,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,novig,13.5,True
+00-0038558,Darnell Washington,player_reception_yds,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,hardrock,79.5,True
+00-0038558,Darnell Washington,player_reception_yds,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,pinnacle,14.5,True
+00-0038558,Darnell Washington,player_reception_yds,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,prizepicks,0.5,True
+00-0038558,Darnell Washington,player_reception_yds,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,prophetx,17.5,True
+00-0038558,Darnell Washington,player_reception_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,prophetx,16.5,True
+00-0038558,Darnell Washington,player_reception_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,pinnacle,16.5,True
+00-0038558,Darnell Washington,player_reception_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,betr,17.5,True
+00-0038558,Darnell Washington,player_reception_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,betway,15.5,True
+00-0038558,Darnell Washington,player_reception_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,prizepicks,0.5,True
+00-0038558,Darnell Washington,player_reception_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,hardrock,79.5,True

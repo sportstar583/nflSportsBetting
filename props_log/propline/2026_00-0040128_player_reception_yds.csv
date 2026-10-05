@@ -1,0 +1,35 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040128,Tyler Warren,player_reception_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,prophetx,56.5,True
+00-0040128,Tyler Warren,player_reception_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,sleeper,57.5,True
+00-0040128,Tyler Warren,player_reception_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,rebet,59.5,True
+00-0040128,Tyler Warren,player_reception_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,lowvig,57.5,True
+00-0040128,Tyler Warren,player_reception_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,betonlineag,57.5,True
+00-0040128,Tyler Warren,player_reception_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,bovada,56.5,True
+00-0040128,Tyler Warren,player_reception_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,hardrock,49.5,True
+00-0040128,Tyler Warren,player_reception_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,novig,56.5,True
+00-0040128,Tyler Warren,player_reception_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,dabble,57.5,True
+00-0040128,Tyler Warren,player_reception_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,betway,58.5,True
+00-0040128,Tyler Warren,player_reception_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,pinnacle,57.5,True
+00-0040128,Tyler Warren,player_reception_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,parlayplay,52.5,True
+00-0040128,Tyler Warren,player_reception_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,sportzino,57.5,True
+00-0040128,Tyler Warren,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,novig,43.5,True
+00-0040128,Tyler Warren,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,parlayplay,42.5,True
+00-0040128,Tyler Warren,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,courtside,46.5,True
+00-0040128,Tyler Warren,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,prophetx,47.5,True
+00-0040128,Tyler Warren,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,betway,45.5,True
+00-0040128,Tyler Warren,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,sleeper,46.5,True
+00-0040128,Tyler Warren,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,dabble,40.5,True
+00-0040128,Tyler Warren,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,pinnacle,46.5,True
+00-0040128,Tyler Warren,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,bovada,46.5,True
+00-0040128,Tyler Warren,player_reception_yds,32646,2026-09-21T00:22:43Z,Kansas City Chiefs,Indianapolis Colts,pinnacle,42.5,True
+00-0040128,Tyler Warren,player_reception_yds,32646,2026-09-21T00:22:43Z,Kansas City Chiefs,Indianapolis Colts,betway,43.5,True
+00-0040128,Tyler Warren,player_reception_yds,32646,2026-09-21T00:22:43Z,Kansas City Chiefs,Indianapolis Colts,bovada,42.5,True
+00-0040128,Tyler Warren,player_reception_yds,32646,2026-09-21T00:22:43Z,Kansas City Chiefs,Indianapolis Colts,lowvig,43.5,True
+00-0040128,Tyler Warren,player_reception_yds,32646,2026-09-21T00:22:43Z,Kansas City Chiefs,Indianapolis Colts,betonlineag,43.5,True
+00-0040128,Tyler Warren,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,betway,47.5,True
+00-0040128,Tyler Warren,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,prophetx,44.5,True
+00-0040128,Tyler Warren,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,pinnacle,47.5,True
+00-0040128,Tyler Warren,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,betr,47.5,True
+00-0040128,Tyler Warren,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,lowvig,46.5,True
+00-0040128,Tyler Warren,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,bovada,46.5,True
+00-0040128,Tyler Warren,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,betonlineag,46.5,True

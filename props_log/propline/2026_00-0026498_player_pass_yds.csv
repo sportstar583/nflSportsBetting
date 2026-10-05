@@ -1,0 +1,36 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0026498,Matthew Stafford,player_pass_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,rebet,249.5,True
+00-0026498,Matthew Stafford,player_pass_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,pinnacle,250.5,True
+00-0026498,Matthew Stafford,player_pass_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,prophetx,252.5,True
+00-0026498,Matthew Stafford,player_pass_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,pick6,251.5,True
+00-0026498,Matthew Stafford,player_pass_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,sportzino,251.5,True
+00-0026498,Matthew Stafford,player_pass_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,hardrock,249.5,True
+00-0026498,Matthew Stafford,player_pass_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,bovada,246.5,True
+00-0026498,Matthew Stafford,player_pass_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,courtside,245.5,True
+00-0026498,Matthew Stafford,player_pass_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,sleeper,251.5,True
+00-0026498,Matthew Stafford,player_pass_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,dabble,252.5,True
+00-0026498,Matthew Stafford,player_pass_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,betway,249.5,True
+00-0026498,Matthew Stafford,player_pass_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,novig,245.5,True
+00-0026498,Matthew Stafford,player_pass_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,parlayplay,248.5,True
+00-0026498,Matthew Stafford,player_pass_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,236.5,True
+00-0026498,Matthew Stafford,player_pass_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,sleeper,237.5,True
+00-0026498,Matthew Stafford,player_pass_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betway,243.5,True
+00-0026498,Matthew Stafford,player_pass_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betonlineag,244.5,True
+00-0026498,Matthew Stafford,player_pass_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,lowvig,244.5,True
+00-0026498,Matthew Stafford,player_pass_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,bovada,235.5,True
+00-0026498,Matthew Stafford,player_pass_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,courtside,237.5,True
+00-0026498,Matthew Stafford,player_pass_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,novig,237.5,True
+00-0026498,Matthew Stafford,player_pass_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,hardrock,149.5,True
+00-0026498,Matthew Stafford,player_pass_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,dabble,238.5,True
+00-0026498,Matthew Stafford,player_pass_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,prizepicks,172.5,True
+00-0026498,Matthew Stafford,player_pass_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betway,240.5,True
+00-0026498,Matthew Stafford,player_pass_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,pinnacle,239.5,True
+00-0026498,Matthew Stafford,player_pass_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,prophetx,238.5,True
+00-0026498,Matthew Stafford,player_pass_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betonlineag,239.5,True
+00-0026498,Matthew Stafford,player_pass_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,lowvig,239.5,True
+00-0026498,Matthew Stafford,player_pass_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,bovada,238.5,True
+00-0026498,Matthew Stafford,player_pass_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,pinnacle,259.5,True
+00-0026498,Matthew Stafford,player_pass_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,prizepicks,190.5,True
+00-0026498,Matthew Stafford,player_pass_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,bovada,261.5,True
+00-0026498,Matthew Stafford,player_pass_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,prophetx,265.5,True
+00-0026498,Matthew Stafford,player_pass_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,betr,264.5,True

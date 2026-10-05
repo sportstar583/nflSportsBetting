@@ -1,0 +1,30 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038543,Jaxon Smith-Njigba,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,novig,93.5,True
+00-0038543,Jaxon Smith-Njigba,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sleeper,95.5,True
+00-0038543,Jaxon Smith-Njigba,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,pinnacle,93.5,True
+00-0038543,Jaxon Smith-Njigba,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,hardrock,99.5,True
+00-0038543,Jaxon Smith-Njigba,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,parlayplay,91.5,True
+00-0038543,Jaxon Smith-Njigba,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prophetx,92.5,True
+00-0038543,Jaxon Smith-Njigba,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,pick6,94.5,True
+00-0038543,Jaxon Smith-Njigba,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,dabble,92.5,True
+00-0038543,Jaxon Smith-Njigba,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,rebet,93.5,True
+00-0038543,Jaxon Smith-Njigba,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,bovada,91.5,True
+00-0038543,Jaxon Smith-Njigba,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sportzino,91.5,True
+00-0038543,Jaxon Smith-Njigba,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,betway,91.5,True
+00-0038543,Jaxon Smith-Njigba,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,courtside,96.5,True
+00-0038543,Jaxon Smith-Njigba,player_reception_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,courtside,93.5,True
+00-0038543,Jaxon Smith-Njigba,player_reception_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,pinnacle,90.5,True
+00-0038543,Jaxon Smith-Njigba,player_reception_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,novig,92.5,True
+00-0038543,Jaxon Smith-Njigba,player_reception_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,prophetx,129.5,True
+00-0038543,Jaxon Smith-Njigba,player_reception_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,betway,91.5,True
+00-0038543,Jaxon Smith-Njigba,player_reception_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,dabble,90.5,True
+00-0038543,Jaxon Smith-Njigba,player_reception_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,sleeper,93.5,True
+00-0038543,Jaxon Smith-Njigba,player_reception_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,bovada,91.5,True
+00-0038543,Jaxon Smith-Njigba,player_reception_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,prophetx,69.5,True
+00-0038543,Jaxon Smith-Njigba,player_reception_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,bovada,80.5,True
+00-0038543,Jaxon Smith-Njigba,player_reception_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,betway,81.5,True
+00-0038543,Jaxon Smith-Njigba,player_reception_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,pinnacle,81.5,True
+00-0038543,Jaxon Smith-Njigba,player_reception_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,prophetx,83.5,True
+00-0038543,Jaxon Smith-Njigba,player_reception_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,pinnacle,82.5,True
+00-0038543,Jaxon Smith-Njigba,player_reception_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,betr,81.5,True
+00-0038543,Jaxon Smith-Njigba,player_reception_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,bovada,80.5,True
