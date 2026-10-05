@@ -147,6 +147,7 @@ def build(upcoming: pl.DataFrame | None = None, wind: dict | None = None) -> pl.
     df = (df.join(dfn, left_on=["game_id", "opponent_team"], right_on=["game_id", "def_team"], how="left")
           .join(defense_yoe(ctx), left_on=["game_id", "opponent_team"], right_on=["game_id", "def_team"], how="left")
           .join(turnovers(ctx), on=["game_id", "team"], how="left")
+          .join(proe(ctx), on=["game_id", "team"], how="left")
           .join(adj, left_on=["game_id", "opponent_team"], right_on=["game_id", "def_team"], how="left")
           .join(inj, on=["season", "week", "team"], how="left")
           .join(opp_inj, on=["season", "week", "opponent_team"], how="left")
@@ -335,6 +336,21 @@ def extra_stats() -> pl.DataFrame:
     return df
 
 
+def proe(ctx: pl.DataFrame) -> pl.DataFrame:
+    """Per team-game: pass rate over expected in neutral situations (win prob 20-80%, Q1-Q3),
+    from nflverse's per-play xpass; rolled per team. Only passing yards use it. Full-game PROE,
+    and the PROE offenses show against a defense, were tested and added nothing."""
+    pbp = (pl.scan_parquet(DATA / "raw" / "pbp" / "*.parquet")
+           .filter(pl.col("play_type").is_in(["pass", "run"]) & pl.col("xpass").is_not_null()
+                   & pl.col("wp").is_between(0.2, 0.8) & (pl.col("qtr") <= 3))
+           .select("game_id", "posteam", (pl.col("pass") - pl.col("xpass")).alias("proe")).collect()
+           .with_columns(pl.col("posteam").replace(RENAMES).alias("team")))
+    g = pbp.group_by("game_id", "team").agg(pl.col("proe").mean().alias("proe_neutral"))
+    return (ctx.select("game_id", "team", "gameday").join(g, on=["game_id", "team"], how="left")
+            .sort("team", "gameday").with_columns(ewm("proe_neutral", "team").alias("e_proe_neutral"))
+            .select("game_id", "team", "e_proe_neutral"))
+
+
 def turnovers(ctx: pl.DataFrame) -> pl.DataFrame:
     """Per team-game: rolling giveaways (INTs + lost fumbles) per game. The opponent's takeaway
     rate was tested too and made every market worse; the offense's own rate helps passing."""
@@ -444,7 +460,7 @@ MARKETS = {
     "pass_yds": ("passing_yards", ["QB"], pl.col("e_attempts") >= 20,
                  ["e_passing_yards", "e_attempts", "e_yds_per_att", "e_passing_epa",
                   "opp_pass_yds_alw", "opp_adj_def_pass",
-                  "e_ngs_ttt", "e_ngs_agg", "e_ngs_iay_pass", "e_ngs_cpoe", "e_ngs_ays", "e_giveaways"]),
+                  "e_ngs_ttt", "e_ngs_agg", "e_ngs_iay_pass", "e_ngs_cpoe", "e_ngs_ays", "e_giveaways", "e_proe_neutral"]),
     "rush_yds": ("rushing_yards", ["RB"], pl.col("e_carries") >= 6,
                  ["e_rushing_yards_adj", "e_carries_adj", "e_carry_share_adj", "e_yds_per_car",
                   "opp_rb_rush_alw", "opp_adj_def_run", "role_rank", "opp_role_alw", "opp_role_ratio",
@@ -512,5 +528,6 @@ def evaluate(df: pl.DataFrame) -> pl.DataFrame:
 
 if __name__ == "__main__":
     df = build()
+    df.write_parquet(DATA / "props_features.parquet")  # cached feature frame for the analysis scripts
     print(f"player-games: {df.height}")
     print(evaluate(df))
