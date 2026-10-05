@@ -1,4 +1,7 @@
-data/
 __pycache__/
 *.pyc
 .env
+# regenerable derived frames (props.py / line_vs_model.py rebuild them; 15-17 MB each)
+data/props_features*.parquet
+data/props_edges_*.csv
+data/raw/forecast_cache/

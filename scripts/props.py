@@ -105,7 +105,7 @@ def build(upcoming: pl.DataFrame | None = None, wind: dict | None = None) -> pl.
 
     # opponent-adjusted defense ratings (pre-game), from adjust.py
     s2 = sched.filter(pl.col("game_type").is_in(["REG", "WC", "DIV", "CON", "SB"]))
-    tg = adjust.team_games(DATA / "raw" / "pbp.parquet", s2)
+    tg = adjust.team_games(DATA / "raw" / "pbp" / "*.parquet", s2)
     adj = adjust.adjusted_ratings(tg, s2).select(
         "game_id", pl.col("team").alias("def_team"),
         pl.col("adj_def_pass").alias("opp_adj_def_pass"), pl.col("adj_def_run").alias("opp_adj_def_run"))
@@ -356,7 +356,7 @@ def coverage_feats() -> tuple[pl.DataFrame, pl.DataFrame]:
             .filter(pl.col("defense_man_zone_type").is_in(["MAN_COVERAGE", "ZONE_COVERAGE"]))
             .select(pl.col("nflverse_game_id").alias("game_id"), "play_id",
                     (pl.col("defense_man_zone_type") == "MAN_COVERAGE").alias("man")))
-    pbp = (pl.scan_parquet(DATA / "raw" / "pbp.parquet")
+    pbp = (pl.scan_parquet(DATA / "raw" / "pbp" / "*.parquet")
            .filter(pl.col("pass") == 1)
            .select("game_id", "play_id", "season", "defteam", "receiver_player_id", "yards_gained",
                    "complete_pass", "sack")

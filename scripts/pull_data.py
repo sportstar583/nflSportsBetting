@@ -39,7 +39,12 @@ def main():
             continue
         try:
             df = fn()
-            df.write_parquet(OUT / f"{name}.parquet")
+            if name == "pbp":  # one file per season: the whole thing is >100 MB, GitHub's file limit
+                (OUT / "pbp").mkdir(exist_ok=True)
+                for season, part in df.partition_by("season", as_dict=True).items():
+                    part.write_parquet(OUT / "pbp" / f"{season[0]}.parquet")
+            else:
+                df.write_parquet(OUT / f"{name}.parquet")
             print(f"{name}: {df.height} rows, {df.width} cols")
         except Exception as e:
             print(f"{name}: FAILED ({e})", file=sys.stderr)

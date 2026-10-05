@@ -25,7 +25,7 @@ STATS = ["off_epa", "off_sr", "def_epa", "def_sr", "pf", "pa",
 def team_game_epa() -> pl.DataFrame:
     """Per team-game EPA/play (overall, pass, run), success rate and pace (plays, pass rate)."""
     pbp = (
-        pl.scan_parquet(DATA / "raw" / "pbp.parquet")
+        pl.scan_parquet(DATA / "raw" / "pbp" / "*.parquet")
         .filter(pl.col("play_type").is_in(["pass", "run"]) & pl.col("epa").is_not_null())
         .select("game_id", "posteam", "defteam", "play_type", "epa", "success")
         .collect()
@@ -67,7 +67,7 @@ QB_PRIOR_DB = 200  # dropbacks of shrinkage toward the league-average QB
 def qb_form(sched: pl.DataFrame) -> pl.DataFrame:
     """Shrunk career EPA/dropback for each QB entering each game (prior games only)."""
     db = (
-        pl.scan_parquet(DATA / "raw" / "pbp.parquet")
+        pl.scan_parquet(DATA / "raw" / "pbp" / "*.parquet")
         .filter((pl.col("qb_dropback") == 1) & pl.col("qb_epa").is_not_null()
                 & pl.col("passer_player_id").is_not_null())
         .group_by("game_id", "passer_player_id")
@@ -172,7 +172,7 @@ def build() -> pl.DataFrame:
         [(pl.col(f"home_{c}") - pl.col(f"away_{c}")).alias(f"d_{c}") for c in inj_cols]
         + [(pl.col(f"home_{c}") + pl.col(f"away_{c}")).alias(f"s_{c}") for c in inj_cols]
     )
-    tg = adjust.team_games(DATA / "raw" / "pbp.parquet", sched)
+    tg = adjust.team_games(DATA / "raw" / "pbp" / "*.parquet", sched)
     adj = adjust.adjusted_ratings(tg, sched)
     adj_cols = [c for c in adj.columns if c not in ("game_id", "team")]
     for side, pre in (("home", "h"), ("away", "a")):
