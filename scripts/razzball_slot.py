@@ -72,11 +72,36 @@ def matchups(d: pl.DataFrame, w: pl.DataFrame, week: int | None) -> pl.DataFrame
     avg = d.filter(pl.col("defense") == "NFL Average").row(0, named=True)
     dd = d.filter(pl.col("defense") != "NFL Average").select(
         pl.col("defense").alias("opp"), (pl.col("slot_ppg_allowed") / avg["slot_ppg_allowed"]).alias("opp_slot_idx"),
-        (pl.col("wide_ppg_allowed") / avg["wide_ppg_allowed"]).alias("opp_wide_idx"))
+        (pl.col("wide_ppg_allowed") / avg["wide_ppg_allowed"]).alias("opp_wide_idx"),
+        "slot_ppg_allowed", "wide_ppg_allowed")
+    # quality of WRs faced: for each defense, the slot / wide fantasy PPG its past opponents' WRs score
+    # (season to date, from the receiver table). Allowed / expected = adjusted index. The opponents'
+    # season totals include their game against this defense, so the adjustment is slightly conservative.
+    team_out = (w.with_columns((pl.col("slot_ppg") * pl.col("games")).alias("slot_pts"),
+                               (pl.col("wide_ppg") * pl.col("games")).alias("wide_pts"))
+                .group_by("team").agg(pl.col("slot_pts").sum(), pl.col("wide_pts").sum()))
+    covered = int(w["games"].max())  # Razzball's season-to-date window (weeks 1..covered, no byes yet)
+    played = s.filter(pl.col("result").is_not_null() & (pl.col("week") <= covered))
+    tg = played.group_by("home_team").len().rename({"home_team": "team"}).vstack(
+        played.group_by("away_team").len().rename({"away_team": "team"})).group_by("team").agg(pl.col("len").sum().alias("tg"))
+    team_out = team_out.join(tg, on="team").with_columns((pl.col("slot_pts") / pl.col("tg")).alias("team_slot_pg"),
+                                                         (pl.col("wide_pts") / pl.col("tg")).alias("team_wide_pg"))
+    faced = pl.concat([played.select(pl.col("home_team").alias("defense"), pl.col("away_team").alias("faced")),
+                       played.select(pl.col("away_team").alias("defense"), pl.col("home_team").alias("faced"))])
+    exp = (faced.join(team_out.rename({"team": "faced"}), on="faced")
+           .group_by("defense").agg(pl.col("team_slot_pg").mean().alias("exp_slot"), pl.col("team_wide_pg").mean().alias("exp_wide")))
+    dd = (dd.join(exp.rename({"defense": "opp"}), on="opp", how="left")
+          .with_columns((pl.col("slot_ppg_allowed") / pl.col("exp_slot")).alias("opp_slot_idx_adj"),
+                        (pl.col("wide_ppg_allowed") / pl.col("exp_wide")).alias("opp_wide_idx_adj"))
+          # the receiver table omits low-volume WRs, so 'expected' runs low: rescale to a league mean of 1
+          .with_columns(pl.col("opp_slot_idx_adj") / pl.col("opp_slot_idx_adj").mean(),
+                        pl.col("opp_wide_idx_adj") / pl.col("opp_wide_idx_adj").mean()))
     return (w.join(opp, on="team").join(dd, on="opp")
             .with_columns((pl.col("slot_share") * pl.col("opp_slot_idx") + pl.col("wide_share") * pl.col("opp_wide_idx"))
-                          .alias("matchup"), pl.lit(week).alias("week"))
-            .sort("matchup", descending=True))
+                          .alias("matchup"),
+                          (pl.col("slot_share") * pl.col("opp_slot_idx_adj") + pl.col("wide_share") * pl.col("opp_wide_idx_adj"))
+                          .alias("matchup_adj"), pl.lit(week).alias("week"))
+            .sort("matchup_adj", descending=True))
 
 
 def main():
@@ -91,7 +116,7 @@ def main():
     m = matchups(d, w, week)
     m.write_csv(out / f"wr_matchups_wk{m['week'][0]}_{day}.csv", float_precision=3)
     print(f"saved {d.height} defenses, {w.height} receivers, {m.height} week-{m['week'][0]} matchups to props_log/razzball/")
-    cols = ["player", "team", "opp", "points", "slot_share", "opp_slot_idx", "opp_wide_idx", "matchup"]
+    cols = ["player", "team", "opp", "points", "slot_share", "opp_slot_idx", "opp_slot_idx_adj", "opp_wide_idx_adj", "matchup", "matchup_adj"]
     with pl.Config(tbl_rows=15, tbl_hide_dataframe_shape=True, tbl_hide_column_data_types=True, float_precision=2):
         top = m.filter(pl.col("points") >= 15)
         print("Best matchups (receivers with 15+ points so far):"); print(top.head(15).select(cols))
