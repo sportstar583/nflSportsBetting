@@ -174,10 +174,9 @@ def project(df: pl.DataFrame, game_ids: list[str]) -> pl.DataFrame:
                         pl.col("opp_def_out").fill_null("")))
     for name, (target, _, _, feats) in props.MARKETS.items():
         m = props.eligible(df, name)
-        cols = feats + props.COMMON
         tr = m.filter(pl.col(target).is_not_null() & ~pl.col("game_id").is_in(game_ids))
         te = m.filter(pl.col("game_id").is_in(game_ids))
-        model = props.new_model().fit(tr.select(cols).to_numpy(), tr[target].to_numpy())
+        model = props.BlendModel(name).fit(tr)
         out.append(te.select("game_id", "player_id", "player_display_name", "team", "opponent_team", "position",
                              pl.col(f"e_{target}").alias("recent_avg"), "wind", "team_spread",
                              # starters' snap share out at the player's own position (vacated volume)
@@ -197,7 +196,7 @@ def project(df: pl.DataFrame, game_ids: list[str]) -> pl.DataFrame:
                              .when(pl.col("own_dnp") == 1).then(pl.lit("ltd"))
                              .otherwise(pl.lit("")).alias("inj"))
                    .with_columns(pl.lit(name).alias("mkt"),
-                                 pl.Series("pred", model.predict(te.select(cols).to_numpy())),
+                                 pl.Series("pred", model.predict(te)),
                                  pl.col("player_display_name").map_elements(norm_name, return_dtype=pl.String)
                                  .alias("key")))
     return pl.concat(out)

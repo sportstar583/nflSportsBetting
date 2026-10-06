@@ -642,19 +642,49 @@ def new_model() -> HistGradientBoostingRegressor:
                                          max_leaf_nodes=15, min_samples_leaf=50, random_state=0)
 
 
+# Each market's prediction is the average of two models: one on the raw stat, one on the stat as a
+# ratio to the player's recent average (scaled back). Trees can't extrapolate, so the raw model
+# squeezes the best players toward the middle (receivers averaging 95+ beat it 56% of the time);
+# the ratio model scales with the player. Walk-forward 2022-2025 MAE, raw -> blend: passing
+# 62.27 -> 62.17, rushing 25.03 -> 24.98, receiving 22.70 -> 22.67, receptions 1.651 -> 1.646.
+# Top-5% receivers beating the projection: 53.9% -> 51.1% (yards), 55.4% -> 52.7% (receptions).
+RATIO_BASE = {"pass_yds": ("e_passing_yards", 50.0), "rush_yds": ("e_rushing_yards_adj", 5.0),
+              "rec_yds": ("e_receiving_yards_adj", 5.0), "receptions": ("e_receptions_adj", 0.5)}
+
+
+class BlendModel:
+    def __init__(self, name: str):
+        self.name = name
+        self.target, _, _, feats = MARKETS[name]
+        self.cols = feats + COMMON
+        self.raw, self.ratio = new_model(), new_model()
+
+    def base(self, df: pl.DataFrame) -> np.ndarray:
+        col, floor = RATIO_BASE[self.name]
+        return df[col].fill_null(0).clip(floor).to_numpy()
+
+    def fit(self, df: pl.DataFrame) -> "BlendModel":
+        X, y = df.select(self.cols).to_numpy(), df[self.target].to_numpy()
+        self.raw.fit(X, y)
+        self.ratio.fit(X, y / self.base(df))
+        return self
+
+    def predict(self, df: pl.DataFrame) -> np.ndarray:
+        X = df.select(self.cols).to_numpy()
+        return (self.raw.predict(X) + self.ratio.predict(X) * self.base(df)) / 2
+
+
 def evaluate(df: pl.DataFrame) -> pl.DataFrame:
     df = add_flags(df)
     out = []
     for name, (target, positions, elig, feats) in MARKETS.items():
         m = eligible(df, name)
-        cols = feats + COMMON
         print(f"\n== {name} ({target}, {'/'.join(positions)}) ==")
         preds = []
         for s in TEST_SEASONS:
             tr, te = m.filter(pl.col("season") < s), m.filter(pl.col("season") == s)
-            model = new_model()
-            model.fit(tr.select(cols).to_numpy(), tr[target].to_numpy())
-            preds.append(te.with_columns(pl.Series("pred", model.predict(te.select(cols).to_numpy()))))
+            model = BlendModel(name).fit(tr)
+            preds.append(te.with_columns(pl.Series("pred", model.predict(te))))
         te = pl.concat(preds)
         y = te[target].to_numpy()
         base_ewm = te[f"e_{target}"].to_numpy()

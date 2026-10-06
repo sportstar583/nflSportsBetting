@@ -32,13 +32,12 @@ def oos_projections(season: int) -> pl.DataFrame:
     out = []
     for name, (target, positions, elig, feats) in props.MARKETS.items():
         m = props.eligible(df, name)
-        cols = feats + props.COMMON
         tr = m.filter(pl.col("season") < season)
         te = m.filter((pl.col("season") == season) & pl.col(target).is_not_null())
-        mdl = props.new_model().fit(tr.select(cols).to_numpy(), tr[target].to_numpy())
+        mdl = props.BlendModel(name).fit(tr)
         out.append(te.select("season", "week", "game_id", "player_id", "player_display_name", "team",
                              pl.col(target).alias("actual"), pl.col(f"e_{target}").alias("recent_avg"))
-                   .with_columns(pl.lit(name).alias("mkt"), pl.Series("pred", mdl.predict(te.select(cols).to_numpy()))))
+                   .with_columns(pl.lit(name).alias("mkt"), pl.Series("pred", mdl.predict(te))))
     oos = pl.concat(out)
     oos.write_parquet(DATA / f"props_{season}_oos.parquet")
     return oos

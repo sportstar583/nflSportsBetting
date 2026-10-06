@@ -323,3 +323,21 @@ the front seven for rushing, the secondary otherwise) and `opp_def_out`, every d
 Out/Doubtful with snap share, e.g. `Kaden Elliss (LB Out, 100%), Carl Granderson (LB Out, 66%)`.
 A starter played at least half the snaps over his last 4 games. This is display only. The model
 inputs stay the snap-share totals `opp_inj_front` / `opp_inj_db` (`opp_out`).
+
+### Raw + ratio blend (top players were projected too low)
+Tree models can't extrapolate, so the props model squeezed the best players toward the middle:
+receivers averaging 95+ yards beat its projection 56% of the time (65-80: 49%). Each market now
+averages two models, one on the raw stat and one on the stat as a ratio to the player's recent
+average (`props.BlendModel`), used by `props.py`, `props_week.py` and `line_vs_model.py`.
+
+| Market | MAE raw | MAE blend | Top-5% players beating the projection, raw -> blend |
+| --- | --- | --- | --- |
+| Passing yds | 62.27 | 62.17 | |
+| Rushing yds | 25.03 | 24.98 | |
+| Receiving yds | 22.70 | 22.67 | 53.9% -> 51.1% |
+| Receptions | 1.651 | 1.646 | 55.4% -> 52.7% |
+
+On the 2026 lines graded so far, the model's side wins 51.6% (was 50.6%; breakeven 52.4%). The
+best line blend weights are unchanged, so `props_week.BLEND` stays. Projections still sit below
+big recent averages, and that part is real: receivers averaging 95+ posted a median of 80.
+Drake London for 2026 week 4: recent average 93.2, projection 69.9 -> 72.4, line 80.5.
