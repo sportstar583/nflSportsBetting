@@ -134,3 +134,20 @@ Same player-games, 2022-2025 (`python scripts/props.py HURT_WEIGHT OTHER_QB_WEIG
 Small gain. Dropping hurt games entirely, or also discounting low-snap "left early" games, made
 projections worse: a player who was limited often stays limited. The health discount also made
 QB passing yards worse, so QBs are exempt.
+
+### Opposing defense injuries (tested, not used)
+`props.py` now computes the opposing defense's snap share lost to Out/Doubtful players by unit
+(`opp_inj_dl`, `opp_inj_lb`, `opp_inj_db`; a full-time starter counts ~1.0), but they are not model
+inputs, because no version helped in the 2022-2025 backtest:
+
+| Defensive injury features | Pass yds MAE | Rush yds MAE | Rec yds MAE |
+| --- | --- | --- | --- |
+| None (current) | 64.23 | 25.50 | 22.95 |
+| DL, LB, DB separately | 64.67 | 25.55 | 22.93 |
+| One total | 64.50 | 25.44 | 22.94 |
+| By market (front 7 for rush, LB+DB for rec) | 64.55 | 25.54 | 22.96 |
+
+Receivers show nothing even with 2+ coverage starters out (49% over the projection). For RBs,
+the front seven missing 1-2 starters does nothing (50% over), but with 2+ out, RBs went over 13
+of 18 times (median +12 yds). That's too few games to build in, but it's worth tracking. Example: NO in 2026
+week 4 had ~2 LB starters out (Elliss, Granderson, Jennings), a 99.5th-percentile front-seven loss.

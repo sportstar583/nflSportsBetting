@@ -151,6 +151,10 @@ def build(hurt_weight: float = HURT_WEIGHT, other_qb_weight: float = OTHER_QB_WE
     # teammates' skill snap share lost to injury (more volume for those who play)
     import features
     inj = features.injury_snaps().select("season", "week", "team", pl.col("inj_skill").alias("team_inj_skill"))
+    # opposing defense's snap share lost to Out/Doubtful players, by unit
+    opp_inj = (features.injury_snaps(DEF_GROUPS)
+               .select("season", "week", pl.col("team").alias("opponent_team"),
+                       *[pl.col(f"inj_{g}").alias(f"opp_inj_{g}") for g in DEF_GROUPS]))
 
     df = (ps.join(snap_share(), on=["game_id", "player_id"], how="left")
           .join(health_flags(), on=["season", "week", "player_id"], how="left")
@@ -203,10 +207,21 @@ def build(hurt_weight: float = HURT_WEIGHT, other_qb_weight: float = OTHER_QB_WE
     df = (df.join(dfn, left_on=["game_id", "opponent_team"], right_on=["game_id", "def_team"], how="left")
           .join(adj, left_on=["game_id", "opponent_team"], right_on=["game_id", "def_team"], how="left")
           .join(inj, on=["season", "week", "team"], how="left")
-          .with_columns(pl.col("team_inj_skill").fill_null(0)))
+          .join(opp_inj, on=["season", "week", "opponent_team"], how="left")
+          .with_columns(pl.col("team_inj_skill", *[f"opp_inj_{g}" for g in DEF_GROUPS]).fill_null(0)))
     return df
 
 
+# Opposing defense's snap share lost to Out/Doubtful players, by unit. Computed in build() as
+# opp_inj_dl/lb/db but NOT model inputs: backtested 2022-2025 (by unit, as one total, and per
+# market: front seven for rushing, LB+DB for receiving), none helped (pass yds MAE 64.2 -> 64.5-64.7,
+# rush 25.50 -> 25.44-25.55, rec 22.95 -> 22.93-22.96). The one hint: with 2+ front-seven starters
+# out, RBs beat the projection 13 of 18 times (median +12 yds). Too few games to fit; track it.
+DEF_GROUPS = {
+    "dl": (["DE", "DT", "NT", "DL"], "def_share"),
+    "lb": (["LB", "OLB", "ILB", "MLB"], "def_share"),
+    "db": (["CB", "S", "FS", "SS", "DB"], "def_share"),
+}
 COMMON = ["implied_total", "team_spread", "indoor", "wind", "e_team_plays", "e_team_pass_rate",
           "e_offense_pct", "team_inj_skill", "n_prior"]
 MARKETS = {
