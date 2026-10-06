@@ -24,11 +24,42 @@ RENAMES = {"OAK": "LV", "SD": "LAC", "STL": "LA"}
 HALF_LIFE = 4  # games; recent games count more, older games fade
 TEST_SEASONS = [2022, 2023, 2024, 2025]
 SKILL = ["QB", "RB", "WR", "TE"]
+# Weight of a past game in a WR/TE/RB's rolling receiving averages (HURT_COLS) when he played it hurt (Questionable or
+# Doubtful without full practice, or first game back from Out), applied only while he is healthy
+# now; a still-hurt player's hurt games are the best guide to how he plays today. QBs are exempt.
+HURT_WEIGHT = 0.25
+HURT_COLS = ["receiving_yards", "receptions", "targets", "target_share", "air_yards_share", "yds_per_tgt", "adot"]
 
 
 def ewm(col: str, by: str) -> pl.Expr:
     """Exponentially weighted mean of prior games only (shifted), per `by`."""
     return pl.col(col).shift(1).ewm_mean(half_life=HALF_LIFE, ignore_nulls=True).over(by)
+
+
+def wewm(col: str, by: str, w: str) -> pl.Expr:
+    """Like ewm(), but each prior game also counts by its weight `w` (0-1). A ratio of two decayed
+    sums with the same nulls skipped, so with all weights 1 it equals ewm(), and a down-weighted
+    game still ages the games before it."""
+    x = pl.col(col).cast(pl.Float64)
+    num = (x * pl.col(w)).shift(1).ewm_mean(half_life=HALF_LIFE, ignore_nulls=True).over(by)
+    den = pl.when(x.is_null()).then(None).otherwise(pl.col(w)).shift(1).ewm_mean(half_life=HALF_LIFE, ignore_nulls=True).over(by)
+    return pl.when(den > 0).then(num / den)
+
+
+def played_hurt() -> pl.DataFrame:
+    """Per player-week: hurt_report (Questionable/Doubtful without full practice) and
+    back_from_out (listed Out the week before)."""
+    inj = (pl.read_parquet(DATA / "raw" / "injuries.parquet")
+           .filter(pl.col("game_type").is_not_null() & pl.col("gsis_id").is_not_null())
+           .select(pl.col("season").cast(pl.Int32), pl.col("week").cast(pl.Int32),
+                   pl.col("gsis_id").alias("player_id"), "report_status", "practice_status")
+           .unique(["season", "week", "player_id"]))
+    hurt = (inj.filter(pl.col("report_status").is_in(["Questionable", "Doubtful"])
+                       & ~pl.col("practice_status").fill_null("").str.starts_with("Full"))
+            .select("season", "week", "player_id", pl.lit(True).alias("hurt_report")))
+    back = (inj.filter(pl.col("report_status") == "Out")
+            .select("season", (pl.col("week") + 1).alias("week"), "player_id", pl.lit(True).alias("back_from_out")))
+    return hurt.join(back, on=["season", "week", "player_id"], how="full", coalesce=True)
 
 
 def load(upcoming: pl.DataFrame | None = None, wind: dict | None = None) -> tuple[pl.DataFrame, pl.DataFrame]:
@@ -104,7 +135,8 @@ def snap_share() -> pl.DataFrame:
             .select("game_id", pl.col("gsis_id").alias("player_id"), "offense_pct"))
 
 
-def build(upcoming: pl.DataFrame | None = None, wind: dict | None = None) -> pl.DataFrame:
+def build(upcoming: pl.DataFrame | None = None, wind: dict | None = None,
+          hurt_weight: float = HURT_WEIGHT) -> pl.DataFrame:
     sched, ps = load(upcoming, wind)
     ctx = team_context(sched, ps)
     dfn = defense_allowed(ps, ctx)
@@ -139,8 +171,20 @@ def build(upcoming: pl.DataFrame | None = None, wind: dict | None = None) -> pl.
     rolling = ["passing_yards", "attempts", "yds_per_att", "rushing_yards", "carries", "carry_share",
                "yds_per_car", "receiving_yards", "receptions", "targets", "target_share",
                "air_yards_share", "yds_per_tgt", "offense_pct", "passing_epa", "fantasy_points_ppr", "adot"] + EXTRA
-    df = df.with_columns([ewm(c, "player_id").alias(f"e_{c}") for c in rolling]
-                         + [pl.col("game_id").cum_count().over("player_id").alias("n_prior")])
+    df = df.with_columns(pl.col("game_id").cum_count().over("player_id").alias("n_prior"))
+    if hurt_weight == 1.0:
+        df = df.with_columns([ewm(c, "player_id").alias(f"e_{c}") for c in rolling])
+    else:
+        # games played hurt count hurt_weight in the averages, but only for a player healthy today
+        flags = pl.col("hurt_report").fill_null(False) | pl.col("back_from_out").fill_null(False)
+        df = (df.join(played_hurt(), on=["season", "week", "player_id"], how="left")
+              .sort("player_id", "gameday")
+              .with_columns(pl.when(flags & (pl.col("position") != "QB")).then(hurt_weight).otherwise(1.0).alias("w_hurt"),
+                            pl.lit(1.0).alias("w_one"))
+              .with_columns([ewm(c, "player_id").alias(f"e_{c}") for c in rolling if c not in HURT_COLS]
+                            + [pl.when(flags).then(wewm(c, "player_id", "w_one")).otherwise(wewm(c, "player_id", "w_hurt"))
+                               .alias(f"e_{c}") for c in HURT_COLS])
+              .drop("hurt_report", "back_from_out", "w_one"))
     df = (df.join(own_injury(), on=["season", "week", "team", "player_id"], how="left")
           .with_columns(pl.col("own_q", "own_dnp", "own_out").fill_null(0)))
     df = role_defense(df)
@@ -497,6 +541,25 @@ def coverage_feats() -> tuple[pl.DataFrame, pl.DataFrame]:
                          pl.col("plr_ypt_man_prev").fill_null(lg_man), pl.col("plr_ypt_zone_prev").fill_null(lg_zone),
                          pl.col("plr_tgt_man_prev", "plr_tgt_zone_prev").fill_null(0)))
     return defense, rec
+
+
+STARTER = 0.5  # a defender playing at least half the snaps over his last 4 games
+
+
+def def_starters_out() -> pl.DataFrame:
+    """Per defense-week (keyed as opponent_team): starters Out/Doubtful, counted for the front
+    seven and the secondary, plus their names. For display only: as model inputs, defensive
+    injuries are the snap-share totals opp_inj_front / opp_inj_db."""
+    import features
+    front, db = features.INJ_GROUPS["front"][0], features.INJ_GROUPS["db"][0]
+    inj = (features.injured_players().filter(pl.col("def_share") >= STARTER)
+           .filter(pl.col("position").is_in(front + db)).sort("def_share", descending=True))
+    return inj.group_by("season", "week", "team").agg(
+        pl.col("position").is_in(front).sum().cast(pl.Int32).alias("opp_front_starters_out"),
+        pl.col("position").is_in(db).sum().cast(pl.Int32).alias("opp_db_starters_out"),
+        pl.format("{} ({} {}, {}%)", "full_name", "position", "report_status",
+                  (pl.col("def_share") * 100).round(0).cast(pl.Int32)).str.join(", ").alias("opp_def_out"),
+    ).rename({"team": "opponent_team"})
 
 
 NOT_PLAYING = ["RES", "PUP", "NFI", "SUS", "INA", "RSN", "EXE"]  # weekly roster statuses that mean no game

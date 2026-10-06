@@ -169,6 +169,9 @@ def project(df: pl.DataFrame, game_ids: list[str]) -> pl.DataFrame:
     """Fit each market on all completed games and predict the upcoming rows."""
     df = props.add_flags(df)
     out = []
+    df = (df.join(props.def_starters_out(), on=["season", "week", "opponent_team"], how="left")
+          .with_columns(pl.col("opp_front_starters_out", "opp_db_starters_out").fill_null(0),
+                        pl.col("opp_def_out").fill_null("")))
     for name, (target, _, _, feats) in props.MARKETS.items():
         m = props.eligible(df, name)
         cols = feats + props.COMMON
@@ -185,6 +188,10 @@ def project(df: pl.DataFrame, game_ids: list[str]) -> pl.DataFrame:
                              .otherwise(pl.col("team_inj_wr")).round(2).alias("mates_out"),
                              pl.when(name == "rush_yds").then(pl.col("opp_inj_front"))
                              .otherwise(pl.col("opp_inj_db")).round(2).alias("opp_out"),
+                             # the same unit as a head count of starters, and who (whole defense)
+                             pl.when(name == "rush_yds").then(pl.col("opp_front_starters_out"))
+                             .otherwise(pl.col("opp_db_starters_out")).alias("opp_starters_out"),
+                             "opp_def_out",
                              pl.when(pl.col("own_out") == 1).then(pl.lit("OUT/D"))
                              .when(pl.col("own_q") == 1).then(pl.lit("Q"))
                              .when(pl.col("own_dnp") == 1).then(pl.lit("ltd"))
@@ -270,7 +277,7 @@ def main():
                 continue
             rows.append({**{k: r[k] for k in ("game_id", "player_id", "player", "team", "opponent_team", "mkt", "book",
                                               "point", "pred", "pred_blend", "recent_avg", "team_spread", "inj",
-                                              "mates_out", "opp_out")},
+                                              "mates_out", "opp_out", "opp_starters_out", "opp_def_out")},
                          "side": side, "price": int(price), "p_model": p,
                          "p_book_fair": None if fair is None else (fair if side == "Over" else 1 - fair),
                          "ev": p * payout(price) - (1 - p)})
@@ -300,7 +307,7 @@ def main():
                                          "p_book_fair", "ev", "news"))
         clean = best.filter(~pl.col("news"))
         print(f"\nTop {args.top} without a news flag ({best.height - clean.height} flagged rows hidden):")
-        print(clean.head(args.top).select("player", "team", "team_spread", "inj", "mates_out", "opp_out", "mkt", "side",
+        print(clean.head(args.top).select("player", "team", "team_spread", "inj", "mates_out", "opp_out", "opp_starters_out", "mkt", "side",
                                           "book", "point", "price", "consensus_line", "pred", "pred_blend", "recent_avg", "p_model",
                                           "p_book_fair", "ev"))
         boost = best.filter(pl.col("mates_out") >= 0.6).sort("mates_out", descending=True)

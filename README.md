@@ -293,3 +293,33 @@ nobody could bet. But games that were forecast windy still went under 56-58% at 
 against the closing total. Losing seasons: 2020 and 2024. This is the strongest result in the repo,
 but it is a well-known angle, three thresholds were looked at, and the forecast used is the one
 close to kickoff, so bet it near game time. Track it on 2026 before trusting it.
+
+### Discounting receiving games played hurt
+For WR/TE/RB, the rolling receiving averages in `props.py` (yards, receptions, targets, target
+share, air-yards share, yards per target, aDOT) count a past game at `HURT_WEIGHT = 0.25` if the
+player played it hurt: Questionable/Doubtful without full practice, or his first game back from
+Out. The discount only applies while he is healthy now. A player still on the report keeps his
+hurt games at full weight, since they are the best guide to how he plays today. QBs and rushing
+stats are untouched.
+
+Same player-games, 2022-2025 (passing and rushing are identical to before):
+
+| Hurt-game weight | Rec yds MAE | Receptions MAE |
+| --- | --- | --- |
+| 1 (none) | 22.712 | 1.653 |
+| 0.5 | 22.693 | 1.651 |
+| 0.25 (used) | 22.684 | 1.650 |
+| 0 | 22.679 | 1.651 |
+
+Applying it to every rolling stat made rushing worse, and a no-op version (weight 0.9999) showed
+rushing MAE moves about 0.08 on tiny feature changes, so rushing gains under that are noise.
+Example: Drake London going into 2026 week 4. His 2025 weeks 16-18 on a bad knee drop out, and
+his recent receiving average goes 84.6 -> 93.2. The model's projection went 73.9 -> 69.9 anyway:
+it weighs the average against everything else, so one player's number need not follow it.
+
+### Defensive starters out in the weekly projections
+`props_week.py` output now has `opp_starters_out` (starters out in the unit the player faces:
+the front seven for rushing, the secondary otherwise) and `opp_def_out`, every defensive starter
+Out/Doubtful with snap share, e.g. `Kaden Elliss (LB Out, 100%), Carl Granderson (LB Out, 66%)`.
+A starter played at least half the snaps over his last 4 games. This is display only. The model
+inputs stay the snap-share totals `opp_inj_front` / `opp_inj_db` (`opp_out`).
