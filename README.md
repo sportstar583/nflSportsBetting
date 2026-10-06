@@ -355,3 +355,29 @@ price special teams.
 | All four | 62.42 | 25.00 | 22.67 | 1.648 |
 | Field position only | 62.20 | 25.00 | 22.68 | 1.645 |
 | ST EPA only | 62.23 | 25.03 | 22.71 | 1.648 |
+
+## Game board (projected scores beside the spread)
+```
+python scripts/game_model.py    # walk-forward backtest, writes data/game_projections.parquet
+python scripts/game_pages.py    # this week + last week -> site/nfl_board.html (or: 2026 4 5)
+```
+`game_model.py` rates every team each week on opponent-adjusted pass and rush EPA and success
+rate (adjust.py's ridge, two years with a 180-day half-life), plus pass rate and plays per game.
+It adds a QB adjustment (the listed starter's shrunk EPA/dropback minus the passers behind the
+ratings), home field and rest. A linear points model, fit on earlier seasons, turns these into a
+score for each side, so the margin splits exactly into each input's contribution.
+
+`game_pages.py` renders a board (projected score, Vegas line, model line, model side, graded
+result) and a breakdown per game: the number vs the market, where the margin comes from,
+quarterbacks, percentile ratings and per-play team ratings.
+
+Against the closing spread it does not beat the market:
+
+| | ATS | Win % | Margin MAE (model / line) |
+| --- | --- | --- | --- |
+| 2022-2025, all games | 550-560-29 | 49.5% | 10.02 / 9.54 |
+| 2022-2025, 3+ point gaps | 162-180-11 | 47.4% | 10.67 / 9.38 |
+| 2026 through week 4 | 31-27-5 | 53.4% | 9.38 / 9.43 |
+
+Lines here are nflverse's `spread_line` (closing for played games), not the opener a site would
+show, so gaps are smaller than against an early line.
