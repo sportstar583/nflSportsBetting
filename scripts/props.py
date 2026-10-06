@@ -31,6 +31,7 @@ HALF_LIFE = 4  # games; recent games count more, older games fade
 HURT_WEIGHT = 0.5
 OTHER_QB_WEIGHT = 0.5
 TEST_SEASONS = [2022, 2023, 2024, 2025]
+CURRENT = 2026  # also projected (written to the preds files), but not scored
 SKILL = ["QB", "RB", "WR", "TE"]
 
 
@@ -136,6 +137,25 @@ def starting_qb(ps: pl.DataFrame) -> pl.DataFrame:
             .agg(pl.col("player_id").sort_by("attempts", descending=True).first().alias("qb_id")))
 
 
+STARTER = 0.5  # a defender playing at least half the snaps over his last 4 games
+
+
+def def_starters_out() -> pl.DataFrame:
+    """Per team-week: defensive starters Out/Doubtful, counted by unit, plus their names."""
+    import features
+    inj = features.injured_players().filter(pl.col("def_share") >= STARTER)
+    unit = pl.lit(None, pl.Utf8)
+    for g, (positions, _) in reversed(list(DEF_GROUPS.items())):
+        unit = pl.when(pl.col("position").is_in(positions)).then(pl.lit(g.upper())).otherwise(unit)
+    inj = inj.with_columns(unit.alias("unit")).filter(pl.col("unit").is_not_null()).sort("def_share", descending=True)
+    return inj.group_by("season", "week", "team").agg(
+        *[(pl.col("unit") == g.upper()).sum().cast(pl.Int32).alias(f"opp_{g}_starters_out") for g in DEF_GROUPS],
+        pl.len().cast(pl.Int32).alias("opp_def_starters_out"),
+        pl.format("{} ({} {}, {}%)", "full_name", "position", "report_status",
+                  (pl.col("def_share") * 100).round(0).cast(pl.Int32)).str.join(", ").alias("opp_def_out"),
+    ).rename({"team": "opponent_team"})
+
+
 def build(hurt_weight: float = HURT_WEIGHT, other_qb_weight: float = OTHER_QB_WEIGHT) -> pl.DataFrame:
     sched, ps = load()
     ctx = team_context(sched, ps)
@@ -208,7 +228,8 @@ def build(hurt_weight: float = HURT_WEIGHT, other_qb_weight: float = OTHER_QB_WE
           .join(adj, left_on=["game_id", "opponent_team"], right_on=["game_id", "def_team"], how="left")
           .join(inj, on=["season", "week", "team"], how="left")
           .join(opp_inj, on=["season", "week", "opponent_team"], how="left")
-          .with_columns(pl.col("team_inj_skill", *[f"opp_inj_{g}" for g in DEF_GROUPS]).fill_null(0)))
+          .join(def_starters_out(), on=["season", "week", "opponent_team"], how="left")
+          .with_columns(pl.col("team_inj_skill", *[f"opp_inj_{g}" for g in DEF_GROUPS], *OUT_COUNTS).fill_null(0)))
     return df
 
 
@@ -222,6 +243,7 @@ DEF_GROUPS = {
     "lb": (["LB", "OLB", "ILB", "MLB"], "def_share"),
     "db": (["CB", "S", "FS", "SS", "DB"], "def_share"),
 }
+OUT_COUNTS = [f"opp_{g}_starters_out" for g in DEF_GROUPS] + ["opp_def_starters_out"]
 COMMON = ["implied_total", "team_spread", "indoor", "wind", "e_team_plays", "e_team_pass_rate",
           "e_offense_pct", "team_inj_skill", "n_prior"]
 MARKETS = {
@@ -253,13 +275,14 @@ def evaluate(df: pl.DataFrame) -> pl.DataFrame:
         cols = feats + COMMON
         print(f"\n== {name} ({target}, {'/'.join(positions)}) ==")
         preds = []
-        for s in TEST_SEASONS:
+        for s in TEST_SEASONS + [CURRENT]:
             tr, te = m.filter(pl.col("season") < s), m.filter(pl.col("season") == s)
             model = HistGradientBoostingRegressor(loss="absolute_error", max_iter=300, learning_rate=0.05,
                                                   max_leaf_nodes=15, min_samples_leaf=50, random_state=0)
             model.fit(tr.select(cols).to_numpy(), tr[target].to_numpy())
             preds.append(te.with_columns(pl.Series("pred", model.predict(te.select(cols).to_numpy()))))
-        te = pl.concat(preds)
+        allp = pl.concat(preds)
+        te = allp.filter(pl.col("season").is_in(TEST_SEASONS))
         y = te[target].to_numpy()
         base_ewm = te[f"e_{target}"].to_numpy()
         res = {"market": name, "n": len(y),
@@ -273,8 +296,8 @@ def evaluate(df: pl.DataFrame) -> pl.DataFrame:
         print(f"n={res['n']}  MAE model={res['mae_model']:.2f}  recent avg={res['mae_recent_avg']:.2f}  "
               f"model side vs recent-avg 'line': {res['beats_recent_avg_pct']:.3f}")
         out.append(res)
-        te.select("season", "week", "player_display_name", "team", "opponent_team", target, "pred",
-                  f"e_{target}").write_parquet(DATA / f"props_{name}_preds.parquet")
+        allp.select("season", "week", "player_display_name", "team", "opponent_team", target, "pred",
+                  f"e_{target}", *OUT_COUNTS, "opp_def_out").write_parquet(DATA / f"props_{name}_preds.parquet")
     return pl.DataFrame(out)
 
 

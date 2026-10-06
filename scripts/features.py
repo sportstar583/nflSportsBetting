@@ -95,12 +95,10 @@ INJ_GROUPS = {  # QB is left out: the starting-QB rating already covers it
 SNAP_GAMES = 4  # a player's role = mean snap share over his last 4 games played
 
 
-def injury_snaps(groups: dict = INJ_GROUPS) -> pl.DataFrame:
-    """Snap share lost to Out/Doubtful players per team-week, by group.
-
-    Each player on the final injury report counts by his snap share in his last SNAP_GAMES
-    games before that week, so a starter is ~1.0 and a backup ~0.1. Players with no snaps in
-    the past year (practice squad, long-term absences already in team form) count 0.
+def injured_players() -> pl.DataFrame:
+    """Out/Doubtful players per team-week, each with his snap share (off_share, def_share) over
+    his last SNAP_GAMES games before that week: a starter is ~1.0, a backup ~0.1. Players with no
+    snaps in the past year (practice squad, long-term absences already in team form) have null.
     """
     key = (pl.col("season").cast(pl.Int32) * 100 + pl.col("week").cast(pl.Int32)) * 10
     snaps = (
@@ -126,6 +124,12 @@ def injury_snaps(groups: dict = INJ_GROUPS) -> pl.DataFrame:
         .join_asof(snaps.sort("k"), on="k", by_left="pfr_id", by_right="pfr_player_id",
                    strategy="backward", tolerance=1000)  # last game strictly before, within ~a year
     )
+    return inj
+
+
+def injury_snaps(groups: dict = INJ_GROUPS) -> pl.DataFrame:
+    """Snap share lost to Out/Doubtful players per team-week, by group (see injured_players)."""
+    inj = injured_players()
     lost = []
     for g, (positions, share) in groups.items():
         lost.append(pl.col(share).filter(pl.col("position").is_in(positions)).fill_null(0).sum().alias(f"inj_{g}"))

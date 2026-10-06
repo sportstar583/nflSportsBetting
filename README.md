@@ -151,3 +151,9 @@ Receivers show nothing even with 2+ coverage starters out (49% over the projecti
 the front seven missing 1-2 starters does nothing (50% over), but with 2+ out, RBs went over 13
 of 18 times (median +12 yds). That's too few games to build in, but it's worth tracking. Example: NO in 2026
 week 4 had ~2 LB starters out (Elliss, Granderson, Jennings), a 99.5th-percentile front-seven loss.
+
+Projection files `data/props_<market>_preds.parquet` now include the opponent's defensive starters
+Out/Doubtful (at least 50% of snaps over their last 4 games): `opp_dl_starters_out`,
+`opp_lb_starters_out`, `opp_db_starters_out`, `opp_def_starters_out` (total), and `opp_def_out`,
+the names, e.g. `Kaden Elliss (LB Out, 100%), Carl Granderson (LB Out, 66%)`. The files also
+include 2026 games played so far (projected from a model trained on 2018-2025; not scored).
