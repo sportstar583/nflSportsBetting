@@ -1,0 +1,10 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038115,Daniel Bellinger,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,dabble,6.5,True
+00-0038115,Daniel Bellinger,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,sportzino,6.5,True
+00-0038115,Daniel Bellinger,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,prizepicks,6.5,True
+00-0038115,Daniel Bellinger,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,parlayplay,6.5,True
+00-0038115,Daniel Bellinger,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,parlayplay,4.5,True
+00-0038115,Daniel Bellinger,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,prizepicks,4.5,True
+00-0038115,Daniel Bellinger,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,dabble,4.5,True
+00-0038115,Daniel Bellinger,player_reception_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,prizepicks,4.5,True
+00-0038115,Daniel Bellinger,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,prizepicks,7.5,True

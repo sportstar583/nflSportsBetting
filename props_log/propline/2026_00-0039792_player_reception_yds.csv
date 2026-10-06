@@ -1,0 +1,11 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039792,Devontez Walker,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,polymarket_us,29.5,True
+00-0039792,Devontez Walker,player_reception_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,parlayplay,5.5,True
+00-0039792,Devontez Walker,player_reception_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,dabble,0.5,True
+00-0039792,Devontez Walker,player_reception_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,underdog,0.5,True
+00-0039792,Devontez Walker,player_reception_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,prizepicks,5.5,True
+00-0039792,Devontez Walker,player_reception_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,fliff,5.5,True
+00-0039792,Devontez Walker,player_reception_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,underdog,16.5,True
+00-0039792,Devontez Walker,player_reception_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,prizepicks,16.5,True
+00-0039792,Devontez Walker,player_reception_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,betway,18.5,True
+00-0039792,Devontez Walker,player_reception_yds,156934,2026-08-28T22:00:00Z,Baltimore Ravens,Washington Commanders,underdog,19.5,True

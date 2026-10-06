@@ -1,0 +1,26 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0032398,Chris Moore,player_receptions,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,hardrock,0.5,True
+00-0032398,Chris Moore,player_receptions,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,betmgm,0.5,True
+00-0032398,Chris Moore,player_receptions,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,novig,0.5,True
+00-0032398,Chris Moore,player_receptions,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,courtside,0.5,True
+00-0032398,Chris Moore,player_receptions,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,draftkings,0.5,True
+00-0032398,Chris Moore,player_receptions,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,fanduel,0.5,True
+00-0032398,Chris Moore,player_receptions,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,sportzino,0.5,True
+00-0032398,Chris Moore,player_receptions,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,pinnacle,0.5,True
+00-0032398,Chris Moore,player_receptions,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,prophetx,0.5,True
+00-0032398,Chris Moore,player_receptions,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,parlayplay,0.5,True
+00-0032398,Chris Moore,player_receptions,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,prizepicks,0.5,True
+00-0032398,Chris Moore,player_receptions,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,sleeper,0.5,True
+00-0032398,Chris Moore,player_receptions,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,fliff,0.5,True
+00-0032398,Chris Moore,player_receptions,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,underdog,0.5,True
+00-0032398,Chris Moore,player_receptions,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,bovada,0.5,True
+00-0032398,Chris Moore,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,hardrock,3.5,True
+00-0032398,Chris Moore,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,fliff,1.5,True
+00-0032398,Chris Moore,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,betmgm,1.5,True
+00-0032398,Chris Moore,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,pinnacle,1.5,True
+00-0032398,Chris Moore,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,novig,1.5,True
+00-0032398,Chris Moore,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,prizepicks,0.5,True
+00-0032398,Chris Moore,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,fanduel,1.5,True
+00-0032398,Chris Moore,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,sleeper,1.5,True
+00-0032398,Chris Moore,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,prophetx,1.5,True
+00-0032398,Chris Moore,player_receptions,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,prizepicks,0.5,True

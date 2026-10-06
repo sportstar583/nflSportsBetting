@@ -1,0 +1,10 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0032775,Demarcus Robinson,player_reception_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,polymarket_us,9.5,True
+00-0032775,Demarcus Robinson,player_reception_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,betway,26.5,True
+00-0032775,Demarcus Robinson,player_reception_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,prizepicks,0.5,True
+00-0032775,Demarcus Robinson,player_reception_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,betrivers,27.5,True
+00-0032775,Demarcus Robinson,player_reception_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,fliff,25.5,True
+00-0032775,Demarcus Robinson,player_reception_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,pinnacle,26.5,True
+00-0032775,Demarcus Robinson,player_reception_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,prophetx,10.5,True
+00-0032775,Demarcus Robinson,player_reception_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,pinnacle,9.5,True
+00-0032775,Demarcus Robinson,player_reception_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,prizepicks,0.5,True

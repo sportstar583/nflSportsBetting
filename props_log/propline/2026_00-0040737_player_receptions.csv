@@ -1,0 +1,26 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040737,Terrance Ferguson,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,3.5,True
+00-0040737,Terrance Ferguson,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,3.5,True
+00-0040737,Terrance Ferguson,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,3.5,True
+00-0040737,Terrance Ferguson,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,prizepicks,3.5,True
+00-0040737,Terrance Ferguson,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,sleeper,4.5,True
+00-0040737,Terrance Ferguson,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betonlineag,3.5,True
+00-0040737,Terrance Ferguson,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,lowvig,3.5,True
+00-0040737,Terrance Ferguson,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,novig,4.5,True
+00-0040737,Terrance Ferguson,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betway,3.5,True
+00-0040737,Terrance Ferguson,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,dabble,3.5,True
+00-0040737,Terrance Ferguson,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,prophetx,4.5,True
+00-0040737,Terrance Ferguson,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,parlayplay,4.5,True
+00-0040737,Terrance Ferguson,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betway,2.5,True
+00-0040737,Terrance Ferguson,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,fanduel,2.5,True
+00-0040737,Terrance Ferguson,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,prophetx,2.5,True
+00-0040737,Terrance Ferguson,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betmgm,2.5,True
+00-0040737,Terrance Ferguson,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,pinnacle,2.5,True
+00-0040737,Terrance Ferguson,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,prizepicks,1.5,True
+00-0040737,Terrance Ferguson,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betonlineag,2.5,True
+00-0040737,Terrance Ferguson,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,lowvig,2.5,True
+00-0040737,Terrance Ferguson,player_receptions,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,hardrock,5.5,True
+00-0040737,Terrance Ferguson,player_receptions,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,pinnacle,1.5,True
+00-0040737,Terrance Ferguson,player_receptions,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,fanduel,1.5,True
+00-0040737,Terrance Ferguson,player_receptions,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,prophetx,1.5,True
+00-0040737,Terrance Ferguson,player_receptions,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,prizepicks,0.5,True

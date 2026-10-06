@@ -1,0 +1,18 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038120,Breece Hall,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,pinnacle,21.5,True
+00-0038120,Breece Hall,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,betway,21.5,True
+00-0038120,Breece Hall,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,courtside,24.5,True
+00-0038120,Breece Hall,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,hardrock,64.5,True
+00-0038120,Breece Hall,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,prophetx,89.5,True
+00-0038120,Breece Hall,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,dabble,18.5,True
+00-0038120,Breece Hall,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,parlayplay,22.5,True
+00-0038120,Breece Hall,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,novig,23.5,True
+00-0038120,Breece Hall,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,sleeper,22.5,True
+00-0038120,Breece Hall,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prophetx,19.5,True
+00-0038120,Breece Hall,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,betway,16.5,True
+00-0038120,Breece Hall,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,pinnacle,18.5,True
+00-0038120,Breece Hall,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,betway,20.5,True
+00-0038120,Breece Hall,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,prophetx,17.5,True
+00-0038120,Breece Hall,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,pinnacle,20.5,True
+00-0038120,Breece Hall,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,betr,18.5,True
+00-0038120,Breece Hall,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,hardrock,79.5,True

@@ -1,0 +1,27 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0029604,Kirk Cousins,player_rush_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,prizepicks,0.5,True
+00-0029604,Kirk Cousins,player_rush_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,pinnacle,0.5,True
+00-0029604,Kirk Cousins,player_rush_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,novig,0.5,True
+00-0029604,Kirk Cousins,player_rush_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,hardrock,0.5,True
+00-0029604,Kirk Cousins,player_rush_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,betonlineag,0.5,True
+00-0029604,Kirk Cousins,player_rush_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,lowvig,0.5,True
+00-0029604,Kirk Cousins,player_rush_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,pick6,0.5,True
+00-0029604,Kirk Cousins,player_rush_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,sportzino,2.5,True
+00-0029604,Kirk Cousins,player_rush_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,dabble,1.5,True
+00-0029604,Kirk Cousins,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,parlayplay,1.5,True
+00-0029604,Kirk Cousins,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,hardrock,24.5,True
+00-0029604,Kirk Cousins,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,novig,0.5,True
+00-0029604,Kirk Cousins,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,pinnacle,1.5,True
+00-0029604,Kirk Cousins,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,courtside,1.5,True
+00-0029604,Kirk Cousins,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,prizepicks,0.5,True
+00-0029604,Kirk Cousins,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,prophetx,1.5,True
+00-0029604,Kirk Cousins,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,fliff,0.5,True
+00-0029604,Kirk Cousins,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,dabble,0.5,True
+00-0029604,Kirk Cousins,player_rush_yds,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,hardrock,24.5,True
+00-0029604,Kirk Cousins,player_rush_yds,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,fanatics,5.5,True
+00-0029604,Kirk Cousins,player_rush_yds,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,prizepicks,0.5,True
+00-0029604,Kirk Cousins,player_rush_yds,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,pinnacle,0.5,True
+00-0029604,Kirk Cousins,player_rush_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,hardrock,39.5,True
+00-0029604,Kirk Cousins,player_rush_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,pinnacle,0.5,True
+00-0029604,Kirk Cousins,player_rush_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,prizepicks,0.5,True
+00-0029604,Kirk Cousins,player_rush_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,fanatics,5.5,True

@@ -1,0 +1,12 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0037664,Alec Pierce,player_reception_yds,32646,2026-09-21T00:22:43Z,Kansas City Chiefs,Indianapolis Colts,lowvig,45.5,True
+00-0037664,Alec Pierce,player_reception_yds,32646,2026-09-21T00:22:43Z,Kansas City Chiefs,Indianapolis Colts,bovada,41.5,True
+00-0037664,Alec Pierce,player_reception_yds,32646,2026-09-21T00:22:43Z,Kansas City Chiefs,Indianapolis Colts,betonlineag,45.5,True
+00-0037664,Alec Pierce,player_reception_yds,32646,2026-09-21T00:22:43Z,Kansas City Chiefs,Indianapolis Colts,betway,44.5,True
+00-0037664,Alec Pierce,player_reception_yds,32646,2026-09-21T00:22:43Z,Kansas City Chiefs,Indianapolis Colts,pinnacle,43.5,True
+00-0037664,Alec Pierce,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,betway,43.5,True
+00-0037664,Alec Pierce,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,prophetx,45.5,True
+00-0037664,Alec Pierce,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,pinnacle,37.5,True
+00-0037664,Alec Pierce,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,betrivers,37.5,True
+00-0037664,Alec Pierce,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,betr,46.5,True
+00-0037664,Alec Pierce,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,bovada,30.5,True

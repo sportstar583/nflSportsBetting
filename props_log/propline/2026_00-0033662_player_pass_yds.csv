@@ -1,0 +1,17 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0033662,Cooper Rush,player_pass_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,underdog,199.5,True
+00-0033662,Cooper Rush,player_pass_yds,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,betway,184.5,True
+00-0033662,Cooper Rush,player_pass_yds,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,prophetx,183.5,True
+00-0033662,Cooper Rush,player_pass_yds,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,hardrock,324.5,True
+00-0033662,Cooper Rush,player_pass_yds,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,pinnacle,183.5,True
+00-0033662,Cooper Rush,player_pass_yds,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,prizepicks,112.5,True
+00-0033662,Cooper Rush,player_pass_yds,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,bovada,182.5,True
+00-0033662,Cooper Rush,player_pass_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,pinnacle,177.5,True
+00-0033662,Cooper Rush,player_pass_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,betmgm,183.5,True
+00-0033662,Cooper Rush,player_pass_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,prizepicks,106.5,True
+00-0033662,Cooper Rush,player_pass_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,hardrock,324.5,True
+00-0033662,Cooper Rush,player_pass_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,prophetx,186.5,True
+00-0033662,Cooper Rush,player_pass_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,betway,176.5,True
+00-0033662,Cooper Rush,player_pass_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,bovada,175.5,True
+00-0033662,Cooper Rush,player_pass_yds,59769,2026-08-14T23:00:00Z,Atlanta Falcons,Denver Broncos,betr,51.5,True
+00-0033662,Cooper Rush,player_pass_yds,59769,2026-08-14T23:00:00Z,Atlanta Falcons,Denver Broncos,underdog,54.5,True

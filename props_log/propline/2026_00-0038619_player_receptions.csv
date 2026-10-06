@@ -1,0 +1,17 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038619,Andrei Iosivas,player_receptions,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,polymarket_us,1.5,True
+00-0038619,Andrei Iosivas,player_receptions,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,hardrock,4.5,True
+00-0038619,Andrei Iosivas,player_receptions,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,fanduel,1.5,True
+00-0038619,Andrei Iosivas,player_receptions,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,betway,1.5,True
+00-0038619,Andrei Iosivas,player_receptions,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,pinnacle,1.5,True
+00-0038619,Andrei Iosivas,player_receptions,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,betmgm,1.5,True
+00-0038619,Andrei Iosivas,player_receptions,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,betonlineag,1.5,True
+00-0038619,Andrei Iosivas,player_receptions,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,lowvig,1.5,True
+00-0038619,Andrei Iosivas,player_receptions,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,bovada,1.5,True
+00-0038619,Andrei Iosivas,player_receptions,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,prophetx,1.5,True
+00-0038619,Andrei Iosivas,player_receptions,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,hardrock,5.5,True
+00-0038619,Andrei Iosivas,player_receptions,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betway,1.5,True
+00-0038619,Andrei Iosivas,player_receptions,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,pinnacle,1.5,True
+00-0038619,Andrei Iosivas,player_receptions,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,fanduel,1.5,True
+00-0038619,Andrei Iosivas,player_receptions,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betmgm,1.5,True
+00-0038619,Andrei Iosivas,player_receptions,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,prophetx,1.5,True

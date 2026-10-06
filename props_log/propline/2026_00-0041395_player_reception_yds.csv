@@ -1,0 +1,14 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0041395,Eli Raridon,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,dabble,5.5,True
+00-0041395,Eli Raridon,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,novig,5.5,True
+00-0041395,Eli Raridon,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,hardrock,5.5,True
+00-0041395,Eli Raridon,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,prophetx,10.5,True
+00-0041395,Eli Raridon,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,pick6,5.5,True
+00-0041395,Eli Raridon,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,prizepicks,5.5,True
+00-0041395,Eli Raridon,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,parlayplay,6.5,True
+00-0041395,Eli Raridon,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,sportzino,5.5,True
+00-0041395,Eli Raridon,player_reception_yds,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,prizepicks,5.5,True
+00-0041395,Eli Raridon,player_reception_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,hardrock,49.5,True
+00-0041395,Eli Raridon,player_reception_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,prizepicks,0.5,True
+00-0041395,Eli Raridon,player_reception_yds,59775,2026-08-14T02:30:00Z,New England Patriots,Indianapolis Colts,betr,18.5,True
+00-0041395,Eli Raridon,player_reception_yds,59775,2026-08-14T02:30:00Z,New England Patriots,Indianapolis Colts,underdog,17.5,True

@@ -1,0 +1,15 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036139,Rico Dowdle,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanatics,10.5,True
+00-0036139,Rico Dowdle,player_reception_yds,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,prophetx,12.5,True
+00-0036139,Rico Dowdle,player_reception_yds,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,hardrock,64.5,True
+00-0036139,Rico Dowdle,player_reception_yds,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,prizepicks,2.5,True
+00-0036139,Rico Dowdle,player_reception_yds,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,betway,11.5,True
+00-0036139,Rico Dowdle,player_reception_yds,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,pinnacle,14.5,True
+00-0036139,Rico Dowdle,player_reception_yds,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,bovada,15.5,True
+00-0036139,Rico Dowdle,player_reception_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,bovada,11.5,True
+00-0036139,Rico Dowdle,player_reception_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,prophetx,10.5,True
+00-0036139,Rico Dowdle,player_reception_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,betway,10.5,True
+00-0036139,Rico Dowdle,player_reception_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,prizepicks,0.5,True
+00-0036139,Rico Dowdle,player_reception_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,betr,10.5,True
+00-0036139,Rico Dowdle,player_reception_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,pinnacle,10.5,True
+00-0036139,Rico Dowdle,player_reception_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,hardrock,64.5,True

@@ -1,0 +1,18 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0041489,Germie Bernard,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,hardrock,1.5,True
+00-0041489,Germie Bernard,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,novig,0.5,True
+00-0041489,Germie Bernard,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,prophetx,1.5,True
+00-0041489,Germie Bernard,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,rebet,1.5,True
+00-0041489,Germie Bernard,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,1.5,True
+00-0041489,Germie Bernard,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betway,1.5,True
+00-0041489,Germie Bernard,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,1.5,True
+00-0041489,Germie Bernard,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,sleeper,1.5,True
+00-0041489,Germie Bernard,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,1.5,True
+00-0041489,Germie Bernard,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,prizepicks,0.5,True
+00-0041489,Germie Bernard,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,bovada,1.5,True
+00-0041489,Germie Bernard,player_receptions,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,polymarket_us,1.5,True
+00-0041489,Germie Bernard,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,prizepicks,0.5,True
+00-0041489,Germie Bernard,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,betmgm,1.5,True
+00-0041489,Germie Bernard,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,betway,1.5,True
+00-0041489,Germie Bernard,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,fanduel,1.5,True
+00-0041489,Germie Bernard,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,pinnacle,1.5,True

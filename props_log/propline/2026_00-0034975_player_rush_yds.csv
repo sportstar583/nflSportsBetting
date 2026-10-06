@@ -1,0 +1,33 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0034975,Justice Hill,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,dabble,13.5,True
+00-0034975,Justice Hill,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,rebet,16.5,True
+00-0034975,Justice Hill,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,sleeper,16.5,True
+00-0034975,Justice Hill,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,novig,16.5,True
+00-0034975,Justice Hill,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,prizepicks,13.5,True
+00-0034975,Justice Hill,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,pick6,16.5,True
+00-0034975,Justice Hill,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,sportzino,14.5,True
+00-0034975,Justice Hill,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,pinnacle,16.5,True
+00-0034975,Justice Hill,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,parlayplay,17.5,True
+00-0034975,Justice Hill,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,courtside,16.5,True
+00-0034975,Justice Hill,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,betway,13.5,True
+00-0034975,Justice Hill,player_rush_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,bovada,16.5,True
+00-0034975,Justice Hill,player_rush_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,parlayplay,13.5,True
+00-0034975,Justice Hill,player_rush_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,hardrock,64.5,True
+00-0034975,Justice Hill,player_rush_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,pinnacle,13.5,True
+00-0034975,Justice Hill,player_rush_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,sleeper,13.5,True
+00-0034975,Justice Hill,player_rush_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,dabble,12.5,True
+00-0034975,Justice Hill,player_rush_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,novig,13.5,True
+00-0034975,Justice Hill,player_rush_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,prizepicks,13.5,True
+00-0034975,Justice Hill,player_rush_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,courtside,13.5,True
+00-0034975,Justice Hill,player_rush_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,prophetx,13.5,True
+00-0034975,Justice Hill,player_rush_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,betway,13.5,True
+00-0034975,Justice Hill,player_rush_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,hardrock,64.5,True
+00-0034975,Justice Hill,player_rush_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,betway,14.5,True
+00-0034975,Justice Hill,player_rush_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,pinnacle,13.5,True
+00-0034975,Justice Hill,player_rush_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,prizepicks,3.5,True
+00-0034975,Justice Hill,player_rush_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,bovada,12.5,True
+00-0034975,Justice Hill,player_rush_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,betr,7.5,True
+00-0034975,Justice Hill,player_rush_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,betway,8.5,True
+00-0034975,Justice Hill,player_rush_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,prizepicks,2.5,True
+00-0034975,Justice Hill,player_rush_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,betrivers,7.5,True
+00-0034975,Justice Hill,player_rush_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,pinnacle,8.5,True

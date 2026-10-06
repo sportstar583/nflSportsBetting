@@ -1,0 +1,39 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0041512,Jadarian Price,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,pinnacle,36.5,True
+00-0041512,Jadarian Price,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,dabble,38.5,True
+00-0041512,Jadarian Price,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,underdog,41.5,True
+00-0041512,Jadarian Price,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,polymarket_us,39.5,True
+00-0041512,Jadarian Price,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,kalshi,39.5,True
+00-0041512,Jadarian Price,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,fanatics,40.5,True
+00-0041512,Jadarian Price,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,novig,41.5,True
+00-0041512,Jadarian Price,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prophetx,39.5,True
+00-0041512,Jadarian Price,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prizepicks,39.5,True
+00-0041512,Jadarian Price,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,bovada,41.5,True
+00-0041512,Jadarian Price,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,hardrock,39.5,True
+00-0041512,Jadarian Price,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,betrivers,39.5,True
+00-0041512,Jadarian Price,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,betmgm,40.5,True
+00-0041512,Jadarian Price,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sleeper,39.5,True
+00-0041512,Jadarian Price,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,courtside,41.5,True
+00-0041512,Jadarian Price,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,rebet,40.5,True
+00-0041512,Jadarian Price,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,draftkings,41.5,True
+00-0041512,Jadarian Price,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,fanduel,36.5,True
+00-0041512,Jadarian Price,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,fliff,39.5,True
+00-0041512,Jadarian Price,player_rush_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,bovada,53.5,True
+00-0041512,Jadarian Price,player_rush_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,novig,56.5,True
+00-0041512,Jadarian Price,player_rush_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,courtside,51.5,True
+00-0041512,Jadarian Price,player_rush_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,betway,51.5,True
+00-0041512,Jadarian Price,player_rush_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,dabble,51.5,True
+00-0041512,Jadarian Price,player_rush_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,sleeper,54.5,True
+00-0041512,Jadarian Price,player_rush_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,prizepicks,49.5,True
+00-0041512,Jadarian Price,player_rush_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,prophetx,52.5,True
+00-0041512,Jadarian Price,player_rush_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,parlayplay,55.5,True
+00-0041512,Jadarian Price,player_rush_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,pinnacle,54.5,True
+00-0041512,Jadarian Price,player_rush_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,betway,61.5,True
+00-0041512,Jadarian Price,player_rush_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,prizepicks,24.5,True
+00-0041512,Jadarian Price,player_rush_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,underdog,50.5,True
+00-0041512,Jadarian Price,player_rush_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,bovada,60.5,True
+00-0041512,Jadarian Price,player_rush_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,betr,51.5,True
+00-0041512,Jadarian Price,player_rush_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,pinnacle,52.5,True
+00-0041512,Jadarian Price,player_rush_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,prophetx,50.5,True
+00-0041512,Jadarian Price,player_rush_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,prizepicks,21.5,True
+00-0041512,Jadarian Price,player_rush_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,bovada,53.5,True

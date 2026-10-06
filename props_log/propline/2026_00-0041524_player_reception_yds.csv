@@ -1,0 +1,4 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0041524,Will Kacmarek,player_reception_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,prizepicks,3.5,True
+00-0041524,Will Kacmarek,player_reception_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,parlayplay,3.5,True
+00-0041524,Will Kacmarek,player_reception_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,dabble,3.5,True

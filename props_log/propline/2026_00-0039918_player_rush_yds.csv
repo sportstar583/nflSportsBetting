@@ -1,0 +1,9 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039918,Caleb Williams,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,polymarket_us,19.5,True
+00-0039918,Caleb Williams,player_rush_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,prophetx,26.5,True
+00-0039918,Caleb Williams,player_rush_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,pinnacle,27.5,True
+00-0039918,Caleb Williams,player_rush_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,betway,27.5,True
+00-0039918,Caleb Williams,player_rush_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,bovada,28.5,True
+00-0039918,Caleb Williams,player_rush_yds,25074,2026-09-13T17:00:00Z,Carolina Panthers,Chicago Bears,betr,21.5,True
+00-0039918,Caleb Williams,player_rush_yds,25074,2026-09-13T17:00:00Z,Carolina Panthers,Chicago Bears,betway,20.5,True
+00-0039918,Caleb Williams,player_rush_yds,25074,2026-09-13T17:00:00Z,Carolina Panthers,Chicago Bears,pinnacle,19.5,True

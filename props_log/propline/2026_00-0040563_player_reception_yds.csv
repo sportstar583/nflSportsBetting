@@ -1,0 +1,5 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040563,Efton Chism III,player_reception_yds,150212,2026-08-28T00:00:00Z,Cleveland Browns,New England Patriots,underdog,24.5,True
+00-0040563,Efton Chism III,player_reception_yds,147721,2026-08-22T23:00:00Z,New England Patriots,Philadelphia Eagles,underdog,20.5,True
+00-0040563,Efton Chism III,player_reception_yds,59775,2026-08-14T02:30:00Z,New England Patriots,Indianapolis Colts,underdog,27.5,True
+00-0040563,Efton Chism III,player_reception_yds,59775,2026-08-14T02:30:00Z,New England Patriots,Indianapolis Colts,betr,25.5,True

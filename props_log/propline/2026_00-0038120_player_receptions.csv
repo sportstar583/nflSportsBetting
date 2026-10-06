@@ -1,0 +1,20 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038120,Breece Hall,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,hardrock,7.5,True
+00-0038120,Breece Hall,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,betway,3.5,True
+00-0038120,Breece Hall,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,novig,2.5,True
+00-0038120,Breece Hall,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,pinnacle,3.5,True
+00-0038120,Breece Hall,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,fanduel,3.5,True
+00-0038120,Breece Hall,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,betmgm,2.5,True
+00-0038120,Breece Hall,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,prophetx,3.5,True
+00-0038120,Breece Hall,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,sleeper,3.5,True
+00-0038120,Breece Hall,player_receptions,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,fanduel,2.5,True
+00-0038120,Breece Hall,player_receptions,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prophetx,2.5,True
+00-0038120,Breece Hall,player_receptions,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,betway,2.5,True
+00-0038120,Breece Hall,player_receptions,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,pinnacle,2.5,True
+00-0038120,Breece Hall,player_receptions,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,betmgm,2.5,True
+00-0038120,Breece Hall,player_receptions,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,betway,2.5,True
+00-0038120,Breece Hall,player_receptions,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,fanduel,2.5,True
+00-0038120,Breece Hall,player_receptions,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,prophetx,2.5,True
+00-0038120,Breece Hall,player_receptions,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,pinnacle,2.5,True
+00-0038120,Breece Hall,player_receptions,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,hardrock,6.5,True
+00-0038120,Breece Hall,player_receptions,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,betmgm,2.5,True

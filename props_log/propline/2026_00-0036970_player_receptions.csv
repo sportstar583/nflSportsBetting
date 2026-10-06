@@ -1,0 +1,20 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036970,Kyle Pitts,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,pinnacle,3.5,True
+00-0036970,Kyle Pitts,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,betmgm,3.5,True
+00-0036970,Kyle Pitts,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,novig,3.5,True
+00-0036970,Kyle Pitts,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,prophetx,3.5,True
+00-0036970,Kyle Pitts,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,fanduel,3.5,True
+00-0036970,Kyle Pitts,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,betonlineag,3.5,True
+00-0036970,Kyle Pitts,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,lowvig,3.5,True
+00-0036970,Kyle Pitts,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,betway,3.5,True
+00-0036970,Kyle Pitts,player_receptions,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,betway,3.5,True
+00-0036970,Kyle Pitts,player_receptions,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,fanduel,3.5,True
+00-0036970,Kyle Pitts,player_receptions,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,prophetx,3.5,True
+00-0036970,Kyle Pitts,player_receptions,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,pinnacle,3.5,True
+00-0036970,Kyle Pitts,player_receptions,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,betmgm,3.5,True
+00-0036970,Kyle Pitts,player_receptions,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,prophetx,4.5,True
+00-0036970,Kyle Pitts,player_receptions,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,betway,3.5,True
+00-0036970,Kyle Pitts,player_receptions,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,hardrock,9.5,True
+00-0036970,Kyle Pitts,player_receptions,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,pinnacle,4.5,True
+00-0036970,Kyle Pitts,player_receptions,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,fanduel,4.5,True
+00-0036970,Kyle Pitts,player_receptions,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,betmgm,3.5,True

@@ -1,0 +1,6 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0032950,Carson Wentz,player_pass_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,underdog,205.5,True
+00-0032950,Carson Wentz,player_pass_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,prophetx,207.5,True
+00-0032950,Carson Wentz,player_pass_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,betway,216.5,True
+00-0032950,Carson Wentz,player_pass_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,pinnacle,214.5,True
+00-0032950,Carson Wentz,player_pass_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,bovada,212.5,True

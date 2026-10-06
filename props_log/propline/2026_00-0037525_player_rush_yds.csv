@@ -1,0 +1,16 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0037525,Jordan Mason,player_rush_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,fanduel,45.5,True
+00-0037525,Jordan Mason,player_rush_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,prizepicks,20.5,True
+00-0037525,Jordan Mason,player_rush_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,pinnacle,45.5,True
+00-0037525,Jordan Mason,player_rush_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,prophetx,45.5,True
+00-0037525,Jordan Mason,player_rush_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,hardrock,49.5,True
+00-0037525,Jordan Mason,player_rush_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,fanatics,45.5,True
+00-0037525,Jordan Mason,player_rush_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,fliff,47.5,True
+00-0037525,Jordan Mason,player_rush_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,underdog,45.5,True
+00-0037525,Jordan Mason,player_rush_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,prophetx,45.5,True
+00-0037525,Jordan Mason,player_rush_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betway,43.5,True
+00-0037525,Jordan Mason,player_rush_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,prizepicks,18.5,True
+00-0037525,Jordan Mason,player_rush_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betmgm,44.5,True
+00-0037525,Jordan Mason,player_rush_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betr,43.5,True
+00-0037525,Jordan Mason,player_rush_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,pinnacle,43.5,True
+00-0037525,Jordan Mason,player_rush_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,bovada,44.5,True

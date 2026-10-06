@@ -1,0 +1,8 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0033885,David Njoku,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,polymarket_us,9.5,True
+00-0033885,David Njoku,player_reception_yds,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,prizepicks,5.5,True
+00-0033885,David Njoku,player_reception_yds,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,betway,24.5,True
+00-0033885,David Njoku,player_reception_yds,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,pinnacle,23.5,True
+00-0033885,David Njoku,player_reception_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,betway,12.5,True
+00-0033885,David Njoku,player_reception_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,betr,15.5,True
+00-0033885,David Njoku,player_reception_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,prizepicks,0.5,True

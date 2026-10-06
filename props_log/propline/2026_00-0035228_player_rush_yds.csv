@@ -1,0 +1,26 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0035228,Kyler Murray,player_rush_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,sleeper,21.5,True
+00-0035228,Kyler Murray,player_rush_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,pick6,22.5,True
+00-0035228,Kyler Murray,player_rush_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,rebet,21.5,True
+00-0035228,Kyler Murray,player_rush_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,dabble,17.5,True
+00-0035228,Kyler Murray,player_rush_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,novig,21.5,True
+00-0035228,Kyler Murray,player_rush_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,betway,20.5,True
+00-0035228,Kyler Murray,player_rush_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,hardrock,24.5,True
+00-0035228,Kyler Murray,player_rush_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,sportzino,21.5,True
+00-0035228,Kyler Murray,player_rush_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,parlayplay,20.5,True
+00-0035228,Kyler Murray,player_rush_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,prizepicks,18.5,True
+00-0035228,Kyler Murray,player_rush_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,pinnacle,21.5,True
+00-0035228,Kyler Murray,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,betway,20.5,True
+00-0035228,Kyler Murray,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,pinnacle,20.5,True
+00-0035228,Kyler Murray,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,dabble,20.5,True
+00-0035228,Kyler Murray,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,sleeper,21.5,True
+00-0035228,Kyler Murray,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,novig,21.5,True
+00-0035228,Kyler Murray,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,prizepicks,4.5,True
+00-0035228,Kyler Murray,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,parlayplay,21.5,True
+00-0035228,Kyler Murray,player_rush_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,prophetx,24.5,True
+00-0035228,Kyler Murray,player_rush_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,pinnacle,23.5,True
+00-0035228,Kyler Murray,player_rush_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betr,22.5,True
+00-0035228,Kyler Murray,player_rush_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betmgm,24.5,True
+00-0035228,Kyler Murray,player_rush_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betway,23.5,True
+00-0035228,Kyler Murray,player_rush_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,prizepicks,6.5,True
+00-0035228,Kyler Murray,player_rush_yds,59767,2026-08-15T20:00:00Z,New York Giants,Minnesota Vikings,underdog,7.5,True

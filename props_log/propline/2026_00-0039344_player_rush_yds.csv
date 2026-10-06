@@ -1,0 +1,17 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039344,Jonathon Brooks,player_rush_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,polymarket_us,49.5,True
+00-0039344,Jonathon Brooks,player_rush_yds,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,hardrock,99.5,True
+00-0039344,Jonathon Brooks,player_rush_yds,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,prizepicks,4.5,True
+00-0039344,Jonathon Brooks,player_rush_yds,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,betway,22.5,True
+00-0039344,Jonathon Brooks,player_rush_yds,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,pinnacle,22.5,True
+00-0039344,Jonathon Brooks,player_rush_yds,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,prophetx,24.5,True
+00-0039344,Jonathon Brooks,player_rush_yds,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,betrivers,21.5,True
+00-0039344,Jonathon Brooks,player_rush_yds,25074,2026-09-13T17:00:00Z,Carolina Panthers,Chicago Bears,prizepicks,9.5,True
+00-0039344,Jonathon Brooks,player_rush_yds,25074,2026-09-13T17:00:00Z,Carolina Panthers,Chicago Bears,hardrock,99.5,True
+00-0039344,Jonathon Brooks,player_rush_yds,25074,2026-09-13T17:00:00Z,Carolina Panthers,Chicago Bears,betway,29.5,True
+00-0039344,Jonathon Brooks,player_rush_yds,25074,2026-09-13T17:00:00Z,Carolina Panthers,Chicago Bears,bovada,26.5,True
+00-0039344,Jonathon Brooks,player_rush_yds,25074,2026-09-13T17:00:00Z,Carolina Panthers,Chicago Bears,pinnacle,26.5,True
+00-0039344,Jonathon Brooks,player_rush_yds,25074,2026-09-13T17:00:00Z,Carolina Panthers,Chicago Bears,prophetx,32.5,True
+00-0039344,Jonathon Brooks,player_rush_yds,147679,2026-08-21T23:30:00Z,Jacksonville Jaguars,Carolina Panthers,underdog,13.5,True
+00-0039344,Jonathon Brooks,player_rush_yds,59766,2026-08-15T20:00:00Z,Buffalo Bills,Carolina Panthers,betr,17.5,True
+00-0039344,Jonathon Brooks,player_rush_yds,59766,2026-08-15T20:00:00Z,Buffalo Bills,Carolina Panthers,underdog,18.5,True

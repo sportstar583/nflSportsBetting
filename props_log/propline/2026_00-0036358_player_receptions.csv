@@ -1,0 +1,38 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036358,CeeDee Lamb,player_receptions,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,hardrock,5.5,True
+00-0036358,CeeDee Lamb,player_receptions,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,betmgm,6.5,True
+00-0036358,CeeDee Lamb,player_receptions,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,sleeper,5.5,True
+00-0036358,CeeDee Lamb,player_receptions,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,prophetx,5.5,True
+00-0036358,CeeDee Lamb,player_receptions,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,pinnacle,5.5,True
+00-0036358,CeeDee Lamb,player_receptions,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,dabble,5.5,True
+00-0036358,CeeDee Lamb,player_receptions,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,sportzino,5.5,True
+00-0036358,CeeDee Lamb,player_receptions,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,parlayplay,6.5,True
+00-0036358,CeeDee Lamb,player_receptions,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,fanduel,5.5,True
+00-0036358,CeeDee Lamb,player_receptions,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,rebet,5.5,True
+00-0036358,CeeDee Lamb,player_receptions,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,betway,5.5,True
+00-0036358,CeeDee Lamb,player_receptions,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,novig,3.5,True
+00-0036358,CeeDee Lamb,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,novig,5.5,True
+00-0036358,CeeDee Lamb,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,fanduel,6.5,True
+00-0036358,CeeDee Lamb,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,pinnacle,6.5,True
+00-0036358,CeeDee Lamb,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,betmgm,6.5,True
+00-0036358,CeeDee Lamb,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,dabble,6.5,True
+00-0036358,CeeDee Lamb,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,sleeper,6.5,True
+00-0036358,CeeDee Lamb,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,prophetx,6.5,True
+00-0036358,CeeDee Lamb,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,betway,6.5,True
+00-0036358,CeeDee Lamb,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,lowvig,6.5,True
+00-0036358,CeeDee Lamb,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,betonlineag,6.5,True
+00-0036358,CeeDee Lamb,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,prophetx,5.5,True
+00-0036358,CeeDee Lamb,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,fliff,5.5,True
+00-0036358,CeeDee Lamb,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,pinnacle,5.5,True
+00-0036358,CeeDee Lamb,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,fanduel,5.5,True
+00-0036358,CeeDee Lamb,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,betmgm,5.5,True
+00-0036358,CeeDee Lamb,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,betonlineag,5.5,True
+00-0036358,CeeDee Lamb,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,lowvig,5.5,True
+00-0036358,CeeDee Lamb,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,betway,5.5,True
+00-0036358,CeeDee Lamb,player_receptions,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betway,5.5,True
+00-0036358,CeeDee Lamb,player_receptions,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,pinnacle,6.5,True
+00-0036358,CeeDee Lamb,player_receptions,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betmgm,6.5,True
+00-0036358,CeeDee Lamb,player_receptions,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,fanduel,6.5,True
+00-0036358,CeeDee Lamb,player_receptions,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,prophetx,6.5,True
+00-0036358,CeeDee Lamb,player_receptions,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,lowvig,6.5,True
+00-0036358,CeeDee Lamb,player_receptions,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betonlineag,6.5,True

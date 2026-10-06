@@ -1,0 +1,11 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040870,Ja'Kobi Lane,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,betway,19.5,True
+00-0040870,Ja'Kobi Lane,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,prophetx,18.5,True
+00-0040870,Ja'Kobi Lane,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,pinnacle,19.5,True
+00-0040870,Ja'Kobi Lane,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,draftkings,19.5,True
+00-0040870,Ja'Kobi Lane,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,prizepicks,0.5,True
+00-0040870,Ja'Kobi Lane,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,betonlineag,19.5,True
+00-0040870,Ja'Kobi Lane,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,lowvig,19.5,True
+00-0040870,Ja'Kobi Lane,player_reception_yds,147751,2026-08-22T17:00:00Z,Minnesota Vikings,Baltimore Ravens,underdog,18.5,True
+00-0040870,Ja'Kobi Lane,player_reception_yds,59763,2026-08-15T23:00:00Z,Baltimore Ravens,Philadelphia Eagles,betr,23.5,True
+00-0040870,Ja'Kobi Lane,player_reception_yds,59763,2026-08-15T23:00:00Z,Baltimore Ravens,Philadelphia Eagles,underdog,25.5,True

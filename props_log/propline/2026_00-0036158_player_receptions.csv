@@ -1,0 +1,15 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036158,J.K. Dobbins,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,sportzino,0.5,True
+00-0036158,J.K. Dobbins,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,hardrock,1.5,True
+00-0036158,J.K. Dobbins,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,0.5,True
+00-0036158,J.K. Dobbins,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,novig,0.5,True
+00-0036158,J.K. Dobbins,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,prophetx,0.5,True
+00-0036158,J.K. Dobbins,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,sleeper,0.5,True
+00-0036158,J.K. Dobbins,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,dabble,0.5,True
+00-0036158,J.K. Dobbins,player_receptions,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,fliff,1.5,True
+00-0036158,J.K. Dobbins,player_receptions,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,betmgm,1.5,True
+00-0036158,J.K. Dobbins,player_receptions,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,hardrock,2.5,True
+00-0036158,J.K. Dobbins,player_receptions,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,betway,1.5,True
+00-0036158,J.K. Dobbins,player_receptions,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,fanduel,0.5,True
+00-0036158,J.K. Dobbins,player_receptions,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,prophetx,0.5,True
+00-0036158,J.K. Dobbins,player_receptions,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,fliff,0.5,True

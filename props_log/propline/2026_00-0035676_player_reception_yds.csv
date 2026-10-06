@@ -1,0 +1,8 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0035676,A.J. Brown,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,underdog,63.5,True
+00-0035676,A.J. Brown,player_reception_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,underdog,62.5,True
+00-0035676,A.J. Brown,player_reception_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,pinnacle,64.5,True
+00-0035676,A.J. Brown,player_reception_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,prophetx,61.5,True
+00-0035676,A.J. Brown,player_reception_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,betr,60.5,True
+00-0035676,A.J. Brown,player_reception_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,prizepicks,24.5,True
+00-0035676,A.J. Brown,player_reception_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,bovada,62.5,True

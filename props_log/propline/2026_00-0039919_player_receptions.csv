@@ -1,0 +1,35 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039919,Rome Odunze,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,betway,2.5,True
+00-0039919,Rome Odunze,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,fanduel,2.5,True
+00-0039919,Rome Odunze,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,hardrock,2.5,True
+00-0039919,Rome Odunze,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,prophetx,2.5,True
+00-0039919,Rome Odunze,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,sleeper,2.5,True
+00-0039919,Rome Odunze,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,sportzino,2.5,True
+00-0039919,Rome Odunze,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,novig,1.5,True
+00-0039919,Rome Odunze,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,rebet,2.5,True
+00-0039919,Rome Odunze,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,pinnacle,2.5,True
+00-0039919,Rome Odunze,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,betmgm,2.5,True
+00-0039919,Rome Odunze,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,dabble,2.5,True
+00-0039919,Rome Odunze,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,novig,1.5,True
+00-0039919,Rome Odunze,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,betway,2.5,True
+00-0039919,Rome Odunze,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,sleeper,2.5,True
+00-0039919,Rome Odunze,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,fanduel,2.5,True
+00-0039919,Rome Odunze,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,pinnacle,2.5,True
+00-0039919,Rome Odunze,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,prophetx,2.5,True
+00-0039919,Rome Odunze,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,betmgm,2.5,True
+00-0039919,Rome Odunze,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,rebet,2.5,True
+00-0039919,Rome Odunze,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,dabble,2.5,True
+00-0039919,Rome Odunze,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,hardrock,5.5,True
+00-0039919,Rome Odunze,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,lowvig,2.5,True
+00-0039919,Rome Odunze,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,betonlineag,2.5,True
+00-0039919,Rome Odunze,player_receptions,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,prophetx,2.5,True
+00-0039919,Rome Odunze,player_receptions,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,fanduel,2.5,True
+00-0039919,Rome Odunze,player_receptions,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,betway,2.5,True
+00-0039919,Rome Odunze,player_receptions,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,pinnacle,2.5,True
+00-0039919,Rome Odunze,player_receptions,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,betmgm,2.5,True
+00-0039919,Rome Odunze,player_receptions,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,hardrock,7.5,True
+00-0039919,Rome Odunze,player_receptions,25074,2026-09-13T17:00:00Z,Carolina Panthers,Chicago Bears,pinnacle,3.5,True
+00-0039919,Rome Odunze,player_receptions,25074,2026-09-13T17:00:00Z,Carolina Panthers,Chicago Bears,betway,3.5,True
+00-0039919,Rome Odunze,player_receptions,25074,2026-09-13T17:00:00Z,Carolina Panthers,Chicago Bears,fanduel,3.5,True
+00-0039919,Rome Odunze,player_receptions,25074,2026-09-13T17:00:00Z,Carolina Panthers,Chicago Bears,prophetx,3.5,True
+00-0039919,Rome Odunze,player_receptions,25074,2026-09-13T17:00:00Z,Carolina Panthers,Chicago Bears,betmgm,3.5,True

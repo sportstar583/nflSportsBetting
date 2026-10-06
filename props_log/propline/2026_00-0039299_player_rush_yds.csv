@@ -1,0 +1,33 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039299,George Holani,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,betway,36.5,True
+00-0039299,George Holani,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,parlayplay,30.5,True
+00-0039299,George Holani,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,novig,31.5,True
+00-0039299,George Holani,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prizepicks,30.5,True
+00-0039299,George Holani,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,pinnacle,32.5,True
+00-0039299,George Holani,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,dabble,34.5,True
+00-0039299,George Holani,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,pick6,30.5,True
+00-0039299,George Holani,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prophetx,35.5,True
+00-0039299,George Holani,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sleeper,32.5,True
+00-0039299,George Holani,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,bovada,31.5,True
+00-0039299,George Holani,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,rebet,32.5,True
+00-0039299,George Holani,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sportzino,34.5,True
+00-0039299,George Holani,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,courtside,34.5,True
+00-0039299,George Holani,player_rush_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,fanatics,15.5,True
+00-0039299,George Holani,player_rush_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,betway,15.5,True
+00-0039299,George Holani,player_rush_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,polymarket_us,19.5,True
+00-0039299,George Holani,player_rush_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,dabble,14.5,True
+00-0039299,George Holani,player_rush_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,prizepicks,14.5,True
+00-0039299,George Holani,player_rush_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,parlayplay,14.5,True
+00-0039299,George Holani,player_rush_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,prophetx,34.5,True
+00-0039299,George Holani,player_rush_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,betway,30.5,True
+00-0039299,George Holani,player_rush_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,pinnacle,29.5,True
+00-0039299,George Holani,player_rush_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,prizepicks,10.5,True
+00-0039299,George Holani,player_rush_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,hardrock,99.5,True
+00-0039299,George Holani,player_rush_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,bovada,30.5,True
+00-0039299,George Holani,player_rush_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,betr,20.5,True
+00-0039299,George Holani,player_rush_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,pinnacle,19.5,True
+00-0039299,George Holani,player_rush_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,prophetx,20.5,True
+00-0039299,George Holani,player_rush_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,prizepicks,8.5,True
+00-0039299,George Holani,player_rush_yds,148033,2026-08-24T00:10:00Z,Tennessee Titans,Seattle Seahawks,underdog,24.5,True
+00-0039299,George Holani,player_rush_yds,59762,2026-08-16T00:00:00Z,Seattle Seahawks,Dallas Cowboys,underdog,14.5,True
+00-0039299,George Holani,player_rush_yds,59762,2026-08-16T00:00:00Z,Seattle Seahawks,Dallas Cowboys,betr,15.5,True

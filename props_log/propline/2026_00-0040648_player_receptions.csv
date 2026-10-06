@@ -1,0 +1,16 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040648,Tory Horton,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,parlayplay,0.5,True
+00-0040648,Tory Horton,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,betway,1.5,True
+00-0040648,Tory Horton,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,fliff,0.5,True
+00-0040648,Tory Horton,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sleeper,0.5,True
+00-0040648,Tory Horton,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,novig,2.5,True
+00-0040648,Tory Horton,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prophetx,0.5,True
+00-0040648,Tory Horton,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,fanduel,0.5,True
+00-0040648,Tory Horton,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,pinnacle,1.5,True
+00-0040648,Tory Horton,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sportzino,0.5,True
+00-0040648,Tory Horton,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prizepicks,0.5,True
+00-0040648,Tory Horton,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,rebet,0.5,True
+00-0040648,Tory Horton,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,hardrock,0.5,True
+00-0040648,Tory Horton,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,prizepicks,0.5,True
+00-0040648,Tory Horton,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,novig,1.5,True
+00-0040648,Tory Horton,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,prophetx,2.5,True

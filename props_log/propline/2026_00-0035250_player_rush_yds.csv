@@ -1,0 +1,27 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0035250,Devin Singletary,player_rush_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,prizepicks,5.5,True
+00-0035250,Devin Singletary,player_rush_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,parlayplay,5.5,True
+00-0035250,Devin Singletary,player_rush_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,betmgm,5.5,True
+00-0035250,Devin Singletary,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,underdog,12.5,True
+00-0035250,Devin Singletary,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,hardrock,24.5,True
+00-0035250,Devin Singletary,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,fanduel,12.5,True
+00-0035250,Devin Singletary,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,novig,12.5,True
+00-0035250,Devin Singletary,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,courtside,12.5,True
+00-0035250,Devin Singletary,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,draftkings,12.5,True
+00-0035250,Devin Singletary,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,fliff,12.5,True
+00-0035250,Devin Singletary,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,parlayplay,12.5,True
+00-0035250,Devin Singletary,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,fanatics,20.5,True
+00-0035250,Devin Singletary,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,kalshi,9.5,True
+00-0035250,Devin Singletary,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,polymarket_us,9.5,True
+00-0035250,Devin Singletary,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,prizepicks,12.5,True
+00-0035250,Devin Singletary,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,pinnacle,12.5,True
+00-0035250,Devin Singletary,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,dabble,13.5,True
+00-0035250,Devin Singletary,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,sleeper,11.5,True
+00-0035250,Devin Singletary,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,bovada,12.5,True
+00-0035250,Devin Singletary,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,prophetx,12.5,True
+00-0035250,Devin Singletary,player_rush_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,pinnacle,12.5,True
+00-0035250,Devin Singletary,player_rush_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betmgm,13.5,True
+00-0035250,Devin Singletary,player_rush_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,hardrock,64.5,True
+00-0035250,Devin Singletary,player_rush_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betway,15.5,True
+00-0035250,Devin Singletary,player_rush_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,prizepicks,4.5,True
+00-0035250,Devin Singletary,player_rush_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,prizepicks,3.5,True

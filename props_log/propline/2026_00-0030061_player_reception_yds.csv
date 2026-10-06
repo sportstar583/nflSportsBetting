@@ -1,0 +1,23 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0030061,Zach Ertz,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,parlayplay,10.5,True
+00-0030061,Zach Ertz,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,novig,21.5,True
+00-0030061,Zach Ertz,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,pick6,23.5,True
+00-0030061,Zach Ertz,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,dabble,20.5,True
+00-0030061,Zach Ertz,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,sleeper,21.5,True
+00-0030061,Zach Ertz,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,prophetx,10.5,True
+00-0030061,Zach Ertz,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,courtside,22.5,True
+00-0030061,Zach Ertz,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,prizepicks,19.5,True
+00-0030061,Zach Ertz,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,rebet,22.5,True
+00-0030061,Zach Ertz,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,pinnacle,21.5,True
+00-0030061,Zach Ertz,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,sportzino,20.5,True
+00-0030061,Zach Ertz,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,underdog,21.5,True
+00-0030061,Zach Ertz,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,novig,10.5,True
+00-0030061,Zach Ertz,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,prophetx,11.5,True
+00-0030061,Zach Ertz,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,parlayplay,11.5,True
+00-0030061,Zach Ertz,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,sleeper,11.5,True
+00-0030061,Zach Ertz,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,prizepicks,8.5,True
+00-0030061,Zach Ertz,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,dabble,11.5,True
+00-0030061,Zach Ertz,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,hardrock,49.5,True
+00-0030061,Zach Ertz,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,rebet,10.5,True
+00-0030061,Zach Ertz,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,pinnacle,10.5,True
+00-0030061,Zach Ertz,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,bovada,10.5,True

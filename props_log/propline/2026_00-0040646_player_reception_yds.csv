@@ -1,0 +1,4 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040646,Jalen Royals,player_reception_yds,152536,2026-08-29T00:00:00Z,Kansas City Chiefs,Seattle Seahawks,underdog,22.5,True
+00-0040646,Jalen Royals,player_reception_yds,147834,2026-08-22T23:30:00Z,Tampa Bay Buccaneers,Kansas City Chiefs,underdog,16.5,True
+00-0040646,Jalen Royals,player_reception_yds,59764,2026-08-15T23:00:00Z,Kansas City Chiefs,Los Angeles Rams,underdog,21.5,True

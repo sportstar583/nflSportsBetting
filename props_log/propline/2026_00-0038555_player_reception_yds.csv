@@ -1,0 +1,8 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038555,Tank Bigsby,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,prizepicks,0.5,True
+00-0038555,Tank Bigsby,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,sportzino,0.5,True
+00-0038555,Tank Bigsby,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,prizepicks,0.5,True
+00-0038555,Tank Bigsby,player_reception_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,prizepicks,0.5,True
+00-0038555,Tank Bigsby,player_reception_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,draftkings,0.5,True
+00-0038555,Tank Bigsby,player_reception_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,hardrock,24.5,True
+00-0038555,Tank Bigsby,player_reception_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,prizepicks,0.5,True

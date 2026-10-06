@@ -1,0 +1,12 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038619,Andrei Iosivas,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,polymarket_us,9.5,True
+00-0038619,Andrei Iosivas,player_reception_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,hardrock,64.5,True
+00-0038619,Andrei Iosivas,player_reception_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,betway,15.5,True
+00-0038619,Andrei Iosivas,player_reception_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,pinnacle,14.5,True
+00-0038619,Andrei Iosivas,player_reception_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,lowvig,14.5,True
+00-0038619,Andrei Iosivas,player_reception_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,betonlineag,14.5,True
+00-0038619,Andrei Iosivas,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betway,14.5,True
+00-0038619,Andrei Iosivas,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,hardrock,79.5,True
+00-0038619,Andrei Iosivas,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,prophetx,16.5,True
+00-0038619,Andrei Iosivas,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,pinnacle,13.5,True
+00-0038619,Andrei Iosivas,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betr,9.5,True

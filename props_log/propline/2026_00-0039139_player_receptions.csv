@@ -1,0 +1,36 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039139,Jahmyr Gibbs,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,hardrock,5.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,dabble,4.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,novig,7.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,pinnacle,4.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,4.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,sleeper,4.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,prophetx,4.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,lowvig,4.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,4.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,4.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,sportzino,4.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betway,4.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,rebet,4.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,betmgm,4.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,hardrock,9.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,pinnacle,4.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,betway,4.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,novig,3.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,dabble,4.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,prophetx,4.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,sleeper,4.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,fanduel,4.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,prophetx,3.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,betmgm,4.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,fanduel,4.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,pinnacle,4.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,lowvig,4.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,betonlineag,4.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,betway,4.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betway,4.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,fanduel,4.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,prophetx,4.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,hardrock,9.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betmgm,3.5,True
+00-0039139,Jahmyr Gibbs,player_receptions,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,pinnacle,4.5,True

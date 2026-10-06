@@ -1,0 +1,40 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040867,Makai Lemon,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,novig,2.5,True
+00-0040867,Makai Lemon,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,dabble,3.5,True
+00-0040867,Makai Lemon,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,sportzino,3.5,True
+00-0040867,Makai Lemon,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,sleeper,3.5,True
+00-0040867,Makai Lemon,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,hardrock,2.5,True
+00-0040867,Makai Lemon,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,betway,3.5,True
+00-0040867,Makai Lemon,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,betmgm,3.5,True
+00-0040867,Makai Lemon,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,rebet,3.5,True
+00-0040867,Makai Lemon,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,fanduel,3.5,True
+00-0040867,Makai Lemon,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,pinnacle,3.5,True
+00-0040867,Makai Lemon,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,prizepicks,2.5,True
+00-0040867,Makai Lemon,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,prophetx,3.5,True
+00-0040867,Makai Lemon,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,betmgm,2.5,True
+00-0040867,Makai Lemon,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,fanduel,2.5,True
+00-0040867,Makai Lemon,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,betway,2.5,True
+00-0040867,Makai Lemon,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,sleeper,2.5,True
+00-0040867,Makai Lemon,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,hardrock,7.5,True
+00-0040867,Makai Lemon,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,prizepicks,2.5,True
+00-0040867,Makai Lemon,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,pinnacle,2.5,True
+00-0040867,Makai Lemon,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,novig,0.5,True
+00-0040867,Makai Lemon,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,rebet,2.5,True
+00-0040867,Makai Lemon,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,dabble,2.5,True
+00-0040867,Makai Lemon,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,prophetx,2.5,True
+00-0040867,Makai Lemon,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,lowvig,2.5,True
+00-0040867,Makai Lemon,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,betonlineag,2.5,True
+00-0040867,Makai Lemon,player_receptions,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,prizepicks,2.5,True
+00-0040867,Makai Lemon,player_receptions,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,betway,2.5,True
+00-0040867,Makai Lemon,player_receptions,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,fanduel,2.5,True
+00-0040867,Makai Lemon,player_receptions,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,betmgm,2.5,True
+00-0040867,Makai Lemon,player_receptions,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,prophetx,2.5,True
+00-0040867,Makai Lemon,player_receptions,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,pinnacle,2.5,True
+00-0040867,Makai Lemon,player_receptions,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,hardrock,7.5,True
+00-0040867,Makai Lemon,player_receptions,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,pinnacle,2.5,True
+00-0040867,Makai Lemon,player_receptions,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,prizepicks,1.5,True
+00-0040867,Makai Lemon,player_receptions,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betmgm,2.5,True
+00-0040867,Makai Lemon,player_receptions,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,fanduel,1.5,True
+00-0040867,Makai Lemon,player_receptions,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,lowvig,2.5,True
+00-0040867,Makai Lemon,player_receptions,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betonlineag,2.5,True
+00-0040867,Makai Lemon,player_receptions,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betway,2.5,True

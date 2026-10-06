@@ -1,0 +1,21 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040729,Jack Bech,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,prophetx,59.5,True
+00-0040729,Jack Bech,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,sleeper,14.5,True
+00-0040729,Jack Bech,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,dabble,15.5,True
+00-0040729,Jack Bech,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,hardrock,79.5,True
+00-0040729,Jack Bech,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,courtside,14.5,True
+00-0040729,Jack Bech,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,pinnacle,14.5,True
+00-0040729,Jack Bech,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,prizepicks,14.5,True
+00-0040729,Jack Bech,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,betway,14.5,True
+00-0040729,Jack Bech,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,fliff,14.5,True
+00-0040729,Jack Bech,player_reception_yds,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,betway,24.5,True
+00-0040729,Jack Bech,player_reception_yds,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,prizepicks,24.5,True
+00-0040729,Jack Bech,player_reception_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,betway,18.5,True
+00-0040729,Jack Bech,player_reception_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,prizepicks,0.5,True
+00-0040729,Jack Bech,player_reception_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,betrivers,18.5,True
+00-0040729,Jack Bech,player_reception_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,hardrock,99.5,True
+00-0040729,Jack Bech,player_reception_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,betmgm,19.5,True
+00-0040729,Jack Bech,player_reception_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,pinnacle,18.5,True
+00-0040729,Jack Bech,player_reception_yds,149926,2026-08-28T00:00:00Z,Las Vegas Raiders,San Francisco 49ers,underdog,15.5,True
+00-0040729,Jack Bech,player_reception_yds,147566,2026-08-21T00:00:00Z,Houston Texans,Las Vegas Raiders,betr,19.5,True
+00-0040729,Jack Bech,player_reception_yds,59774,2026-08-14T03:00:00Z,Las Vegas Raiders,Arizona Cardinals,underdog,18.5,True

@@ -1,0 +1,14 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0041523,Caleb Douglas,player_reception_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,betway,36.5,True
+00-0041523,Caleb Douglas,player_reception_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,prizepicks,12.5,True
+00-0041523,Caleb Douglas,player_reception_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,pinnacle,38.5,True
+00-0041523,Caleb Douglas,player_reception_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,bovada,37.5,True
+00-0041523,Caleb Douglas,player_reception_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,prophetx,38.5,True
+00-0041523,Caleb Douglas,player_reception_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,betway,24.5,True
+00-0041523,Caleb Douglas,player_reception_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,betrivers,25.5,True
+00-0041523,Caleb Douglas,player_reception_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,prizepicks,4.5,True
+00-0041523,Caleb Douglas,player_reception_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,prophetx,25.5,True
+00-0041523,Caleb Douglas,player_reception_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,pinnacle,27.5,True
+00-0041523,Caleb Douglas,player_reception_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,betmgm,26.5,True
+00-0041523,Caleb Douglas,player_reception_yds,59771,2026-08-14T23:00:00Z,Washington Commanders,Miami Dolphins,underdog,19.5,True
+00-0041523,Caleb Douglas,player_reception_yds,59771,2026-08-14T23:00:00Z,Washington Commanders,Miami Dolphins,betr,17.5,True

@@ -1,0 +1,23 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0037239,Chris Olave,player_receptions,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,hardrock,11.5,True
+00-0037239,Chris Olave,player_receptions,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,fanduel,5.5,True
+00-0037239,Chris Olave,player_receptions,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,sleeper,6.5,True
+00-0037239,Chris Olave,player_receptions,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,novig,5.5,True
+00-0037239,Chris Olave,player_receptions,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,parlayplay,5.5,True
+00-0037239,Chris Olave,player_receptions,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,betmgm,6.5,True
+00-0037239,Chris Olave,player_receptions,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,pinnacle,5.5,True
+00-0037239,Chris Olave,player_receptions,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,prophetx,6.5,True
+00-0037239,Chris Olave,player_receptions,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,betway,6.5,True
+00-0037239,Chris Olave,player_receptions,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,dabble,6.5,True
+00-0037239,Chris Olave,player_receptions,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,hardrock,11.5,True
+00-0037239,Chris Olave,player_receptions,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,fliff,5.5,True
+00-0037239,Chris Olave,player_receptions,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,betway,5.5,True
+00-0037239,Chris Olave,player_receptions,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,fanduel,5.5,True
+00-0037239,Chris Olave,player_receptions,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,betmgm,5.5,True
+00-0037239,Chris Olave,player_receptions,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,prophetx,5.5,True
+00-0037239,Chris Olave,player_receptions,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,pinnacle,5.5,True
+00-0037239,Chris Olave,player_receptions,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betmgm,6.5,True
+00-0037239,Chris Olave,player_receptions,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betway,6.5,True
+00-0037239,Chris Olave,player_receptions,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,prophetx,6.5,True
+00-0037239,Chris Olave,player_receptions,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,fanduel,6.5,True
+00-0037239,Chris Olave,player_receptions,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,pinnacle,6.5,True

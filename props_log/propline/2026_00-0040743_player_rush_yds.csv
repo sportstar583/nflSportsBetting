@@ -1,0 +1,19 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040743,Tyler Shough,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,prophetx,15.5,True
+00-0040743,Tyler Shough,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,sleeper,14.5,True
+00-0040743,Tyler Shough,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,courtside,15.5,True
+00-0040743,Tyler Shough,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,pinnacle,14.5,True
+00-0040743,Tyler Shough,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,prizepicks,15.5,True
+00-0040743,Tyler Shough,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,novig,15.5,True
+00-0040743,Tyler Shough,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,betway,15.5,True
+00-0040743,Tyler Shough,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,parlayplay,15.5,True
+00-0040743,Tyler Shough,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,dabble,13.5,True
+00-0040743,Tyler Shough,player_rush_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,prophetx,16.5,True
+00-0040743,Tyler Shough,player_rush_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,prizepicks,5.5,True
+00-0040743,Tyler Shough,player_rush_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,betway,14.5,True
+00-0040743,Tyler Shough,player_rush_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,pinnacle,15.5,True
+00-0040743,Tyler Shough,player_rush_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,pinnacle,18.5,True
+00-0040743,Tyler Shough,player_rush_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betway,18.5,True
+00-0040743,Tyler Shough,player_rush_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,prophetx,18.5,True
+00-0040743,Tyler Shough,player_rush_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betr,17.5,True
+00-0040743,Tyler Shough,player_rush_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,prizepicks,4.5,True

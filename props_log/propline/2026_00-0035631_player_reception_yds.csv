@@ -1,0 +1,34 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0035631,Drew Sample,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,hardrock,7.5,True
+00-0035631,Drew Sample,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,pick6,7.5,True
+00-0035631,Drew Sample,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,betrivers,6.5,True
+00-0035631,Drew Sample,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,parlayplay,7.5,True
+00-0035631,Drew Sample,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,novig,6.5,True
+00-0035631,Drew Sample,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,underdog,7.5,True
+00-0035631,Drew Sample,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,rebet,7.5,True
+00-0035631,Drew Sample,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,fliff,7.5,True
+00-0035631,Drew Sample,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,pinnacle,7.5,True
+00-0035631,Drew Sample,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,prizepicks,7.5,True
+00-0035631,Drew Sample,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,courtside,7.5,True
+00-0035631,Drew Sample,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,sleeper,7.5,True
+00-0035631,Drew Sample,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,sportzino,8.5,True
+00-0035631,Drew Sample,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,dabble,8.5,True
+00-0035631,Drew Sample,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,prophetx,49.5,True
+00-0035631,Drew Sample,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,underdog,6.5,True
+00-0035631,Drew Sample,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,hardrock,24.5,True
+00-0035631,Drew Sample,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,prophetx,39.5,True
+00-0035631,Drew Sample,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,novig,6.5,True
+00-0035631,Drew Sample,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,pinnacle,6.5,True
+00-0035631,Drew Sample,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,dabble,6.5,True
+00-0035631,Drew Sample,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,sleeper,6.5,True
+00-0035631,Drew Sample,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,prizepicks,6.5,True
+00-0035631,Drew Sample,player_reception_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,underdog,7.5,True
+00-0035631,Drew Sample,player_reception_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,prizepicks,2.5,True
+00-0035631,Drew Sample,player_reception_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,hardrock,24.5,True
+00-0035631,Drew Sample,player_reception_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,prophetx,8.5,True
+00-0035631,Drew Sample,player_reception_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,pinnacle,8.5,True
+00-0035631,Drew Sample,player_reception_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,betrivers,7.5,True
+00-0035631,Drew Sample,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,prizepicks,0.5,True
+00-0035631,Drew Sample,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,underdog,6.5,True
+00-0035631,Drew Sample,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,hardrock,49.5,True
+00-0035631,Drew Sample,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betr,6.5,True

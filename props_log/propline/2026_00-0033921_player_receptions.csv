@@ -1,0 +1,33 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0033921,Chris Godwin Jr.,player_receptions,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,prophetx,2.5,True
+00-0033921,Chris Godwin Jr.,player_receptions,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,fanduel,2.5,True
+00-0033921,Chris Godwin Jr.,player_receptions,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,sportzino,2.5,True
+00-0033921,Chris Godwin Jr.,player_receptions,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,betmgm,2.5,True
+00-0033921,Chris Godwin Jr.,player_receptions,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,novig,4.5,True
+00-0033921,Chris Godwin Jr.,player_receptions,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,rebet,2.5,True
+00-0033921,Chris Godwin Jr.,player_receptions,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,sleeper,2.5,True
+00-0033921,Chris Godwin Jr.,player_receptions,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,betway,2.5,True
+00-0033921,Chris Godwin Jr.,player_receptions,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,prizepicks,2.5,True
+00-0033921,Chris Godwin Jr.,player_receptions,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,pinnacle,2.5,True
+00-0033921,Chris Godwin Jr.,player_receptions,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,hardrock,2.5,True
+00-0033921,Chris Godwin Jr.,player_receptions,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,dabble,2.5,True
+00-0033921,Chris Godwin Jr.,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,betmgm,3.5,True
+00-0033921,Chris Godwin Jr.,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,fanduel,3.5,True
+00-0033921,Chris Godwin Jr.,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,novig,2.5,True
+00-0033921,Chris Godwin Jr.,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,prophetx,3.5,True
+00-0033921,Chris Godwin Jr.,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,sleeper,3.5,True
+00-0033921,Chris Godwin Jr.,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,betway,3.5,True
+00-0033921,Chris Godwin Jr.,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,hardrock,7.5,True
+00-0033921,Chris Godwin Jr.,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,prizepicks,1.5,True
+00-0033921,Chris Godwin Jr.,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,pinnacle,3.5,True
+00-0033921,Chris Godwin Jr.,player_receptions,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,prizepicks,3.5,True
+00-0033921,Chris Godwin Jr.,player_receptions,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,betway,3.5,True
+00-0033921,Chris Godwin Jr.,player_receptions,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,pinnacle,3.5,True
+00-0033921,Chris Godwin Jr.,player_receptions,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,betmgm,3.5,True
+00-0033921,Chris Godwin Jr.,player_receptions,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,fanduel,3.5,True
+00-0033921,Chris Godwin Jr.,player_receptions,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,prophetx,3.5,True
+00-0033921,Chris Godwin Jr.,player_receptions,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,hardrock,9.5,True
+00-0033921,Chris Godwin Jr.,player_receptions,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,prophetx,4.5,True
+00-0033921,Chris Godwin Jr.,player_receptions,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betmgm,4.5,True
+00-0033921,Chris Godwin Jr.,player_receptions,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,prizepicks,3.5,True
+00-0033921,Chris Godwin Jr.,player_receptions,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,fanduel,4.5,True

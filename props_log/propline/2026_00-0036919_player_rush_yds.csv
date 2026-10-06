@@ -1,0 +1,13 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036919,Kenny Gainwell,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,prizepicks,14.5,True
+00-0036919,Kenny Gainwell,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,betrivers,16.5,True
+00-0036919,Kenny Gainwell,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,sleeper,14.5,True
+00-0036919,Kenny Gainwell,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,pick6,14.5,True
+00-0036919,Kenny Gainwell,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,sleeper,17.5,True
+00-0036919,Kenny Gainwell,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,prizepicks,18.5,True
+00-0036919,Kenny Gainwell,player_rush_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,prizepicks,11.5,True
+00-0036919,Kenny Gainwell,player_rush_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betway,22.5,True
+00-0036919,Kenny Gainwell,player_rush_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,prophetx,22.5,True
+00-0036919,Kenny Gainwell,player_rush_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betrivers,20.5,True
+00-0036919,Kenny Gainwell,player_rush_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,prizepicks,5.5,True
+00-0036919,Kenny Gainwell,player_rush_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betr,21.5,True

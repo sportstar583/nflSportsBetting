@@ -1,0 +1,13 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039746,Will Shipley,player_rush_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,dabble,3.5,True
+00-0039746,Will Shipley,player_rush_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,sportzino,3.5,True
+00-0039746,Will Shipley,player_rush_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,prizepicks,3.5,True
+00-0039746,Will Shipley,player_rush_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,parlayplay,3.5,True
+00-0039746,Will Shipley,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,parlayplay,3.5,True
+00-0039746,Will Shipley,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,prizepicks,3.5,True
+00-0039746,Will Shipley,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,dabble,3.5,True
+00-0039746,Will Shipley,player_rush_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,prizepicks,6.5,True
+00-0039746,Will Shipley,player_rush_yds,153345,2026-08-29T00:00:00Z,Philadelphia Eagles,Cincinnati Bengals,underdog,23.5,True
+00-0039746,Will Shipley,player_rush_yds,147721,2026-08-22T23:00:00Z,New England Patriots,Philadelphia Eagles,underdog,29.5,True
+00-0039746,Will Shipley,player_rush_yds,59763,2026-08-15T23:00:00Z,Baltimore Ravens,Philadelphia Eagles,underdog,25.5,True
+00-0039746,Will Shipley,player_rush_yds,59763,2026-08-15T23:00:00Z,Baltimore Ravens,Philadelphia Eagles,betr,25.5,True

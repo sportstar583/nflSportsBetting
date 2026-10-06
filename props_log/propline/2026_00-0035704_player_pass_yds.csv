@@ -1,0 +1,9 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0035704,Drew Lock,player_pass_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,prizepicks,137.5,True
+00-0035704,Drew Lock,player_pass_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,prophetx,205.5,True
+00-0035704,Drew Lock,player_pass_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,betway,208.5,True
+00-0035704,Drew Lock,player_pass_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,pinnacle,207.5,True
+00-0035704,Drew Lock,player_pass_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,bovada,204.5,True
+00-0035704,Drew Lock,player_pass_yds,148033,2026-08-24T00:10:00Z,Tennessee Titans,Seattle Seahawks,underdog,89.5,True
+00-0035704,Drew Lock,player_pass_yds,59762,2026-08-16T00:00:00Z,Seattle Seahawks,Dallas Cowboys,underdog,89.5,True
+00-0035704,Drew Lock,player_pass_yds,59762,2026-08-16T00:00:00Z,Seattle Seahawks,Dallas Cowboys,betr,81.5,True

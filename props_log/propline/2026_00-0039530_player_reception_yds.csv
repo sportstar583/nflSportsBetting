@@ -1,0 +1,8 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039530,Brevyn Spann-Ford,player_reception_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,dabble,2.5,True
+00-0039530,Brevyn Spann-Ford,player_reception_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,underdog,2.5,True
+00-0039530,Brevyn Spann-Ford,player_reception_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,prizepicks,2.5,True
+00-0039530,Brevyn Spann-Ford,player_reception_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,sportzino,2.5,True
+00-0039530,Brevyn Spann-Ford,player_reception_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,parlayplay,2.5,True
+00-0039530,Brevyn Spann-Ford,player_reception_yds,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,prizepicks,8.5,True
+00-0039530,Brevyn Spann-Ford,player_reception_yds,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,underdog,8.5,True

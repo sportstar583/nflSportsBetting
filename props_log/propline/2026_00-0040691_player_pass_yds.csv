@@ -1,0 +1,20 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040691,Jaxson Dart,player_pass_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,underdog,214.5,True
+00-0040691,Jaxson Dart,player_pass_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,polymarket_us,149.5,True
+00-0040691,Jaxson Dart,player_pass_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,fliff,211.5,True
+00-0040691,Jaxson Dart,player_pass_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betway,215.5,True
+00-0040691,Jaxson Dart,player_pass_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,pinnacle,213.5,True
+00-0040691,Jaxson Dart,player_pass_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,prophetx,214.5,True
+00-0040691,Jaxson Dart,player_pass_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,lowvig,215.5,True
+00-0040691,Jaxson Dart,player_pass_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betonlineag,215.5,True
+00-0040691,Jaxson Dart,player_pass_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,bovada,212.5,True
+00-0040691,Jaxson Dart,player_pass_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,prizepicks,143.5,True
+00-0040691,Jaxson Dart,player_pass_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,prizepicks,141.5,True
+00-0040691,Jaxson Dart,player_pass_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betr,215.5,True
+00-0040691,Jaxson Dart,player_pass_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betway,211.5,True
+00-0040691,Jaxson Dart,player_pass_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betmgm,204.5,True
+00-0040691,Jaxson Dart,player_pass_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betonlineag,214.5,True
+00-0040691,Jaxson Dart,player_pass_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,bovada,210.5,True
+00-0040691,Jaxson Dart,player_pass_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,lowvig,214.5,True
+00-0040691,Jaxson Dart,player_pass_yds,59767,2026-08-15T20:00:00Z,New York Giants,Minnesota Vikings,underdog,31.5,True
+00-0040691,Jaxson Dart,player_pass_yds,59767,2026-08-15T20:00:00Z,New York Giants,Minnesota Vikings,betr,33.5,True

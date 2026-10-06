@@ -1,0 +1,2 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040506,Myles Price,player_reception_yds,147751,2026-08-22T17:00:00Z,Minnesota Vikings,Baltimore Ravens,underdog,19.5,True

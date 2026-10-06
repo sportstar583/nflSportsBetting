@@ -1,0 +1,19 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040154,Tai Felton,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,parlayplay,13.5,True
+00-0040154,Tai Felton,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,pinnacle,15.5,True
+00-0040154,Tai Felton,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,courtside,15.5,True
+00-0040154,Tai Felton,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,sportzino,15.5,True
+00-0040154,Tai Felton,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,sleeper,14.5,True
+00-0040154,Tai Felton,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,betway,14.5,True
+00-0040154,Tai Felton,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,novig,15.5,True
+00-0040154,Tai Felton,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,rebet,16.5,True
+00-0040154,Tai Felton,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,hardrock,11.5,True
+00-0040154,Tai Felton,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,prizepicks,13.5,True
+00-0040154,Tai Felton,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,fliff,14.5,True
+00-0040154,Tai Felton,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,dabble,16.5,True
+00-0040154,Tai Felton,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,pick6,15.5,True
+00-0040154,Tai Felton,player_reception_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,prizepicks,7.5,True
+00-0040154,Tai Felton,player_reception_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,betway,8.5,True
+00-0040154,Tai Felton,player_reception_yds,158170,2026-08-29T01:00:00Z,Denver Broncos,Minnesota Vikings,underdog,16.5,True
+00-0040154,Tai Felton,player_reception_yds,59767,2026-08-15T20:00:00Z,New York Giants,Minnesota Vikings,underdog,19.5,True
+00-0040154,Tai Felton,player_reception_yds,59767,2026-08-15T20:00:00Z,New York Giants,Minnesota Vikings,betr,19.5,True
