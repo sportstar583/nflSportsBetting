@@ -1,0 +1,15 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036555,Chuba Hubbard,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,novig,13.5,True
+00-0036555,Chuba Hubbard,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,hardrock,79.5,True
+00-0036555,Chuba Hubbard,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,pinnacle,15.5,True
+00-0036555,Chuba Hubbard,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,betway,15.5,True
+00-0036555,Chuba Hubbard,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,parlayplay,13.5,True
+00-0036555,Chuba Hubbard,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,sleeper,14.5,True
+00-0036555,Chuba Hubbard,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,courtside,14.5,True
+00-0036555,Chuba Hubbard,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,prophetx,15.5,True
+00-0036555,Chuba Hubbard,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,dabble,15.5,True
+00-0036555,Chuba Hubbard,player_reception_yds,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,hardrock,64.5,True
+00-0036555,Chuba Hubbard,player_reception_yds,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,betway,12.5,True
+00-0036555,Chuba Hubbard,player_reception_yds,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,pinnacle,12.5,True
+00-0036555,Chuba Hubbard,player_reception_yds,25074,2026-09-13T17:00:00Z,Carolina Panthers,Chicago Bears,betway,10.5,True
+00-0036555,Chuba Hubbard,player_reception_yds,25074,2026-09-13T17:00:00Z,Carolina Panthers,Chicago Bears,pinnacle,9.5,True

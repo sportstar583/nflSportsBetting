@@ -1,0 +1,27 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0031408,Mike Evans,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,fanduel,3.5,True
+00-0031408,Mike Evans,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,sleeper,3.5,True
+00-0031408,Mike Evans,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,prizepicks,3.5,True
+00-0031408,Mike Evans,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,betmgm,3.5,True
+00-0031408,Mike Evans,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,sportzino,3.5,True
+00-0031408,Mike Evans,player_receptions,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,fliff,4.5,True
+00-0031408,Mike Evans,player_receptions,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,hardrock,9.5,True
+00-0031408,Mike Evans,player_receptions,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,betway,4.5,True
+00-0031408,Mike Evans,player_receptions,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,pinnacle,4.5,True
+00-0031408,Mike Evans,player_receptions,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,betmgm,3.5,True
+00-0031408,Mike Evans,player_receptions,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,dabble,4.5,True
+00-0031408,Mike Evans,player_receptions,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,sleeper,4.5,True
+00-0031408,Mike Evans,player_receptions,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,novig,4.5,True
+00-0031408,Mike Evans,player_receptions,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,prophetx,4.5,True
+00-0031408,Mike Evans,player_receptions,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,fanduel,4.5,True
+00-0031408,Mike Evans,player_receptions,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,prizepicks,3.5,True
+00-0031408,Mike Evans,player_receptions,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,betway,3.5,True
+00-0031408,Mike Evans,player_receptions,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,prophetx,3.5,True
+00-0031408,Mike Evans,player_receptions,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,prizepicks,3.5,True
+00-0031408,Mike Evans,player_receptions,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,fliff,3.5,True
+00-0031408,Mike Evans,player_receptions,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,fanduel,3.5,True
+00-0031408,Mike Evans,player_receptions,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,betmgm,3.5,True
+00-0031408,Mike Evans,player_receptions,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,prizepicks,2.5,True
+00-0031408,Mike Evans,player_receptions,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,pinnacle,3.5,True
+00-0031408,Mike Evans,player_receptions,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,prophetx,3.5,True
+00-0031408,Mike Evans,player_receptions,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,fanduel,3.5,True

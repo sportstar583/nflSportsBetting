@@ -1,0 +1,15 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038454,Keaton Mitchell,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,betway,1.5,True
+00-0038454,Keaton Mitchell,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prizepicks,1.5,True
+00-0038454,Keaton Mitchell,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prophetx,0.5,True
+00-0038454,Keaton Mitchell,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sleeper,1.5,True
+00-0038454,Keaton Mitchell,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,fanduel,1.5,True
+00-0038454,Keaton Mitchell,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,pinnacle,1.5,True
+00-0038454,Keaton Mitchell,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sportzino,1.5,True
+00-0038454,Keaton Mitchell,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,dabble,1.5,True
+00-0038454,Keaton Mitchell,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,rebet,1.5,True
+00-0038454,Keaton Mitchell,player_receptions,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,prizepicks,0.5,True
+00-0038454,Keaton Mitchell,player_receptions,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,betway,1.5,True
+00-0038454,Keaton Mitchell,player_receptions,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,prizepicks,1.5,True
+00-0038454,Keaton Mitchell,player_receptions,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,prizepicks,1.5,True
+00-0038454,Keaton Mitchell,player_receptions,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,betway,1.5,True

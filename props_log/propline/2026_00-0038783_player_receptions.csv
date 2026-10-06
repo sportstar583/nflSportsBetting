@@ -1,0 +1,5 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038783,Nate Adkins,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,parlayplay,0.5,True
+00-0038783,Nate Adkins,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,prizepicks,0.5,True
+00-0038783,Nate Adkins,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,dabble,0.5,True
+00-0038783,Nate Adkins,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,sportzino,0.5,True

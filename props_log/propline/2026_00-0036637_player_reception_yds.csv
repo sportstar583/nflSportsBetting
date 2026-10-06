@@ -1,0 +1,22 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036637,Noah Gray,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,fliff,8.5,True
+00-0036637,Noah Gray,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,hardrock,8.5,True
+00-0036637,Noah Gray,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,prizepicks,8.5,True
+00-0036637,Noah Gray,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,novig,8.5,True
+00-0036637,Noah Gray,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,rebet,8.5,True
+00-0036637,Noah Gray,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,pick6,8.5,True
+00-0036637,Noah Gray,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,parlayplay,9.5,True
+00-0036637,Noah Gray,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,courtside,9.5,True
+00-0036637,Noah Gray,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,sportzino,6.5,True
+00-0036637,Noah Gray,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,sleeper,8.5,True
+00-0036637,Noah Gray,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,dabble,6.5,True
+00-0036637,Noah Gray,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,pinnacle,8.5,True
+00-0036637,Noah Gray,player_reception_yds,32646,2026-09-21T00:22:43Z,Kansas City Chiefs,Indianapolis Colts,hardrock,64.5,True
+00-0036637,Noah Gray,player_reception_yds,32646,2026-09-21T00:22:43Z,Kansas City Chiefs,Indianapolis Colts,pinnacle,11.5,True
+00-0036637,Noah Gray,player_reception_yds,32646,2026-09-21T00:22:43Z,Kansas City Chiefs,Indianapolis Colts,betway,11.5,True
+00-0036637,Noah Gray,player_reception_yds,32646,2026-09-21T00:22:43Z,Kansas City Chiefs,Indianapolis Colts,prizepicks,1.5,True
+00-0036637,Noah Gray,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,prizepicks,2.5,True
+00-0036637,Noah Gray,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,hardrock,64.5,True
+00-0036637,Noah Gray,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,betway,8.5,True
+00-0036637,Noah Gray,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,prophetx,10.5,True
+00-0036637,Noah Gray,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,betr,7.5,True

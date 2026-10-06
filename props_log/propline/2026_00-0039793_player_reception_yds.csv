@@ -1,0 +1,30 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039793,AJ Barner,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prizepicks,25.5,True
+00-0039793,AJ Barner,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,rebet,30.5,True
+00-0039793,AJ Barner,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,dabble,29.5,True
+00-0039793,AJ Barner,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,bovada,31.5,True
+00-0039793,AJ Barner,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,pick6,32.5,True
+00-0039793,AJ Barner,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,novig,30.5,True
+00-0039793,AJ Barner,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,betway,29.5,True
+00-0039793,AJ Barner,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,parlayplay,30.5,True
+00-0039793,AJ Barner,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,hardrock,24.5,True
+00-0039793,AJ Barner,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sleeper,30.5,True
+00-0039793,AJ Barner,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,pinnacle,30.5,True
+00-0039793,AJ Barner,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sportzino,29.5,True
+00-0039793,AJ Barner,player_reception_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,pinnacle,20.5,True
+00-0039793,AJ Barner,player_reception_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,prizepicks,19.5,True
+00-0039793,AJ Barner,player_reception_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,prophetx,21.5,True
+00-0039793,AJ Barner,player_reception_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,parlayplay,20.5,True
+00-0039793,AJ Barner,player_reception_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,betway,21.5,True
+00-0039793,AJ Barner,player_reception_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,courtside,19.5,True
+00-0039793,AJ Barner,player_reception_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,dabble,21.5,True
+00-0039793,AJ Barner,player_reception_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,sleeper,20.5,True
+00-0039793,AJ Barner,player_reception_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,novig,20.5,True
+00-0039793,AJ Barner,player_reception_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,pinnacle,22.5,True
+00-0039793,AJ Barner,player_reception_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,betway,21.5,True
+00-0039793,AJ Barner,player_reception_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,hardrock,79.5,True
+00-0039793,AJ Barner,player_reception_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,prizepicks,0.5,True
+00-0039793,AJ Barner,player_reception_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,betr,25.5,True
+00-0039793,AJ Barner,player_reception_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,prizepicks,5.5,True
+00-0039793,AJ Barner,player_reception_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,pinnacle,26.5,True
+00-0039793,AJ Barner,player_reception_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,prophetx,25.5,True

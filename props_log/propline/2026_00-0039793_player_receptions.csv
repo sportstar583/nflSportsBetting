@@ -1,0 +1,34 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039793,AJ Barner,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,hardrock,3.5,True
+00-0039793,AJ Barner,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sportzino,3.5,True
+00-0039793,AJ Barner,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prizepicks,2.5,True
+00-0039793,AJ Barner,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,fanduel,3.5,True
+00-0039793,AJ Barner,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,parlayplay,2.5,True
+00-0039793,AJ Barner,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,novig,5.5,True
+00-0039793,AJ Barner,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,pinnacle,3.5,True
+00-0039793,AJ Barner,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sleeper,3.5,True
+00-0039793,AJ Barner,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,betmgm,2.5,True
+00-0039793,AJ Barner,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prophetx,2.5,True
+00-0039793,AJ Barner,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,betway,3.5,True
+00-0039793,AJ Barner,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,rebet,3.5,True
+00-0039793,AJ Barner,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,prizepicks,2.5,True
+00-0039793,AJ Barner,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,hardrock,7.5,True
+00-0039793,AJ Barner,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,novig,2.5,True
+00-0039793,AJ Barner,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,pinnacle,2.5,True
+00-0039793,AJ Barner,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,prophetx,3.5,True
+00-0039793,AJ Barner,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,betway,2.5,True
+00-0039793,AJ Barner,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,betmgm,2.5,True
+00-0039793,AJ Barner,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,sleeper,2.5,True
+00-0039793,AJ Barner,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,fanduel,2.5,True
+00-0039793,AJ Barner,player_receptions,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,betmgm,2.5,True
+00-0039793,AJ Barner,player_receptions,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,betway,2.5,True
+00-0039793,AJ Barner,player_receptions,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,prophetx,2.5,True
+00-0039793,AJ Barner,player_receptions,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,prizepicks,2.5,True
+00-0039793,AJ Barner,player_receptions,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,pinnacle,2.5,True
+00-0039793,AJ Barner,player_receptions,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,hardrock,6.5,True
+00-0039793,AJ Barner,player_receptions,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,fanduel,2.5,True
+00-0039793,AJ Barner,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,fanduel,2.5,True
+00-0039793,AJ Barner,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,prophetx,1.5,True
+00-0039793,AJ Barner,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,pinnacle,2.5,True
+00-0039793,AJ Barner,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,hardrock,7.5,True
+00-0039793,AJ Barner,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,prizepicks,1.5,True

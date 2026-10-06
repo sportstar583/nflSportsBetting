@@ -1,0 +1,11 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036628,John Bates,player_receptions,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,dabble,0.5,True
+00-0036628,John Bates,player_receptions,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,sportzino,0.5,True
+00-0036628,John Bates,player_receptions,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,prizepicks,0.5,True
+00-0036628,John Bates,player_receptions,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,parlayplay,0.5,True
+00-0036628,John Bates,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,fanduel,1.5,True
+00-0036628,John Bates,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,fliff,1.5,True
+00-0036628,John Bates,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,prizepicks,1.5,True
+00-0036628,John Bates,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,pinnacle,1.5,True
+00-0036628,John Bates,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,hardrock,5.5,True
+00-0036628,John Bates,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,prophetx,1.5,True

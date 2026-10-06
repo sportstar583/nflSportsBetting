@@ -1,0 +1,4 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0041044,Zachariah Branch,player_reception_yds,147712,2026-08-22T17:00:00Z,Indianapolis Colts,Atlanta Falcons,underdog,19.5,True
+00-0041044,Zachariah Branch,player_reception_yds,59769,2026-08-14T23:00:00Z,Atlanta Falcons,Denver Broncos,underdog,24.5,True
+00-0041044,Zachariah Branch,player_reception_yds,59769,2026-08-14T23:00:00Z,Atlanta Falcons,Denver Broncos,betr,21.5,True

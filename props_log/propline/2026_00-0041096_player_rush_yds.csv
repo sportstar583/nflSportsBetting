@@ -1,0 +1,14 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0041096,Kaytron Allen,player_rush_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,betmgm,14.5,True
+00-0041096,Kaytron Allen,player_rush_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,betway,13.5,True
+00-0041096,Kaytron Allen,player_rush_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,novig,15.5,True
+00-0041096,Kaytron Allen,player_rush_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,sportzino,13.5,True
+00-0041096,Kaytron Allen,player_rush_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,sleeper,14.5,True
+00-0041096,Kaytron Allen,player_rush_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,rebet,14.5,True
+00-0041096,Kaytron Allen,player_rush_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,parlayplay,13.5,True
+00-0041096,Kaytron Allen,player_rush_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,prizepicks,13.5,True
+00-0041096,Kaytron Allen,player_rush_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,dabble,13.5,True
+00-0041096,Kaytron Allen,player_rush_yds,156934,2026-08-28T22:00:00Z,Baltimore Ravens,Washington Commanders,underdog,29.5,True
+00-0041096,Kaytron Allen,player_rush_yds,147576,2026-08-22T16:00:00Z,Detroit Lions,Washington Commanders,underdog,31.5,True
+00-0041096,Kaytron Allen,player_rush_yds,59771,2026-08-14T23:00:00Z,Washington Commanders,Miami Dolphins,underdog,33.5,True
+00-0041096,Kaytron Allen,player_rush_yds,59771,2026-08-14T23:00:00Z,Washington Commanders,Miami Dolphins,betr,32.5,True

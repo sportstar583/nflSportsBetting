@@ -1,0 +1,15 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038685,Chris Brooks,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,parlayplay,5.5,True
+00-0038685,Chris Brooks,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,dabble,5.5,True
+00-0038685,Chris Brooks,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,sportzino,5.5,True
+00-0038685,Chris Brooks,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,courtside,8.5,True
+00-0038685,Chris Brooks,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,pinnacle,6.5,True
+00-0038685,Chris Brooks,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,parlayplay,6.5,True
+00-0038685,Chris Brooks,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,betmgm,6.5,True
+00-0038685,Chris Brooks,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,hardrock,24.5,True
+00-0038685,Chris Brooks,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,novig,7.5,True
+00-0038685,Chris Brooks,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,prophetx,7.5,True
+00-0038685,Chris Brooks,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,hardrock,39.5,True
+00-0038685,Chris Brooks,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prophetx,8.5,True
+00-0038685,Chris Brooks,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,pinnacle,9.5,True
+00-0038685,Chris Brooks,player_reception_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betway,5.5,True

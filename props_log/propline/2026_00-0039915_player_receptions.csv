@@ -1,0 +1,35 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039915,Ladd McConkey,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prophetx,4.5,True
+00-0039915,Ladd McConkey,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,fanduel,3.5,True
+00-0039915,Ladd McConkey,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prizepicks,3.5,True
+00-0039915,Ladd McConkey,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,pinnacle,3.5,True
+00-0039915,Ladd McConkey,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,hardrock,3.5,True
+00-0039915,Ladd McConkey,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sportzino,4.5,True
+00-0039915,Ladd McConkey,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,dabble,4.5,True
+00-0039915,Ladd McConkey,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,rebet,3.5,True
+00-0039915,Ladd McConkey,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,parlayplay,4.5,True
+00-0039915,Ladd McConkey,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,betway,4.5,True
+00-0039915,Ladd McConkey,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,betmgm,3.5,True
+00-0039915,Ladd McConkey,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sleeper,4.5,True
+00-0039915,Ladd McConkey,player_receptions,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,betway,4.5,True
+00-0039915,Ladd McConkey,player_receptions,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,betmgm,4.5,True
+00-0039915,Ladd McConkey,player_receptions,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,fanduel,4.5,True
+00-0039915,Ladd McConkey,player_receptions,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,prizepicks,2.5,True
+00-0039915,Ladd McConkey,player_receptions,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,novig,3.5,True
+00-0039915,Ladd McConkey,player_receptions,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,prophetx,4.5,True
+00-0039915,Ladd McConkey,player_receptions,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,hardrock,9.5,True
+00-0039915,Ladd McConkey,player_receptions,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,sleeper,4.5,True
+00-0039915,Ladd McConkey,player_receptions,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,pinnacle,4.5,True
+00-0039915,Ladd McConkey,player_receptions,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,dabble,4.5,True
+00-0039915,Ladd McConkey,player_receptions,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,lowvig,4.5,True
+00-0039915,Ladd McConkey,player_receptions,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,betonlineag,4.5,True
+00-0039915,Ladd McConkey,player_receptions,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,betmgm,3.5,True
+00-0039915,Ladd McConkey,player_receptions,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,prizepicks,3.5,True
+00-0039915,Ladd McConkey,player_receptions,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,pinnacle,3.5,True
+00-0039915,Ladd McConkey,player_receptions,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,fanduel,4.5,True
+00-0039915,Ladd McConkey,player_receptions,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,prophetx,3.5,True
+00-0039915,Ladd McConkey,player_receptions,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,pinnacle,4.5,True
+00-0039915,Ladd McConkey,player_receptions,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,prizepicks,2.5,True
+00-0039915,Ladd McConkey,player_receptions,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,betmgm,4.5,True
+00-0039915,Ladd McConkey,player_receptions,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,betway,4.5,True
+00-0039915,Ladd McConkey,player_receptions,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,fanduel,4.5,True

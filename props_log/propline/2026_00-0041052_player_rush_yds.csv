@@ -1,0 +1,35 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0041052,Kaelon Black,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,courtside,24.5,True
+00-0041052,Kaelon Black,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,prophetx,22.5,True
+00-0041052,Kaelon Black,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,betway,22.5,True
+00-0041052,Kaelon Black,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,sportzino,22.5,True
+00-0041052,Kaelon Black,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,hardrock,24.5,True
+00-0041052,Kaelon Black,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,pick6,21.5,True
+00-0041052,Kaelon Black,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,sleeper,21.5,True
+00-0041052,Kaelon Black,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,dabble,22.5,True
+00-0041052,Kaelon Black,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,prizepicks,19.5,True
+00-0041052,Kaelon Black,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,rebet,20.5,True
+00-0041052,Kaelon Black,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,bovada,21.5,True
+00-0041052,Kaelon Black,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,pinnacle,21.5,True
+00-0041052,Kaelon Black,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,novig,20.5,True
+00-0041052,Kaelon Black,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,parlayplay,22.5,True
+00-0041052,Kaelon Black,player_rush_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,courtside,33.5,True
+00-0041052,Kaelon Black,player_rush_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,parlayplay,33.5,True
+00-0041052,Kaelon Black,player_rush_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,pinnacle,32.5,True
+00-0041052,Kaelon Black,player_rush_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,dabble,34.5,True
+00-0041052,Kaelon Black,player_rush_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,betway,34.5,True
+00-0041052,Kaelon Black,player_rush_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,sleeper,31.5,True
+00-0041052,Kaelon Black,player_rush_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,prophetx,99.5,True
+00-0041052,Kaelon Black,player_rush_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,novig,33.5,True
+00-0041052,Kaelon Black,player_rush_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,prizepicks,32.5,True
+00-0041052,Kaelon Black,player_rush_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,hardrock,99.5,True
+00-0041052,Kaelon Black,player_rush_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,bovada,32.5,True
+00-0041052,Kaelon Black,player_rush_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,prophetx,41.5,True
+00-0041052,Kaelon Black,player_rush_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,prizepicks,13.5,True
+00-0041052,Kaelon Black,player_rush_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,betway,39.5,True
+00-0041052,Kaelon Black,player_rush_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,bovada,37.5,True
+00-0041052,Kaelon Black,player_rush_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,prizepicks,8.5,True
+00-0041052,Kaelon Black,player_rush_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,fliff,8.5,True
+00-0041052,Kaelon Black,player_rush_yds,149926,2026-08-28T00:00:00Z,Las Vegas Raiders,San Francisco 49ers,underdog,17.5,True
+00-0041052,Kaelon Black,player_rush_yds,147565,2026-08-21T02:00:00Z,Los Angeles Chargers,San Francisco 49ers,betr,20.5,True
+00-0041052,Kaelon Black,player_rush_yds,147565,2026-08-21T02:00:00Z,Los Angeles Chargers,San Francisco 49ers,underdog,22.5,True

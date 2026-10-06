@@ -1,0 +1,10 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040187,Mitchell Evans,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,1.5,True
+00-0040187,Mitchell Evans,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,novig,3.5,True
+00-0040187,Mitchell Evans,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,prizepicks,0.5,True
+00-0040187,Mitchell Evans,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,rebet,1.5,True
+00-0040187,Mitchell Evans,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,sportzino,0.5,True
+00-0040187,Mitchell Evans,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,prophetx,1.5,True
+00-0040187,Mitchell Evans,player_receptions,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,prizepicks,0.5,True
+00-0040187,Mitchell Evans,player_receptions,25074,2026-09-13T17:00:00Z,Carolina Panthers,Chicago Bears,fliff,1.5,True
+00-0040187,Mitchell Evans,player_receptions,25074,2026-09-13T17:00:00Z,Carolina Panthers,Chicago Bears,prizepicks,0.5,True

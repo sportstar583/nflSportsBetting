@@ -1,0 +1,20 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036963,Amon-Ra St. Brown,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,betway,75.5,True
+00-0036963,Amon-Ra St. Brown,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,bovada,74.5,True
+00-0036963,Amon-Ra St. Brown,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,pinnacle,75.5,True
+00-0036963,Amon-Ra St. Brown,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,dabble,76.5,True
+00-0036963,Amon-Ra St. Brown,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,courtside,78.5,True
+00-0036963,Amon-Ra St. Brown,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,sleeper,76.5,True
+00-0036963,Amon-Ra St. Brown,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,prophetx,78.5,True
+00-0036963,Amon-Ra St. Brown,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,novig,78.5,True
+00-0036963,Amon-Ra St. Brown,player_reception_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,betway,79.5,True
+00-0036963,Amon-Ra St. Brown,player_reception_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,prophetx,81.5,True
+00-0036963,Amon-Ra St. Brown,player_reception_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,pinnacle,79.5,True
+00-0036963,Amon-Ra St. Brown,player_reception_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,betonlineag,79.5,True
+00-0036963,Amon-Ra St. Brown,player_reception_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,bovada,79.5,True
+00-0036963,Amon-Ra St. Brown,player_reception_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,lowvig,79.5,True
+00-0036963,Amon-Ra St. Brown,player_reception_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,pinnacle,77.5,True
+00-0036963,Amon-Ra St. Brown,player_reception_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betway,75.5,True
+00-0036963,Amon-Ra St. Brown,player_reception_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,bovada,77.5,True
+00-0036963,Amon-Ra St. Brown,player_reception_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betr,76.5,True
+00-0036963,Amon-Ra St. Brown,player_reception_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,prophetx,76.5,True

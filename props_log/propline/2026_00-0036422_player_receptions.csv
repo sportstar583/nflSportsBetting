@@ -1,0 +1,35 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036422,Adam Trautman,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,sleeper,0.5,True
+00-0036422,Adam Trautman,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,prizepicks,0.5,True
+00-0036422,Adam Trautman,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,prophetx,0.5,True
+00-0036422,Adam Trautman,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,fliff,0.5,True
+00-0036422,Adam Trautman,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,pinnacle,0.5,True
+00-0036422,Adam Trautman,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,polymarket_us,2.5,True
+00-0036422,Adam Trautman,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,rebet,0.5,True
+00-0036422,Adam Trautman,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,hardrock,0.5,True
+00-0036422,Adam Trautman,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,fanduel,0.5,True
+00-0036422,Adam Trautman,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,sportzino,0.5,True
+00-0036422,Adam Trautman,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,0.5,True
+00-0036422,Adam Trautman,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,prophetx,0.5,True
+00-0036422,Adam Trautman,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,prizepicks,0.5,True
+00-0036422,Adam Trautman,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,sleeper,0.5,True
+00-0036422,Adam Trautman,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,0.5,True
+00-0036422,Adam Trautman,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,0.5,True
+00-0036422,Adam Trautman,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,hardrock,1.5,True
+00-0036422,Adam Trautman,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fliff,0.5,True
+00-0036422,Adam Trautman,player_receptions,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,fanduel,1.5,True
+00-0036422,Adam Trautman,player_receptions,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,fliff,1.5,True
+00-0036422,Adam Trautman,player_receptions,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,prophetx,1.5,True
+00-0036422,Adam Trautman,player_receptions,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,prizepicks,1.5,True
+00-0036422,Adam Trautman,player_receptions,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,betmgm,1.5,True
+00-0036422,Adam Trautman,player_receptions,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,pinnacle,1.5,True
+00-0036422,Adam Trautman,player_receptions,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,hardrock,4.5,True
+00-0036422,Adam Trautman,player_receptions,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,betway,1.5,True
+00-0036422,Adam Trautman,player_receptions,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,pinnacle,1.5,True
+00-0036422,Adam Trautman,player_receptions,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,betmgm,0.5,True
+00-0036422,Adam Trautman,player_receptions,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,fliff,0.5,True
+00-0036422,Adam Trautman,player_receptions,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,hardrock,4.5,True
+00-0036422,Adam Trautman,player_receptions,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,fanduel,0.5,True
+00-0036422,Adam Trautman,player_receptions,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,prophetx,0.5,True
+00-0036422,Adam Trautman,player_receptions,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,betway,1.5,True
+00-0036422,Adam Trautman,player_receptions,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,prizepicks,0.5,True

@@ -1,0 +1,38 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0041032,Kenyon Sadiq,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,fanduel,4.5,True
+00-0041032,Kenyon Sadiq,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,betway,4.5,True
+00-0041032,Kenyon Sadiq,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,sleeper,4.5,True
+00-0041032,Kenyon Sadiq,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,sportzino,3.5,True
+00-0041032,Kenyon Sadiq,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,rebet,4.5,True
+00-0041032,Kenyon Sadiq,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,prizepicks,3.5,True
+00-0041032,Kenyon Sadiq,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,prophetx,4.5,True
+00-0041032,Kenyon Sadiq,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,pinnacle,4.5,True
+00-0041032,Kenyon Sadiq,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,novig,2.5,True
+00-0041032,Kenyon Sadiq,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,betmgm,3.5,True
+00-0041032,Kenyon Sadiq,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,dabble,4.5,True
+00-0041032,Kenyon Sadiq,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,hardrock,7.5,True
+00-0041032,Kenyon Sadiq,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,courtside,2.5,True
+00-0041032,Kenyon Sadiq,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,prizepicks,2.5,True
+00-0041032,Kenyon Sadiq,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,prophetx,3.5,True
+00-0041032,Kenyon Sadiq,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,betway,2.5,True
+00-0041032,Kenyon Sadiq,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,novig,3.5,True
+00-0041032,Kenyon Sadiq,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,betmgm,2.5,True
+00-0041032,Kenyon Sadiq,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,fanduel,3.5,True
+00-0041032,Kenyon Sadiq,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,pinnacle,2.5,True
+00-0041032,Kenyon Sadiq,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,sleeper,3.5,True
+00-0041032,Kenyon Sadiq,player_receptions,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prophetx,2.5,True
+00-0041032,Kenyon Sadiq,player_receptions,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prizepicks,2.5,True
+00-0041032,Kenyon Sadiq,player_receptions,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,hardrock,7.5,True
+00-0041032,Kenyon Sadiq,player_receptions,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,betway,2.5,True
+00-0041032,Kenyon Sadiq,player_receptions,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,betmgm,2.5,True
+00-0041032,Kenyon Sadiq,player_receptions,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,fanduel,2.5,True
+00-0041032,Kenyon Sadiq,player_receptions,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,underdog,2.5,True
+00-0041032,Kenyon Sadiq,player_receptions,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,pinnacle,2.5,True
+00-0041032,Kenyon Sadiq,player_receptions,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,betmgm,1.5,True
+00-0041032,Kenyon Sadiq,player_receptions,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,betway,1.5,True
+00-0041032,Kenyon Sadiq,player_receptions,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,hardrock,6.5,True
+00-0041032,Kenyon Sadiq,player_receptions,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,prizepicks,1.5,True
+00-0041032,Kenyon Sadiq,player_receptions,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,prophetx,1.5,True
+00-0041032,Kenyon Sadiq,player_receptions,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,pinnacle,1.5,True
+00-0041032,Kenyon Sadiq,player_receptions,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,fanduel,1.5,True
+00-0041032,Kenyon Sadiq,player_receptions,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,bovada,1.5,True

@@ -25,7 +25,7 @@ STATS = ["off_epa", "off_sr", "def_epa", "def_sr", "pf", "pa",
 def team_game_epa() -> pl.DataFrame:
     """Per team-game EPA/play (overall, pass, run), success rate and pace (plays, pass rate)."""
     pbp = (
-        pl.scan_parquet(DATA / "raw" / "pbp.parquet")
+        pl.scan_parquet(DATA / "raw" / "pbp" / "*.parquet")
         .filter(pl.col("play_type").is_in(["pass", "run"]) & pl.col("epa").is_not_null())
         .select("game_id", "posteam", "defteam", "play_type", "epa", "success")
         .collect()
@@ -67,7 +67,7 @@ QB_PRIOR_DB = 200  # dropbacks of shrinkage toward the league-average QB
 def qb_form(sched: pl.DataFrame) -> pl.DataFrame:
     """Shrunk career EPA/dropback for each QB entering each game (prior games only)."""
     db = (
-        pl.scan_parquet(DATA / "raw" / "pbp.parquet")
+        pl.scan_parquet(DATA / "raw" / "pbp" / "*.parquet")
         .filter((pl.col("qb_dropback") == 1) & pl.col("qb_epa").is_not_null()
                 & pl.col("passer_player_id").is_not_null())
         .group_by("game_id", "passer_player_id")
@@ -91,14 +91,20 @@ INJ_GROUPS = {  # QB is left out: the starting-QB rating already covers it
     "ol": (["T", "G", "C", "OL", "OT", "OG"], "off_share"),
     "skill": (["WR", "TE", "RB", "FB"], "off_share"),
     "def": (["DE", "DT", "NT", "DL", "LB", "OLB", "ILB", "MLB", "CB", "S", "FS", "SS", "DB"], "def_share"),
+    # finer groups for player props: who gets the vacated targets/carries, and which unit is depleted
+    "wr": (["WR"], "off_share"), "rb": (["RB", "FB"], "off_share"), "te": (["TE"], "off_share"),
+    "db": (["CB", "S", "FS", "SS", "DB"], "def_share"),
+    "front": (["DE", "DT", "NT", "DL", "LB", "OLB", "ILB", "MLB"], "def_share"),
 }
 SNAP_GAMES = 4  # a player's role = mean snap share over his last 4 games played
 
 
-def injured_players() -> pl.DataFrame:
-    """Out/Doubtful players per team-week, each with his snap share (off_share, def_share) over
-    his last SNAP_GAMES games before that week: a starter is ~1.0, a backup ~0.1. Players with no
-    snaps in the past year (practice squad, long-term absences already in team form) have null.
+def injury_snaps() -> pl.DataFrame:
+    """Snap share lost to Out/Doubtful players per team-week, by group.
+
+    Each player on the final injury report counts by his snap share in his last SNAP_GAMES
+    games before that week, so a starter is ~1.0 and a backup ~0.1. Players with no snaps in
+    the past year (practice squad, long-term absences already in team form) count 0.
     """
     key = (pl.col("season").cast(pl.Int32) * 100 + pl.col("week").cast(pl.Int32)) * 10
     snaps = (
@@ -124,14 +130,8 @@ def injured_players() -> pl.DataFrame:
         .join_asof(snaps.sort("k"), on="k", by_left="pfr_id", by_right="pfr_player_id",
                    strategy="backward", tolerance=1000)  # last game strictly before, within ~a year
     )
-    return inj
-
-
-def injury_snaps(groups: dict = INJ_GROUPS) -> pl.DataFrame:
-    """Snap share lost to Out/Doubtful players per team-week, by group (see injured_players)."""
-    inj = injured_players()
     lost = []
-    for g, (positions, share) in groups.items():
+    for g, (positions, share) in INJ_GROUPS.items():
         lost.append(pl.col(share).filter(pl.col("position").is_in(positions)).fill_null(0).sum().alias(f"inj_{g}"))
     return inj.group_by("season", "week", "team").agg(lost)
 
@@ -172,7 +172,7 @@ def build() -> pl.DataFrame:
         [(pl.col(f"home_{c}") - pl.col(f"away_{c}")).alias(f"d_{c}") for c in inj_cols]
         + [(pl.col(f"home_{c}") + pl.col(f"away_{c}")).alias(f"s_{c}") for c in inj_cols]
     )
-    tg = adjust.team_games(DATA / "raw" / "pbp.parquet", sched)
+    tg = adjust.team_games(DATA / "raw" / "pbp" / "*.parquet", sched)
     adj = adjust.adjusted_ratings(tg, sched)
     adj_cols = [c for c in adj.columns if c not in ("game_id", "team")]
     for side, pre in (("home", "h"), ("away", "a")):

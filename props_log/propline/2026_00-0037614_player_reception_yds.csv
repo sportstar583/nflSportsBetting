@@ -1,0 +1,9 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0037614,John Metchie III,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,prizepicks,9.5,True
+00-0037614,John Metchie III,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,parlayplay,9.5,True
+00-0037614,John Metchie III,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,dabble,9.5,True
+00-0037614,John Metchie III,player_reception_yds,159454,2026-08-28T23:00:00Z,Carolina Panthers,Houston Texans,underdog,18.5,True
+00-0037614,John Metchie III,player_reception_yds,147679,2026-08-21T23:30:00Z,Jacksonville Jaguars,Carolina Panthers,underdog,18.5,True
+00-0037614,John Metchie III,player_reception_yds,59766,2026-08-15T20:00:00Z,Buffalo Bills,Carolina Panthers,underdog,19.5,True
+00-0037614,John Metchie III,player_reception_yds,59766,2026-08-15T20:00:00Z,Buffalo Bills,Carolina Panthers,betr,20.5,True
+00-0037614,John Metchie III,player_reception_yds,59778,2026-08-07T00:00:00Z,Arizona Cardinals,Carolina Panthers,underdog,19.5,True

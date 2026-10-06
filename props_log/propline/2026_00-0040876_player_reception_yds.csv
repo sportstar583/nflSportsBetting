@@ -1,0 +1,4 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040876,Elijah Sarratt,player_reception_yds,147751,2026-08-22T17:00:00Z,Minnesota Vikings,Baltimore Ravens,underdog,19.5,True
+00-0040876,Elijah Sarratt,player_reception_yds,59763,2026-08-15T23:00:00Z,Baltimore Ravens,Philadelphia Eagles,betr,20.5,True
+00-0040876,Elijah Sarratt,player_reception_yds,59763,2026-08-15T23:00:00Z,Baltimore Ravens,Philadelphia Eagles,underdog,20.5,True

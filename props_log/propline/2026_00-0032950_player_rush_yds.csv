@@ -1,0 +1,4 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0032950,Carson Wentz,player_rush_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,pinnacle,8.5,True
+00-0032950,Carson Wentz,player_rush_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,betway,8.5,True
+00-0032950,Carson Wentz,player_rush_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,hardrock,24.5,True

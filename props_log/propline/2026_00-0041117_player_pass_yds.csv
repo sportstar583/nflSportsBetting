@@ -1,0 +1,5 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0041117,Athan Kaliakmanis,player_pass_yds,156934,2026-08-28T22:00:00Z,Baltimore Ravens,Washington Commanders,underdog,110.5,True
+00-0041117,Athan Kaliakmanis,player_pass_yds,147576,2026-08-22T16:00:00Z,Detroit Lions,Washington Commanders,underdog,95.5,True
+00-0041117,Athan Kaliakmanis,player_pass_yds,59771,2026-08-14T23:00:00Z,Washington Commanders,Miami Dolphins,underdog,83.5,True
+00-0041117,Athan Kaliakmanis,player_pass_yds,59771,2026-08-14T23:00:00Z,Washington Commanders,Miami Dolphins,betr,80.5,True

@@ -1,0 +1,19 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038542,Bijan Robinson,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,novig,36.5,True
+00-0038542,Bijan Robinson,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,lowvig,40.5,True
+00-0038542,Bijan Robinson,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,betonlineag,40.5,True
+00-0038542,Bijan Robinson,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,bovada,36.5,True
+00-0038542,Bijan Robinson,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,pinnacle,37.5,True
+00-0038542,Bijan Robinson,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,courtside,42.5,True
+00-0038542,Bijan Robinson,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,betway,41.5,True
+00-0038542,Bijan Robinson,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,parlayplay,36.5,True
+00-0038542,Bijan Robinson,player_reception_yds,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,prophetx,40.5,True
+00-0038542,Bijan Robinson,player_reception_yds,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,betway,40.5,True
+00-0038542,Bijan Robinson,player_reception_yds,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,pinnacle,42.5,True
+00-0038542,Bijan Robinson,player_reception_yds,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,bovada,41.5,True
+00-0038542,Bijan Robinson,player_reception_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,bovada,35.5,True
+00-0038542,Bijan Robinson,player_reception_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,pinnacle,33.5,True
+00-0038542,Bijan Robinson,player_reception_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,betr,37.5,True
+00-0038542,Bijan Robinson,player_reception_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,betway,33.5,True
+00-0038542,Bijan Robinson,player_reception_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,prophetx,32.5,True
+00-0038542,Bijan Robinson,player_reception_yds,59769,2026-08-14T23:00:00Z,Atlanta Falcons,Denver Broncos,underdog,0.5,True

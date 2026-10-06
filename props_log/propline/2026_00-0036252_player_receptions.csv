@@ -1,0 +1,40 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036252,Michael Pittman,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,3.5,True
+00-0036252,Michael Pittman,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,sleeper,3.5,True
+00-0036252,Michael Pittman,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,rebet,3.5,True
+00-0036252,Michael Pittman,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betonlineag,3.5,True
+00-0036252,Michael Pittman,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,lowvig,3.5,True
+00-0036252,Michael Pittman,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,novig,3.5,True
+00-0036252,Michael Pittman,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,hardrock,2.5,True
+00-0036252,Michael Pittman,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,3.5,True
+00-0036252,Michael Pittman,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betway,3.5,True
+00-0036252,Michael Pittman,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,prizepicks,2.5,True
+00-0036252,Michael Pittman,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,dabble,3.5,True
+00-0036252,Michael Pittman,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,3.5,True
+00-0036252,Michael Pittman,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,prophetx,3.5,True
+00-0036252,Michael Pittman,player_receptions,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,sleeper,2.5,True
+00-0036252,Michael Pittman,player_receptions,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,betway,3.5,True
+00-0036252,Michael Pittman,player_receptions,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,betmgm,2.5,True
+00-0036252,Michael Pittman,player_receptions,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,novig,2.5,True
+00-0036252,Michael Pittman,player_receptions,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,hardrock,6.5,True
+00-0036252,Michael Pittman,player_receptions,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,prophetx,2.5,True
+00-0036252,Michael Pittman,player_receptions,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,prizepicks,2.5,True
+00-0036252,Michael Pittman,player_receptions,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,fanduel,2.5,True
+00-0036252,Michael Pittman,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,fliff,3.5,True
+00-0036252,Michael Pittman,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,prizepicks,3.5,True
+00-0036252,Michael Pittman,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,draftkings,3.5,True
+00-0036252,Michael Pittman,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,pinnacle,3.5,True
+00-0036252,Michael Pittman,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,bovada,3.5,True
+00-0036252,Michael Pittman,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,betrivers,3.5,True
+00-0036252,Michael Pittman,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,betmgm,3.5,True
+00-0036252,Michael Pittman,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,fanduel,3.5,True
+00-0036252,Michael Pittman,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,underdog,3.5,True
+00-0036252,Michael Pittman,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,prophetx,3.5,True
+00-0036252,Michael Pittman,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,hardrock,3.5,True
+00-0036252,Michael Pittman,player_receptions,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,prophetx,3.5,True
+00-0036252,Michael Pittman,player_receptions,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,betway,4.5,True
+00-0036252,Michael Pittman,player_receptions,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,hardrock,9.5,True
+00-0036252,Michael Pittman,player_receptions,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,fanduel,3.5,True
+00-0036252,Michael Pittman,player_receptions,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,betmgm,3.5,True
+00-0036252,Michael Pittman,player_receptions,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,prizepicks,2.5,True
+00-0036252,Michael Pittman,player_receptions,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,pinnacle,3.5,True

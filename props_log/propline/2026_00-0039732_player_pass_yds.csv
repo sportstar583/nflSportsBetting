@@ -1,0 +1,34 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039732,Bo Nix,player_pass_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,rebet,221.5,True
+00-0039732,Bo Nix,player_pass_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,novig,222.5,True
+00-0039732,Bo Nix,player_pass_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,hardrock,224.5,True
+00-0039732,Bo Nix,player_pass_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,pinnacle,221.5,True
+00-0039732,Bo Nix,player_pass_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,courtside,225.5,True
+00-0039732,Bo Nix,player_pass_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,sleeper,222.5,True
+00-0039732,Bo Nix,player_pass_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,betway,226.5,True
+00-0039732,Bo Nix,player_pass_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,pick6,222.5,True
+00-0039732,Bo Nix,player_pass_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,sportzino,226.5,True
+00-0039732,Bo Nix,player_pass_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,bovada,220.5,True
+00-0039732,Bo Nix,player_pass_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,dabble,224.5,True
+00-0039732,Bo Nix,player_pass_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,prophetx,215.5,True
+00-0039732,Bo Nix,player_pass_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,courtside,216.5,True
+00-0039732,Bo Nix,player_pass_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,sleeper,214.5,True
+00-0039732,Bo Nix,player_pass_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betway,220.5,True
+00-0039732,Bo Nix,player_pass_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,211.5,True
+00-0039732,Bo Nix,player_pass_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,dabble,211.5,True
+00-0039732,Bo Nix,player_pass_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,prophetx,213.5,True
+00-0039732,Bo Nix,player_pass_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,novig,210.5,True
+00-0039732,Bo Nix,player_pass_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,bovada,211.5,True
+00-0039732,Bo Nix,player_pass_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,pinnacle,220.5,True
+00-0039732,Bo Nix,player_pass_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,betway,229.5,True
+00-0039732,Bo Nix,player_pass_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,bovada,220.5,True
+00-0039732,Bo Nix,player_pass_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,prophetx,220.5,True
+00-0039732,Bo Nix,player_pass_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,betonlineag,226.5,True
+00-0039732,Bo Nix,player_pass_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,prophetx,229.5,True
+00-0039732,Bo Nix,player_pass_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,betway,223.5,True
+00-0039732,Bo Nix,player_pass_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,betr,225.5,True
+00-0039732,Bo Nix,player_pass_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,pinnacle,226.5,True
+00-0039732,Bo Nix,player_pass_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,lowvig,226.5,True
+00-0039732,Bo Nix,player_pass_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,bovada,220.5,True
+00-0039732,Bo Nix,player_pass_yds,147649,2026-08-22T01:00:00Z,Denver Broncos,Green Bay Packers,betr,45.5,True
+00-0039732,Bo Nix,player_pass_yds,147649,2026-08-22T01:00:00Z,Denver Broncos,Green Bay Packers,underdog,42.5,True

@@ -1,0 +1,30 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039451,Isaiah Williams,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,betway,22.5,True
+00-0039451,Isaiah Williams,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,sleeper,23.5,True
+00-0039451,Isaiah Williams,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,prizepicks,22.5,True
+00-0039451,Isaiah Williams,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,sportzino,23.5,True
+00-0039451,Isaiah Williams,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,pinnacle,22.5,True
+00-0039451,Isaiah Williams,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,rebet,24.5,True
+00-0039451,Isaiah Williams,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,courtside,23.5,True
+00-0039451,Isaiah Williams,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,parlayplay,23.5,True
+00-0039451,Isaiah Williams,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,dabble,23.5,True
+00-0039451,Isaiah Williams,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,pick6,22.5,True
+00-0039451,Isaiah Williams,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,novig,23.5,True
+00-0039451,Isaiah Williams,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,prophetx,35.5,True
+00-0039451,Isaiah Williams,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,sleeper,33.5,True
+00-0039451,Isaiah Williams,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,novig,26.5,True
+00-0039451,Isaiah Williams,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,prizepicks,33.5,True
+00-0039451,Isaiah Williams,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,hardrock,99.5,True
+00-0039451,Isaiah Williams,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,betway,25.5,True
+00-0039451,Isaiah Williams,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,pinnacle,33.5,True
+00-0039451,Isaiah Williams,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,parlayplay,26.5,True
+00-0039451,Isaiah Williams,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,courtside,22.5,True
+00-0039451,Isaiah Williams,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,dabble,33.5,True
+00-0039451,Isaiah Williams,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,bovada,36.5,True
+00-0039451,Isaiah Williams,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,hardrock,64.5,True
+00-0039451,Isaiah Williams,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prizepicks,1.5,True
+00-0039451,Isaiah Williams,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,betway,12.5,True
+00-0039451,Isaiah Williams,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,pinnacle,11.5,True
+00-0039451,Isaiah Williams,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,betway,7.5,True
+00-0039451,Isaiah Williams,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,prizepicks,3.5,True
+00-0039451,Isaiah Williams,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,hardrock,64.5,True

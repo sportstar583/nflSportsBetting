@@ -1,0 +1,15 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0028986,Case Keenum,player_pass_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,underdog,178.5,True
+00-0028986,Case Keenum,player_pass_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,rebet,167.5,True
+00-0028986,Case Keenum,player_pass_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,sleeper,165.5,True
+00-0028986,Case Keenum,player_pass_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,betway,170.5,True
+00-0028986,Case Keenum,player_pass_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,prophetx,162.5,True
+00-0028986,Case Keenum,player_pass_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,novig,162.5,True
+00-0028986,Case Keenum,player_pass_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,prizepicks,137.5,True
+00-0028986,Case Keenum,player_pass_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,dabble,169.5,True
+00-0028986,Case Keenum,player_pass_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,courtside,166.5,True
+00-0028986,Case Keenum,player_pass_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,hardrock,149.5,True
+00-0028986,Case Keenum,player_pass_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,bovada,167.5,True
+00-0028986,Case Keenum,player_pass_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,lowvig,169.5,True
+00-0028986,Case Keenum,player_pass_yds,159453,2026-08-29T22:00:00Z,Tennessee Titans,Chicago Bears,underdog,56.5,True
+00-0028986,Case Keenum,player_pass_yds,147802,2026-08-22T23:00:00Z,Cincinnati Bengals,Chicago Bears,underdog,89.5,True

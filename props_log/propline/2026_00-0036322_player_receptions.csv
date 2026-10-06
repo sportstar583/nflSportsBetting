@@ -1,0 +1,18 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036322,Justin Jefferson,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,pinnacle,5.5,True
+00-0036322,Justin Jefferson,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,dabble,5.5,True
+00-0036322,Justin Jefferson,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,sleeper,5.5,True
+00-0036322,Justin Jefferson,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,prophetx,5.5,True
+00-0036322,Justin Jefferson,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,novig,4.5,True
+00-0036322,Justin Jefferson,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,fanduel,5.5,True
+00-0036322,Justin Jefferson,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,betway,5.5,True
+00-0036322,Justin Jefferson,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,betmgm,5.5,True
+00-0036322,Justin Jefferson,player_receptions,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,betmgm,6.5,True
+00-0036322,Justin Jefferson,player_receptions,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,prophetx,6.5,True
+00-0036322,Justin Jefferson,player_receptions,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,fanduel,6.5,True
+00-0036322,Justin Jefferson,player_receptions,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,betway,6.5,True
+00-0036322,Justin Jefferson,player_receptions,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,pinnacle,6.5,True
+00-0036322,Justin Jefferson,player_receptions,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,pinnacle,5.5,True
+00-0036322,Justin Jefferson,player_receptions,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betway,5.5,True
+00-0036322,Justin Jefferson,player_receptions,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,fanduel,5.5,True
+00-0036322,Justin Jefferson,player_receptions,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betmgm,5.5,True

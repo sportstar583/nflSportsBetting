@@ -1,0 +1,33 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038597,Chase Brown,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,novig,19.5,True
+00-0038597,Chase Brown,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,pick6,19.5,True
+00-0038597,Chase Brown,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,betway,19.5,True
+00-0038597,Chase Brown,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,rebet,19.5,True
+00-0038597,Chase Brown,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,hardrock,24.5,True
+00-0038597,Chase Brown,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,pinnacle,19.5,True
+00-0038597,Chase Brown,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,sleeper,18.5,True
+00-0038597,Chase Brown,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,sportzino,19.5,True
+00-0038597,Chase Brown,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,parlayplay,18.5,True
+00-0038597,Chase Brown,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,dabble,19.5,True
+00-0038597,Chase Brown,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,betonlineag,19.5,True
+00-0038597,Chase Brown,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,lowvig,19.5,True
+00-0038597,Chase Brown,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,prophetx,17.5,True
+00-0038597,Chase Brown,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,novig,23.5,True
+00-0038597,Chase Brown,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,parlayplay,22.5,True
+00-0038597,Chase Brown,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,hardrock,64.5,True
+00-0038597,Chase Brown,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,betway,22.5,True
+00-0038597,Chase Brown,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,prophetx,23.5,True
+00-0038597,Chase Brown,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,pinnacle,21.5,True
+00-0038597,Chase Brown,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,dabble,23.5,True
+00-0038597,Chase Brown,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,sleeper,22.5,True
+00-0038597,Chase Brown,player_reception_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,hardrock,64.5,True
+00-0038597,Chase Brown,player_reception_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,prophetx,14.5,True
+00-0038597,Chase Brown,player_reception_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,betway,19.5,True
+00-0038597,Chase Brown,player_reception_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,pinnacle,19.5,True
+00-0038597,Chase Brown,player_reception_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,lowvig,20.5,True
+00-0038597,Chase Brown,player_reception_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,betonlineag,20.5,True
+00-0038597,Chase Brown,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betrivers,23.5,True
+00-0038597,Chase Brown,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,prophetx,24.5,True
+00-0038597,Chase Brown,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betr,20.5,True
+00-0038597,Chase Brown,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betway,25.5,True
+00-0038597,Chase Brown,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,pinnacle,23.5,True

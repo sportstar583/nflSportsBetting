@@ -1,0 +1,38 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0034844,Saquon Barkley,player_rush_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,sportzino,67.5,True
+00-0034844,Saquon Barkley,player_rush_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,prophetx,68.5,True
+00-0034844,Saquon Barkley,player_rush_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,pick6,68.5,True
+00-0034844,Saquon Barkley,player_rush_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,novig,68.5,True
+00-0034844,Saquon Barkley,player_rush_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,betway,69.5,True
+00-0034844,Saquon Barkley,player_rush_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,pinnacle,69.5,True
+00-0034844,Saquon Barkley,player_rush_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,hardrock,79.5,True
+00-0034844,Saquon Barkley,player_rush_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,parlayplay,68.5,True
+00-0034844,Saquon Barkley,player_rush_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,dabble,69.5,True
+00-0034844,Saquon Barkley,player_rush_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,sleeper,68.5,True
+00-0034844,Saquon Barkley,player_rush_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,courtside,79.5,True
+00-0034844,Saquon Barkley,player_rush_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,rebet,68.5,True
+00-0034844,Saquon Barkley,player_rush_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,bovada,68.5,True
+00-0034844,Saquon Barkley,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,parlayplay,72.5,True
+00-0034844,Saquon Barkley,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,hardrock,24.5,True
+00-0034844,Saquon Barkley,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,sleeper,74.5,True
+00-0034844,Saquon Barkley,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,rebet,74.5,True
+00-0034844,Saquon Barkley,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,betway,68.5,True
+00-0034844,Saquon Barkley,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,courtside,74.5,True
+00-0034844,Saquon Barkley,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,novig,73.5,True
+00-0034844,Saquon Barkley,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,prophetx,74.5,True
+00-0034844,Saquon Barkley,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,dabble,74.5,True
+00-0034844,Saquon Barkley,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,bovada,70.5,True
+00-0034844,Saquon Barkley,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,lowvig,71.5,True
+00-0034844,Saquon Barkley,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,betonlineag,71.5,True
+00-0034844,Saquon Barkley,player_rush_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,betway,78.5,True
+00-0034844,Saquon Barkley,player_rush_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,bovada,79.5,True
+00-0034844,Saquon Barkley,player_rush_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,prophetx,77.5,True
+00-0034844,Saquon Barkley,player_rush_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,pinnacle,77.5,True
+00-0034844,Saquon Barkley,player_rush_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betmgm,77.5,True
+00-0034844,Saquon Barkley,player_rush_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,pinnacle,74.5,True
+00-0034844,Saquon Barkley,player_rush_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betr,77.5,True
+00-0034844,Saquon Barkley,player_rush_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betway,76.5,True
+00-0034844,Saquon Barkley,player_rush_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,prophetx,78.5,True
+00-0034844,Saquon Barkley,player_rush_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,bovada,75.5,True
+00-0034844,Saquon Barkley,player_rush_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,lowvig,77.5,True
+00-0034844,Saquon Barkley,player_rush_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betonlineag,77.5,True

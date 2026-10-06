@@ -1,0 +1,36 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0034796,Lamar Jackson,player_pass_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,rebet,213.5,True
+00-0034796,Lamar Jackson,player_pass_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,dabble,220.5,True
+00-0034796,Lamar Jackson,player_pass_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,parlayplay,225.5,True
+00-0034796,Lamar Jackson,player_pass_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,courtside,214.5,True
+00-0034796,Lamar Jackson,player_pass_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,sportzino,217.5,True
+00-0034796,Lamar Jackson,player_pass_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,novig,213.5,True
+00-0034796,Lamar Jackson,player_pass_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,pick6,218.5,True
+00-0034796,Lamar Jackson,player_pass_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,hardrock,224.5,True
+00-0034796,Lamar Jackson,player_pass_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,betway,222.5,True
+00-0034796,Lamar Jackson,player_pass_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,pinnacle,213.5,True
+00-0034796,Lamar Jackson,player_pass_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,sleeper,214.5,True
+00-0034796,Lamar Jackson,player_pass_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,prophetx,225.5,True
+00-0034796,Lamar Jackson,player_pass_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,bovada,216.5,True
+00-0034796,Lamar Jackson,player_pass_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,betway,234.5,True
+00-0034796,Lamar Jackson,player_pass_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,courtside,238.5,True
+00-0034796,Lamar Jackson,player_pass_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,lowvig,240.5,True
+00-0034796,Lamar Jackson,player_pass_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,bovada,237.5,True
+00-0034796,Lamar Jackson,player_pass_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,parlayplay,239.5,True
+00-0034796,Lamar Jackson,player_pass_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,dabble,239.5,True
+00-0034796,Lamar Jackson,player_pass_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,sleeper,240.5,True
+00-0034796,Lamar Jackson,player_pass_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,pinnacle,239.5,True
+00-0034796,Lamar Jackson,player_pass_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,novig,241.5,True
+00-0034796,Lamar Jackson,player_pass_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,prophetx,239.5,True
+00-0034796,Lamar Jackson,player_pass_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,betonlineag,240.5,True
+00-0034796,Lamar Jackson,player_pass_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,prophetx,213.5,True
+00-0034796,Lamar Jackson,player_pass_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,pinnacle,209.5,True
+00-0034796,Lamar Jackson,player_pass_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,betway,208.5,True
+00-0034796,Lamar Jackson,player_pass_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,bovada,211.5,True
+00-0034796,Lamar Jackson,player_pass_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,betway,217.5,True
+00-0034796,Lamar Jackson,player_pass_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,betr,220.5,True
+00-0034796,Lamar Jackson,player_pass_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,prophetx,219.5,True
+00-0034796,Lamar Jackson,player_pass_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,pinnacle,220.5,True
+00-0034796,Lamar Jackson,player_pass_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,betonlineag,220.5,True
+00-0034796,Lamar Jackson,player_pass_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,bovada,218.5,True
+00-0034796,Lamar Jackson,player_pass_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,lowvig,220.5,True

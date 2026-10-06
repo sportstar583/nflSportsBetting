@@ -1,0 +1,31 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0037228,Jaylen Warren,player_rush_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,parlayplay,73.5,True
+00-0037228,Jaylen Warren,player_rush_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,novig,68.5,True
+00-0037228,Jaylen Warren,player_rush_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,rebet,75.5,True
+00-0037228,Jaylen Warren,player_rush_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betway,73.5,True
+00-0037228,Jaylen Warren,player_rush_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,sleeper,76.5,True
+00-0037228,Jaylen Warren,player_rush_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betonlineag,75.5,True
+00-0037228,Jaylen Warren,player_rush_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,lowvig,75.5,True
+00-0037228,Jaylen Warren,player_rush_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,bovada,72.5,True
+00-0037228,Jaylen Warren,player_rush_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,75.5,True
+00-0037228,Jaylen Warren,player_rush_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,prophetx,68.5,True
+00-0037228,Jaylen Warren,player_rush_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,dabble,75.5,True
+00-0037228,Jaylen Warren,player_rush_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,courtside,65.5,True
+00-0037228,Jaylen Warren,player_rush_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,hardrock,79.5,True
+00-0037228,Jaylen Warren,player_rush_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,prophetx,55.5,True
+00-0037228,Jaylen Warren,player_rush_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,parlayplay,59.5,True
+00-0037228,Jaylen Warren,player_rush_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,novig,57.5,True
+00-0037228,Jaylen Warren,player_rush_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,courtside,56.5,True
+00-0037228,Jaylen Warren,player_rush_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,betway,62.5,True
+00-0037228,Jaylen Warren,player_rush_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,pinnacle,57.5,True
+00-0037228,Jaylen Warren,player_rush_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,dabble,57.5,True
+00-0037228,Jaylen Warren,player_rush_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,sleeper,57.5,True
+00-0037228,Jaylen Warren,player_rush_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,bovada,56.5,True
+00-0037228,Jaylen Warren,player_rush_yds,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,prophetx,40.5,True
+00-0037228,Jaylen Warren,player_rush_yds,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,bovada,41.5,True
+00-0037228,Jaylen Warren,player_rush_yds,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,betway,41.5,True
+00-0037228,Jaylen Warren,player_rush_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,prophetx,41.5,True
+00-0037228,Jaylen Warren,player_rush_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,pinnacle,42.5,True
+00-0037228,Jaylen Warren,player_rush_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,betway,42.5,True
+00-0037228,Jaylen Warren,player_rush_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,betr,40.5,True
+00-0037228,Jaylen Warren,player_rush_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,bovada,42.5,True

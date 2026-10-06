@@ -17,15 +17,34 @@ DATASETS = {
     "rosters": lambda: nfl.load_rosters(SEASONS),
     "snap_counts": lambda: nfl.load_snap_counts(SEASONS),
     "players": lambda: nfl.load_players(),
+    # richer per-game stats for the prop model (NGS/PFR start 2018/2019; ff_opportunity 2006)
+    "ngs_receiving": lambda: nfl.load_nextgen_stats(stat_type="receiving", seasons=SEASONS),
+    "ngs_rushing": lambda: nfl.load_nextgen_stats(stat_type="rushing", seasons=SEASONS),
+    "ngs_passing": lambda: nfl.load_nextgen_stats(stat_type="passing", seasons=SEASONS),
+    "pfr_rec": lambda: nfl.load_pfr_advstats(seasons=SEASONS, stat_type="rec", summary_level="week"),
+    "pfr_rush": lambda: nfl.load_pfr_advstats(seasons=SEASONS, stat_type="rush", summary_level="week"),
+    "pfr_pass": lambda: nfl.load_pfr_advstats(seasons=SEASONS, stat_type="pass", summary_level="week"),
+    "ff_opportunity": lambda: nfl.load_ff_opportunity(SEASONS),
+    # per-play coverage (man/zone, shell) and routes; the feed ends after 2025
+    "participation": lambda: nfl.load_participation([s for s in SEASONS if s <= 2025]),
+    "rosters_weekly": lambda: nfl.load_rosters_weekly(SEASONS),  # status: ACT, RES (IR), PUP, SUS, INA...
 }
 
 
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
+    only = sys.argv[1:]  # optional dataset names, e.g. `pull_data.py ngs_receiving`
     for name, fn in DATASETS.items():
+        if only and name not in only:
+            continue
         try:
             df = fn()
-            df.write_parquet(OUT / f"{name}.parquet")
+            if name == "pbp":  # one file per season: the whole thing is >100 MB, GitHub's file limit
+                (OUT / "pbp").mkdir(exist_ok=True)
+                for season, part in df.partition_by("season", as_dict=True).items():
+                    part.write_parquet(OUT / "pbp" / f"{season[0]}.parquet")
+            else:
+                df.write_parquet(OUT / f"{name}.parquet")
             print(f"{name}: {df.height} rows, {df.width} cols")
         except Exception as e:
             print(f"{name}: FAILED ({e})", file=sys.stderr)

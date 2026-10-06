@@ -1,0 +1,21 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0032951,Laquon Treadwell,player_reception_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,sportzino,25.5,True
+00-0032951,Laquon Treadwell,player_reception_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,parlayplay,24.5,True
+00-0032951,Laquon Treadwell,player_reception_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,prizepicks,18.5,True
+00-0032951,Laquon Treadwell,player_reception_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,novig,28.5,True
+00-0032951,Laquon Treadwell,player_reception_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,sleeper,25.5,True
+00-0032951,Laquon Treadwell,player_reception_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,rebet,27.5,True
+00-0032951,Laquon Treadwell,player_reception_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,underdog,27.5,True
+00-0032951,Laquon Treadwell,player_reception_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,dabble,13.5,True
+00-0032951,Laquon Treadwell,player_reception_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,pinnacle,25.5,True
+00-0032951,Laquon Treadwell,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,novig,15.5,True
+00-0032951,Laquon Treadwell,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,underdog,22.5,True
+00-0032951,Laquon Treadwell,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,hardrock,79.5,True
+00-0032951,Laquon Treadwell,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,parlayplay,23.5,True
+00-0032951,Laquon Treadwell,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,prophetx,13.5,True
+00-0032951,Laquon Treadwell,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,courtside,16.5,True
+00-0032951,Laquon Treadwell,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,prizepicks,13.5,True
+00-0032951,Laquon Treadwell,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,sleeper,22.5,True
+00-0032951,Laquon Treadwell,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,dabble,22.5,True
+00-0032951,Laquon Treadwell,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,pinnacle,22.5,True
+00-0032951,Laquon Treadwell,player_reception_yds,32646,2026-09-21T00:22:43Z,Kansas City Chiefs,Indianapolis Colts,fanatics,10.5,True

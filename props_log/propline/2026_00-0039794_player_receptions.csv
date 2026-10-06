@@ -1,0 +1,17 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039794,Braelon Allen,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,prizepicks,1.5,True
+00-0039794,Braelon Allen,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,betmgm,1.5,True
+00-0039794,Braelon Allen,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,betway,2.5,True
+00-0039794,Braelon Allen,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,fanduel,1.5,True
+00-0039794,Braelon Allen,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,sleeper,1.5,True
+00-0039794,Braelon Allen,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,sportzino,2.5,True
+00-0039794,Braelon Allen,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,pinnacle,1.5,True
+00-0039794,Braelon Allen,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,prophetx,1.5,True
+00-0039794,Braelon Allen,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,novig,2.5,True
+00-0039794,Braelon Allen,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,rebet,1.5,True
+00-0039794,Braelon Allen,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,dabble,2.5,True
+00-0039794,Braelon Allen,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,prizepicks,0.5,True
+00-0039794,Braelon Allen,player_receptions,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prizepicks,0.5,True
+00-0039794,Braelon Allen,player_receptions,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,prizepicks,0.5,True
+00-0039794,Braelon Allen,player_receptions,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,hardrock,2.5,True
+00-0039794,Braelon Allen,player_receptions,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,betway,0.5,True

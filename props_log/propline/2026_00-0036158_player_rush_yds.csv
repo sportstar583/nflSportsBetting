@@ -1,0 +1,35 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036158,J.K. Dobbins,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,rebet,59.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,courtside,61.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,dabble,56.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,novig,58.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,sleeper,59.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,pick6,59.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,sportzino,55.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,betway,59.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,hardrock,64.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,prophetx,65.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,bovada,59.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,parlayplay,61.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,bovada,50.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,prophetx,119.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,novig,51.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betway,52.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,sleeper,49.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,50.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,dabble,52.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betonlineag,50.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,lowvig,50.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,parlayplay,52.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,pinnacle,58.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,fliff,58.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,bovada,58.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,prophetx,58.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,betway,58.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,pinnacle,48.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,betr,49.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,betway,47.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,betonlineag,49.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,bovada,49.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,lowvig,49.5,True
+00-0036158,J.K. Dobbins,player_rush_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,prophetx,50.5,True

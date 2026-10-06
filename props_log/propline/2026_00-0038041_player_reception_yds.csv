@@ -1,0 +1,35 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038041,Jake Ferguson,player_reception_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,novig,23.5,True
+00-0038041,Jake Ferguson,player_reception_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,sleeper,24.5,True
+00-0038041,Jake Ferguson,player_reception_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,parlayplay,25.5,True
+00-0038041,Jake Ferguson,player_reception_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,dabble,25.5,True
+00-0038041,Jake Ferguson,player_reception_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,rebet,24.5,True
+00-0038041,Jake Ferguson,player_reception_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,prophetx,99.5,True
+00-0038041,Jake Ferguson,player_reception_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,sportzino,25.5,True
+00-0038041,Jake Ferguson,player_reception_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,pick6,24.5,True
+00-0038041,Jake Ferguson,player_reception_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,betway,24.5,True
+00-0038041,Jake Ferguson,player_reception_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,hardrock,24.5,True
+00-0038041,Jake Ferguson,player_reception_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,courtside,25.5,True
+00-0038041,Jake Ferguson,player_reception_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,betway,29.5,True
+00-0038041,Jake Ferguson,player_reception_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,dabble,29.5,True
+00-0038041,Jake Ferguson,player_reception_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,novig,26.5,True
+00-0038041,Jake Ferguson,player_reception_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,pinnacle,26.5,True
+00-0038041,Jake Ferguson,player_reception_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,hardrock,79.5,True
+00-0038041,Jake Ferguson,player_reception_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,sleeper,27.5,True
+00-0038041,Jake Ferguson,player_reception_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,betrivers,28.5,True
+00-0038041,Jake Ferguson,player_reception_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,prophetx,27.5,True
+00-0038041,Jake Ferguson,player_reception_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,lowvig,28.5,True
+00-0038041,Jake Ferguson,player_reception_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,betonlineag,28.5,True
+00-0038041,Jake Ferguson,player_reception_yds,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,betway,26.5,True
+00-0038041,Jake Ferguson,player_reception_yds,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,hardrock,79.5,True
+00-0038041,Jake Ferguson,player_reception_yds,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,pinnacle,26.5,True
+00-0038041,Jake Ferguson,player_reception_yds,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,betonlineag,26.5,True
+00-0038041,Jake Ferguson,player_reception_yds,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,lowvig,26.5,True
+00-0038041,Jake Ferguson,player_reception_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betway,30.5,True
+00-0038041,Jake Ferguson,player_reception_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betr,30.5,True
+00-0038041,Jake Ferguson,player_reception_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,hardrock,99.5,True
+00-0038041,Jake Ferguson,player_reception_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,prophetx,31.5,True
+00-0038041,Jake Ferguson,player_reception_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,pinnacle,29.5,True
+00-0038041,Jake Ferguson,player_reception_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betmgm,29.5,True
+00-0038041,Jake Ferguson,player_reception_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,lowvig,29.5,True
+00-0038041,Jake Ferguson,player_reception_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betonlineag,29.5,True

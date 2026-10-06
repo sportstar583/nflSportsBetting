@@ -1,0 +1,31 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040189,Oronde Gadsden II,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sleeper,2.5,True
+00-0040189,Oronde Gadsden II,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,fanduel,2.5,True
+00-0040189,Oronde Gadsden II,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sportzino,2.5,True
+00-0040189,Oronde Gadsden II,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,rebet,2.5,True
+00-0040189,Oronde Gadsden II,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,betway,2.5,True
+00-0040189,Oronde Gadsden II,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prizepicks,2.5,True
+00-0040189,Oronde Gadsden II,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,betmgm,2.5,True
+00-0040189,Oronde Gadsden II,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,novig,4.5,True
+00-0040189,Oronde Gadsden II,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prophetx,2.5,True
+00-0040189,Oronde Gadsden II,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,pinnacle,2.5,True
+00-0040189,Oronde Gadsden II,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,dabble,2.5,True
+00-0040189,Oronde Gadsden II,player_receptions,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,prophetx,3.5,True
+00-0040189,Oronde Gadsden II,player_receptions,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,pinnacle,3.5,True
+00-0040189,Oronde Gadsden II,player_receptions,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,fanduel,3.5,True
+00-0040189,Oronde Gadsden II,player_receptions,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,hardrock,7.5,True
+00-0040189,Oronde Gadsden II,player_receptions,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,sleeper,3.5,True
+00-0040189,Oronde Gadsden II,player_receptions,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,lowvig,3.5,True
+00-0040189,Oronde Gadsden II,player_receptions,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,betonlineag,3.5,True
+00-0040189,Oronde Gadsden II,player_receptions,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,betmgm,3.5,True
+00-0040189,Oronde Gadsden II,player_receptions,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,courtside,3.5,True
+00-0040189,Oronde Gadsden II,player_receptions,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,betway,3.5,True
+00-0040189,Oronde Gadsden II,player_receptions,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,prizepicks,2.5,True
+00-0040189,Oronde Gadsden II,player_receptions,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,novig,2.5,True
+00-0040189,Oronde Gadsden II,player_receptions,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,fanduel,1.5,True
+00-0040189,Oronde Gadsden II,player_receptions,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,hardrock,5.5,True
+00-0040189,Oronde Gadsden II,player_receptions,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,prizepicks,1.5,True
+00-0040189,Oronde Gadsden II,player_receptions,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,betway,1.5,True
+00-0040189,Oronde Gadsden II,player_receptions,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,prophetx,1.5,True
+00-0040189,Oronde Gadsden II,player_receptions,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,betmgm,1.5,True
+00-0040189,Oronde Gadsden II,player_receptions,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,pinnacle,1.5,True

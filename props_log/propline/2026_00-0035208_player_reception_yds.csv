@@ -1,0 +1,14 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0035208,Olamide Zaccheaus,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,courtside,8.5,True
+00-0035208,Olamide Zaccheaus,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,prizepicks,0.5,True
+00-0035208,Olamide Zaccheaus,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,prophetx,11.5,True
+00-0035208,Olamide Zaccheaus,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,pinnacle,10.5,True
+00-0035208,Olamide Zaccheaus,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,betway,8.5,True
+00-0035208,Olamide Zaccheaus,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,novig,10.5,True
+00-0035208,Olamide Zaccheaus,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,hardrock,49.5,True
+00-0035208,Olamide Zaccheaus,player_reception_yds,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,pinnacle,8.5,True
+00-0035208,Olamide Zaccheaus,player_reception_yds,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,prizepicks,3.5,True
+00-0035208,Olamide Zaccheaus,player_reception_yds,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,betway,8.5,True
+00-0035208,Olamide Zaccheaus,player_reception_yds,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,hardrock,39.5,True
+00-0035208,Olamide Zaccheaus,player_reception_yds,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,bovada,8.5,True
+00-0035208,Olamide Zaccheaus,player_reception_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,prizepicks,7.5,True

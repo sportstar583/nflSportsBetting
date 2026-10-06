@@ -1,0 +1,17 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0034351,Dallas Goedert,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,polymarket_us,9.5,True
+00-0034351,Dallas Goedert,player_reception_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,prophetx,37.5,True
+00-0034351,Dallas Goedert,player_reception_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,prizepicks,12.5,True
+00-0034351,Dallas Goedert,player_reception_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,betway,38.5,True
+00-0034351,Dallas Goedert,player_reception_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,pinnacle,37.5,True
+00-0034351,Dallas Goedert,player_reception_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,fliff,39.5,True
+00-0034351,Dallas Goedert,player_reception_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,bovada,38.5,True
+00-0034351,Dallas Goedert,player_reception_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,prizepicks,9.5,True
+00-0034351,Dallas Goedert,player_reception_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betonlineag,35.5,True
+00-0034351,Dallas Goedert,player_reception_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,lowvig,35.5,True
+00-0034351,Dallas Goedert,player_reception_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,bovada,38.5,True
+00-0034351,Dallas Goedert,player_reception_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betway,37.5,True
+00-0034351,Dallas Goedert,player_reception_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,prophetx,33.5,True
+00-0034351,Dallas Goedert,player_reception_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betmgm,40.5,True
+00-0034351,Dallas Goedert,player_reception_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,pinnacle,37.5,True
+00-0034351,Dallas Goedert,player_reception_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betr,33.5,True

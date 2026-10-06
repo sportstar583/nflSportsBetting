@@ -1,0 +1,15 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0035644,Noah Fant,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,hardrock,64.5,True
+00-0035644,Noah Fant,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,sleeper,11.5,True
+00-0035644,Noah Fant,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,dabble,10.5,True
+00-0035644,Noah Fant,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,novig,11.5,True
+00-0035644,Noah Fant,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,pinnacle,12.5,True
+00-0035644,Noah Fant,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,prizepicks,12.5,True
+00-0035644,Noah Fant,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,prophetx,11.5,True
+00-0035644,Noah Fant,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,betway,10.5,True
+00-0035644,Noah Fant,player_reception_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,hardrock,64.5,True
+00-0035644,Noah Fant,player_reception_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,prophetx,16.5,True
+00-0035644,Noah Fant,player_reception_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,prizepicks,0.5,True
+00-0035644,Noah Fant,player_reception_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,betway,15.5,True
+00-0035644,Noah Fant,player_reception_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,pinnacle,14.5,True
+00-0035644,Noah Fant,player_reception_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,prizepicks,10.5,True

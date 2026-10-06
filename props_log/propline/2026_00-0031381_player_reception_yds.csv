@@ -1,0 +1,39 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0031381,Davante Adams,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,dabble,67.5,True
+00-0031381,Davante Adams,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,prizepicks,54.5,True
+00-0031381,Davante Adams,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,sleeper,59.5,True
+00-0031381,Davante Adams,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,betway,64.5,True
+00-0031381,Davante Adams,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,parlayplay,59.5,True
+00-0031381,Davante Adams,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,pick6,59.5,True
+00-0031381,Davante Adams,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,pinnacle,58.5,True
+00-0031381,Davante Adams,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,rebet,59.5,True
+00-0031381,Davante Adams,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,courtside,67.5,True
+00-0031381,Davante Adams,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,prophetx,60.5,True
+00-0031381,Davante Adams,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,sportzino,62.5,True
+00-0031381,Davante Adams,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,hardrock,79.5,True
+00-0031381,Davante Adams,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,bovada,59.5,True
+00-0031381,Davante Adams,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,novig,58.5,True
+00-0031381,Davante Adams,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,71.5,True
+00-0031381,Davante Adams,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,sleeper,70.5,True
+00-0031381,Davante Adams,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,courtside,74.5,True
+00-0031381,Davante Adams,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,novig,70.5,True
+00-0031381,Davante Adams,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,prophetx,119.5,True
+00-0031381,Davante Adams,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betway,70.5,True
+00-0031381,Davante Adams,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,prizepicks,63.5,True
+00-0031381,Davante Adams,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,dabble,72.5,True
+00-0031381,Davante Adams,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,parlayplay,69.5,True
+00-0031381,Davante Adams,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,lowvig,74.5,True
+00-0031381,Davante Adams,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,bovada,68.5,True
+00-0031381,Davante Adams,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betonlineag,74.5,True
+00-0031381,Davante Adams,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,prizepicks,14.5,True
+00-0031381,Davante Adams,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betway,63.5,True
+00-0031381,Davante Adams,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,prophetx,46.5,True
+00-0031381,Davante Adams,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betonlineag,63.5,True
+00-0031381,Davante Adams,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,bovada,61.5,True
+00-0031381,Davante Adams,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,lowvig,63.5,True
+00-0031381,Davante Adams,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,pinnacle,63.5,True
+00-0031381,Davante Adams,player_reception_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,bovada,50.5,True
+00-0031381,Davante Adams,player_reception_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,pinnacle,52.5,True
+00-0031381,Davante Adams,player_reception_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,prizepicks,19.5,True
+00-0031381,Davante Adams,player_reception_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,prophetx,51.5,True
+00-0031381,Davante Adams,player_reception_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,betr,51.5,True

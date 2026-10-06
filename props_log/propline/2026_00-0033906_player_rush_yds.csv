@@ -1,0 +1,14 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0033906,Alvin Kamara,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,hardrock,79.5,True
+00-0033906,Alvin Kamara,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,sleeper,24.5,True
+00-0033906,Alvin Kamara,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,pinnacle,24.5,True
+00-0033906,Alvin Kamara,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,novig,23.5,True
+00-0033906,Alvin Kamara,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,betway,27.5,True
+00-0033906,Alvin Kamara,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,parlayplay,26.5,True
+00-0033906,Alvin Kamara,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,prophetx,79.5,True
+00-0033906,Alvin Kamara,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,dabble,25.5,True
+00-0033906,Alvin Kamara,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,bovada,27.5,True
+00-0033906,Alvin Kamara,player_rush_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,pinnacle,13.5,True
+00-0033906,Alvin Kamara,player_rush_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,betway,16.5,True
+00-0033906,Alvin Kamara,player_rush_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,betrivers,21.5,True
+00-0033906,Alvin Kamara,player_rush_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,prophetx,11.5,True

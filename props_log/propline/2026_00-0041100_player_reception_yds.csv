@@ -1,0 +1,17 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0041100,Josh Cameron,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,parlayplay,8.5,True
+00-0041100,Josh Cameron,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,pick6,9.5,True
+00-0041100,Josh Cameron,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,betway,8.5,True
+00-0041100,Josh Cameron,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,novig,8.5,True
+00-0041100,Josh Cameron,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,rebet,9.5,True
+00-0041100,Josh Cameron,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,pinnacle,9.5,True
+00-0041100,Josh Cameron,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,prizepicks,9.5,True
+00-0041100,Josh Cameron,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,sleeper,9.5,True
+00-0041100,Josh Cameron,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,sportzino,8.5,True
+00-0041100,Josh Cameron,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,dabble,8.5,True
+00-0041100,Josh Cameron,player_reception_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,underdog,0.5,True
+00-0041100,Josh Cameron,player_reception_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,prizepicks,0.5,True
+00-0041100,Josh Cameron,player_reception_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,parlayplay,0.5,True
+00-0041100,Josh Cameron,player_reception_yds,147679,2026-08-21T23:30:00Z,Jacksonville Jaguars,Carolina Panthers,underdog,19.5,True
+00-0041100,Josh Cameron,player_reception_yds,59765,2026-08-15T20:00:00Z,New Orleans Saints,Jacksonville Jaguars,underdog,21.5,True
+00-0041100,Josh Cameron,player_reception_yds,59765,2026-08-15T20:00:00Z,New Orleans Saints,Jacksonville Jaguars,betr,20.5,True

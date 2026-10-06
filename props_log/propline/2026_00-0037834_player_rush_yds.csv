@@ -1,0 +1,27 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0037834,Brock Purdy,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,novig,18.5,True
+00-0037834,Brock Purdy,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,betway,17.5,True
+00-0037834,Brock Purdy,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,sportzino,17.5,True
+00-0037834,Brock Purdy,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,pick6,17.5,True
+00-0037834,Brock Purdy,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,sleeper,17.5,True
+00-0037834,Brock Purdy,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,prizepicks,17.5,True
+00-0037834,Brock Purdy,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,pinnacle,17.5,True
+00-0037834,Brock Purdy,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,dabble,17.5,True
+00-0037834,Brock Purdy,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,rebet,17.5,True
+00-0037834,Brock Purdy,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,parlayplay,15.5,True
+00-0037834,Brock Purdy,player_rush_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,hardrock,24.5,True
+00-0037834,Brock Purdy,player_rush_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,novig,17.5,True
+00-0037834,Brock Purdy,player_rush_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,parlayplay,17.5,True
+00-0037834,Brock Purdy,player_rush_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,pinnacle,16.5,True
+00-0037834,Brock Purdy,player_rush_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,dabble,18.5,True
+00-0037834,Brock Purdy,player_rush_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,betway,18.5,True
+00-0037834,Brock Purdy,player_rush_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,sleeper,17.5,True
+00-0037834,Brock Purdy,player_rush_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,hardrock,64.5,True
+00-0037834,Brock Purdy,player_rush_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,prizepicks,17.5,True
+00-0037834,Brock Purdy,player_rush_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,betway,14.5,True
+00-0037834,Brock Purdy,player_rush_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,prizepicks,3.5,True
+00-0037834,Brock Purdy,player_rush_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,prophetx,16.5,True
+00-0037834,Brock Purdy,player_rush_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,betr,17.5,True
+00-0037834,Brock Purdy,player_rush_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,hardrock,79.5,True
+00-0037834,Brock Purdy,player_rush_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,pinnacle,18.5,True
+00-0037834,Brock Purdy,player_rush_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,prizepicks,4.5,True

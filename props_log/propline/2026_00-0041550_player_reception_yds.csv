@@ -1,0 +1,5 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0041550,Brenen Thompson,player_reception_yds,147565,2026-08-21T02:00:00Z,Los Angeles Chargers,San Francisco 49ers,betr,23.5,True
+00-0041550,Brenen Thompson,player_reception_yds,147565,2026-08-21T02:00:00Z,Los Angeles Chargers,San Francisco 49ers,underdog,24.5,True
+00-0041550,Brenen Thompson,player_reception_yds,59773,2026-08-14T03:00:00Z,Houston Texans,Los Angeles Chargers,underdog,26.5,True
+00-0041550,Brenen Thompson,player_reception_yds,59773,2026-08-14T03:00:00Z,Houston Texans,Los Angeles Chargers,betr,25.5,True

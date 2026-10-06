@@ -1,0 +1,31 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038416,Tyson Bagent,player_pass_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,pick6,202.5,True
+00-0038416,Tyson Bagent,player_pass_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,novig,195.5,True
+00-0038416,Tyson Bagent,player_pass_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,betway,201.5,True
+00-0038416,Tyson Bagent,player_pass_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,sleeper,200.5,True
+00-0038416,Tyson Bagent,player_pass_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,hardrock,199.5,True
+00-0038416,Tyson Bagent,player_pass_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,prizepicks,170.5,True
+00-0038416,Tyson Bagent,player_pass_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,prophetx,202.5,True
+00-0038416,Tyson Bagent,player_pass_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,pinnacle,199.5,True
+00-0038416,Tyson Bagent,player_pass_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,sportzino,201.5,True
+00-0038416,Tyson Bagent,player_pass_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,dabble,202.5,True
+00-0038416,Tyson Bagent,player_pass_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,courtside,199.5,True
+00-0038416,Tyson Bagent,player_pass_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,rebet,199.5,True
+00-0038416,Tyson Bagent,player_pass_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,bovada,200.5,True
+00-0038416,Tyson Bagent,player_pass_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,parlayplay,174.5,True
+00-0038416,Tyson Bagent,player_pass_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,fliff,175.5,True
+00-0038416,Tyson Bagent,player_pass_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,betmgm,172.5,True
+00-0038416,Tyson Bagent,player_pass_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,betrivers,175.5,True
+00-0038416,Tyson Bagent,player_pass_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,novig,175.5,True
+00-0038416,Tyson Bagent,player_pass_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,fanduel,175.5,True
+00-0038416,Tyson Bagent,player_pass_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,pinnacle,169.5,True
+00-0038416,Tyson Bagent,player_pass_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,draftkings,174.5,True
+00-0038416,Tyson Bagent,player_pass_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,courtside,173.5,True
+00-0038416,Tyson Bagent,player_pass_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,prizepicks,175.5,True
+00-0038416,Tyson Bagent,player_pass_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,underdog,175.5,True
+00-0038416,Tyson Bagent,player_pass_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,sleeper,174.5,True
+00-0038416,Tyson Bagent,player_pass_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,hardrock,174.5,True
+00-0038416,Tyson Bagent,player_pass_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,prophetx,174.5,True
+00-0038416,Tyson Bagent,player_pass_yds,159453,2026-08-29T22:00:00Z,Tennessee Titans,Chicago Bears,underdog,45.5,True
+00-0038416,Tyson Bagent,player_pass_yds,59768,2026-08-15T17:00:00Z,Chicago Bears,Cleveland Browns,underdog,104.5,True
+00-0038416,Tyson Bagent,player_pass_yds,59768,2026-08-15T17:00:00Z,Chicago Bears,Cleveland Browns,betr,92.5,True

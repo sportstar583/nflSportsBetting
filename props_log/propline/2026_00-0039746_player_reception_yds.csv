@@ -1,0 +1,12 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039746,Will Shipley,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,dabble,3.5,True
+00-0039746,Will Shipley,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,sportzino,3.5,True
+00-0039746,Will Shipley,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,parlayplay,3.5,True
+00-0039746,Will Shipley,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,prizepicks,3.5,True
+00-0039746,Will Shipley,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,parlayplay,2.5,True
+00-0039746,Will Shipley,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,novig,1.5,True
+00-0039746,Will Shipley,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,hardrock,24.5,True
+00-0039746,Will Shipley,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,dabble,2.5,True
+00-0039746,Will Shipley,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,prizepicks,4.5,True
+00-0039746,Will Shipley,player_reception_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,prizepicks,0.5,True
+00-0039746,Will Shipley,player_reception_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,draftkings,0.5,True

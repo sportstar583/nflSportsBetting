@@ -1,0 +1,7 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038797,Emanuel Wilson,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sleeper,1.5,True
+00-0038797,Emanuel Wilson,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,novig,1.5,True
+00-0038797,Emanuel Wilson,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prophetx,1.5,True
+00-0038797,Emanuel Wilson,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sportzino,1.5,True
+00-0038797,Emanuel Wilson,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prizepicks,0.5,True
+00-0038797,Emanuel Wilson,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,prizepicks,0.5,True

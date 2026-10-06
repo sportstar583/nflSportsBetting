@@ -1,0 +1,14 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039041,Elijah Higgins,player_receptions,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,rebet,0.5,True
+00-0039041,Elijah Higgins,player_receptions,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,sportzino,0.5,True
+00-0039041,Elijah Higgins,player_receptions,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,hardrock,0.5,True
+00-0039041,Elijah Higgins,player_receptions,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,sleeper,0.5,True
+00-0039041,Elijah Higgins,player_receptions,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,prophetx,0.5,True
+00-0039041,Elijah Higgins,player_receptions,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,fanduel,0.5,True
+00-0039041,Elijah Higgins,player_receptions,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,pinnacle,0.5,True
+00-0039041,Elijah Higgins,player_receptions,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,prizepicks,0.5,True
+00-0039041,Elijah Higgins,player_receptions,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,novig,0.5,True
+00-0039041,Elijah Higgins,player_receptions,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,fliff,0.5,True
+00-0039041,Elijah Higgins,player_receptions,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,fanduel,1.5,True
+00-0039041,Elijah Higgins,player_receptions,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,prizepicks,1.5,True
+00-0039041,Elijah Higgins,player_receptions,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,betway,1.5,True

@@ -1,0 +1,21 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040743,Tyler Shough,player_pass_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,sleeper,252.5,True
+00-0040743,Tyler Shough,player_pass_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,novig,252.5,True
+00-0040743,Tyler Shough,player_pass_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,dabble,253.5,True
+00-0040743,Tyler Shough,player_pass_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,bovada,253.5,True
+00-0040743,Tyler Shough,player_pass_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,betway,251.5,True
+00-0040743,Tyler Shough,player_pass_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,courtside,253.5,True
+00-0040743,Tyler Shough,player_pass_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,pinnacle,252.5,True
+00-0040743,Tyler Shough,player_pass_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,prophetx,253.5,True
+00-0040743,Tyler Shough,player_pass_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,prizepicks,172.5,True
+00-0040743,Tyler Shough,player_pass_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,prophetx,228.5,True
+00-0040743,Tyler Shough,player_pass_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,prizepicks,160.5,True
+00-0040743,Tyler Shough,player_pass_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,betway,240.5,True
+00-0040743,Tyler Shough,player_pass_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,pinnacle,231.5,True
+00-0040743,Tyler Shough,player_pass_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,bovada,227.5,True
+00-0040743,Tyler Shough,player_pass_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betr,246.5,True
+00-0040743,Tyler Shough,player_pass_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,prophetx,243.5,True
+00-0040743,Tyler Shough,player_pass_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,prizepicks,165.5,True
+00-0040743,Tyler Shough,player_pass_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,bovada,240.5,True
+00-0040743,Tyler Shough,player_pass_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betway,243.5,True
+00-0040743,Tyler Shough,player_pass_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,pinnacle,240.5,True

@@ -1,0 +1,19 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040466,Raheim Sanders,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,novig,11.5,True
+00-0040466,Raheim Sanders,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,courtside,12.5,True
+00-0040466,Raheim Sanders,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,parlayplay,10.5,True
+00-0040466,Raheim Sanders,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,11.5,True
+00-0040466,Raheim Sanders,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,dabble,11.5,True
+00-0040466,Raheim Sanders,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,prizepicks,9.5,True
+00-0040466,Raheim Sanders,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,sleeper,12.5,True
+00-0040466,Raheim Sanders,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,prophetx,10.5,True
+00-0040466,Raheim Sanders,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,hardrock,24.5,True
+00-0040466,Raheim Sanders,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,rebet,11.5,True
+00-0040466,Raheim Sanders,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,bovada,12.5,True
+00-0040466,Raheim Sanders,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,prizepicks,2.5,True
+00-0040466,Raheim Sanders,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,hardrock,24.5,True
+00-0040466,Raheim Sanders,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,courtside,2.5,True
+00-0040466,Raheim Sanders,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,pinnacle,2.5,True
+00-0040466,Raheim Sanders,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,dabble,2.5,True
+00-0040466,Raheim Sanders,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,bovada,2.5,True
+00-0040466,Raheim Sanders,player_reception_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,prizepicks,6.5,True

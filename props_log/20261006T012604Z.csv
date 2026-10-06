@@ -1,0 +1,426 @@
+snapshot_utc,event_id,commence_time,home_team,away_team,book,market,player,side,point,price,book_last_update
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_pass_yds,Dak Prescott,Over,263.5,-113,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_pass_yds,Dak Prescott,Under,263.5,-111,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_pass_yds,Jalon Daniels,Over,179.5,-112,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_pass_yds,Jalon Daniels,Under,179.5,-112,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_reception_yds,CeeDee Lamb,Over,79.5,-110,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_reception_yds,CeeDee Lamb,Under,79.5,-114,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_reception_yds,George Pickens,Over,59.5,-115,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_reception_yds,George Pickens,Under,59.5,-109,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_reception_yds,Emeka Egbuka,Over,31.5,-110,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_reception_yds,Emeka Egbuka,Under,31.5,-115,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_reception_yds,Ryan Flournoy,Over,30.5,-110,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_reception_yds,Ryan Flournoy,Under,30.5,-114,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_reception_yds,Cade Otton,Over,28.5,-108,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_reception_yds,Cade Otton,Under,28.5,-116,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_reception_yds,Chris Godwin,Over,27.5,-113,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_reception_yds,Chris Godwin,Under,27.5,-111,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_reception_yds,Jake Ferguson,Over,26.5,-112,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_reception_yds,Jake Ferguson,Under,26.5,-112,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_reception_yds,Ted Hurst III,Over,22.5,-116,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_reception_yds,Ted Hurst III,Under,22.5,-108,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_reception_yds,Javonte Williams,Over,16.5,-107,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_reception_yds,Javonte Williams,Under,16.5,-117,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_reception_yds,Bucky Irving,Over,13.5,-117,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_reception_yds,Bucky Irving,Under,13.5,-107,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_reception_yds,Tez Johnson,Over,10.5,-112,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_reception_yds,Tez Johnson,Under,10.5,-112,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_reception_yds,Kenny Gainwell,Over,9.5,-113,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_reception_yds,Kenny Gainwell,Under,9.5,-111,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_receptions,CeeDee Lamb,Over,6.5,115,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_receptions,CeeDee Lamb,Under,6.5,-146,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_receptions,George Pickens,Over,4.5,-109,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_receptions,George Pickens,Under,4.5,-117,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_receptions,Jake Ferguson,Over,3.5,-103,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_receptions,Jake Ferguson,Under,3.5,-124,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_receptions,Cade Otton,Over,3.5,114,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_receptions,Cade Otton,Under,3.5,-146,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_receptions,Chris Godwin,Over,3.5,116,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_receptions,Chris Godwin,Under,3.5,-147,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_receptions,Ryan Flournoy,Over,3.5,129,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_receptions,Ryan Flournoy,Under,3.5,-165,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_receptions,Emeka Egbuka,Over,2.5,-152,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_receptions,Emeka Egbuka,Under,2.5,119,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_receptions,Javonte Williams,Over,2.5,-108,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_receptions,Javonte Williams,Under,2.5,-118,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_receptions,Bucky Irving,Over,2.5,118,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_receptions,Bucky Irving,Under,2.5,-151,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_receptions,Ted Hurst III,Over,1.5,-183,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_receptions,Ted Hurst III,Under,1.5,143,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_receptions,Kenny Gainwell,Over,1.5,-155,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_receptions,Kenny Gainwell,Under,1.5,122,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_receptions,Tez Johnson,Over,1.5,166,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_receptions,Tez Johnson,Under,1.5,-214,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_rush_yds,Javonte Williams,Over,72.5,-113,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_rush_yds,Javonte Williams,Under,72.5,-111,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_rush_yds,Bucky Irving,Over,57.5,-109,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_rush_yds,Bucky Irving,Under,57.5,-115,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_rush_yds,Jalon Daniels,Over,43.5,-110,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_rush_yds,Jalon Daniels,Under,43.5,-114,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_rush_yds,Tyler Goodson,Over,17.5,-109,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_rush_yds,Tyler Goodson,Under,17.5,-115,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_rush_yds,Kenny Gainwell,Over,10.5,-118,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_rush_yds,Kenny Gainwell,Under,10.5,-106,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_rush_yds,Dak Prescott,Over,9.5,-116,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,draftkings,player_rush_yds,Dak Prescott,Under,9.5,-108,2026-10-06T01:25:13Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_pass_yds,Dak Prescott,Over,263.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_pass_yds,Dak Prescott,Under,263.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_pass_yds,Jalon Daniels,Over,178.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_pass_yds,Jalon Daniels,Under,178.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_reception_yds,Ted Hurst III,Over,22.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_reception_yds,Ted Hurst III,Under,22.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_reception_yds,Tez Johnson,Over,11.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_reception_yds,Tez Johnson,Under,11.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_reception_yds,Javonte Williams,Over,14.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_reception_yds,Javonte Williams,Under,14.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_reception_yds,Cade Otton,Over,27.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_reception_yds,Cade Otton,Under,27.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_reception_yds,Jake Ferguson,Over,26.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_reception_yds,Jake Ferguson,Under,26.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_reception_yds,Ryan Flournoy,Over,31.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_reception_yds,Ryan Flournoy,Under,31.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_reception_yds,Emeka Egbuka,Over,30.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_reception_yds,Emeka Egbuka,Under,30.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_reception_yds,CeeDee Lamb,Over,80.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_reception_yds,CeeDee Lamb,Under,80.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_reception_yds,Bucky Irving,Over,13.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_reception_yds,Bucky Irving,Under,13.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_reception_yds,Kenny Gainwell,Over,8.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_reception_yds,Kenny Gainwell,Under,8.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_reception_yds,Chris Godwin,Over,27.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_reception_yds,Chris Godwin,Under,27.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_reception_yds,George Pickens,Over,61.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_reception_yds,George Pickens,Under,61.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_receptions,Bucky Irving,Over,2.5,102,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_receptions,Bucky Irving,Under,2.5,-136,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_receptions,Tez Johnson,Over,1.5,162,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_receptions,Tez Johnson,Under,1.5,-220,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_receptions,Emeka Egbuka,Over,2.5,-158,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_receptions,Emeka Egbuka,Under,2.5,118,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_receptions,Kenny Gainwell,Over,1.5,-130,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_receptions,Kenny Gainwell,Under,1.5,-102,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_receptions,Javonte Williams,Over,2.5,-130,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_receptions,Javonte Williams,Under,2.5,-102,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_receptions,CeeDee Lamb,Over,5.5,-166,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_receptions,CeeDee Lamb,Under,5.5,124,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_receptions,Jake Ferguson,Over,3.5,-118,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_receptions,Jake Ferguson,Under,3.5,-112,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_receptions,Ryan Flournoy,Over,3.5,120,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_receptions,Ryan Flournoy,Under,3.5,-160,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_receptions,Ted Hurst III,Over,1.5,-210,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_receptions,Ted Hurst III,Under,1.5,154,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_receptions,Cade Otton,Over,3.5,108,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_receptions,Cade Otton,Under,3.5,-144,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_receptions,George Pickens,Over,4.5,-108,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_receptions,George Pickens,Under,4.5,-122,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_receptions,Chris Godwin,Over,3.5,124,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_receptions,Chris Godwin,Under,3.5,-166,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_rush_yds,Kenny Gainwell,Over,9.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_rush_yds,Kenny Gainwell,Under,9.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_rush_yds,Tyler Goodson,Over,18.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_rush_yds,Tyler Goodson,Under,18.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_rush_yds,Dak Prescott,Over,9.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_rush_yds,Dak Prescott,Under,9.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_rush_yds,Jalon Daniels,Over,43.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_rush_yds,Jalon Daniels,Under,43.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_rush_yds,Bucky Irving,Over,55.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_rush_yds,Bucky Irving,Under,55.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_rush_yds,Javonte Williams,Over,73.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,player_rush_yds,Javonte Williams,Under,73.5,-114,2026-10-06T01:25:56Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_pass_yds,Dak Prescott,Over,263.5,-115,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_pass_yds,Dak Prescott,Under,263.5,-112,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_pass_yds,Jalon Daniels,Over,178.5,-114,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_pass_yds,Jalon Daniels,Under,178.5,-114,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_reception_yds,CeeDee Lamb,Over,80.5,-114,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_reception_yds,CeeDee Lamb,Under,80.5,-114,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_reception_yds,Jake Ferguson,Over,26.5,-115,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_reception_yds,Jake Ferguson,Under,26.5,-112,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_reception_yds,Ryan Flournoy,Over,31.5,-114,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_reception_yds,Ryan Flournoy,Under,31.5,-114,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_reception_yds,Bucky Irving,Over,13.5,-114,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_reception_yds,Bucky Irving,Under,13.5,-114,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_reception_yds,Emeka Egbuka,Over,30.5,-115,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_reception_yds,Emeka Egbuka,Under,30.5,-112,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_reception_yds,George Pickens,Over,61.5,-114,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_reception_yds,George Pickens,Under,61.5,-114,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_reception_yds,Tez Johnson,Over,11.5,-114,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_reception_yds,Tez Johnson,Under,11.5,-114,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_reception_yds,Javonte Williams,Over,16.5,-115,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_reception_yds,Javonte Williams,Under,16.5,-112,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_reception_yds,Ted Hurst III,Over,22.5,-116,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_reception_yds,Ted Hurst III,Under,22.5,-111,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_reception_yds,Chris Godwin,Over,27.5,-115,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_reception_yds,Chris Godwin,Under,27.5,-112,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_reception_yds,Cade Otton,Over,27.5,-112,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_reception_yds,Cade Otton,Under,27.5,-115,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_reception_yds,Kenny Gainwell,Over,8.5,-114,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_reception_yds,Kenny Gainwell,Under,8.5,-114,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_receptions,Chris Godwin,Over,3.5,120,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_receptions,Chris Godwin,Under,3.5,-156,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_receptions,Cade Otton,Over,3.5,112,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_receptions,Cade Otton,Under,3.5,-145,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_receptions,CeeDee Lamb,Over,6.5,106,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_receptions,CeeDee Lamb,Under,6.5,-137,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_receptions,Jake Ferguson,Over,3.5,-110,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_receptions,Jake Ferguson,Under,3.5,-118,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_receptions,Bucky Irving,Over,2.5,109,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_receptions,Bucky Irving,Under,2.5,-141,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_receptions,Ryan Flournoy,Over,3.5,124,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_receptions,Ryan Flournoy,Under,3.5,-161,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_receptions,Emeka Egbuka,Over,2.5,-152,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_receptions,Emeka Egbuka,Under,2.5,117,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_receptions,Kenny Gainwell,Over,1.5,-143,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_receptions,Kenny Gainwell,Under,1.5,110,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_receptions,George Pickens,Over,4.5,-110,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_receptions,George Pickens,Under,4.5,-118,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_receptions,Javonte Williams,Over,2.5,-122,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_receptions,Javonte Williams,Under,2.5,-106,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_receptions,Ted Hurst III,Over,1.5,-189,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_receptions,Ted Hurst III,Under,1.5,144,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_receptions,Tez Johnson,Over,1.5,164,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_receptions,Tez Johnson,Under,1.5,-217,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_rush_yds,Dak Prescott,Over,9.5,-118,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_rush_yds,Dak Prescott,Under,9.5,-110,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_rush_yds,Bucky Irving,Over,55.5,-114,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_rush_yds,Bucky Irving,Under,55.5,-114,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_rush_yds,Kenny Gainwell,Over,9.5,-125,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_rush_yds,Kenny Gainwell,Under,9.5,-103,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_rush_yds,Javonte Williams,Over,73.5,-114,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_rush_yds,Javonte Williams,Under,73.5,-114,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_rush_yds,Tyler Goodson,Over,17.5,-115,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_rush_yds,Tyler Goodson,Under,17.5,-112,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_rush_yds,Jalon Daniels,Over,43.5,-114,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,player_rush_yds,Jalon Daniels,Under,43.5,-114,2026-10-06T01:25:22Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_pass_yds,Jalon Daniels,Over,181.5,-117,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_pass_yds,Jalon Daniels,Under,181.5,-114,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_pass_yds,Dak Prescott,Over,260.5,-114,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_pass_yds,Dak Prescott,Under,260.5,-117,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_reception_yds,Cade Otton,Over,29.5,-115,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_reception_yds,Cade Otton,Under,29.5,-115,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_reception_yds,Jake Ferguson,Over,25.5,-113,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_reception_yds,Jake Ferguson,Under,25.5,-118,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_reception_yds,George Pickens,Over,63.5,-114,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_reception_yds,George Pickens,Under,63.5,-117,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_reception_yds,CeeDee Lamb,Over,78.5,-114,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_reception_yds,CeeDee Lamb,Under,78.5,-117,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_reception_yds,Ryan Flournoy,Over,33.5,-118,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_reception_yds,Ryan Flournoy,Under,33.5,-112,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_reception_yds,Javonte Williams,Over,15.5,-117,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_reception_yds,Javonte Williams,Under,15.5,-114,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_reception_yds,Bucky Irving,Over,14.5,-118,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_reception_yds,Bucky Irving,Under,14.5,-113,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_reception_yds,Chris Godwin,Over,29.5,-117,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_reception_yds,Chris Godwin,Under,29.5,-113,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_reception_yds,Emeka Egbuka,Over,32.5,-114,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_reception_yds,Emeka Egbuka,Under,32.5,-117,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_receptions,Jake Ferguson,Over,3.5,104,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_receptions,Ryan Flournoy,Over,3.5,108,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_receptions,Bucky Irving,Over,2.5,118,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_receptions,Javonte Williams,Over,2.5,-148,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_receptions,George Pickens,Over,4.5,-134,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_receptions,CeeDee Lamb,Over,5.5,-141,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_receptions,Emeka Egbuka,Over,2.5,-167,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_receptions,Chris Godwin,Over,3.5,135,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_receptions,Cade Otton,Over,3.5,102,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_rush_yds,Javonte Williams,Over,74.5,-115,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_rush_yds,Javonte Williams,Under,74.5,-115,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_rush_yds,Dak Prescott,Over,9.5,-121,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_rush_yds,Dak Prescott,Under,9.5,-110,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_rush_yds,Bucky Irving,Over,55.5,-113,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_rush_yds,Bucky Irving,Under,55.5,-118,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_rush_yds,Jalon Daniels,Over,41.5,-117,2026-10-06T01:25:27Z
+20261006T012604Z,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betrivers,player_rush_yds,Jalon Daniels,Under,41.5,-114,2026-10-06T01:25:27Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,draftkings,player_pass_yds,Trevor Lawrence,Over,231.5,-111,2026-10-06T01:25:02Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,draftkings,player_pass_yds,Trevor Lawrence,Under,231.5,-113,2026-10-06T01:25:02Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,draftkings,player_pass_yds,Jalen Hurts,Over,195.5,-111,2026-10-06T01:25:02Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,draftkings,player_pass_yds,Jalen Hurts,Under,195.5,-113,2026-10-06T01:25:02Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,draftkings,player_reception_yds,Parker Washington,Over,60.5,-110,2026-10-06T01:25:02Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,draftkings,player_reception_yds,Parker Washington,Under,60.5,-114,2026-10-06T01:25:02Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,draftkings,player_reception_yds,Jakobi Meyers,Over,42.5,-110,2026-10-06T01:25:02Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,draftkings,player_reception_yds,Jakobi Meyers,Under,42.5,-114,2026-10-06T01:25:02Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,draftkings,player_reception_yds,Brenton Strange,Over,38.5,-111,2026-10-06T01:25:02Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,draftkings,player_reception_yds,Brenton Strange,Under,38.5,-113,2026-10-06T01:25:02Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,draftkings,player_reception_yds,Brian Thomas Jr,Over,23.5,-109,2026-10-06T01:25:02Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,draftkings,player_reception_yds,Brian Thomas Jr,Under,23.5,-116,2026-10-06T01:25:02Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,draftkings,player_reception_yds,Bhayshul Tuten,Over,9.5,-110,2026-10-06T01:25:02Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,draftkings,player_reception_yds,Bhayshul Tuten,Under,9.5,-114,2026-10-06T01:25:02Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,draftkings,player_receptions,Parker Washington,Over,4.5,-125,2026-10-06T01:25:02Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,draftkings,player_receptions,Parker Washington,Under,4.5,-102,2026-10-06T01:25:02Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,draftkings,player_receptions,Jakobi Meyers,Over,3.5,-119,2026-10-06T01:25:02Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,draftkings,player_receptions,Jakobi Meyers,Under,3.5,-107,2026-10-06T01:25:02Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,draftkings,player_receptions,Brenton Strange,Over,3.5,-112,2026-10-06T01:25:02Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,draftkings,player_receptions,Brenton Strange,Under,3.5,-114,2026-10-06T01:25:02Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,draftkings,player_receptions,Brian Thomas Jr,Over,1.5,-193,2026-10-06T01:25:02Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,draftkings,player_receptions,Brian Thomas Jr,Under,1.5,150,2026-10-06T01:25:02Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,draftkings,player_receptions,Bhayshul Tuten,Over,1.5,-107,2026-10-06T01:25:02Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,draftkings,player_receptions,Bhayshul Tuten,Under,1.5,-119,2026-10-06T01:25:02Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,draftkings,player_rush_yds,Bhayshul Tuten,Over,57.5,-111,2026-10-06T01:25:02Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,draftkings,player_rush_yds,Bhayshul Tuten,Under,57.5,-113,2026-10-06T01:25:02Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,fanduel,player_pass_yds,Jalen Hurts,Over,195.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,fanduel,player_pass_yds,Jalen Hurts,Under,195.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,fanduel,player_pass_yds,Trevor Lawrence,Over,229.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,fanduel,player_pass_yds,Trevor Lawrence,Under,229.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,fanduel,player_reception_yds,Jakobi Meyers,Over,43.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,fanduel,player_reception_yds,Jakobi Meyers,Under,43.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,fanduel,player_reception_yds,Brian Thomas Jr,Over,22.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,fanduel,player_reception_yds,Brian Thomas Jr,Under,22.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,fanduel,player_reception_yds,Bhayshul Tuten,Over,9.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,fanduel,player_reception_yds,Bhayshul Tuten,Under,9.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,fanduel,player_reception_yds,Parker Washington,Over,60.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,fanduel,player_reception_yds,Parker Washington,Under,60.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,fanduel,player_receptions,Brian Thomas Jr,Over,2.5,144,2026-10-06T01:25:19Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,fanduel,player_receptions,Brian Thomas Jr,Under,2.5,-194,2026-10-06T01:25:19Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,fanduel,player_receptions,Bhayshul Tuten,Over,1.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,fanduel,player_receptions,Bhayshul Tuten,Under,1.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,fanduel,player_receptions,Parker Washington,Over,4.5,-130,2026-10-06T01:25:19Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,fanduel,player_receptions,Parker Washington,Under,4.5,-102,2026-10-06T01:25:19Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,fanduel,player_receptions,Jakobi Meyers,Over,3.5,-138,2026-10-06T01:25:19Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,fanduel,player_receptions,Jakobi Meyers,Under,3.5,104,2026-10-06T01:25:19Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,fanduel,player_rush_yds,Bhayshul Tuten,Over,57.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,fanduel,player_rush_yds,Bhayshul Tuten,Under,57.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betonlineag,player_pass_yds,Jalen Hurts,Over,195.5,-114,2026-10-06T01:25:28Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betonlineag,player_pass_yds,Jalen Hurts,Under,195.5,-114,2026-10-06T01:25:28Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betonlineag,player_pass_yds,Trevor Lawrence,Over,229.5,-114,2026-10-06T01:25:28Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betonlineag,player_pass_yds,Trevor Lawrence,Under,229.5,-114,2026-10-06T01:25:28Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betonlineag,player_reception_yds,Brian Thomas Jr,Over,23.5,-111,2026-10-06T01:25:28Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betonlineag,player_reception_yds,Brian Thomas Jr,Under,23.5,-116,2026-10-06T01:25:28Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betonlineag,player_reception_yds,Parker Washington,Over,60.5,-114,2026-10-06T01:25:28Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betonlineag,player_reception_yds,Parker Washington,Under,60.5,-114,2026-10-06T01:25:28Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betonlineag,player_reception_yds,Jakobi Meyers,Over,42.5,-114,2026-10-06T01:25:28Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betonlineag,player_reception_yds,Jakobi Meyers,Under,42.5,-114,2026-10-06T01:25:28Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betonlineag,player_reception_yds,Brenton Strange,Over,37.5,-116,2026-10-06T01:25:28Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betonlineag,player_reception_yds,Brenton Strange,Under,37.5,-111,2026-10-06T01:25:28Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betonlineag,player_reception_yds,Bhayshul Tuten,Over,9.5,-114,2026-10-06T01:25:28Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betonlineag,player_reception_yds,Bhayshul Tuten,Under,9.5,-114,2026-10-06T01:25:28Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betonlineag,player_receptions,Parker Washington,Over,4.5,-123,2026-10-06T01:25:28Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betonlineag,player_receptions,Parker Washington,Under,4.5,-104,2026-10-06T01:25:28Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betonlineag,player_receptions,Brenton Strange,Over,3.5,-114,2026-10-06T01:25:28Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betonlineag,player_receptions,Brenton Strange,Under,3.5,-114,2026-10-06T01:25:28Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betonlineag,player_receptions,Bhayshul Tuten,Over,1.5,-109,2026-10-06T01:25:28Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betonlineag,player_receptions,Bhayshul Tuten,Under,1.5,-119,2026-10-06T01:25:28Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betonlineag,player_receptions,Jakobi Meyers,Over,3.5,-127,2026-10-06T01:25:28Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betonlineag,player_receptions,Jakobi Meyers,Under,3.5,-102,2026-10-06T01:25:28Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betonlineag,player_receptions,Brian Thomas Jr,Over,1.5,-196,2026-10-06T01:25:28Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betonlineag,player_receptions,Brian Thomas Jr,Under,1.5,150,2026-10-06T01:25:28Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betonlineag,player_rush_yds,Bhayshul Tuten,Over,57.5,-114,2026-10-06T01:25:28Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betonlineag,player_rush_yds,Bhayshul Tuten,Under,57.5,-114,2026-10-06T01:25:28Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betrivers,player_pass_yds,Jalen Hurts,Over,189.5,-115,2026-10-06T01:25:51Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betrivers,player_pass_yds,Jalen Hurts,Under,189.5,-115,2026-10-06T01:25:51Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betrivers,player_pass_yds,Trevor Lawrence,Over,232.5,-114,2026-10-06T01:25:51Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betrivers,player_pass_yds,Trevor Lawrence,Under,232.5,-115,2026-10-06T01:25:51Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betrivers,player_reception_yds,Jakobi Meyers,Over,43.5,-115,2026-10-06T01:25:51Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betrivers,player_reception_yds,Jakobi Meyers,Under,43.5,-115,2026-10-06T01:25:51Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betrivers,player_reception_yds,Bhayshul Tuten,Over,9.5,-118,2026-10-06T01:25:51Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betrivers,player_reception_yds,Bhayshul Tuten,Under,9.5,-113,2026-10-06T01:25:51Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betrivers,player_reception_yds,Brian Thomas Jr,Over,24.5,-114,2026-10-06T01:25:51Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betrivers,player_reception_yds,Brian Thomas Jr,Under,24.5,-117,2026-10-06T01:25:51Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betrivers,player_reception_yds,Parker Washington,Over,62.5,-114,2026-10-06T01:25:51Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betrivers,player_reception_yds,Parker Washington,Under,62.5,-117,2026-10-06T01:25:51Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betrivers,player_receptions,Jakobi Meyers,Over,3.5,-143,2026-10-06T01:25:51Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betrivers,player_receptions,Parker Washington,Over,4.5,-124,2026-10-06T01:25:51Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betrivers,player_receptions,Bhayshul Tuten,Over,1.5,102,2026-10-06T01:25:51Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betrivers,player_receptions,Brian Thomas Jr,Over,2.5,140,2026-10-06T01:25:51Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betrivers,player_rush_yds,Bhayshul Tuten,Over,58.5,-115,2026-10-06T01:25:51Z
+20261006T012604Z,21b26266f3d78af02eb672e606275d95,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betrivers,player_rush_yds,Bhayshul Tuten,Under,58.5,-115,2026-10-06T01:25:51Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_pass_yds,Brock Purdy,Over,225.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_pass_yds,Brock Purdy,Under,225.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_pass_yds,Sam Darnold,Over,227.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_pass_yds,Sam Darnold,Under,227.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_reception_yds,AJ Barner,Over,24.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_reception_yds,AJ Barner,Under,24.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_reception_yds,Deebo Samuel,Over,31.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_reception_yds,Deebo Samuel,Under,31.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_reception_yds,Mike Evans,Over,48.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_reception_yds,Mike Evans,Under,48.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_reception_yds,Christian McCaffrey,Over,35.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_reception_yds,Christian McCaffrey,Under,35.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_reception_yds,Cooper Kupp,Over,25.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_reception_yds,Cooper Kupp,Under,25.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_reception_yds,Rashid Shaheed,Over,17.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_reception_yds,Rashid Shaheed,Under,17.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_reception_yds,George Kittle,Over,57.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_reception_yds,George Kittle,Under,57.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_reception_yds,Jaxon Smith-Njigba,Over,93.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_reception_yds,Jaxon Smith-Njigba,Under,93.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_receptions,AJ Barner,Over,2.5,-152,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_receptions,AJ Barner,Under,2.5,114,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_receptions,Cooper Kupp,Over,2.5,-108,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_receptions,Cooper Kupp,Under,2.5,-122,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_receptions,Christian McCaffrey,Over,4.5,-125,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_receptions,Christian McCaffrey,Under,4.5,-106,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_receptions,George Kittle,Over,4.5,-138,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_receptions,George Kittle,Under,4.5,104,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_receptions,Rashid Shaheed,Over,1.5,-172,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_receptions,Rashid Shaheed,Under,1.5,128,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_receptions,Mike Evans,Over,3.5,-180,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_receptions,Mike Evans,Under,3.5,134,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_receptions,Deebo Samuel,Over,3.5,-102,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_receptions,Deebo Samuel,Under,3.5,-130,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_receptions,Jaxon Smith-Njigba,Over,6.5,-130,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_receptions,Jaxon Smith-Njigba,Under,6.5,-102,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_rush_yds,Brock Purdy,Over,18.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_rush_yds,Brock Purdy,Under,18.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_rush_yds,Christian McCaffrey,Over,53.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_rush_yds,Christian McCaffrey,Under,53.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_rush_yds,Sam Darnold,Over,4.5,-120,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_rush_yds,Sam Darnold,Under,4.5,-108,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_rush_yds,Kaelon Black,Over,14.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,player_rush_yds,Kaelon Black,Under,14.5,-114,2026-10-06T01:25:19Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_pass_yds,Brock Purdy,Over,225.5,-114,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_pass_yds,Brock Purdy,Under,225.5,-117,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_pass_yds,Sam Darnold,Over,227.5,-115,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_pass_yds,Sam Darnold,Under,227.5,-115,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_reception_yds,Rashid Shaheed,Over,18.5,-118,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_reception_yds,Rashid Shaheed,Under,18.5,-113,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_reception_yds,Christian McCaffrey,Over,35.5,-118,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_reception_yds,Christian McCaffrey,Under,35.5,-113,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_reception_yds,Mike Evans,Over,49.5,-113,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_reception_yds,Mike Evans,Under,49.5,-118,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_reception_yds,Deebo Samuel,Over,32.5,-117,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_reception_yds,Deebo Samuel,Under,32.5,-114,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_reception_yds,George Kittle,Over,57.5,-114,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_reception_yds,George Kittle,Under,57.5,-117,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_reception_yds,AJ Barner,Over,24.5,-118,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_reception_yds,AJ Barner,Under,24.5,-113,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_reception_yds,Cooper Kupp,Over,25.5,-117,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_reception_yds,Cooper Kupp,Under,25.5,-113,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_reception_yds,Jaxon Smith-Njigba,Over,95.5,-114,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_reception_yds,Jaxon Smith-Njigba,Under,95.5,-117,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_receptions,Cooper Kupp,Over,2.5,102,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_receptions,Deebo Samuel,Over,3.5,-107,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_receptions,George Kittle,Over,4.5,-139,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_receptions,Mike Evans,Over,3.5,-159,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_receptions,Rashid Shaheed,Over,1.5,-167,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_receptions,AJ Barner,Over,2.5,-148,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_receptions,Jaxon Smith-Njigba,Over,6.5,-132,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_receptions,Christian McCaffrey,Over,4.5,-132,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_rush_yds,Brock Purdy,Over,18.5,-117,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_rush_yds,Brock Purdy,Under,18.5,-114,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_rush_yds,Christian McCaffrey,Over,53.5,-118,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_rush_yds,Christian McCaffrey,Under,53.5,-113,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_rush_yds,Kaelon Black,Over,14.5,-115,2026-10-06T01:25:14Z
+20261006T012604Z,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,player_rush_yds,Kaelon Black,Under,14.5,-115,2026-10-06T01:25:14Z
+20261006T012604Z,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,player_pass_yds,Josh Allen,Over,245.5,-114,2026-10-06T01:25:57Z
+20261006T012604Z,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,player_pass_yds,Josh Allen,Under,245.5,-114,2026-10-06T01:25:57Z
+20261006T012604Z,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,player_pass_yds,Matthew Stafford,Over,280.5,-114,2026-10-06T01:25:57Z
+20261006T012604Z,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,player_pass_yds,Matthew Stafford,Under,280.5,-114,2026-10-06T01:25:57Z
+20261006T012604Z,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,player_reception_yds,Davante Adams,Over,62.5,-114,2026-10-06T01:25:57Z
+20261006T012604Z,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,player_reception_yds,Davante Adams,Under,62.5,-114,2026-10-06T01:25:57Z
+20261006T012604Z,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,player_reception_yds,Kyren Williams,Over,19.5,-114,2026-10-06T01:25:57Z
+20261006T012604Z,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,player_reception_yds,Kyren Williams,Under,19.5,-114,2026-10-06T01:25:57Z
+20261006T012604Z,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,player_reception_yds,Puka Nacua,Over,92.5,-114,2026-10-06T01:25:57Z
+20261006T012604Z,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,player_reception_yds,Puka Nacua,Under,92.5,-114,2026-10-06T01:25:57Z
+20261006T012604Z,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,player_receptions,Puka Nacua,Over,6.5,-160,2026-10-06T01:25:57Z
+20261006T012604Z,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,player_receptions,Puka Nacua,Under,6.5,120,2026-10-06T01:25:57Z
+20261006T012604Z,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,player_receptions,Davante Adams,Over,4.5,108,2026-10-06T01:25:57Z
+20261006T012604Z,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,player_receptions,Davante Adams,Under,4.5,-144,2026-10-06T01:25:57Z
+20261006T012604Z,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,player_receptions,Kyren Williams,Over,2.5,-172,2026-10-06T01:25:57Z
+20261006T012604Z,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,player_receptions,Kyren Williams,Under,2.5,128,2026-10-06T01:25:57Z
+20261006T012604Z,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,player_rush_yds,James Cook,Over,75.5,-114,2026-10-06T01:25:57Z
+20261006T012604Z,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,player_rush_yds,James Cook,Under,75.5,-114,2026-10-06T01:25:57Z
+20261006T012604Z,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,player_rush_yds,Blake Corum,Over,31.5,-114,2026-10-06T01:25:57Z
+20261006T012604Z,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,player_rush_yds,Blake Corum,Under,31.5,-114,2026-10-06T01:25:57Z
+20261006T012604Z,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,player_rush_yds,Kyren Williams,Over,69.5,-114,2026-10-06T01:25:57Z
+20261006T012604Z,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,player_rush_yds,Kyren Williams,Under,69.5,-114,2026-10-06T01:25:57Z
+20261006T012604Z,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,player_rush_yds,Josh Allen,Over,36.5,-114,2026-10-06T01:25:57Z
+20261006T012604Z,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,player_rush_yds,Josh Allen,Under,36.5,-114,2026-10-06T01:25:57Z

@@ -1,0 +1,38 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038606,Parker Washington,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,betway,5.5,True
+00-0038606,Parker Washington,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,novig,7.5,True
+00-0038606,Parker Washington,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,pinnacle,5.5,True
+00-0038606,Parker Washington,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,hardrock,5.5,True
+00-0038606,Parker Washington,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,rebet,5.5,True
+00-0038606,Parker Washington,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,betmgm,5.5,True
+00-0038606,Parker Washington,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,prizepicks,5.5,True
+00-0038606,Parker Washington,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,fanduel,5.5,True
+00-0038606,Parker Washington,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,prophetx,5.5,True
+00-0038606,Parker Washington,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,sleeper,5.5,True
+00-0038606,Parker Washington,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,sportzino,5.5,True
+00-0038606,Parker Washington,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,dabble,5.5,True
+00-0038606,Parker Washington,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,betonlineag,5.5,True
+00-0038606,Parker Washington,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,lowvig,5.5,True
+00-0038606,Parker Washington,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,prophetx,5.5,True
+00-0038606,Parker Washington,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,hardrock,1.5,True
+00-0038606,Parker Washington,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,betmgm,5.5,True
+00-0038606,Parker Washington,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,fanduel,5.5,True
+00-0038606,Parker Washington,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,parlayplay,5.5,True
+00-0038606,Parker Washington,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,pinnacle,4.5,True
+00-0038606,Parker Washington,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,sleeper,5.5,True
+00-0038606,Parker Washington,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,prizepicks,2.5,True
+00-0038606,Parker Washington,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,dabble,5.5,True
+00-0038606,Parker Washington,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,novig,4.5,True
+00-0038606,Parker Washington,player_receptions,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,betway,4.5,True
+00-0038606,Parker Washington,player_receptions,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,prophetx,4.5,True
+00-0038606,Parker Washington,player_receptions,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,fliff,4.5,True
+00-0038606,Parker Washington,player_receptions,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,pinnacle,4.5,True
+00-0038606,Parker Washington,player_receptions,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,betmgm,4.5,True
+00-0038606,Parker Washington,player_receptions,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,prizepicks,4.5,True
+00-0038606,Parker Washington,player_receptions,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,fanduel,4.5,True
+00-0038606,Parker Washington,player_receptions,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,betmgm,4.5,True
+00-0038606,Parker Washington,player_receptions,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,fanduel,4.5,True
+00-0038606,Parker Washington,player_receptions,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,betway,4.5,True
+00-0038606,Parker Washington,player_receptions,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,pinnacle,4.5,True
+00-0038606,Parker Washington,player_receptions,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,prizepicks,2.5,True
+00-0038606,Parker Washington,player_receptions,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,prophetx,3.5,True

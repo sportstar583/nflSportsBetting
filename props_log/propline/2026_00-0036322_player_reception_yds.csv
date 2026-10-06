@@ -1,0 +1,24 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036322,Justin Jefferson,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,parlayplay,68.5,True
+00-0036322,Justin Jefferson,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,bovada,72.5,True
+00-0036322,Justin Jefferson,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,pinnacle,75.5,True
+00-0036322,Justin Jefferson,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,prophetx,68.5,True
+00-0036322,Justin Jefferson,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,courtside,71.5,True
+00-0036322,Justin Jefferson,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,novig,72.5,True
+00-0036322,Justin Jefferson,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,dabble,73.5,True
+00-0036322,Justin Jefferson,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,betway,70.5,True
+00-0036322,Justin Jefferson,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,sleeper,76.5,True
+00-0036322,Justin Jefferson,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,underdog,68.5,True
+00-0036322,Justin Jefferson,player_reception_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,prophetx,80.5,True
+00-0036322,Justin Jefferson,player_reception_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,betway,80.5,True
+00-0036322,Justin Jefferson,player_reception_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,pinnacle,79.5,True
+00-0036322,Justin Jefferson,player_reception_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,bovada,77.5,True
+00-0036322,Justin Jefferson,player_reception_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,bovada,75.5,True
+00-0036322,Justin Jefferson,player_reception_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betway,72.5,True
+00-0036322,Justin Jefferson,player_reception_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betr,73.5,True
+00-0036322,Justin Jefferson,player_reception_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betmgm,71.5,True
+00-0036322,Justin Jefferson,player_reception_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,pinnacle,73.5,True
+00-0036322,Justin Jefferson,player_reception_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,prophetx,75.5,True
+00-0036322,Justin Jefferson,player_reception_yds,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,underdog,73.5,True
+00-0036322,Justin Jefferson,player_reception_yds,59767,2026-08-15T20:00:00Z,New York Giants,Minnesota Vikings,betr,15.5,True
+00-0036322,Justin Jefferson,player_reception_yds,59767,2026-08-15T20:00:00Z,New York Giants,Minnesota Vikings,underdog,14.5,True

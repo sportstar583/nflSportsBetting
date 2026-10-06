@@ -1,0 +1,17 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0034351,Dallas Goedert,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,polymarket_us,1.5,True
+00-0034351,Dallas Goedert,player_receptions,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,prizepicks,3.5,True
+00-0034351,Dallas Goedert,player_receptions,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,betmgm,3.5,True
+00-0034351,Dallas Goedert,player_receptions,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,betway,3.5,True
+00-0034351,Dallas Goedert,player_receptions,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,pinnacle,3.5,True
+00-0034351,Dallas Goedert,player_receptions,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,fanduel,3.5,True
+00-0034351,Dallas Goedert,player_receptions,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,fliff,3.5,True
+00-0034351,Dallas Goedert,player_receptions,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,prophetx,1.5,True
+00-0034351,Dallas Goedert,player_receptions,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betway,3.5,True
+00-0034351,Dallas Goedert,player_receptions,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,prophetx,3.5,True
+00-0034351,Dallas Goedert,player_receptions,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,fanduel,3.5,True
+00-0034351,Dallas Goedert,player_receptions,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,prizepicks,2.5,True
+00-0034351,Dallas Goedert,player_receptions,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,pinnacle,3.5,True
+00-0034351,Dallas Goedert,player_receptions,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betmgm,3.5,True
+00-0034351,Dallas Goedert,player_receptions,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,lowvig,3.5,True
+00-0034351,Dallas Goedert,player_receptions,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betonlineag,3.5,True

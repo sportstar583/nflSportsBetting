@@ -1,0 +1,442 @@
+snapshot_utc,event_id,commence_time,home_team,away_team,book,market,player,side,point,price,book_last_update
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_pass_yds,Tyler Shough,Over,258.5,-112,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_pass_yds,Tyler Shough,Under,258.5,-112,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_pass_yds,Michael Penix Jr.,Over,224.5,-112,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_pass_yds,Michael Penix Jr.,Under,224.5,-112,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Chris Olave,Over,84.5,-113,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Chris Olave,Under,84.5,-111,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Drake London,Over,78.5,-111,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Drake London,Under,78.5,-113,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Devaughn Vele,Over,44.5,-112,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Devaughn Vele,Under,44.5,-112,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Juwan Johnson,Over,42.5,-110,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Juwan Johnson,Under,42.5,-114,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Bijan Robinson,Over,38.5,-110,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Bijan Robinson,Under,38.5,-114,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Kyle Pitts,Over,29.5,-114,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Kyle Pitts,Under,29.5,-110,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Jahan Dotson,Over,16.5,-117,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Jahan Dotson,Under,16.5,-108,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Noah Fant,Over,16.5,-115,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Noah Fant,Under,16.5,-109,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Alvin Kamara,Over,15.5,-111,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Alvin Kamara,Under,15.5,-113,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Austin Hooper,Over,9.5,-118,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Austin Hooper,Under,9.5,-106,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Olamide Zaccheaus,Over,7.5,-117,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_reception_yds,Olamide Zaccheaus,Under,7.5,-108,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Chris Olave,Over,6.5,-139,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Chris Olave,Under,6.5,109,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Drake London,Over,5.5,-133,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Drake London,Under,5.5,104,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Bijan Robinson,Over,4.5,-107,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Bijan Robinson,Under,4.5,-119,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Devaughn Vele,Over,3.5,-167,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Devaughn Vele,Under,3.5,130,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Juwan Johnson,Over,3.5,-127,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Juwan Johnson,Under,3.5,-101,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Alvin Kamara,Over,3.5,130,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Alvin Kamara,Under,3.5,-166,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Kyle Pitts,Over,2.5,-157,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Kyle Pitts,Under,2.5,123,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Noah Fant,Over,1.5,-178,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Noah Fant,Under,1.5,139,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Jahan Dotson,Over,1.5,-126,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Jahan Dotson,Under,1.5,-101,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Austin Hooper,Over,1.5,148,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Austin Hooper,Under,1.5,-190,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Olamide Zaccheaus,Over,1.5,155,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_receptions,Olamide Zaccheaus,Under,1.5,-199,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_rush_yds,Bijan Robinson,Over,87.5,-113,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_rush_yds,Bijan Robinson,Under,87.5,-111,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_rush_yds,Alvin Kamara,Over,37.5,-113,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_rush_yds,Alvin Kamara,Under,37.5,-111,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_rush_yds,Brian Robinson Jr.,Over,29.5,-114,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_rush_yds,Brian Robinson Jr.,Under,29.5,-110,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_rush_yds,Kendre Miller,Over,25.5,-108,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_rush_yds,Kendre Miller,Under,25.5,-117,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_rush_yds,Tyler Shough,Over,18.5,-115,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_rush_yds,Tyler Shough,Under,18.5,-109,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_rush_yds,Michael Penix Jr.,Over,5.5,-118,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,draftkings,player_rush_yds,Michael Penix Jr.,Under,5.5,-107,2026-10-05T07:30:35Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_pass_yds,Michael Penix Jr.,Over,224.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_pass_yds,Michael Penix Jr.,Under,224.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_pass_yds,Tyler Shough,Over,254.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_pass_yds,Tyler Shough,Under,254.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Bijan Robinson,Over,39.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Bijan Robinson,Under,39.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Juwan Johnson,Over,40.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Juwan Johnson,Under,40.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Jahan Dotson,Over,20.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Jahan Dotson,Under,20.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Drake London,Over,78.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Drake London,Under,78.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Olamide Zaccheaus,Over,7.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Olamide Zaccheaus,Under,7.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Austin Hooper,Over,10.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Austin Hooper,Under,10.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Alvin Kamara,Over,15.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Alvin Kamara,Under,15.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Noah Fant,Over,16.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Noah Fant,Under,16.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Kyle Pitts,Over,29.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Kyle Pitts,Under,29.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Devaughn Vele,Over,44.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Devaughn Vele,Under,44.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Chris Olave,Over,85.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_reception_yds,Chris Olave,Under,85.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Noah Fant,Over,1.5,-178,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Noah Fant,Under,1.5,132,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Olamide Zaccheaus,Over,1.5,148,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Olamide Zaccheaus,Under,1.5,-200,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Alvin Kamara,Over,3.5,128,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Alvin Kamara,Under,3.5,-172,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Austin Hooper,Over,1.5,140,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Austin Hooper,Under,1.5,-188,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Juwan Johnson,Over,3.5,-114,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Juwan Johnson,Under,3.5,-114,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Drake London,Over,5.5,-136,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Drake London,Under,5.5,102,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Devaughn Vele,Over,3.5,-172,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Devaughn Vele,Under,3.5,128,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Jahan Dotson,Over,1.5,-148,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Jahan Dotson,Under,1.5,112,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Chris Olave,Over,7.5,124,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Chris Olave,Under,7.5,-166,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Kyle Pitts,Over,2.5,-148,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Kyle Pitts,Under,2.5,112,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Bijan Robinson,Over,4.5,-108,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_receptions,Bijan Robinson,Under,4.5,-122,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_rush_yds,Bijan Robinson,Over,87.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_rush_yds,Bijan Robinson,Under,87.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_rush_yds,Brian Robinson Jr.,Over,29.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_rush_yds,Brian Robinson Jr.,Under,29.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_rush_yds,Alvin Kamara,Over,37.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_rush_yds,Alvin Kamara,Under,37.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_rush_yds,Tyler Shough,Over,16.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_rush_yds,Tyler Shough,Under,16.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_rush_yds,Michael Penix Jr.,Over,5.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_rush_yds,Michael Penix Jr.,Under,5.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_rush_yds,Kendre Miller,Over,23.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,player_rush_yds,Kendre Miller,Under,23.5,-113,2026-10-05T07:30:17Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_pass_yds,Michael Penix Jr.,Over,224.5,-116,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_pass_yds,Michael Penix Jr.,Under,224.5,-111,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_pass_yds,Tyler Shough,Over,258.5,-114,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_pass_yds,Tyler Shough,Under,258.5,-114,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Devaughn Vele,Over,44.5,-115,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Devaughn Vele,Under,44.5,-112,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Bijan Robinson,Over,39.5,-114,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Bijan Robinson,Under,39.5,-114,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Chris Olave,Over,85.5,-116,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Chris Olave,Under,85.5,-111,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Drake London,Over,78.5,-118,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Drake London,Under,78.5,-110,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Austin Hooper,Over,10.5,-114,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Austin Hooper,Under,10.5,-114,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Noah Fant,Over,17.5,-112,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Noah Fant,Under,17.5,-115,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Olamide Zaccheaus,Over,7.5,-123,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Olamide Zaccheaus,Under,7.5,-104,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Kyle Pitts,Over,29.5,-125,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Kyle Pitts,Under,29.5,-103,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Alvin Kamara,Over,15.5,-116,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Alvin Kamara,Under,15.5,-111,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Juwan Johnson,Over,41.5,-120,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Juwan Johnson,Under,41.5,-108,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Jahan Dotson,Over,16.5,-118,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_reception_yds,Jahan Dotson,Under,16.5,-110,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Alvin Kamara,Over,3.5,128,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Alvin Kamara,Under,3.5,-167,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Kyle Pitts,Over,2.5,-154,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Kyle Pitts,Under,2.5,118,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Jahan Dotson,Over,1.5,-135,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Jahan Dotson,Under,1.5,104,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Juwan Johnson,Over,3.5,-122,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Juwan Johnson,Under,3.5,-106,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Bijan Robinson,Over,4.5,-109,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Bijan Robinson,Under,4.5,-119,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Austin Hooper,Over,1.5,145,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Austin Hooper,Under,1.5,-192,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Drake London,Over,5.5,-156,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Drake London,Under,5.5,120,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Noah Fant,Over,1.5,-167,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Noah Fant,Under,1.5,127,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Chris Olave,Over,6.5,-149,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Chris Olave,Under,6.5,115,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Devaughn Vele,Over,3.5,-156,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Devaughn Vele,Under,3.5,120,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Olamide Zaccheaus,Over,1.5,155,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_receptions,Olamide Zaccheaus,Under,1.5,-204,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_rush_yds,Bijan Robinson,Over,87.5,-114,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_rush_yds,Bijan Robinson,Under,87.5,-114,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_rush_yds,Michael Penix Jr.,Over,5.5,-118,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_rush_yds,Michael Penix Jr.,Under,5.5,-110,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_rush_yds,Tyler Shough,Over,16.5,-114,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_rush_yds,Tyler Shough,Under,16.5,-114,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_rush_yds,Brian Robinson Jr.,Over,29.5,-114,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_rush_yds,Brian Robinson Jr.,Under,29.5,-114,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_rush_yds,Kendre Miller,Over,25.5,-111,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_rush_yds,Kendre Miller,Under,25.5,-116,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_rush_yds,Alvin Kamara,Over,37.5,-114,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,player_rush_yds,Alvin Kamara,Under,37.5,-114,2026-10-05T07:30:36Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_pass_yds,Tyler Shough,Over,256.5,-114,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_pass_yds,Tyler Shough,Under,256.5,-117,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_pass_yds,Michael Penix Jr.,Over,219.5,-115,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_pass_yds,Michael Penix Jr.,Under,219.5,-115,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Olamide Zaccheaus,Over,7.5,-115,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Olamide Zaccheaus,Under,7.5,-115,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Noah Fant,Over,16.5,-118,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Noah Fant,Under,16.5,-113,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Jahan Dotson,Over,17.5,-115,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Jahan Dotson,Under,17.5,-115,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Austin Hooper,Over,9.5,-117,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Austin Hooper,Under,9.5,-114,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Kyle Pitts,Over,29.5,-114,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Kyle Pitts,Under,29.5,-115,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Juwan Johnson,Over,40.5,-114,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Juwan Johnson,Under,40.5,-117,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Alvin Kamara,Over,15.5,-109,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Alvin Kamara,Under,15.5,-122,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Devaughn Vele,Over,44.5,-117,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Devaughn Vele,Under,44.5,-114,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Bijan Robinson,Over,38.5,-114,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Bijan Robinson,Under,38.5,-117,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Drake London,Over,75.5,-114,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Drake London,Under,75.5,-117,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Chris Olave,Over,81.5,-117,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_reception_yds,Chris Olave,Under,81.5,-114,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_receptions,Kyle Pitts,Over,2.5,-152,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_receptions,Juwan Johnson,Over,3.5,-130,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_receptions,Jahan Dotson,Over,1.5,-139,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_receptions,Bijan Robinson,Over,4.5,-118,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_receptions,Chris Olave,Over,6.5,-155,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_receptions,Devaughn Vele,Over,4.5,118,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_receptions,Olamide Zaccheaus,Over,1.5,138,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_receptions,Austin Hooper,Over,1.5,150,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_receptions,Noah Fant,Over,1.5,-190,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_receptions,Alvin Kamara,Over,3.5,123,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_receptions,Drake London,Over,5.5,-127,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_rush_yds,Alvin Kamara,Over,35.5,-118,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_rush_yds,Alvin Kamara,Under,35.5,-113,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_rush_yds,Tyler Shough,Over,15.5,-114,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_rush_yds,Tyler Shough,Under,15.5,-117,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_rush_yds,Brian Robinson Jr.,Over,30.5,-112,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_rush_yds,Brian Robinson Jr.,Under,30.5,-120,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_rush_yds,Kendre Miller,Over,26.5,-114,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_rush_yds,Kendre Miller,Under,26.5,-117,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_rush_yds,Bijan Robinson,Over,89.5,-117,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betrivers,player_rush_yds,Bijan Robinson,Under,89.5,-113,2026-10-05T07:30:13Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_pass_yds,Tyler Shough,Over,260.5,-115,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_pass_yds,Tyler Shough,Under,260.5,-115,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_pass_yds,Michael Penix Jr.,Over,223.5,-115,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_pass_yds,Michael Penix Jr.,Under,223.5,-115,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Juwan Johnson,Over,39.5,-115,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Juwan Johnson,Under,39.5,-115,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Bijan Robinson,Over,39.5,-111,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Bijan Robinson,Under,39.5,-118,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Kyle Pitts,Over,28.5,-125,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Kyle Pitts,Under,28.5,-105,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Alvin Kamara,Over,16.5,-120,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Alvin Kamara,Under,16.5,-110,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Noah Fant,Over,15.5,-120,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Noah Fant,Under,15.5,-110,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Drake London,Over,75.5,-115,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Drake London,Under,75.5,-115,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Devaughn Vele,Over,45.5,-115,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Devaughn Vele,Under,45.5,-115,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Chris Olave,Over,86.5,-115,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Chris Olave,Under,86.5,-115,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Olamide Zaccheaus,Over,8.5,-120,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Olamide Zaccheaus,Under,8.5,-110,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Jahan Dotson,Over,19.5,-115,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Jahan Dotson,Under,19.5,-115,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Austin Hooper,Over,7.5,-120,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_reception_yds,Austin Hooper,Under,7.5,-110,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Bijan Robinson,Over,4.5,-105,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Bijan Robinson,Under,4.5,-125,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Kyle Pitts,Over,2.5,-150,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Kyle Pitts,Under,2.5,110,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Drake London,Over,5.5,-150,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Drake London,Under,5.5,110,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Chris Olave,Over,6.5,-150,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Chris Olave,Under,6.5,110,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Devaughn Vele,Over,3.5,-165,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Devaughn Vele,Under,3.5,125,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Jahan Dotson,Over,1.5,-140,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Jahan Dotson,Under,1.5,105,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Noah Fant,Over,1.5,-165,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Noah Fant,Under,1.5,125,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Olamide Zaccheaus,Over,1.5,165,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Olamide Zaccheaus,Under,1.5,-220,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Austin Hooper,Over,0.5,-235,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Austin Hooper,Under,0.5,175,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Alvin Kamara,Over,2.5,-185,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_receptions,Alvin Kamara,Under,2.5,135,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_rush_yds,Bijan Robinson,Over,85.5,-115,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_rush_yds,Bijan Robinson,Under,85.5,-115,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_rush_yds,Kendre Miller,Over,25.5,-115,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_rush_yds,Kendre Miller,Under,25.5,-115,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_rush_yds,Alvin Kamara,Over,36.5,-115,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_rush_yds,Alvin Kamara,Under,36.5,-115,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_rush_yds,Tyler Shough,Over,16.5,-115,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_rush_yds,Tyler Shough,Under,16.5,-115,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_rush_yds,Brian Robinson Jr.,Over,31.5,-111,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_rush_yds,Brian Robinson Jr.,Under,31.5,-120,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_rush_yds,Michael Penix Jr.,Over,4.5,-120,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,player_rush_yds,Michael Penix Jr.,Under,4.5,-111,2026-10-05T07:30:00Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Michael Penix Jr.,Over,194.5,-250,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Michael Penix Jr.,Under,194.5,185,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Michael Penix Jr.,Over,204.5,-190,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Michael Penix Jr.,Under,204.5,145,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Michael Penix Jr.,Over,214.5,-145,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Michael Penix Jr.,Under,214.5,110,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Michael Penix Jr.,Over,224.5,-115,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Michael Penix Jr.,Under,224.5,-115,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Michael Penix Jr.,Over,234.5,110,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Michael Penix Jr.,Under,234.5,-145,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Michael Penix Jr.,Over,244.5,140,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Michael Penix Jr.,Under,244.5,-185,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Michael Penix Jr.,Over,254.5,175,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Michael Penix Jr.,Under,254.5,-240,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Tyler Shough,Over,228.5,-250,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Tyler Shough,Under,228.5,185,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Tyler Shough,Over,238.5,-190,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Tyler Shough,Under,238.5,145,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Tyler Shough,Over,248.5,-145,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Tyler Shough,Under,248.5,110,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Tyler Shough,Over,258.5,-115,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Tyler Shough,Under,258.5,-115,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Tyler Shough,Over,268.5,110,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Tyler Shough,Under,268.5,-145,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Tyler Shough,Over,278.5,140,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Tyler Shough,Under,278.5,-185,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Tyler Shough,Over,288.5,170,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_pass_yds,Tyler Shough,Under,288.5,-230,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Alvin Kamara,Over,15.5,-115,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Alvin Kamara,Under,15.5,-115,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Austin Hooper,Over,9.5,-120,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Austin Hooper,Under,9.5,-110,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Bijan Robinson,Over,28.5,-215,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Bijan Robinson,Under,28.5,160,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Bijan Robinson,Over,33.5,-150,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Bijan Robinson,Under,33.5,115,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Bijan Robinson,Over,38.5,-115,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Bijan Robinson,Under,38.5,-115,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Bijan Robinson,Over,43.5,115,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Bijan Robinson,Under,43.5,-150,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Bijan Robinson,Over,48.5,145,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Bijan Robinson,Under,48.5,-190,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Chris Olave,Over,64.5,-275,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Chris Olave,Under,64.5,200,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Chris Olave,Over,74.5,-170,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Chris Olave,Under,74.5,130,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Chris Olave,Over,84.5,-115,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Chris Olave,Under,84.5,-115,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Chris Olave,Over,94.5,125,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Chris Olave,Under,94.5,-165,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Chris Olave,Over,104.5,175,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Chris Olave,Under,104.5,-240,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Devaughn Vele,Over,34.5,-210,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Devaughn Vele,Under,34.5,155,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Devaughn Vele,Over,39.5,-150,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Devaughn Vele,Under,39.5,115,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Devaughn Vele,Over,44.5,-115,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Devaughn Vele,Under,44.5,-115,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Devaughn Vele,Over,49.5,110,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Devaughn Vele,Under,49.5,-145,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Devaughn Vele,Over,54.5,140,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Devaughn Vele,Under,54.5,-185,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Drake London,Over,58.5,-280,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Drake London,Under,58.5,205,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Drake London,Over,68.5,-170,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Drake London,Under,68.5,130,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Drake London,Over,78.5,-115,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Drake London,Under,78.5,-115,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Drake London,Over,88.5,125,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Drake London,Under,88.5,-165,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Drake London,Over,98.5,180,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Drake London,Under,98.5,-245,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Jahan Dotson,Over,16.5,-120,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Jahan Dotson,Under,16.5,-110,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Juwan Johnson,Over,32.5,-210,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Juwan Johnson,Under,32.5,155,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Juwan Johnson,Over,37.5,-150,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Juwan Johnson,Under,37.5,115,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Juwan Johnson,Over,42.5,-115,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Juwan Johnson,Under,42.5,-115,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Juwan Johnson,Over,47.5,115,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Juwan Johnson,Under,47.5,-150,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Juwan Johnson,Over,52.5,145,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Juwan Johnson,Under,52.5,-190,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Kyle Pitts,Over,29.5,-115,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Kyle Pitts,Under,29.5,-115,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Noah Fant,Over,16.5,-120,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Noah Fant,Under,16.5,-110,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Olamide Zaccheaus,Over,7.5,-120,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_reception_yds,Olamide Zaccheaus,Under,7.5,-110,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Alvin Kamara,Over,3.5,130,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Alvin Kamara,Under,3.5,-170,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Austin Hooper,Over,1.5,145,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Austin Hooper,Under,1.5,-190,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Bijan Robinson,Over,4.5,-110,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Bijan Robinson,Under,4.5,-120,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Chris Olave,Over,6.5,-145,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Chris Olave,Under,6.5,110,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Devaughn Vele,Over,3.5,-170,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Devaughn Vele,Under,3.5,130,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Drake London,Over,5.5,-135,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Drake London,Under,5.5,105,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Jahan Dotson,Over,1.5,-130,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Jahan Dotson,Under,1.5,100,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Juwan Johnson,Over,3.5,-130,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Juwan Johnson,Under,3.5,100,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Kyle Pitts,Over,2.5,-160,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Kyle Pitts,Under,2.5,120,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Noah Fant,Over,1.5,-180,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Noah Fant,Under,1.5,135,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Olamide Zaccheaus,Over,1.5,150,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_receptions,Olamide Zaccheaus,Under,1.5,-200,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Alvin Kamara,Over,27.5,-250,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Alvin Kamara,Under,27.5,185,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Alvin Kamara,Over,32.5,-165,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Alvin Kamara,Under,32.5,125,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Alvin Kamara,Over,37.5,-115,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Alvin Kamara,Under,37.5,-115,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Alvin Kamara,Over,42.5,120,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Alvin Kamara,Under,42.5,-160,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Alvin Kamara,Over,47.5,165,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Alvin Kamara,Under,47.5,-220,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Bijan Robinson,Over,67.5,-320,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Bijan Robinson,Under,67.5,230,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Bijan Robinson,Over,77.5,-185,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Bijan Robinson,Under,77.5,140,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Bijan Robinson,Over,87.5,-115,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Bijan Robinson,Under,87.5,-115,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Bijan Robinson,Over,97.5,135,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Bijan Robinson,Under,97.5,-180,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Bijan Robinson,Over,107.5,200,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Bijan Robinson,Under,107.5,-275,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Brian Robinson Jr.,Over,19.5,-290,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Brian Robinson Jr.,Under,19.5,210,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Brian Robinson Jr.,Over,24.5,-170,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Brian Robinson Jr.,Under,24.5,130,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Brian Robinson Jr.,Over,29.5,-115,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Brian Robinson Jr.,Under,29.5,-115,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Brian Robinson Jr.,Over,34.5,125,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Brian Robinson Jr.,Under,34.5,-165,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Brian Robinson Jr.,Over,39.5,175,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Brian Robinson Jr.,Under,39.5,-240,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Kendre Miller,Over,15.5,-310,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Kendre Miller,Under,15.5,225,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Kendre Miller,Over,20.5,-170,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Kendre Miller,Under,20.5,130,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Kendre Miller,Over,25.5,-110,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Kendre Miller,Under,25.5,-120,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Kendre Miller,Over,30.5,135,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Kendre Miller,Under,30.5,-180,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Kendre Miller,Over,35.5,190,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Kendre Miller,Under,35.5,-260,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Michael Penix Jr.,Over,5.5,-120,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Michael Penix Jr.,Under,5.5,-110,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Tyler Shough,Over,18.5,-120,2026-10-05T07:29:48Z
+20261005T073045Z,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,player_rush_yds,Tyler Shough,Under,18.5,-110,2026-10-05T07:29:48Z

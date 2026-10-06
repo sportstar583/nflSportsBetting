@@ -1,0 +1,16 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039146,Jayden Reed,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,polymarket_us,29.5,True
+00-0039146,Jayden Reed,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,hardrock,39.5,True
+00-0039146,Jayden Reed,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prizepicks,8.5,True
+00-0039146,Jayden Reed,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,betway,34.5,True
+00-0039146,Jayden Reed,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,pinnacle,37.5,True
+00-0039146,Jayden Reed,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,betmgm,35.5,True
+00-0039146,Jayden Reed,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,bovada,36.5,True
+00-0039146,Jayden Reed,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,fliff,37.5,True
+00-0039146,Jayden Reed,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prophetx,35.5,True
+00-0039146,Jayden Reed,player_reception_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,prizepicks,12.5,True
+00-0039146,Jayden Reed,player_reception_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,prophetx,36.5,True
+00-0039146,Jayden Reed,player_reception_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betmgm,42.5,True
+00-0039146,Jayden Reed,player_reception_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betway,44.5,True
+00-0039146,Jayden Reed,player_reception_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betr,39.5,True
+00-0039146,Jayden Reed,player_reception_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,pinnacle,43.5,True

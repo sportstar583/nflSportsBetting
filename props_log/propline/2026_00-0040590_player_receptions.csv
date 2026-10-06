@@ -1,0 +1,12 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040590,Konata Mumpfield,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,hardrock,4.5,True
+00-0040590,Konata Mumpfield,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,sleeper,1.5,True
+00-0040590,Konata Mumpfield,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,1.5,True
+00-0040590,Konata Mumpfield,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,prophetx,1.5,True
+00-0040590,Konata Mumpfield,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,prizepicks,1.5,True
+00-0040590,Konata Mumpfield,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,prophetx,1.5,True
+00-0040590,Konata Mumpfield,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,prizepicks,1.5,True
+00-0040590,Konata Mumpfield,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,pinnacle,1.5,True
+00-0040590,Konata Mumpfield,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,fanduel,1.5,True
+00-0040590,Konata Mumpfield,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betmgm,1.5,True
+00-0040590,Konata Mumpfield,player_receptions,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,prizepicks,0.5,True

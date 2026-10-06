@@ -1,0 +1,25 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0041489,Germie Bernard,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,hardrock,8.5,True
+00-0041489,Germie Bernard,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,courtside,10.5,True
+00-0041489,Germie Bernard,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,prophetx,10.5,True
+00-0041489,Germie Bernard,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,parlayplay,10.5,True
+00-0041489,Germie Bernard,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,rebet,8.5,True
+00-0041489,Germie Bernard,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betway,8.5,True
+00-0041489,Germie Bernard,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,dabble,8.5,True
+00-0041489,Germie Bernard,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,prizepicks,9.5,True
+00-0041489,Germie Bernard,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,sleeper,8.5,True
+00-0041489,Germie Bernard,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,novig,10.5,True
+00-0041489,Germie Bernard,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,8.5,True
+00-0041489,Germie Bernard,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fliff,8.5,True
+00-0041489,Germie Bernard,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,polymarket_us,9.5,True
+00-0041489,Germie Bernard,player_reception_yds,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,prizepicks,15.5,True
+00-0041489,Germie Bernard,player_reception_yds,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,prophetx,11.5,True
+00-0041489,Germie Bernard,player_reception_yds,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,betway,15.5,True
+00-0041489,Germie Bernard,player_reception_yds,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,pinnacle,15.5,True
+00-0041489,Germie Bernard,player_reception_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,betr,28.5,True
+00-0041489,Germie Bernard,player_reception_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,prizepicks,28.5,True
+00-0041489,Germie Bernard,player_reception_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,underdog,28.5,True
+00-0041489,Germie Bernard,player_reception_yds,149769,2026-08-27T23:00:00Z,Buffalo Bills,Pittsburgh Steelers,underdog,18.5,True
+00-0041489,Germie Bernard,player_reception_yds,147550,2026-08-21T23:00:00Z,Pittsburgh Steelers,New York Jets,underdog,27.5,True
+00-0041489,Germie Bernard,player_reception_yds,59776,2026-08-14T02:00:00Z,Pittsburgh Steelers,Green Bay Packers,underdog,20.5,True
+00-0041489,Germie Bernard,player_reception_yds,59776,2026-08-14T02:00:00Z,Pittsburgh Steelers,Green Bay Packers,betr,19.5,True

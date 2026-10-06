@@ -1,0 +1,6 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040894,Malik Benson,player_reception_yds,149926,2026-08-28T00:00:00Z,Las Vegas Raiders,San Francisco 49ers,underdog,20.5,True
+00-0040894,Malik Benson,player_reception_yds,147566,2026-08-21T00:00:00Z,Houston Texans,Las Vegas Raiders,betr,24.5,True
+00-0040894,Malik Benson,player_reception_yds,147566,2026-08-21T00:00:00Z,Houston Texans,Las Vegas Raiders,underdog,24.5,True
+00-0040894,Malik Benson,player_reception_yds,59774,2026-08-14T03:00:00Z,Las Vegas Raiders,Arizona Cardinals,betr,25.5,True
+00-0040894,Malik Benson,player_reception_yds,59774,2026-08-14T03:00:00Z,Las Vegas Raiders,Arizona Cardinals,underdog,26.5,True

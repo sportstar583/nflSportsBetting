@@ -1,0 +1,23 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039040,De'Von Achane,player_rush_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,courtside,59.5,True
+00-0039040,De'Von Achane,player_rush_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,prophetx,61.5,True
+00-0039040,De'Von Achane,player_rush_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,sleeper,60.5,True
+00-0039040,De'Von Achane,player_rush_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,novig,61.5,True
+00-0039040,De'Von Achane,player_rush_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,parlayplay,60.5,True
+00-0039040,De'Von Achane,player_rush_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,dabble,61.5,True
+00-0039040,De'Von Achane,player_rush_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,betway,61.5,True
+00-0039040,De'Von Achane,player_rush_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,pinnacle,59.5,True
+00-0039040,De'Von Achane,player_rush_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,bovada,61.5,True
+00-0039040,De'Von Achane,player_rush_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,bovada,58.5,True
+00-0039040,De'Von Achane,player_rush_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,pinnacle,58.5,True
+00-0039040,De'Von Achane,player_rush_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,betway,54.5,True
+00-0039040,De'Von Achane,player_rush_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,prophetx,61.5,True
+00-0039040,De'Von Achane,player_rush_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,fanatics,70.5,True
+00-0039040,De'Von Achane,player_rush_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,bovada,68.5,True
+00-0039040,De'Von Achane,player_rush_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,betmgm,71.5,True
+00-0039040,De'Von Achane,player_rush_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,pinnacle,68.5,True
+00-0039040,De'Von Achane,player_rush_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,betr,69.5,True
+00-0039040,De'Von Achane,player_rush_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,betway,66.5,True
+00-0039040,De'Von Achane,player_rush_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,prophetx,66.5,True
+00-0039040,De'Von Achane,player_rush_yds,59771,2026-08-14T23:00:00Z,Washington Commanders,Miami Dolphins,betr,8.5,True
+00-0039040,De'Von Achane,player_rush_yds,59771,2026-08-14T23:00:00Z,Washington Commanders,Miami Dolphins,underdog,9.5,True

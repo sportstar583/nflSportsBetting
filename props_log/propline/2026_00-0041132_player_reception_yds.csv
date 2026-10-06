@@ -1,0 +1,4 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0041132,Deion Burks,player_reception_yds,158999,2026-08-29T17:00:00Z,Indianapolis Colts,Detroit Lions,underdog,14.5,True
+00-0041132,Deion Burks,player_reception_yds,59775,2026-08-14T02:30:00Z,New England Patriots,Indianapolis Colts,betr,21.5,True
+00-0041132,Deion Burks,player_reception_yds,59775,2026-08-14T02:30:00Z,New England Patriots,Indianapolis Colts,underdog,24.5,True

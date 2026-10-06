@@ -1,0 +1,4 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036849,Tutu Atwell,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,fanduel,0.5,True
+00-0036849,Tutu Atwell,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betmgm,0.5,True
+00-0036849,Tutu Atwell,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,prizepicks,0.5,True

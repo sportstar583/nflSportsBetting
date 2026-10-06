@@ -1,0 +1,30 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040878,Mike Washington Jr.,player_rush_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,sportzino,15.5,True
+00-0040878,Mike Washington Jr.,player_rush_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,sleeper,16.5,True
+00-0040878,Mike Washington Jr.,player_rush_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,parlayplay,18.5,True
+00-0040878,Mike Washington Jr.,player_rush_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,novig,18.5,True
+00-0040878,Mike Washington Jr.,player_rush_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,pinnacle,16.5,True
+00-0040878,Mike Washington Jr.,player_rush_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,hardrock,24.5,True
+00-0040878,Mike Washington Jr.,player_rush_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,betway,16.5,True
+00-0040878,Mike Washington Jr.,player_rush_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,prizepicks,14.5,True
+00-0040878,Mike Washington Jr.,player_rush_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,betrivers,16.5,True
+00-0040878,Mike Washington Jr.,player_rush_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,pick6,16.5,True
+00-0040878,Mike Washington Jr.,player_rush_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,dabble,15.5,True
+00-0040878,Mike Washington Jr.,player_rush_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,prophetx,10.5,True
+00-0040878,Mike Washington Jr.,player_rush_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,rebet,16.5,True
+00-0040878,Mike Washington Jr.,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,prizepicks,15.5,True
+00-0040878,Mike Washington Jr.,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,novig,15.5,True
+00-0040878,Mike Washington Jr.,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,dabble,13.5,True
+00-0040878,Mike Washington Jr.,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,sleeper,15.5,True
+00-0040878,Mike Washington Jr.,player_rush_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,pinnacle,15.5,True
+00-0040878,Mike Washington Jr.,player_rush_yds,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,prophetx,20.5,True
+00-0040878,Mike Washington Jr.,player_rush_yds,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,prizepicks,5.5,True
+00-0040878,Mike Washington Jr.,player_rush_yds,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,hardrock,79.5,True
+00-0040878,Mike Washington Jr.,player_rush_yds,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,betway,18.5,True
+00-0040878,Mike Washington Jr.,player_rush_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,prizepicks,12.5,True
+00-0040878,Mike Washington Jr.,player_rush_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,betway,28.5,True
+00-0040878,Mike Washington Jr.,player_rush_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,pinnacle,30.5,True
+00-0040878,Mike Washington Jr.,player_rush_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,bovada,28.5,True
+00-0040878,Mike Washington Jr.,player_rush_yds,149926,2026-08-28T00:00:00Z,Las Vegas Raiders,San Francisco 49ers,underdog,21.5,True
+00-0040878,Mike Washington Jr.,player_rush_yds,147566,2026-08-21T00:00:00Z,Houston Texans,Las Vegas Raiders,underdog,28.5,True
+00-0040878,Mike Washington Jr.,player_rush_yds,59774,2026-08-14T03:00:00Z,Las Vegas Raiders,Arizona Cardinals,betr,23.5,True

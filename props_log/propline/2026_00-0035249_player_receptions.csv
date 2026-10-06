@@ -1,0 +1,22 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0035249,Josh Oliver,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,pinnacle,1.5,True
+00-0035249,Josh Oliver,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,prizepicks,1.5,True
+00-0035249,Josh Oliver,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,sleeper,1.5,True
+00-0035249,Josh Oliver,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,hardrock,4.5,True
+00-0035249,Josh Oliver,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,fanduel,1.5,True
+00-0035249,Josh Oliver,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,novig,1.5,True
+00-0035249,Josh Oliver,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,betmgm,1.5,True
+00-0035249,Josh Oliver,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,betway,1.5,True
+00-0035249,Josh Oliver,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,prophetx,1.5,True
+00-0035249,Josh Oliver,player_receptions,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,prizepicks,1.5,True
+00-0035249,Josh Oliver,player_receptions,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,hardrock,5.5,True
+00-0035249,Josh Oliver,player_receptions,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,prophetx,1.5,True
+00-0035249,Josh Oliver,player_receptions,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,betway,1.5,True
+00-0035249,Josh Oliver,player_receptions,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,pinnacle,1.5,True
+00-0035249,Josh Oliver,player_receptions,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,fanduel,1.5,True
+00-0035249,Josh Oliver,player_receptions,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,betrivers,1.5,True
+00-0035249,Josh Oliver,player_receptions,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,betmgm,1.5,True
+00-0035249,Josh Oliver,player_receptions,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,hardrock,4.5,True
+00-0035249,Josh Oliver,player_receptions,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,pinnacle,0.5,True
+00-0035249,Josh Oliver,player_receptions,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,fanduel,0.5,True
+00-0035249,Josh Oliver,player_receptions,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,prizepicks,0.5,True

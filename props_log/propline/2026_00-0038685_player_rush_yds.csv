@@ -1,0 +1,17 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038685,Chris Brooks,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,parlayplay,7.5,True
+00-0038685,Chris Brooks,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,dabble,7.5,True
+00-0038685,Chris Brooks,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,sportzino,7.5,True
+00-0038685,Chris Brooks,player_rush_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,courtside,14.5,True
+00-0038685,Chris Brooks,player_rush_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,pinnacle,13.5,True
+00-0038685,Chris Brooks,player_rush_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,parlayplay,14.5,True
+00-0038685,Chris Brooks,player_rush_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,betway,15.5,True
+00-0038685,Chris Brooks,player_rush_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,betmgm,13.5,True
+00-0038685,Chris Brooks,player_rush_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,hardrock,64.5,True
+00-0038685,Chris Brooks,player_rush_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,novig,13.5,True
+00-0038685,Chris Brooks,player_rush_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,prophetx,16.5,True
+00-0038685,Chris Brooks,player_rush_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prophetx,25.5,True
+00-0038685,Chris Brooks,player_rush_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,pinnacle,24.5,True
+00-0038685,Chris Brooks,player_rush_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,hardrock,79.5,True
+00-0038685,Chris Brooks,player_rush_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,bovada,25.5,True
+00-0038685,Chris Brooks,player_rush_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betway,13.5,True

@@ -1,0 +1,21 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039139,Jahmyr Gibbs,player_rush_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,novig,88.5,True
+00-0039139,Jahmyr Gibbs,player_rush_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,betway,87.5,True
+00-0039139,Jahmyr Gibbs,player_rush_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,courtside,88.5,True
+00-0039139,Jahmyr Gibbs,player_rush_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,bovada,88.5,True
+00-0039139,Jahmyr Gibbs,player_rush_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,pinnacle,89.5,True
+00-0039139,Jahmyr Gibbs,player_rush_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,dabble,92.5,True
+00-0039139,Jahmyr Gibbs,player_rush_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,prophetx,90.5,True
+00-0039139,Jahmyr Gibbs,player_rush_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,sleeper,90.5,True
+00-0039139,Jahmyr Gibbs,player_rush_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,parlayplay,89.5,True
+00-0039139,Jahmyr Gibbs,player_rush_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,betway,90.5,True
+00-0039139,Jahmyr Gibbs,player_rush_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,prophetx,87.5,True
+00-0039139,Jahmyr Gibbs,player_rush_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,pinnacle,87.5,True
+00-0039139,Jahmyr Gibbs,player_rush_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,betonlineag,88.5,True
+00-0039139,Jahmyr Gibbs,player_rush_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,lowvig,88.5,True
+00-0039139,Jahmyr Gibbs,player_rush_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,bovada,86.5,True
+00-0039139,Jahmyr Gibbs,player_rush_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,bovada,86.5,True
+00-0039139,Jahmyr Gibbs,player_rush_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,pinnacle,84.5,True
+00-0039139,Jahmyr Gibbs,player_rush_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betway,84.5,True
+00-0039139,Jahmyr Gibbs,player_rush_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,prophetx,82.5,True
+00-0039139,Jahmyr Gibbs,player_rush_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betr,84.5,True

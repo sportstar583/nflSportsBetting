@@ -1,0 +1,20 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040131,Kyle Williams,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,rebet,0.5,True
+00-0040131,Kyle Williams,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,pinnacle,0.5,True
+00-0040131,Kyle Williams,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,prophetx,0.5,True
+00-0040131,Kyle Williams,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,sportzino,0.5,True
+00-0040131,Kyle Williams,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,prizepicks,0.5,True
+00-0040131,Kyle Williams,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,fanduel,0.5,True
+00-0040131,Kyle Williams,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,sleeper,0.5,True
+00-0040131,Kyle Williams,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,hardrock,0.5,True
+00-0040131,Kyle Williams,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,fliff,0.5,True
+00-0040131,Kyle Williams,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,fanduel,0.5,True
+00-0040131,Kyle Williams,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,hardrock,1.5,True
+00-0040131,Kyle Williams,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,pinnacle,0.5,True
+00-0040131,Kyle Williams,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,sleeper,0.5,True
+00-0040131,Kyle Williams,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,prizepicks,0.5,True
+00-0040131,Kyle Williams,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,prophetx,0.5,True
+00-0040131,Kyle Williams,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,bovada,0.5,True
+00-0040131,Kyle Williams,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,prizepicks,0.5,True
+00-0040131,Kyle Williams,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,fanduel,0.5,True
+00-0040131,Kyle Williams,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,prizepicks,0.5,True

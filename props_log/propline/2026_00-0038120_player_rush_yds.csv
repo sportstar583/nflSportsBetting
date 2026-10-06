@@ -1,0 +1,19 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038120,Breece Hall,player_rush_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,courtside,58.5,True
+00-0038120,Breece Hall,player_rush_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,betway,55.5,True
+00-0038120,Breece Hall,player_rush_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,parlayplay,58.5,True
+00-0038120,Breece Hall,player_rush_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,bovada,60.5,True
+00-0038120,Breece Hall,player_rush_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,novig,58.5,True
+00-0038120,Breece Hall,player_rush_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,pinnacle,59.5,True
+00-0038120,Breece Hall,player_rush_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,dabble,59.5,True
+00-0038120,Breece Hall,player_rush_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,prophetx,60.5,True
+00-0038120,Breece Hall,player_rush_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,sleeper,60.5,True
+00-0038120,Breece Hall,player_rush_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prophetx,68.5,True
+00-0038120,Breece Hall,player_rush_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,pinnacle,63.5,True
+00-0038120,Breece Hall,player_rush_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,betway,67.5,True
+00-0038120,Breece Hall,player_rush_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,bovada,62.5,True
+00-0038120,Breece Hall,player_rush_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,betway,63.5,True
+00-0038120,Breece Hall,player_rush_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,bovada,63.5,True
+00-0038120,Breece Hall,player_rush_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,betr,64.5,True
+00-0038120,Breece Hall,player_rush_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,pinnacle,64.5,True
+00-0038120,Breece Hall,player_rush_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,prophetx,65.5,True

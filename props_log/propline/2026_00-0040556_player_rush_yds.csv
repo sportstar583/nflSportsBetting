@@ -1,0 +1,8 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040556,Corey Kiner,player_rush_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,fanatics,5.5,True
+00-0040556,Corey Kiner,player_rush_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,prophetx,9.5,True
+00-0040556,Corey Kiner,player_rush_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,prizepicks,2.5,True
+00-0040556,Corey Kiner,player_rush_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,pinnacle,8.5,True
+00-0040556,Corey Kiner,player_rush_yds,159141,2026-08-29T00:00:00Z,Green Bay Packers,Arizona Cardinals,underdog,30.5,True
+00-0040556,Corey Kiner,player_rush_yds,147655,2026-08-23T02:00:00Z,Arizona Cardinals,Dallas Cowboys,underdog,35.5,True
+00-0040556,Corey Kiner,player_rush_yds,59778,2026-08-07T00:00:00Z,Arizona Cardinals,Carolina Panthers,underdog,30.5,True

@@ -1,0 +1,6 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040142,Kaleb Johnson,player_receptions,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,sportzino,0.5,True
+00-0040142,Kaleb Johnson,player_receptions,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,prizepicks,0.5,True
+00-0040142,Kaleb Johnson,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,parlayplay,0.5,True
+00-0040142,Kaleb Johnson,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,prizepicks,0.5,True
+00-0040142,Kaleb Johnson,player_receptions,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,prizepicks,0.5,True

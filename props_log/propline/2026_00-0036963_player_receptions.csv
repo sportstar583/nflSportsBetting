@@ -1,0 +1,35 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036963,Amon-Ra St. Brown,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,dabble,6.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,hardrock,6.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,parlayplay,7.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,novig,3.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,6.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,sleeper,7.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,6.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,sportzino,6.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,rebet,6.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,prophetx,6.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,7.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,lowvig,7.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betway,6.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,betway,7.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,pinnacle,7.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,prophetx,7.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,parlayplay,7.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,betmgm,6.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,dabble,7.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,fanduel,7.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,novig,6.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,sleeper,6.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,fanduel,7.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,betmgm,7.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,prophetx,7.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,pinnacle,7.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,lowvig,7.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,betonlineag,7.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,betway,7.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betmgm,6.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betway,6.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,prophetx,6.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,fanduel,6.5,True
+00-0036963,Amon-Ra St. Brown,player_receptions,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,pinnacle,6.5,True

@@ -1,0 +1,37 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040727,Tre Harris,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,betway,40.5,True
+00-0040727,Tre Harris,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sportzino,34.5,True
+00-0040727,Tre Harris,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,rebet,36.5,True
+00-0040727,Tre Harris,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prizepicks,30.5,True
+00-0040727,Tre Harris,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,bovada,35.5,True
+00-0040727,Tre Harris,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,novig,36.5,True
+00-0040727,Tre Harris,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,dabble,33.5,True
+00-0040727,Tre Harris,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,pick6,37.5,True
+00-0040727,Tre Harris,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,pinnacle,36.5,True
+00-0040727,Tre Harris,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sleeper,35.5,True
+00-0040727,Tre Harris,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prophetx,19.5,True
+00-0040727,Tre Harris,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,parlayplay,34.5,True
+00-0040727,Tre Harris,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,courtside,32.5,True
+00-0040727,Tre Harris,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,prizepicks,7.5,True
+00-0040727,Tre Harris,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,prophetx,33.5,True
+00-0040727,Tre Harris,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,parlayplay,30.5,True
+00-0040727,Tre Harris,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,pinnacle,31.5,True
+00-0040727,Tre Harris,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,novig,31.5,True
+00-0040727,Tre Harris,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,sleeper,30.5,True
+00-0040727,Tre Harris,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,hardrock,99.5,True
+00-0040727,Tre Harris,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,lowvig,31.5,True
+00-0040727,Tre Harris,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,dabble,31.5,True
+00-0040727,Tre Harris,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,betway,31.5,True
+00-0040727,Tre Harris,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,betonlineag,31.5,True
+00-0040727,Tre Harris,player_reception_yds,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,prophetx,32.5,True
+00-0040727,Tre Harris,player_reception_yds,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,prizepicks,10.5,True
+00-0040727,Tre Harris,player_reception_yds,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,pinnacle,30.5,True
+00-0040727,Tre Harris,player_reception_yds,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,betway,35.5,True
+00-0040727,Tre Harris,player_reception_yds,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,bovada,30.5,True
+00-0040727,Tre Harris,player_reception_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,betway,25.5,True
+00-0040727,Tre Harris,player_reception_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,pinnacle,26.5,True
+00-0040727,Tre Harris,player_reception_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,prizepicks,6.5,True
+00-0040727,Tre Harris,player_reception_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,betmgm,26.5,True
+00-0040727,Tre Harris,player_reception_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,fanatics,25.5,True
+00-0040727,Tre Harris,player_reception_yds,59773,2026-08-14T03:00:00Z,Houston Texans,Los Angeles Chargers,betr,16.5,True
+00-0040727,Tre Harris,player_reception_yds,59773,2026-08-14T03:00:00Z,Houston Texans,Los Angeles Chargers,underdog,16.5,True

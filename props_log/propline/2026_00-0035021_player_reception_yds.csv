@@ -1,0 +1,5 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0035021,Ashton Dulin,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,betway,3.5,True
+00-0035021,Ashton Dulin,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,underdog,3.5,True
+00-0035021,Ashton Dulin,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,prizepicks,3.5,True
+00-0035021,Ashton Dulin,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,hardrock,3.5,True

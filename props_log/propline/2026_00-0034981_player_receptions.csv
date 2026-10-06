@@ -1,0 +1,14 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0034981,Foster Moreau,player_receptions,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,prizepicks,0.5,True
+00-0034981,Foster Moreau,player_receptions,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,betmgm,1.5,True
+00-0034981,Foster Moreau,player_receptions,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,sleeper,1.5,True
+00-0034981,Foster Moreau,player_receptions,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,sportzino,1.5,True
+00-0034981,Foster Moreau,player_receptions,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,prophetx,1.5,True
+00-0034981,Foster Moreau,player_receptions,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,fanduel,1.5,True
+00-0034981,Foster Moreau,player_receptions,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,rebet,1.5,True
+00-0034981,Foster Moreau,player_receptions,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,prizepicks,0.5,True
+00-0034981,Foster Moreau,player_receptions,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,hardrock,4.5,True
+00-0034981,Foster Moreau,player_receptions,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,prophetx,0.5,True
+00-0034981,Foster Moreau,player_receptions,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,fanduel,0.5,True
+00-0034981,Foster Moreau,player_receptions,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,prizepicks,0.5,True
+00-0034981,Foster Moreau,player_receptions,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,bovada,0.5,True

@@ -1,0 +1,36 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039361,Bucky Irving,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,betway,55.5,True
+00-0039361,Bucky Irving,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,prophetx,61.5,True
+00-0039361,Bucky Irving,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,sportzino,54.5,True
+00-0039361,Bucky Irving,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,parlayplay,54.5,True
+00-0039361,Bucky Irving,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,prizepicks,50.5,True
+00-0039361,Bucky Irving,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,sleeper,56.5,True
+00-0039361,Bucky Irving,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,rebet,54.5,True
+00-0039361,Bucky Irving,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,pick6,57.5,True
+00-0039361,Bucky Irving,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,novig,55.5,True
+00-0039361,Bucky Irving,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,hardrock,64.5,True
+00-0039361,Bucky Irving,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,courtside,56.5,True
+00-0039361,Bucky Irving,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,bovada,55.5,True
+00-0039361,Bucky Irving,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,pinnacle,55.5,True
+00-0039361,Bucky Irving,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,dabble,58.5,True
+00-0039361,Bucky Irving,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,prizepicks,24.5,True
+00-0039361,Bucky Irving,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,betway,55.5,True
+00-0039361,Bucky Irving,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,pinnacle,57.5,True
+00-0039361,Bucky Irving,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,dabble,57.5,True
+00-0039361,Bucky Irving,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,prophetx,19.5,True
+00-0039361,Bucky Irving,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,sleeper,57.5,True
+00-0039361,Bucky Irving,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,novig,55.5,True
+00-0039361,Bucky Irving,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,parlayplay,57.5,True
+00-0039361,Bucky Irving,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,bovada,57.5,True
+00-0039361,Bucky Irving,player_rush_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,prophetx,63.5,True
+00-0039361,Bucky Irving,player_rush_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,betway,63.5,True
+00-0039361,Bucky Irving,player_rush_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,pinnacle,61.5,True
+00-0039361,Bucky Irving,player_rush_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,bovada,61.5,True
+00-0039361,Bucky Irving,player_rush_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,prizepicks,28.5,True
+00-0039361,Bucky Irving,player_rush_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betr,58.5,True
+00-0039361,Bucky Irving,player_rush_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,prizepicks,24.5,True
+00-0039361,Bucky Irving,player_rush_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betway,59.5,True
+00-0039361,Bucky Irving,player_rush_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,prophetx,61.5,True
+00-0039361,Bucky Irving,player_rush_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,pinnacle,60.5,True
+00-0039361,Bucky Irving,player_rush_yds,147834,2026-08-22T23:30:00Z,Tampa Bay Buccaneers,Kansas City Chiefs,betr,17.5,True
+00-0039361,Bucky Irving,player_rush_yds,147834,2026-08-22T23:30:00Z,Tampa Bay Buccaneers,Kansas City Chiefs,underdog,14.5,True

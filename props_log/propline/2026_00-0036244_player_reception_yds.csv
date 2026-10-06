@@ -1,0 +1,21 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036244,Colby Parkinson,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,prizepicks,18.5,True
+00-0036244,Colby Parkinson,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,novig,19.5,True
+00-0036244,Colby Parkinson,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,17.5,True
+00-0036244,Colby Parkinson,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,hardrock,64.5,True
+00-0036244,Colby Parkinson,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,sleeper,17.5,True
+00-0036244,Colby Parkinson,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betway,24.5,True
+00-0036244,Colby Parkinson,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,dabble,18.5,True
+00-0036244,Colby Parkinson,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,courtside,18.5,True
+00-0036244,Colby Parkinson,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,parlayplay,18.5,True
+00-0036244,Colby Parkinson,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,pinnacle,30.5,True
+00-0036244,Colby Parkinson,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betway,29.5,True
+00-0036244,Colby Parkinson,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,prizepicks,7.5,True
+00-0036244,Colby Parkinson,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,hardrock,99.5,True
+00-0036244,Colby Parkinson,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betonlineag,28.5,True
+00-0036244,Colby Parkinson,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,lowvig,28.5,True
+00-0036244,Colby Parkinson,player_reception_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,prizepicks,2.5,True
+00-0036244,Colby Parkinson,player_reception_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,pinnacle,18.5,True
+00-0036244,Colby Parkinson,player_reception_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,prophetx,18.5,True
+00-0036244,Colby Parkinson,player_reception_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,hardrock,79.5,True
+00-0036244,Colby Parkinson,player_reception_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,betr,20.5,True

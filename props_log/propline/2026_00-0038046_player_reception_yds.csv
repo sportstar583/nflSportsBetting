@@ -1,0 +1,9 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038046,Charlie Kolar,player_reception_yds,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,prizepicks,6.5,True
+00-0038046,Charlie Kolar,player_reception_yds,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,underdog,6.5,True
+00-0038046,Charlie Kolar,player_reception_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,underdog,17.5,True
+00-0038046,Charlie Kolar,player_reception_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,betmgm,17.5,True
+00-0038046,Charlie Kolar,player_reception_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,pinnacle,17.5,True
+00-0038046,Charlie Kolar,player_reception_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,betr,16.5,True
+00-0038046,Charlie Kolar,player_reception_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,hardrock,79.5,True
+00-0038046,Charlie Kolar,player_reception_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,prizepicks,0.5,True

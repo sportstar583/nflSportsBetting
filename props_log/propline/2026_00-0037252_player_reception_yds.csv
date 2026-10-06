@@ -1,0 +1,34 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0037252,Greg Dulcich,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,pinnacle,29.5,True
+00-0037252,Greg Dulcich,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,parlayplay,28.5,True
+00-0037252,Greg Dulcich,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,novig,27.5,True
+00-0037252,Greg Dulcich,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,rebet,29.5,True
+00-0037252,Greg Dulcich,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,sportzino,28.5,True
+00-0037252,Greg Dulcich,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,sleeper,29.5,True
+00-0037252,Greg Dulcich,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,betway,27.5,True
+00-0037252,Greg Dulcich,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,hardrock,24.5,True
+00-0037252,Greg Dulcich,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,bovada,30.5,True
+00-0037252,Greg Dulcich,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,prizepicks,25.5,True
+00-0037252,Greg Dulcich,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,dabble,28.5,True
+00-0037252,Greg Dulcich,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,pick6,31.5,True
+00-0037252,Greg Dulcich,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,prophetx,26.5,True
+00-0037252,Greg Dulcich,player_reception_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,novig,23.5,True
+00-0037252,Greg Dulcich,player_reception_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,sleeper,22.5,True
+00-0037252,Greg Dulcich,player_reception_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,pinnacle,22.5,True
+00-0037252,Greg Dulcich,player_reception_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,prizepicks,22.5,True
+00-0037252,Greg Dulcich,player_reception_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,parlayplay,23.5,True
+00-0037252,Greg Dulcich,player_reception_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,betway,22.5,True
+00-0037252,Greg Dulcich,player_reception_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,dabble,20.5,True
+00-0037252,Greg Dulcich,player_reception_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,prophetx,99.5,True
+00-0037252,Greg Dulcich,player_reception_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,prizepicks,0.5,True
+00-0037252,Greg Dulcich,player_reception_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,hardrock,99.5,True
+00-0037252,Greg Dulcich,player_reception_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,prophetx,20.5,True
+00-0037252,Greg Dulcich,player_reception_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,betway,23.5,True
+00-0037252,Greg Dulcich,player_reception_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,pinnacle,20.5,True
+00-0037252,Greg Dulcich,player_reception_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,betway,26.5,True
+00-0037252,Greg Dulcich,player_reception_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,prophetx,27.5,True
+00-0037252,Greg Dulcich,player_reception_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,betr,24.5,True
+00-0037252,Greg Dulcich,player_reception_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,prizepicks,4.5,True
+00-0037252,Greg Dulcich,player_reception_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,betmgm,26.5,True
+00-0037252,Greg Dulcich,player_reception_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,hardrock,99.5,True
+00-0037252,Greg Dulcich,player_reception_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,pinnacle,26.5,True

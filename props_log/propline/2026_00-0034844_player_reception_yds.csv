@@ -1,0 +1,36 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0034844,Saquon Barkley,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,sleeper,15.5,True
+00-0034844,Saquon Barkley,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,betway,13.5,True
+00-0034844,Saquon Barkley,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,hardrock,15.5,True
+00-0034844,Saquon Barkley,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,rebet,15.5,True
+00-0034844,Saquon Barkley,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,pinnacle,15.5,True
+00-0034844,Saquon Barkley,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,parlayplay,13.5,True
+00-0034844,Saquon Barkley,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,sportzino,12.5,True
+00-0034844,Saquon Barkley,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,novig,14.5,True
+00-0034844,Saquon Barkley,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,pick6,14.5,True
+00-0034844,Saquon Barkley,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,prophetx,11.5,True
+00-0034844,Saquon Barkley,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,courtside,11.5,True
+00-0034844,Saquon Barkley,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,dabble,12.5,True
+00-0034844,Saquon Barkley,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,sleeper,13.5,True
+00-0034844,Saquon Barkley,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,dabble,12.5,True
+00-0034844,Saquon Barkley,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,hardrock,64.5,True
+00-0034844,Saquon Barkley,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,rebet,13.5,True
+00-0034844,Saquon Barkley,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,novig,11.5,True
+00-0034844,Saquon Barkley,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,pinnacle,12.5,True
+00-0034844,Saquon Barkley,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,parlayplay,13.5,True
+00-0034844,Saquon Barkley,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,betway,13.5,True
+00-0034844,Saquon Barkley,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,prophetx,15.5,True
+00-0034844,Saquon Barkley,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,lowvig,12.5,True
+00-0034844,Saquon Barkley,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,betonlineag,12.5,True
+00-0034844,Saquon Barkley,player_reception_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,pinnacle,10.5,True
+00-0034844,Saquon Barkley,player_reception_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,hardrock,64.5,True
+00-0034844,Saquon Barkley,player_reception_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,prophetx,9.5,True
+00-0034844,Saquon Barkley,player_reception_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,betway,11.5,True
+00-0034844,Saquon Barkley,player_reception_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,pinnacle,15.5,True
+00-0034844,Saquon Barkley,player_reception_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,prophetx,19.5,True
+00-0034844,Saquon Barkley,player_reception_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betmgm,15.5,True
+00-0034844,Saquon Barkley,player_reception_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betr,16.5,True
+00-0034844,Saquon Barkley,player_reception_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,hardrock,79.5,True
+00-0034844,Saquon Barkley,player_reception_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betonlineag,17.5,True
+00-0034844,Saquon Barkley,player_reception_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,lowvig,17.5,True
+00-0034844,Saquon Barkley,player_reception_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betway,14.5,True

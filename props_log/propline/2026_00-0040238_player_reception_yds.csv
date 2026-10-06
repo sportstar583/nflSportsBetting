@@ -1,0 +1,9 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040238,LeQuint Allen Jr.,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,sportzino,0.5,True
+00-0040238,LeQuint Allen Jr.,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,parlayplay,0.5,True
+00-0040238,LeQuint Allen Jr.,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,prizepicks,0.5,True
+00-0040238,LeQuint Allen Jr.,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,dabble,0.5,True
+00-0040238,LeQuint Allen Jr.,player_reception_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,fliff,0.5,True
+00-0040238,LeQuint Allen Jr.,player_reception_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,dabble,0.5,True
+00-0040238,LeQuint Allen Jr.,player_reception_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,prizepicks,0.5,True
+00-0040238,LeQuint Allen Jr.,player_reception_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,parlayplay,0.5,True

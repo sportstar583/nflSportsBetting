@@ -1,0 +1,38 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036900,Ja'Marr Chase,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,novig,82.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,pick6,83.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,betway,82.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,rebet,86.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,pinnacle,83.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,courtside,86.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,prophetx,83.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,sleeper,84.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,sportzino,83.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,dabble,83.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,hardrock,79.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,parlayplay,79.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,lowvig,84.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,betonlineag,84.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,bovada,84.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,hardrock,24.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,courtside,75.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,prophetx,75.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,betway,78.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,novig,74.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,pinnacle,73.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,dabble,78.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,sleeper,76.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,bovada,75.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,pinnacle,75.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,betway,76.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,prophetx,70.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,bovada,74.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,lowvig,75.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,betonlineag,75.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betway,86.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,prophetx,86.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,pinnacle,85.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betr,87.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,bovada,86.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,59777,2026-08-14T02:00:00Z,Cincinnati Bengals,Detroit Lions,underdog,20.5,True
+00-0036900,Ja'Marr Chase,player_reception_yds,59777,2026-08-14T02:00:00Z,Cincinnati Bengals,Detroit Lions,betr,21.5,True

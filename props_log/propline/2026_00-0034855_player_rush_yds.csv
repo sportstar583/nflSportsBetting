@@ -1,0 +1,16 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0034855,Baker Mayfield,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,sleeper,18.5,True
+00-0034855,Baker Mayfield,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,prizepicks,3.5,True
+00-0034855,Baker Mayfield,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,betway,16.5,True
+00-0034855,Baker Mayfield,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,novig,17.5,True
+00-0034855,Baker Mayfield,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,dabble,15.5,True
+00-0034855,Baker Mayfield,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,hardrock,64.5,True
+00-0034855,Baker Mayfield,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,betmgm,15.5,True
+00-0034855,Baker Mayfield,player_rush_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,parlayplay,17.5,True
+00-0034855,Baker Mayfield,player_rush_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,betway,16.5,True
+00-0034855,Baker Mayfield,player_rush_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,pinnacle,15.5,True
+00-0034855,Baker Mayfield,player_rush_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,prizepicks,6.5,True
+00-0034855,Baker Mayfield,player_rush_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betr,15.5,True
+00-0034855,Baker Mayfield,player_rush_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betway,16.5,True
+00-0034855,Baker Mayfield,player_rush_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,prizepicks,4.5,True
+00-0034855,Baker Mayfield,player_rush_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,pinnacle,15.5,True

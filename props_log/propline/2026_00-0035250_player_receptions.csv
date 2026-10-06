@@ -1,0 +1,21 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0035250,Devin Singletary,player_receptions,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,prizepicks,0.5,True
+00-0035250,Devin Singletary,player_receptions,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,hardrock,1.5,True
+00-0035250,Devin Singletary,player_receptions,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,underdog,1.5,True
+00-0035250,Devin Singletary,player_receptions,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,prophetx,1.5,True
+00-0035250,Devin Singletary,player_receptions,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,draftkings,1.5,True
+00-0035250,Devin Singletary,player_receptions,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,pinnacle,1.5,True
+00-0035250,Devin Singletary,player_receptions,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,novig,1.5,True
+00-0035250,Devin Singletary,player_receptions,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,kalshi,1.5,True
+00-0035250,Devin Singletary,player_receptions,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,parlayplay,1.5,True
+00-0035250,Devin Singletary,player_receptions,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,fanduel,1.5,True
+00-0035250,Devin Singletary,player_receptions,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,courtside,1.5,True
+00-0035250,Devin Singletary,player_receptions,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,bovada,1.5,True
+00-0035250,Devin Singletary,player_receptions,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,fliff,1.5,True
+00-0035250,Devin Singletary,player_receptions,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,sleeper,1.5,True
+00-0035250,Devin Singletary,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,pinnacle,1.5,True
+00-0035250,Devin Singletary,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,fliff,1.5,True
+00-0035250,Devin Singletary,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,hardrock,4.5,True
+00-0035250,Devin Singletary,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,prophetx,1.5,True
+00-0035250,Devin Singletary,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,prizepicks,0.5,True
+00-0035250,Devin Singletary,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,fanduel,1.5,True

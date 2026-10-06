@@ -1,0 +1,23 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0034855,Baker Mayfield,player_pass_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,underdog,232.5,True
+00-0034855,Baker Mayfield,player_pass_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,courtside,215.5,True
+00-0034855,Baker Mayfield,player_pass_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,pinnacle,216.5,True
+00-0034855,Baker Mayfield,player_pass_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,dabble,215.5,True
+00-0034855,Baker Mayfield,player_pass_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,sleeper,216.5,True
+00-0034855,Baker Mayfield,player_pass_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,prophetx,214.5,True
+00-0034855,Baker Mayfield,player_pass_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,bovada,214.5,True
+00-0034855,Baker Mayfield,player_pass_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,betway,216.5,True
+00-0034855,Baker Mayfield,player_pass_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,prizepicks,143.5,True
+00-0034855,Baker Mayfield,player_pass_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,novig,214.5,True
+00-0034855,Baker Mayfield,player_pass_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,prophetx,205.5,True
+00-0034855,Baker Mayfield,player_pass_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,prizepicks,140.5,True
+00-0034855,Baker Mayfield,player_pass_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,betway,211.5,True
+00-0034855,Baker Mayfield,player_pass_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,pinnacle,216.5,True
+00-0034855,Baker Mayfield,player_pass_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,bovada,209.5,True
+00-0034855,Baker Mayfield,player_pass_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,prophetx,230.5,True
+00-0034855,Baker Mayfield,player_pass_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betr,229.5,True
+00-0034855,Baker Mayfield,player_pass_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betway,232.5,True
+00-0034855,Baker Mayfield,player_pass_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,bovada,232.5,True
+00-0034855,Baker Mayfield,player_pass_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,prizepicks,160.5,True
+00-0034855,Baker Mayfield,player_pass_yds,147834,2026-08-22T23:30:00Z,Tampa Bay Buccaneers,Kansas City Chiefs,betr,46.5,True
+00-0034855,Baker Mayfield,player_pass_yds,147834,2026-08-22T23:30:00Z,Tampa Bay Buccaneers,Kansas City Chiefs,underdog,32.5,True

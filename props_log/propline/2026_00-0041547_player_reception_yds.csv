@@ -1,0 +1,33 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0041547,KC Concepcion,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,rebet,36.5,True
+00-0041547,KC Concepcion,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,36.5,True
+00-0041547,KC Concepcion,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,lowvig,34.5,True
+00-0041547,KC Concepcion,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,sleeper,36.5,True
+00-0041547,KC Concepcion,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,dabble,35.5,True
+00-0041547,KC Concepcion,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betway,34.5,True
+00-0041547,KC Concepcion,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,novig,33.5,True
+00-0041547,KC Concepcion,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,hardrock,39.5,True
+00-0041547,KC Concepcion,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,bovada,35.5,True
+00-0041547,KC Concepcion,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,prizepicks,29.5,True
+00-0041547,KC Concepcion,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betonlineag,34.5,True
+00-0041547,KC Concepcion,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,prizepicks,33.5,True
+00-0041547,KC Concepcion,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,novig,33.5,True
+00-0041547,KC Concepcion,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,betway,33.5,True
+00-0041547,KC Concepcion,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,bovada,32.5,True
+00-0041547,KC Concepcion,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,hardrock,99.5,True
+00-0041547,KC Concepcion,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,sleeper,33.5,True
+00-0041547,KC Concepcion,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,pinnacle,33.5,True
+00-0041547,KC Concepcion,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,dabble,33.5,True
+00-0041547,KC Concepcion,player_reception_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,betway,30.5,True
+00-0041547,KC Concepcion,player_reception_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,prizepicks,9.5,True
+00-0041547,KC Concepcion,player_reception_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,pinnacle,36.5,True
+00-0041547,KC Concepcion,player_reception_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,fliff,27.5,True
+00-0041547,KC Concepcion,player_reception_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,bovada,32.5,True
+00-0041547,KC Concepcion,player_reception_yds,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,bovada,33.5,True
+00-0041547,KC Concepcion,player_reception_yds,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,betway,32.5,True
+00-0041547,KC Concepcion,player_reception_yds,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,betr,32.5,True
+00-0041547,KC Concepcion,player_reception_yds,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,prizepicks,9.5,True
+00-0041547,KC Concepcion,player_reception_yds,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,pinnacle,33.5,True
+00-0041547,KC Concepcion,player_reception_yds,147753,2026-08-22T17:00:00Z,Cleveland Browns,Buffalo Bills,underdog,24.5,True
+00-0041547,KC Concepcion,player_reception_yds,59768,2026-08-15T17:00:00Z,Chicago Bears,Cleveland Browns,underdog,20.5,True
+00-0041547,KC Concepcion,player_reception_yds,59768,2026-08-15T17:00:00Z,Chicago Bears,Cleveland Browns,betr,20.5,True

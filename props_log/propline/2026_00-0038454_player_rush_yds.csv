@@ -1,0 +1,32 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038454,Keaton Mitchell,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prophetx,17.5,True
+00-0038454,Keaton Mitchell,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sleeper,18.5,True
+00-0038454,Keaton Mitchell,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,betway,19.5,True
+00-0038454,Keaton Mitchell,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,parlayplay,17.5,True
+00-0038454,Keaton Mitchell,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,novig,18.5,True
+00-0038454,Keaton Mitchell,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,pinnacle,18.5,True
+00-0038454,Keaton Mitchell,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,dabble,21.5,True
+00-0038454,Keaton Mitchell,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,pick6,18.5,True
+00-0038454,Keaton Mitchell,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,courtside,17.5,True
+00-0038454,Keaton Mitchell,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,rebet,17.5,True
+00-0038454,Keaton Mitchell,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sportzino,19.5,True
+00-0038454,Keaton Mitchell,player_rush_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prizepicks,18.5,True
+00-0038454,Keaton Mitchell,player_rush_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,prizepicks,14.5,True
+00-0038454,Keaton Mitchell,player_rush_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,dabble,14.5,True
+00-0038454,Keaton Mitchell,player_rush_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,betway,14.5,True
+00-0038454,Keaton Mitchell,player_rush_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,pinnacle,14.5,True
+00-0038454,Keaton Mitchell,player_rush_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,prophetx,13.5,True
+00-0038454,Keaton Mitchell,player_rush_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,sleeper,14.5,True
+00-0038454,Keaton Mitchell,player_rush_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,parlayplay,13.5,True
+00-0038454,Keaton Mitchell,player_rush_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,novig,13.5,True
+00-0038454,Keaton Mitchell,player_rush_yds,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,betway,22.5,True
+00-0038454,Keaton Mitchell,player_rush_yds,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,prizepicks,8.5,True
+00-0038454,Keaton Mitchell,player_rush_yds,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,bovada,22.5,True
+00-0038454,Keaton Mitchell,player_rush_yds,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,hardrock,99.5,True
+00-0038454,Keaton Mitchell,player_rush_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,prizepicks,9.5,True
+00-0038454,Keaton Mitchell,player_rush_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,betway,28.5,True
+00-0038454,Keaton Mitchell,player_rush_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,prophetx,26.5,True
+00-0038454,Keaton Mitchell,player_rush_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,pinnacle,24.5,True
+00-0038454,Keaton Mitchell,player_rush_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,betmgm,22.5,True
+00-0038454,Keaton Mitchell,player_rush_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,hardrock,99.5,True
+00-0038454,Keaton Mitchell,player_rush_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,bovada,25.5,True

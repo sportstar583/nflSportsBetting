@@ -1,0 +1,34 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0030506,Travis Kelce,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,betway,49.5,True
+00-0030506,Travis Kelce,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,novig,48.5,True
+00-0030506,Travis Kelce,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,prophetx,50.5,True
+00-0030506,Travis Kelce,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,rebet,49.5,True
+00-0030506,Travis Kelce,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,hardrock,49.5,True
+00-0030506,Travis Kelce,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,pinnacle,47.5,True
+00-0030506,Travis Kelce,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,pick6,49.5,True
+00-0030506,Travis Kelce,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,betonlineag,49.5,True
+00-0030506,Travis Kelce,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,lowvig,49.5,True
+00-0030506,Travis Kelce,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,bovada,49.5,True
+00-0030506,Travis Kelce,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,sportzino,47.5,True
+00-0030506,Travis Kelce,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,sleeper,49.5,True
+00-0030506,Travis Kelce,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,dabble,47.5,True
+00-0030506,Travis Kelce,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,parlayplay,50.5,True
+00-0030506,Travis Kelce,player_reception_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,pinnacle,52.5,True
+00-0030506,Travis Kelce,player_reception_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,parlayplay,50.5,True
+00-0030506,Travis Kelce,player_reception_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,sleeper,52.5,True
+00-0030506,Travis Kelce,player_reception_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,novig,51.5,True
+00-0030506,Travis Kelce,player_reception_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,courtside,51.5,True
+00-0030506,Travis Kelce,player_reception_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,prophetx,50.5,True
+00-0030506,Travis Kelce,player_reception_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,betway,50.5,True
+00-0030506,Travis Kelce,player_reception_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,dabble,47.5,True
+00-0030506,Travis Kelce,player_reception_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,bovada,51.5,True
+00-0030506,Travis Kelce,player_reception_yds,32646,2026-09-21T00:22:43Z,Kansas City Chiefs,Indianapolis Colts,pinnacle,41.5,True
+00-0030506,Travis Kelce,player_reception_yds,32646,2026-09-21T00:22:43Z,Kansas City Chiefs,Indianapolis Colts,betway,41.5,True
+00-0030506,Travis Kelce,player_reception_yds,32646,2026-09-21T00:22:43Z,Kansas City Chiefs,Indianapolis Colts,bovada,40.5,True
+00-0030506,Travis Kelce,player_reception_yds,32646,2026-09-21T00:22:43Z,Kansas City Chiefs,Indianapolis Colts,betonlineag,42.5,True
+00-0030506,Travis Kelce,player_reception_yds,32646,2026-09-21T00:22:43Z,Kansas City Chiefs,Indianapolis Colts,lowvig,42.5,True
+00-0030506,Travis Kelce,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,bovada,41.5,True
+00-0030506,Travis Kelce,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,lowvig,40.5,True
+00-0030506,Travis Kelce,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,betonlineag,40.5,True
+00-0030506,Travis Kelce,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,betway,38.5,True
+00-0030506,Travis Kelce,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,betr,41.5,True

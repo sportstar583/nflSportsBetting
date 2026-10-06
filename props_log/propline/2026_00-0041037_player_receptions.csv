@@ -1,0 +1,37 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0041037,Denzel Boston,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,rebet,2.5,True
+00-0041037,Denzel Boston,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,hardrock,2.5,True
+00-0041037,Denzel Boston,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,2.5,True
+00-0041037,Denzel Boston,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betway,2.5,True
+00-0041037,Denzel Boston,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,prizepicks,2.5,True
+00-0041037,Denzel Boston,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,2.5,True
+00-0041037,Denzel Boston,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,sleeper,2.5,True
+00-0041037,Denzel Boston,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,prophetx,2.5,True
+00-0041037,Denzel Boston,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,2.5,True
+00-0041037,Denzel Boston,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,lowvig,2.5,True
+00-0041037,Denzel Boston,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betonlineag,2.5,True
+00-0041037,Denzel Boston,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,courtside,2.5,True
+00-0041037,Denzel Boston,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,novig,1.5,True
+00-0041037,Denzel Boston,player_receptions,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,betmgm,3.5,True
+00-0041037,Denzel Boston,player_receptions,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,courtside,3.5,True
+00-0041037,Denzel Boston,player_receptions,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,betway,3.5,True
+00-0041037,Denzel Boston,player_receptions,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,hardrock,7.5,True
+00-0041037,Denzel Boston,player_receptions,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,prophetx,3.5,True
+00-0041037,Denzel Boston,player_receptions,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,sleeper,3.5,True
+00-0041037,Denzel Boston,player_receptions,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,fanduel,3.5,True
+00-0041037,Denzel Boston,player_receptions,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,prizepicks,3.5,True
+00-0041037,Denzel Boston,player_receptions,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,novig,2.5,True
+00-0041037,Denzel Boston,player_receptions,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,betway,2.5,True
+00-0041037,Denzel Boston,player_receptions,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,pinnacle,2.5,True
+00-0041037,Denzel Boston,player_receptions,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,prizepicks,2.5,True
+00-0041037,Denzel Boston,player_receptions,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,prophetx,1.5,True
+00-0041037,Denzel Boston,player_receptions,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,hardrock,7.5,True
+00-0041037,Denzel Boston,player_receptions,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,fanduel,2.5,True
+00-0041037,Denzel Boston,player_receptions,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,betmgm,2.5,True
+00-0041037,Denzel Boston,player_receptions,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,prophetx,2.5,True
+00-0041037,Denzel Boston,player_receptions,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,fanduel,2.5,True
+00-0041037,Denzel Boston,player_receptions,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,hardrock,6.5,True
+00-0041037,Denzel Boston,player_receptions,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,betway,2.5,True
+00-0041037,Denzel Boston,player_receptions,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,prizepicks,1.5,True
+00-0041037,Denzel Boston,player_receptions,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,betmgm,2.5,True
+00-0041037,Denzel Boston,player_receptions,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,pinnacle,2.5,True

@@ -1,0 +1,33 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0033881,Evan Engram,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,prophetx,17.5,True
+00-0033881,Evan Engram,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,betway,17.5,True
+00-0033881,Evan Engram,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,pick6,16.5,True
+00-0033881,Evan Engram,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,novig,16.5,True
+00-0033881,Evan Engram,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,hardrock,24.5,True
+00-0033881,Evan Engram,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,dabble,17.5,True
+00-0033881,Evan Engram,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,parlayplay,16.5,True
+00-0033881,Evan Engram,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,rebet,17.5,True
+00-0033881,Evan Engram,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,sportzino,17.5,True
+00-0033881,Evan Engram,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,sleeper,17.5,True
+00-0033881,Evan Engram,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,prizepicks,17.5,True
+00-0033881,Evan Engram,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betway,21.5,True
+00-0033881,Evan Engram,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,dabble,21.5,True
+00-0033881,Evan Engram,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,novig,20.5,True
+00-0033881,Evan Engram,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,sleeper,21.5,True
+00-0033881,Evan Engram,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,hardrock,79.5,True
+00-0033881,Evan Engram,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,21.5,True
+00-0033881,Evan Engram,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,prizepicks,19.5,True
+00-0033881,Evan Engram,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,lowvig,22.5,True
+00-0033881,Evan Engram,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betonlineag,22.5,True
+00-0033881,Evan Engram,player_reception_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,prophetx,23.5,True
+00-0033881,Evan Engram,player_reception_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,prizepicks,4.5,True
+00-0033881,Evan Engram,player_reception_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,pinnacle,24.5,True
+00-0033881,Evan Engram,player_reception_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,betway,25.5,True
+00-0033881,Evan Engram,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,prizepicks,2.5,True
+00-0033881,Evan Engram,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,prophetx,19.5,True
+00-0033881,Evan Engram,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,betway,22.5,True
+00-0033881,Evan Engram,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,pinnacle,22.5,True
+00-0033881,Evan Engram,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,lowvig,23.5,True
+00-0033881,Evan Engram,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,betonlineag,23.5,True
+00-0033881,Evan Engram,player_reception_yds,59769,2026-08-14T23:00:00Z,Atlanta Falcons,Denver Broncos,betr,6.5,True
+00-0033881,Evan Engram,player_reception_yds,59769,2026-08-14T23:00:00Z,Atlanta Falcons,Denver Broncos,underdog,6.5,True

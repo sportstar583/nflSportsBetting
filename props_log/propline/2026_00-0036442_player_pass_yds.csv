@@ -1,0 +1,41 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036442,Joe Burrow,player_pass_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,prophetx,264.5,True
+00-0036442,Joe Burrow,player_pass_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,betway,275.5,True
+00-0036442,Joe Burrow,player_pass_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,courtside,271.5,True
+00-0036442,Joe Burrow,player_pass_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,prizepicks,239.5,True
+00-0036442,Joe Burrow,player_pass_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,pinnacle,269.5,True
+00-0036442,Joe Burrow,player_pass_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,rebet,272.5,True
+00-0036442,Joe Burrow,player_pass_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,hardrock,274.5,True
+00-0036442,Joe Burrow,player_pass_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,sleeper,269.5,True
+00-0036442,Joe Burrow,player_pass_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,pick6,272.5,True
+00-0036442,Joe Burrow,player_pass_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,sportzino,278.5,True
+00-0036442,Joe Burrow,player_pass_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,dabble,267.5,True
+00-0036442,Joe Burrow,player_pass_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,lowvig,269.5,True
+00-0036442,Joe Burrow,player_pass_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,bovada,269.5,True
+00-0036442,Joe Burrow,player_pass_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,betonlineag,269.5,True
+00-0036442,Joe Burrow,player_pass_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,novig,272.5,True
+00-0036442,Joe Burrow,player_pass_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,novig,251.5,True
+00-0036442,Joe Burrow,player_pass_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,courtside,250.5,True
+00-0036442,Joe Burrow,player_pass_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,prophetx,259.5,True
+00-0036442,Joe Burrow,player_pass_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,betway,254.5,True
+00-0036442,Joe Burrow,player_pass_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,prizepicks,177.5,True
+00-0036442,Joe Burrow,player_pass_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,hardrock,174.5,True
+00-0036442,Joe Burrow,player_pass_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,pinnacle,253.5,True
+00-0036442,Joe Burrow,player_pass_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,dabble,253.5,True
+00-0036442,Joe Burrow,player_pass_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,sleeper,253.5,True
+00-0036442,Joe Burrow,player_pass_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,bovada,252.5,True
+00-0036442,Joe Burrow,player_pass_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,prizepicks,174.5,True
+00-0036442,Joe Burrow,player_pass_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,prophetx,248.5,True
+00-0036442,Joe Burrow,player_pass_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,betway,246.5,True
+00-0036442,Joe Burrow,player_pass_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,pinnacle,249.5,True
+00-0036442,Joe Burrow,player_pass_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,lowvig,250.5,True
+00-0036442,Joe Burrow,player_pass_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,bovada,247.5,True
+00-0036442,Joe Burrow,player_pass_yds,32640,2026-09-20T17:02:38Z,Houston Texans,Cincinnati Bengals,betonlineag,250.5,True
+00-0036442,Joe Burrow,player_pass_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betr,269.5,True
+00-0036442,Joe Burrow,player_pass_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,bovada,270.5,True
+00-0036442,Joe Burrow,player_pass_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betway,270.5,True
+00-0036442,Joe Burrow,player_pass_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,prizepicks,196.5,True
+00-0036442,Joe Burrow,player_pass_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,prophetx,271.5,True
+00-0036442,Joe Burrow,player_pass_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,pinnacle,269.5,True
+00-0036442,Joe Burrow,player_pass_yds,59777,2026-08-14T02:00:00Z,Cincinnati Bengals,Detroit Lions,underdog,54.5,True
+00-0036442,Joe Burrow,player_pass_yds,59777,2026-08-14T02:00:00Z,Cincinnati Bengals,Detroit Lions,betr,55.5,True

@@ -1,0 +1,32 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0035719,Deebo Samuel Sr.,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,parlayplay,32.5,True
+00-0035719,Deebo Samuel Sr.,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,sportzino,31.5,True
+00-0035719,Deebo Samuel Sr.,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,sleeper,34.5,True
+00-0035719,Deebo Samuel Sr.,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,bovada,31.5,True
+00-0035719,Deebo Samuel Sr.,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,betway,34.5,True
+00-0035719,Deebo Samuel Sr.,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,prophetx,32.5,True
+00-0035719,Deebo Samuel Sr.,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,pick6,33.5,True
+00-0035719,Deebo Samuel Sr.,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,novig,32.5,True
+00-0035719,Deebo Samuel Sr.,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,prizepicks,29.5,True
+00-0035719,Deebo Samuel Sr.,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,dabble,31.5,True
+00-0035719,Deebo Samuel Sr.,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,pinnacle,34.5,True
+00-0035719,Deebo Samuel Sr.,player_reception_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,pinnacle,40.5,True
+00-0035719,Deebo Samuel Sr.,player_reception_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,parlayplay,40.5,True
+00-0035719,Deebo Samuel Sr.,player_reception_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,sleeper,41.5,True
+00-0035719,Deebo Samuel Sr.,player_reception_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,betway,38.5,True
+00-0035719,Deebo Samuel Sr.,player_reception_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,dabble,38.5,True
+00-0035719,Deebo Samuel Sr.,player_reception_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,novig,38.5,True
+00-0035719,Deebo Samuel Sr.,player_reception_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,prizepicks,36.5,True
+00-0035719,Deebo Samuel Sr.,player_reception_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,courtside,40.5,True
+00-0035719,Deebo Samuel Sr.,player_reception_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,bovada,41.5,True
+00-0035719,Deebo Samuel Sr.,player_reception_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,prizepicks,7.5,True
+00-0035719,Deebo Samuel Sr.,player_reception_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,betway,35.5,True
+00-0035719,Deebo Samuel Sr.,player_reception_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,pinnacle,35.5,True
+00-0035719,Deebo Samuel Sr.,player_reception_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,bovada,32.5,True
+00-0035719,Deebo Samuel Sr.,player_reception_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,prophetx,34.5,True
+00-0035719,Deebo Samuel Sr.,player_reception_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,prizepicks,8.5,True
+00-0035719,Deebo Samuel Sr.,player_reception_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,betr,29.5,True
+00-0035719,Deebo Samuel Sr.,player_reception_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,bovada,29.5,True
+00-0035719,Deebo Samuel Sr.,player_reception_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,prophetx,31.5,True
+00-0035719,Deebo Samuel Sr.,player_reception_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,pinnacle,28.5,True
+00-0035719,Deebo Samuel Sr.,player_reception_yds,147565,2026-08-21T02:00:00Z,Los Angeles Chargers,San Francisco 49ers,underdog,11.5,True

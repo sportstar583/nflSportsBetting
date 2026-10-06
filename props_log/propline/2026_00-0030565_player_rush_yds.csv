@@ -1,0 +1,36 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0030565,Geno Smith,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,pick6,10.5,True
+00-0030565,Geno Smith,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,prizepicks,11.5,True
+00-0030565,Geno Smith,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,prophetx,49.5,True
+00-0030565,Geno Smith,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,betway,11.5,True
+00-0030565,Geno Smith,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,sleeper,10.5,True
+00-0030565,Geno Smith,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,parlayplay,12.5,True
+00-0030565,Geno Smith,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,sportzino,11.5,True
+00-0030565,Geno Smith,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,pinnacle,10.5,True
+00-0030565,Geno Smith,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,courtside,12.5,True
+00-0030565,Geno Smith,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,rebet,10.5,True
+00-0030565,Geno Smith,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,novig,10.5,True
+00-0030565,Geno Smith,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,dabble,11.5,True
+00-0030565,Geno Smith,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,hardrock,24.5,True
+00-0030565,Geno Smith,player_rush_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,prophetx,39.5,True
+00-0030565,Geno Smith,player_rush_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,hardrock,39.5,True
+00-0030565,Geno Smith,player_rush_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,betway,11.5,True
+00-0030565,Geno Smith,player_rush_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,prizepicks,4.5,True
+00-0030565,Geno Smith,player_rush_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,courtside,11.5,True
+00-0030565,Geno Smith,player_rush_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,pinnacle,11.5,True
+00-0030565,Geno Smith,player_rush_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,dabble,12.5,True
+00-0030565,Geno Smith,player_rush_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,sleeper,11.5,True
+00-0030565,Geno Smith,player_rush_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,pinnacle,7.5,True
+00-0030565,Geno Smith,player_rush_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,hardrock,24.5,True
+00-0030565,Geno Smith,player_rush_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prophetx,7.5,True
+00-0030565,Geno Smith,player_rush_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prizepicks,2.5,True
+00-0030565,Geno Smith,player_rush_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,betway,6.5,True
+00-0030565,Geno Smith,player_rush_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,pinnacle,6.5,True
+00-0030565,Geno Smith,player_rush_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,betway,5.5,True
+00-0030565,Geno Smith,player_rush_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,fanatics,5.5,True
+00-0030565,Geno Smith,player_rush_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,hardrock,49.5,True
+00-0030565,Geno Smith,player_rush_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,betrivers,6.5,True
+00-0030565,Geno Smith,player_rush_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,prizepicks,0.5,True
+00-0030565,Geno Smith,player_rush_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,fanduel,6.5,True
+00-0030565,Geno Smith,player_rush_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,prophetx,5.5,True
+00-0030565,Geno Smith,player_rush_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,betr,6.5,True
