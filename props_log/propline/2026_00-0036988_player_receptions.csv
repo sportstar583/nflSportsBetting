@@ -1,0 +1,21 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036988,Josh Palmer,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,fliff,0.5,True
+00-0036988,Josh Palmer,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,sleeper,0.5,True
+00-0036988,Josh Palmer,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,sportzino,0.5,True
+00-0036988,Josh Palmer,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,polymarket_us,2.5,True
+00-0036988,Josh Palmer,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,prophetx,1.5,True
+00-0036988,Josh Palmer,player_receptions,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,polymarket_us,1.5,True
+00-0036988,Josh Palmer,player_receptions,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,betonlineag,1.5,True
+00-0036988,Josh Palmer,player_receptions,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,lowvig,1.5,True
+00-0036988,Josh Palmer,player_receptions,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,betmgm,1.5,True
+00-0036988,Josh Palmer,player_receptions,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,hardrock,0.5,True
+00-0036988,Josh Palmer,player_receptions,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,fanduel,1.5,True
+00-0036988,Josh Palmer,player_receptions,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,pinnacle,1.5,True
+00-0036988,Josh Palmer,player_receptions,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,betway,1.5,True
+00-0036988,Josh Palmer,player_receptions,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,prophetx,0.5,True
+00-0036988,Josh Palmer,player_receptions,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,fliff,0.5,True
+00-0036988,Josh Palmer,player_receptions,25073,2026-09-13T17:00:00Z,Houston Texans,Buffalo Bills,prophetx,1.5,True
+00-0036988,Josh Palmer,player_receptions,25073,2026-09-13T17:00:00Z,Houston Texans,Buffalo Bills,fanduel,1.5,True
+00-0036988,Josh Palmer,player_receptions,25073,2026-09-13T17:00:00Z,Houston Texans,Buffalo Bills,pinnacle,1.5,True
+00-0036988,Josh Palmer,player_receptions,25073,2026-09-13T17:00:00Z,Houston Texans,Buffalo Bills,hardrock,4.5,True
+00-0036988,Josh Palmer,player_receptions,25073,2026-09-13T17:00:00Z,Houston Texans,Buffalo Bills,betway,1.5,True

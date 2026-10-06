@@ -1,0 +1,42 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0034753,Mark Andrews,player_receptions,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,parlayplay,3.5,True
+00-0034753,Mark Andrews,player_receptions,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,prophetx,3.5,True
+00-0034753,Mark Andrews,player_receptions,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,betway,3.5,True
+00-0034753,Mark Andrews,player_receptions,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,pinnacle,3.5,True
+00-0034753,Mark Andrews,player_receptions,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,fanduel,3.5,True
+00-0034753,Mark Andrews,player_receptions,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,hardrock,3.5,True
+00-0034753,Mark Andrews,player_receptions,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,sportzino,3.5,True
+00-0034753,Mark Andrews,player_receptions,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,rebet,3.5,True
+00-0034753,Mark Andrews,player_receptions,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,novig,2.5,True
+00-0034753,Mark Andrews,player_receptions,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,betmgm,3.5,True
+00-0034753,Mark Andrews,player_receptions,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,prizepicks,3.5,True
+00-0034753,Mark Andrews,player_receptions,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,sleeper,3.5,True
+00-0034753,Mark Andrews,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,betmgm,4.5,True
+00-0034753,Mark Andrews,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,parlayplay,4.5,True
+00-0034753,Mark Andrews,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,prizepicks,3.5,True
+00-0034753,Mark Andrews,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,fanduel,4.5,True
+00-0034753,Mark Andrews,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,pinnacle,4.5,True
+00-0034753,Mark Andrews,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,dabble,4.5,True
+00-0034753,Mark Andrews,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,sleeper,4.5,True
+00-0034753,Mark Andrews,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,prophetx,4.5,True
+00-0034753,Mark Andrews,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,hardrock,9.5,True
+00-0034753,Mark Andrews,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,fliff,4.5,True
+00-0034753,Mark Andrews,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,novig,4.5,True
+00-0034753,Mark Andrews,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,betway,3.5,True
+00-0034753,Mark Andrews,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,betonlineag,4.5,True
+00-0034753,Mark Andrews,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,lowvig,4.5,True
+00-0034753,Mark Andrews,player_receptions,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,pinnacle,4.5,True
+00-0034753,Mark Andrews,player_receptions,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,betway,4.5,True
+00-0034753,Mark Andrews,player_receptions,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,hardrock,2.5,True
+00-0034753,Mark Andrews,player_receptions,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,betmgm,4.5,True
+00-0034753,Mark Andrews,player_receptions,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,prizepicks,4.0,True
+00-0034753,Mark Andrews,player_receptions,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,prophetx,4.5,True
+00-0034753,Mark Andrews,player_receptions,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,fanduel,4.5,True
+00-0034753,Mark Andrews,player_receptions,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,pinnacle,3.5,True
+00-0034753,Mark Andrews,player_receptions,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,betway,3.5,True
+00-0034753,Mark Andrews,player_receptions,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,fanduel,3.5,True
+00-0034753,Mark Andrews,player_receptions,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,betmgm,3.5,True
+00-0034753,Mark Andrews,player_receptions,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,prophetx,3.5,True
+00-0034753,Mark Andrews,player_receptions,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,prizepicks,1.5,True
+00-0034753,Mark Andrews,player_receptions,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,lowvig,3.5,True
+00-0034753,Mark Andrews,player_receptions,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,betonlineag,3.5,True

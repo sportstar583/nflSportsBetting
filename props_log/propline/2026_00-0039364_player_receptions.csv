@@ -1,0 +1,9 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039364,Sione Vaki,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,dabble,0.5,True
+00-0039364,Sione Vaki,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,prizepicks,0.5,True
+00-0039364,Sione Vaki,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,parlayplay,0.5,True
+00-0039364,Sione Vaki,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,sportzino,0.5,True
+00-0039364,Sione Vaki,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,prizepicks,0.5,True
+00-0039364,Sione Vaki,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,underdog,0.5,True
+00-0039364,Sione Vaki,player_receptions,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,underdog,0.5,True
+00-0039364,Sione Vaki,player_receptions,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,prizepicks,0.5,True

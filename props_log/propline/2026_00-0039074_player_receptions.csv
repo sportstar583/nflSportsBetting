@@ -1,0 +1,6 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039074,Davis Allen,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,dabble,1.5,True
+00-0039074,Davis Allen,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,sportzino,1.5,True
+00-0039074,Davis Allen,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,prizepicks,1.5,True
+00-0039074,Davis Allen,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,parlayplay,1.5,True
+00-0039074,Davis Allen,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,prizepicks,0.5,True

@@ -1,0 +1,20 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036040,Juwan Johnson,player_receptions,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,sleeper,3.5,True
+00-0036040,Juwan Johnson,player_receptions,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,novig,3.5,True
+00-0036040,Juwan Johnson,player_receptions,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,fanduel,3.5,True
+00-0036040,Juwan Johnson,player_receptions,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,pinnacle,3.5,True
+00-0036040,Juwan Johnson,player_receptions,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,betmgm,3.5,True
+00-0036040,Juwan Johnson,player_receptions,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,betway,3.5,True
+00-0036040,Juwan Johnson,player_receptions,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,prophetx,3.5,True
+00-0036040,Juwan Johnson,player_receptions,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,dabble,3.5,True
+00-0036040,Juwan Johnson,player_receptions,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,fanduel,3.5,True
+00-0036040,Juwan Johnson,player_receptions,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,pinnacle,3.5,True
+00-0036040,Juwan Johnson,player_receptions,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,betway,3.5,True
+00-0036040,Juwan Johnson,player_receptions,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,prophetx,3.5,True
+00-0036040,Juwan Johnson,player_receptions,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,betmgm,3.5,True
+00-0036040,Juwan Johnson,player_receptions,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betway,4.5,True
+00-0036040,Juwan Johnson,player_receptions,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,hardrock,9.5,True
+00-0036040,Juwan Johnson,player_receptions,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,prophetx,4.5,True
+00-0036040,Juwan Johnson,player_receptions,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,pinnacle,4.5,True
+00-0036040,Juwan Johnson,player_receptions,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betmgm,4.5,True
+00-0036040,Juwan Johnson,player_receptions,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,fanduel,4.5,True
