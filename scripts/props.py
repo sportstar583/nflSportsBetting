@@ -159,7 +159,22 @@ def build(upcoming: pl.DataFrame | None = None, wind: dict | None = None) -> pl.
                         (pl.col("plr_ypt_man_prev") - pl.col("plr_ypt_zone_prev")).alias("plr_man_edge_prev"))
           .with_columns(pl.col("team_inj_skill", "team_inj_wr", "team_inj_rb", "team_inj_te",
                                "opp_inj_db", "opp_inj_front").fill_null(0)))
-    return prior_year(qb_quality(vacated_volume(df, sched)))
+    return missed_games(prior_year(qb_quality(vacated_volume(df, sched))), sched)
+
+
+def missed_games(df: pl.DataFrame, sched: pl.DataFrame) -> pl.DataFrame:
+    """missed_prev: team games the player missed right before this one, same season, capped at 4.
+    Returning players fall well short of their pre-absence average (snaps are managed), which the
+    rolling averages can't see. Injury type on top added nothing (scripts/injury_types.py)."""
+    reg = sched.filter(pl.col("game_type") == "REG")
+    tg = (pl.concat([reg.select("game_id", "season", "week", pl.col("home_team").alias("team")),
+                     reg.select("game_id", "season", "week", pl.col("away_team").alias("team"))])
+          .sort("team", "season", "week").with_columns(pl.int_range(pl.len()).over("team", "season").alias("gidx"))
+          .select("game_id", "team", "gidx"))
+    return (df.join(tg, on=["game_id", "team"], how="left").sort("player_id", "season", "gameday")
+            .with_columns((pl.col("gidx") - pl.col("gidx").shift(1).over("player_id", "season") - 1)
+                          .fill_null(0).clip(0, 4).alias("missed_prev"))
+            .drop("gidx"))
 
 
 def prior_year(df: pl.DataFrame) -> pl.DataFrame:
@@ -518,7 +533,8 @@ def own_injury() -> pl.DataFrame:
 
 COMMON = ["implied_total", "team_spread", "indoor", "wind", "e_team_plays", "e_team_pass_rate",
           "e_offense_pct", "team_inj_skill", "team_inj_wr", "team_inj_rb", "team_inj_te",
-          "opp_inj_db", "opp_inj_front", "own_q", "own_dnp", "n_prior", "rest", "short_rest", "off_bye"]
+          "opp_inj_db", "opp_inj_front", "own_q", "own_dnp", "n_prior", "rest", "short_rest", "off_bye",
+          "missed_prev"]
 # Volume features are the injury-ADJUSTED ones (vacated_volume): a backup whose starter is out is
 # shown to the model as a lead back. Same overall MAE; clearly better when a starter is out.
 # Next Gen / PFR / expected-yards features were chosen by ablation (walk-forward MAE); the rest of

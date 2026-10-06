@@ -202,6 +202,28 @@ Mind the selection: a fetch restricted by usage *in the graded week* (e.g. `--on
 keeps only players who had a big game, which inflates the over rate; fetch the full season list
 before reading the hit rates.
 
+## Injury type, playing through it, and coming back (scripts/injury_types.py)
+
+Skill-player games 2018-2025, grouped from the weekly injury reports; yards vs the player's
+pre-game average (median), snap share vs average, and how often he went under the walk-forward
+model (2022-2025):
+
+| group | games | yards vs avg | snaps vs avg | under the model |
+|---|---|---|---|---|
+| healthy | 35,446 | 0.84 | 1.02 | 50% |
+| playing through (on the report, played) | 2,576 | 0.79 | 1.00 | 50% |
+| first game back after 1 missed | 2,051 | 0.58 | 0.89 | 58% |
+| first game back after 2+ missed | 1,779 | 0.45 | 0.76 | 66% |
+
+Playing through an injury is already priced (the Questionable / practice features). The miss is
+the return game: snaps are managed and the model, whose rolling averages only see games played,
+overshot returners. By injury, playing through ankle/foot ran under the model ~56-59%, shoulder,
+hamstring, knee and concussion about 50%; the report says "Ankle", not high vs low, and the
+per-injury samples are small. In the walk-forward model `missed_prev` (games missed right before
+this one, capped at 4) helped every market (MAE pass 62.46 -> 62.27, rush 25.04 -> 25.03, rec
+22.72 -> 22.71, receptions 1.654 -> 1.653; returning QBs 85.1 -> 78.4, returning receivers
+20.5 -> 19.8). Adding injury-type flags on top changed nothing, so only `missed_prev` is used.
+
 ## QB passing yards as attempts x yards per attempt (tested, not used)
 
 `scripts/qb_two_stage.py` splits passing yards into an attempts model (game script, pace, PROE,

@@ -1,0 +1,36 @@
+group,injury,n,yds_vs_avg,snaps_vs_avg,n_model,vs_model_med,vs_model_pct,under_model
+playing through,ankle,314,0.761,1.0,121,-6.5,-0.163,0.595
+playing through,back,81,0.795,1.019,34,3.7,0.124,0.471
+playing through,calf,59,0.672,0.942,25,3.1,0.053,0.48
+playing through,concussion,51,1.049,1.125,15,17.5,0.69,0.2
+playing through,foot,196,0.75,0.995,76,-5.5,-0.146,0.566
+playing through,groin,97,0.808,0.976,39,2.6,0.098,0.436
+playing through,hamstring,185,0.724,0.958,68,1.6,0.042,0.485
+playing through,hand,70,0.877,1.015,34,1.9,0.029,0.441
+playing through,hip,112,0.926,0.968,42,-1.3,-0.04,0.5
+playing through,illness,113,0.79,0.987,44,-0.3,-0.002,0.5
+playing through,knee,353,0.732,0.987,148,-0.6,-0.01,0.52
+playing through,not injury,469,0.834,0.992,238,2.2,0.046,0.458
+playing through,quad,79,0.887,0.996,33,-2.0,-0.075,0.515
+playing through,ribs,61,0.713,1.006,19,-13.3,-0.36,0.632
+playing through,shoulder,186,0.851,1.018,66,-3.1,-0.061,0.53
+return after 1 missed,ankle,78,0.615,1.029,29,-10.1,-0.266,0.552
+return after 1 missed,concussion,87,0.726,1.055,43,-2.6,-0.063,0.581
+return after 1 missed,foot,31,0.793,0.963,14,-14.4,-0.337,0.643
+return after 1 missed,groin,27,0.622,1.012,10,20.3,0.669,0.3
+return after 1 missed,hamstring,70,0.662,0.99,23,-5.6,-0.139,0.565
+return after 1 missed,hip,29,0.842,0.938,9,11.4,0.303,0.444
+return after 1 missed,knee,62,0.791,0.992,29,0.9,0.012,0.483
+return after 1 missed,shoulder,51,0.833,1.02,18,2.9,0.085,0.444
+return after 2+ missed,ankle,119,0.761,0.82,40,-12.6,-0.209,0.6
+return after 2+ missed,calf,35,0.412,0.863,7,-15.6,-0.49,0.857
+return after 2+ missed,concussion,65,0.679,1.007,21,-11.3,-0.156,0.619
+return after 2+ missed,foot,46,0.555,0.809,13,-9.3,-0.229,0.923
+return after 2+ missed,groin,30,0.341,0.992,7,-0.2,-0.006,0.571
+return after 2+ missed,hamstring,130,0.619,0.917,52,-7.4,-0.202,0.615
+return after 2+ missed,hand,25,0.713,0.874,9,-17.1,-0.092,0.667
+return after 2+ missed,illness,25,0.535,0.953,4,1.1,-0.198,0.5
+return after 2+ missed,knee,125,0.496,0.823,45,-5.4,-0.253,0.556
+return after 2+ missed,not injury,30,0.495,0.757,7,-9.6,-0.658,0.857
+return after 2+ missed,quad,29,0.52,0.766,6,28.8,0.705,0.0
+return after 2+ missed,shoulder,55,0.912,0.938,18,-14.5,-0.184,0.778
