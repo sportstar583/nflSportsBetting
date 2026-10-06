@@ -114,3 +114,23 @@ nobody could bet. But games that were forecast windy still went under 56-58% at 
 against the closing total. Losing seasons: 2020 and 2024. This is the strongest result in the repo,
 but it is a well-known angle, three thresholds were looked at, and the forecast used is the one
 close to kickoff, so bet it near game time. Track it on 2026 before trusting it.
+
+### Discounting games a player wasn't healthy for, or caught from a different QB
+For WR/TE/RB, the rolling averages in `props.py` give half weight to (a) games where the player was
+on the final injury report as Questionable/Doubtful without full practice, or was in his first
+game back from Out, and (b) games with a different starting QB than today's. The discount only
+applies when the player is healthy today. If he is still hurt, his hurt games are the best guide.
+Example: Drake London's 2025 weeks 16-18 (knee, Cousins at QB) dragged his rolling receiving
+yards to 63.8 going into 2026 week 3, Penix's first start. With the discount it is 75.4.
+
+Same player-games, 2022-2025 (`python scripts/props.py HURT_WEIGHT OTHER_QB_WEIGHT` to try others):
+
+| Weights (hurt, other QB) | Rec yds MAE | Rush yds MAE | Receptions MAE |
+| --- | --- | --- | --- |
+| 1, 1 (old) | 22.93 | 25.59 | 1.670 |
+| 0.5, 0.5 (new default) | 22.84 | 25.45 | 1.671 |
+| 0, 1 (drop hurt games) | 23.11 | 26.34 | 1.690 |
+
+Small gain. Dropping hurt games entirely, or also discounting low-snap "left early" games, made
+projections worse: a player who was limited often stays limited. The health discount also made
+QB passing yards worse, so QBs are exempt.

@@ -22,6 +22,14 @@ import adjust
 DATA = Path(__file__).resolve().parent.parent / "data"
 RENAMES = {"OAK": "LV", "SD": "LAC", "STL": "LA"}
 HALF_LIFE = 4  # games; recent games count more, older games fade
+# Weight of a past game in a WR/TE/RB's rolling averages when he was not 100% (on the injury
+# report as Questionable/Doubtful without full practice, or first game back from Out) or caught
+# passes from a different QB than today's starter. 1.0 = count normally, 0 = drop it.
+# Same-rows backtest 2022-2025: rec yds MAE 22.93 -> 22.84, rush yds 25.59 -> 25.45, receptions
+# flat. Weights below 0.5, or adding "left early" low-snap games, made it worse; so did
+# applying the health weight to QBs (pass yds 64.2 -> 64.5), so QBs are exempt.
+HURT_WEIGHT = 0.5
+OTHER_QB_WEIGHT = 0.5
 TEST_SEASONS = [2022, 2023, 2024, 2025]
 SKILL = ["QB", "RB", "WR", "TE"]
 
@@ -29,6 +37,18 @@ SKILL = ["QB", "RB", "WR", "TE"]
 def ewm(col: str, by: str) -> pl.Expr:
     """Exponentially weighted mean of prior games only (shifted), per `by`."""
     return pl.col(col).shift(1).ewm_mean(half_life=HALF_LIFE, ignore_nulls=True).over(by)
+
+
+def wewm(col: str, by: str, w: str = "w") -> pl.Expr:
+    """Like ewm(), but each prior game also counts by its weight `w` (0-1).
+
+    Ratio of two decayed sums, so a down-weighted game still ages the games before it.
+    """
+    x = pl.col(col).cast(pl.Float64)
+    wt = pl.when(x.is_null() | x.is_nan()).then(0.0).otherwise(pl.col(w))
+    num = (x.fill_nan(None).fill_null(0) * wt).shift(1).ewm_mean(half_life=HALF_LIFE, adjust=True).over(by)
+    den = wt.shift(1).ewm_mean(half_life=HALF_LIFE, adjust=True).over(by)
+    return pl.when(den > 0).then(num / den)
 
 
 def load() -> tuple[pl.DataFrame, pl.DataFrame]:
@@ -91,7 +111,32 @@ def snap_share() -> pl.DataFrame:
             .select("game_id", pl.col("gsis_id").alias("player_id"), "offense_pct"))
 
 
-def build() -> pl.DataFrame:
+def health_flags() -> pl.DataFrame:
+    """Per player-week: played not at 100% per the final injury report.
+
+    `hurt_report`: Questionable/Doubtful without full practice that week.
+    `back_from_out`: listed Out the previous week (first game back).
+    """
+    inj = (pl.read_parquet(DATA / "raw" / "injuries.parquet")
+           .filter(pl.col("game_type").is_not_null())
+           .select(pl.col("season").cast(pl.Int32), pl.col("week").cast(pl.Int32),
+                   pl.col("gsis_id").alias("player_id"), "report_status", "practice_status")
+           .unique(["season", "week", "player_id"]))
+    hurt = (inj.filter(pl.col("report_status").is_in(["Questionable", "Doubtful"])
+                       & ~pl.col("practice_status").fill_null("").str.starts_with("Full"))
+            .select("season", "week", "player_id", pl.lit(True).alias("hurt_report")))
+    back = (inj.filter(pl.col("report_status") == "Out")
+            .select("season", (pl.col("week") + 1).alias("week"), "player_id", pl.lit(True).alias("back_from_out")))
+    return hurt.join(back, on=["season", "week", "player_id"], how="full", coalesce=True)
+
+
+def starting_qb(ps: pl.DataFrame) -> pl.DataFrame:
+    """Per team-game: the QB with the most pass attempts."""
+    return (ps.filter(pl.col("position") == "QB").group_by("game_id", "team")
+            .agg(pl.col("player_id").sort_by("attempts", descending=True).first().alias("qb_id")))
+
+
+def build(hurt_weight: float = HURT_WEIGHT, other_qb_weight: float = OTHER_QB_WEIGHT) -> pl.DataFrame:
     sched, ps = load()
     ctx = team_context(sched, ps)
     dfn = defense_allowed(ps, ctx)
@@ -108,17 +153,53 @@ def build() -> pl.DataFrame:
     inj = features.injury_snaps().select("season", "week", "team", pl.col("inj_skill").alias("team_inj_skill"))
 
     df = (ps.join(snap_share(), on=["game_id", "player_id"], how="left")
+          .join(health_flags(), on=["season", "week", "player_id"], how="left")
+          .join(starting_qb(ps), on=["game_id", "team"], how="left")
           .join(ctx.drop("gameday"), on=["game_id", "team"], how="left")
           .with_columns((pl.col("carries") / pl.col("team_car")).alias("carry_share"),
                         (pl.col("receiving_yards") / pl.col("targets")).alias("yds_per_tgt"),
                         (pl.col("rushing_yards") / pl.col("carries")).alias("yds_per_car"),
                         (pl.col("passing_yards") / pl.col("attempts")).alias("yds_per_att"))
           .sort("player_id", "gameday"))
+    # Down-weight games a skill player was not 100% for (on the report as hurt, or first game
+    # back). Also games with a different QB than today's starter (today's starter counts as
+    # known before kickoff).
+    hurt = (pl.col("hurt_report").fill_null(False) | pl.col("back_from_out").fill_null(False)) & (pl.col("position") != "QB")
+    df = df.with_columns(pl.when(hurt).then(hurt_weight).otherwise(1.0).alias("w_health"))
     rolling = ["passing_yards", "attempts", "yds_per_att", "rushing_yards", "carries", "carry_share",
                "yds_per_car", "receiving_yards", "receptions", "targets", "target_share",
                "air_yards_share", "yds_per_tgt", "offense_pct", "passing_epa", "fantasy_points_ppr"]
-    df = df.with_columns([ewm(c, "player_id").alias(f"e_{c}") for c in rolling]
-                         + [pl.col("game_id").cum_count().over("player_id").alias("n_prior")])
+    # Only discount the hurt games when the player is healthy today (not on this week's report as
+    # hurt or just back): a still-hurt player's hurt games are the best guide to how he plays now.
+    healthy_now = ~(pl.col("hurt_report").fill_null(False) | pl.col("back_from_out").fill_null(False))
+    df = df.with_columns(pl.col("game_id").cum_count().over("player_id").alias("n_prior"),
+                         healthy_now.alias("healthy_now"))
+    if hurt_weight != 1.0:
+        df = df.with_columns(pl.lit(1.0).alias("w_one"))
+        df = df.with_columns([wewm(c, "player_id", "w_one").alias(f"raw_{c}") for c in rolling]).drop("w_one")
+    if other_qb_weight == 1.0:
+        df = df.with_columns([wewm(c, "player_id", "w_health").alias(f"e_{c}") for c in rolling])
+    else:
+        # each game needs its own weights (relative to that game's QB), so compute the
+        # weighted average per distinct (player, today's QB) and keep rows that match
+        df = df.with_columns([pl.lit(None, pl.Float64).alias(f"e_{c}") for c in rolling])
+        parts = []
+        for (pos,), g in df.partition_by("position", as_dict=True).items():
+            if pos == "QB":
+                parts.append(g.with_columns([wewm(c, "player_id", "w_health").alias(f"e_{c}") for c in rolling]))
+                continue
+            pairs = g.select("player_id", pl.col("qb_id").alias("cur_qb")).unique()
+            x = (g.join(pairs, on="player_id")
+                 .with_columns((pl.col("w_health") * pl.when(pl.col("qb_id") == pl.col("cur_qb")).then(1.0)
+                                .otherwise(other_qb_weight)).alias("w_qb"))
+                 .sort("player_id", "cur_qb", "gameday")
+                 .with_columns([wewm(c, ["player_id", "cur_qb"], "w_qb").alias(f"e_{c}") for c in rolling])
+                 .filter(pl.col("qb_id").eq_missing(pl.col("cur_qb"))).drop("cur_qb", "w_qb"))
+            parts.append(x)
+        df = pl.concat(parts, how="vertical_relaxed").sort("player_id", "gameday")
+    if hurt_weight != 1.0:
+        df = df.with_columns([pl.when(pl.col("healthy_now")).then(pl.col(f"e_{c}")).otherwise(pl.col(f"raw_{c}"))
+                              .alias(f"e_{c}") for c in rolling]).drop([f"raw_{c}" for c in rolling])
     df = (df.join(dfn, left_on=["game_id", "opponent_team"], right_on=["game_id", "def_team"], how="left")
           .join(adj, left_on=["game_id", "opponent_team"], right_on=["game_id", "def_team"], how="left")
           .join(inj, on=["season", "week", "team"], how="left")
@@ -183,6 +264,8 @@ def evaluate(df: pl.DataFrame) -> pl.DataFrame:
 
 
 if __name__ == "__main__":
-    df = build()
+    import sys
+    args = [float(a) for a in sys.argv[1:]]
+    df = build(*args)
     print(f"player-games: {df.height}")
     print(evaluate(df))
