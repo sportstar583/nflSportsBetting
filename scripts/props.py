@@ -187,11 +187,14 @@ def build(upcoming: pl.DataFrame | None = None, wind: dict | None = None,
               .drop("hurt_report", "back_from_out", "w_one"))
     df = (df.join(own_injury(), on=["season", "week", "team", "player_id"], how="left")
           .with_columns(pl.col("own_q", "own_dnp", "own_out").fill_null(0)))
+    st_own, st_opp = special_teams(ctx)
     df = role_defense(df)
     df = qb_usage(df)
     df = (df.join(dfn, left_on=["game_id", "opponent_team"], right_on=["game_id", "def_team"], how="left")
           .join(defense_yoe(ctx), left_on=["game_id", "opponent_team"], right_on=["game_id", "def_team"], how="left")
           .join(turnovers(ctx), on=["game_id", "team"], how="left")
+          .join(st_own, on=["game_id", "team"], how="left")
+          .join(st_opp, on=["game_id", "opponent_team"], how="left")
           .join(proe(ctx), on=["game_id", "team"], how="left")
           .join(adj, left_on=["game_id", "opponent_team"], right_on=["game_id", "def_team"], how="left")
           .join(inj, on=["season", "week", "team"], how="left")
@@ -476,6 +479,41 @@ def proe(ctx: pl.DataFrame) -> pl.DataFrame:
     return (ctx.select("game_id", "team", "gameday").join(g, on=["game_id", "team"], how="left")
             .sort("team", "gameday").with_columns(ewm("proe_neutral", "team").alias("e_proe_neutral"))
             .select("game_id", "team", "e_proe_neutral"))
+
+
+ST_PLAYS = ["kickoff", "punt", "field_goal", "extra_point"]
+
+
+def special_teams(ctx: pl.DataFrame) -> pl.DataFrame:
+    """Per team-game, rolled over prior games: net special-teams EPA (kickoffs, punts, field goals
+    and extra points, for minus against) and where the offense's drives start (yards from the
+    opponent's end zone, first snap of each drive; lower = better field position).
+
+    Computed for the feature table but NOT model inputs: walk-forward 2022-2025, adding all four
+    (own and opponent ST EPA, own drive start, drive start allowed) made passing 62.17 -> 62.42 and
+    nothing else better; field position alone or ST EPA alone were flat or worse. The Vegas
+    implied total and spread already price special teams."""
+    pbp = (pl.scan_parquet(DATA / "raw" / "pbp" / "*.parquet")
+           .filter(pl.col("play_type").is_in(ST_PLAYS + ["pass", "run"]) & pl.col("posteam").is_not_null())
+           .select("game_id", "posteam", "defteam", "play_type", "epa", "fixed_drive", "yardline_100", "play_id").collect()
+           .with_columns(pl.col("posteam", "defteam").replace(RENAMES)))
+    st = pbp.filter(pl.col("play_type").is_in(ST_PLAYS) & pl.col("epa").is_not_null())
+    st = pl.concat([st.group_by("game_id", pl.col("posteam").alias("team")).agg(pl.col("epa").sum().alias("st_epa")),
+                    st.group_by("game_id", pl.col("defteam").alias("team")).agg((-pl.col("epa")).sum().alias("st_epa"))])
+    st = st.group_by("game_id", "team").agg(pl.col("st_epa").sum())
+    starts = (pbp.filter(pl.col("play_type").is_in(["pass", "run"]) & pl.col("yardline_100").is_not_null())
+              .sort("play_id").group_by("game_id", "posteam", "fixed_drive").first()
+              .group_by("game_id", pl.col("posteam").alias("team")).agg(pl.col("yardline_100").mean().alias("drive_start")))
+    g = (ctx.select("game_id", "team", "opp", "gameday").join(st, on=["game_id", "team"], how="left")
+         .join(starts, on=["game_id", "team"], how="left")
+         .join(starts.rename({"team": "opp", "drive_start": "drive_start_alw"}), on=["game_id", "opp"], how="left")
+         .sort("team", "gameday")
+         .with_columns(ewm("st_epa", "team").alias("e_st_epa"), ewm("drive_start", "team").alias("e_drive_start"),
+                       ewm("drive_start_alw", "team").alias("e_drive_start_alw")))
+    own = g.select("game_id", "team", "e_st_epa", "e_drive_start")
+    opp = g.select("game_id", pl.col("team").alias("opponent_team"), pl.col("e_st_epa").alias("opp_st_epa"),
+                   pl.col("e_drive_start_alw").alias("opp_drive_start_alw"))
+    return own, opp
 
 
 def turnovers(ctx: pl.DataFrame) -> pl.DataFrame:

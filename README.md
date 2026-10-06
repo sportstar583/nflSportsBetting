@@ -341,3 +341,17 @@ On the 2026 lines graded so far, the model's side wins 51.6% (was 50.6%; breakev
 best line blend weights are unchanged, so `props_week.BLEND` stays. Projections still sit below
 big recent averages, and that part is real: receivers averaging 95+ posted a median of 80.
 Drake London for 2026 week 4: recent average 93.2, projection 69.9 -> 72.4, line 80.5.
+
+### Special teams (tested, not used)
+`props.special_teams()` adds each team's rolling net special-teams EPA (kickoffs, punts, field
+goals, extra points), where its drives start, and the opponent's special-teams EPA and drive
+start allowed (`e_st_epa`, `e_drive_start`, `opp_st_epa`, `opp_drive_start_alw`). None helped in
+the walk-forward backtest, so they are not model inputs. The implied total and spread already
+price special teams.
+
+| Special-teams features | Pass yds | Rush yds | Rec yds | Receptions |
+| --- | --- | --- | --- | --- |
+| None (current) | 62.17 | 24.98 | 22.67 | 1.646 |
+| All four | 62.42 | 25.00 | 22.67 | 1.648 |
+| Field position only | 62.20 | 25.00 | 22.68 | 1.645 |
+| ST EPA only | 62.23 | 25.03 | 22.71 | 1.648 |
