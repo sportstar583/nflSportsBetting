@@ -202,6 +202,26 @@ Mind the selection: a fetch restricted by usage *in the graded week* (e.g. `--on
 keeps only players who had a big game, which inflates the over rate; fetch the full season list
 before reading the hit rates.
 
+## QB passing yards as attempts x yards per attempt (tested, not used)
+
+`scripts/qb_two_stage.py` splits passing yards into an attempts model (game script, pace, PROE,
+the QB's attempts, plus new features: attempts / plays / YPA the defense allows, the opponent
+offense's pace and pass rate) and a yards-per-attempt model, and multiplies them. Walk-forward
+MAE on passing yards, 2022-2025 (2,212 QB games):
+
+| variant | MAE |
+|---|---|
+| current one-step model | **62.46** |
+| one-step + the volume features | 63.15 |
+| attempts x YPA | 65.52 (65.61 after a bias correction; the gap is not bias) |
+| average of the two | 63.26 |
+
+Attempts are close to unpredictable beyond the QB's own recent average (model MAE 7.85 vs 7.87):
+game script and pace add almost nothing. The YPA model does beat the recent average (1.39 vs 1.47)
+but not by enough. Against the 2026 prop-line passing lines (n=115) no variant beats the line
+(line MAE 60.7), and the current model's 15+ yard disagreements with the line won only 16 of 44:
+QB passing yards stay a market where we take the line, not the model.
+
 ## The model vs the market line (and the blend)
 `python scripts/line_vs_model.py` joins every graded line we hold (prop-line history + our own
 snapshots) to out-of-sample model projections (trained on earlier seasons) and measures what the
