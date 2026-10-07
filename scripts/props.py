@@ -685,7 +685,27 @@ def players_out() -> pl.DataFrame:
            .filter(pl.col("status").is_in(NOT_PLAYING) & pl.col("gsis_id").is_not_null())
            .select(pl.col("season").cast(pl.Int32), pl.col("week").cast(pl.Int32), pl.col("team").replace(RENAMES),
                    pl.col("gsis_id").alias("player_id")))
-    return pl.concat([inj, ros]).unique()
+    return pl.concat([inj, ros, manual_out()]).unique()
+
+
+MANUAL_OUT = DATA.parent / "props_log" / "manual_out.csv"
+
+
+def manual_out() -> pl.DataFrame:
+    """Players ruled out by hand (props_log/manual_out.csv: season, week, team, player name, note),
+    for news that lands before the official injury report. Names are matched to that team's
+    players in player_stats."""
+    cols = {"season": pl.Int32, "week": pl.Int32, "team": pl.String, "player_id": pl.String}
+    if not MANUAL_OUT.exists():
+        return pl.DataFrame(schema=cols)
+    m = pl.read_csv(MANUAL_OUT).with_columns(pl.col("season", "week").cast(pl.Int32))
+    ids = (pl.read_parquet(DATA / "raw" / "player_stats.parquet").select("player_id", "player_display_name", "team")
+           .with_columns(pl.col("team").replace(RENAMES)).unique())
+    out = m.join(ids, left_on=["player", "team"], right_on=["player_display_name", "team"], how="left")
+    missing = out.filter(pl.col("player_id").is_null())["player"].to_list()
+    if missing:
+        print(f"manual_out.csv: no player found for {missing}")
+    return out.drop_nulls("player_id").select(*cols)
 
 
 def own_injury() -> pl.DataFrame:

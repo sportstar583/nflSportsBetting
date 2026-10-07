@@ -411,3 +411,10 @@ the 16-game mean and the receptions median as inputs for receiving yards and rec
 That is also better than before the QB change (22.673). Drake London for 2026 week 5: projection
 76.0 -> 77.8 yards (receptions 6.3 -> 6.2). His 16-game median is 66.5 (it includes his knee and
 backup-QB games), so it pulls against his 113-yard Penix average.
+
+### Ruling players out by hand
+Injury reports lag the news (a team's first report of the week comes out Wednesday, the final
+one Friday). `props_log/manual_out.csv` (season, week, team, player name, note) lists players to
+treat as out anyway. `props.players_out()` reads it with the official reports and IR/roster
+statuses, so the player is dropped and his targets/carries go to his teammates. Remove the row
+if he ends up playing.
