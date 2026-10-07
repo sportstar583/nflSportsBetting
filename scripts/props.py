@@ -31,9 +31,10 @@ HURT_WEIGHT = 0.25
 # Weight of a past game in the same receiving averages when the team's starting QB was not the one
 # listed to start this game (schedule's home_qb_id/away_qb_id). 0 = a receiver's games with a backup,
 # or with last year's QB, are left out once the current starter is back. A receiver with no games yet
-# with the listed starter falls back to all his games.
+# with the listed starter falls back to all his games. At 0, his games with the listed QB are
+# rolled as one consecutive run, so left-out games don't age them either.
 # Same-rows backtest 2022-2025, rec yds MAE: 1.0 22.673, 0.5 22.664, 0.25 22.651, 0.1 22.706,
-# 0 22.835 (receptions 1.646 -> 1.665). 0 is used by choice: it scores worse in the backtest than
+# 0 22.794 (receptions 1.646 -> 1.661). 0 is used by choice: it scores worse in the backtest than
 # a partial discount, because it throws away more history.
 OTHER_QB_WEIGHT = 0.0
 HURT_COLS = ["receiving_yards", "receptions", "targets", "target_share", "air_yards_share", "yds_per_tgt", "adot"]
@@ -164,6 +165,17 @@ def rolling_weighted(df: pl.DataFrame, sched: pl.DataFrame, rolling: list[str],
     rest = df.filter(pl.col("position") != "QB").with_columns(
         [pl.when(flags).then(wewm(c, "player_id", "w_one")).otherwise(wewm(c, "player_id", "w_hurt")).alias(f"fb_{c}")
          for c in HURT_COLS])
+    if other_qb_weight == 0.0:
+        # other QBs' games are left out entirely, so they don't age the games with this QB either:
+        # roll over the receiver's games with each QB as one consecutive run
+        by = ["player_id", "sched_qb"]
+        rest = (rest.sort("player_id", "sched_qb", "gameday")
+                .with_columns([pl.when(flags).then(wewm(c, by, "w_one")).otherwise(wewm(c, by, "w_hurt")).alias(f"e_{c}")
+                               for c in HURT_COLS])
+                .with_columns([pl.col(f"e_{c}").fill_null(pl.col(f"fb_{c}")) for c in HURT_COLS])
+                .drop([f"fb_{c}" for c in HURT_COLS]))
+        return (pl.concat([qbs, rest], how="vertical_relaxed").sort("player_id", "gameday")
+                .drop("hurt_report", "back_from_out", "w_one", "sched_qb"))
     pairs = rest.select("player_id", pl.col("sched_qb").alias("cur_qb")).unique()
     by = ["player_id", "cur_qb"]
     rest = (rest.join(pairs, on="player_id")
