@@ -375,9 +375,9 @@ Against the closing spread it does not beat the market:
 
 | | ATS | Win % | Margin MAE (model / line) |
 | --- | --- | --- | --- |
-| 2022-2025, all games | 545-565-29 | 49.1% | 10.02 / 9.54 |
-| 2022-2025, 3+ point gaps | 178-175-10 | 50.4% | 10.45 / 9.30 |
-| 2026 through week 4 | 31-28-5 | 52.5% | 9.64 / 9.63 |
+| 2022-2025, all games | 550-560-29 | 49.5% | 9.92 / 9.54 |
+| 2022-2025, 3+ point gaps | 172-158-9 | 52.1% | 10.46 / 9.57 |
+| 2026 through week 4 | 36-23-5 | 61.0% | 9.41 / 9.63 |
 
 (Team ratings leave out garbage-time plays; see below.)
 
@@ -434,3 +434,17 @@ and leading teams run out the clock.
   outside garbage time, plus the share of a player's yards that came in it. MAE: passing 62.20 ->
   61.89, receiving 22.65 -> 22.62, receptions 1.655 -> 1.653. Rushing got worse (24.98 -> 25.07), so
   the rushing model doesn't use them.
+
+### Game board: totals, injuries and backup QBs
+- **Over/under.** The board shows the model's total (sum of the projected scores) against the
+  Vegas total, the side, and graded results. It does not beat closing totals: 2022-2025 47.1%,
+  2026 42.2%, MAE 10.66 vs 10.19 for the line. Weighting recent seasons more (to follow the
+  scoring level) did not help the record.
+- **Injuries.** The points model now uses snap share lost to Out/Doubtful players: the team's
+  offensive line and skill players, and the opponent's defense (`features.injury_snaps`, which
+  also reads `props_log/manual_out.csv`, now matched on the weekly roster so any position works).
+  2022-2025 margin MAE 10.021 -> 9.971, ATS 49.1% -> 49.9%.
+- **Backup QBs.** A QB's rating is shrunk toward `league + QB_PRIOR_OFFSET` (-0.15 EPA/dropback)
+  instead of the league average, so a rookie or backup with little history starts at backup level.
+  Margin MAE 9.971 -> 9.923. Example: Tampa Bay with Jalon Daniels (Baker Mayfield out) at Dallas,
+  2026 week 5: model DAL -1.9 -> -4.3 (market -8.5).

@@ -29,7 +29,8 @@ SPLITS = {"pass": ("pass_epa", "n_pass"), "run": ("run_epa", "n_run"),
 # model inputs, each "own offense + opponent defense" except qb/home/rest; name -> label on the page
 GROUPS = {"pass": "Passing game", "run": "Running game", "pass_sr": "Pass consistency",
           "run_sr": "Rush consistency", "qb": "Quarterback", "home": "Home field", "rest": "Rest",
-          "pace": "Pace"}
+          "pace": "Pace", "inj_ol": "Line injuries", "inj_skill": "Skill-player injuries",
+          "inj_def": "Defensive injuries"}
 
 
 DROP_GARBAGE = True
@@ -102,9 +103,14 @@ def qb_dropbacks(sched: pl.DataFrame) -> pl.DataFrame:
             .join(sched.select("game_id", pl.col("gameday").str.to_date().alias("date")), on="game_id"))
 
 
+# EPA/dropback below league average that a QB with no history starts at (a rookie or backup, not an
+# average starter). 2022-2025 margin MAE: 0 9.971, -0.05 9.949, -0.10 9.932, -0.15 9.923, -0.20 9.919.
+QB_PRIOR_OFFSET = -0.15
+
+
 def qb_adjustment(sched: pl.DataFrame) -> pl.DataFrame:
     """Per team-game: listed starter's rating minus the rating of the passers in the window."""
-    form, league = features.qb_form(sched)
+    form, league = features.qb_form(sched, QB_PRIOR_OFFSET)
     # each QB's rating entering each game, as of that date (his latest prior game's running value)
     form = form.join(sched.select("game_id", pl.col("gameday").str.to_date().alias("date")), on="game_id")
     latest = form.sort("date").select("qb_id", "date", "qb_epa", "qb_n")
@@ -118,7 +124,7 @@ def qb_adjustment(sched: pl.DataFrame) -> pl.DataFrame:
         return (df.with_columns((pl.col("date") - pl.duration(days=1)).alias("asof")).sort("asof")
                 .join_asof(latest.rename({"date": "asof"}).sort("asof"), on="asof", by="qb_id", strategy="backward",
                            check_sortedness=False)
-                .with_columns(pl.col("qb_epa").fill_null(league)).drop("asof"))
+                .with_columns(pl.col("qb_epa").fill_null(league + QB_PRIOR_OFFSET)).drop("asof"))
     st = rate(starters).rename({"qb_epa": "starter_epa"}).drop("qb_n")
     window = pl.concat(QB_WINDOW).join(sched.select("game_id", pl.col("gameday").str.to_date().alias("date")), on="game_id")
     window = rate(window).group_by("game_id", "team").agg(
@@ -150,6 +156,13 @@ def build(drop_garbage: bool = DROP_GARBAGE) -> pl.DataFrame:
     df = pl.concat(sides)
     ro = r.select("game_id", "team", *[pl.col(c) for c in r.columns if c not in ("game_id", "team")])
     rd = r.select("game_id", pl.col("team").alias("opp"), *[pl.col(c).alias(f"opp_{c}") for c in r.columns if c not in ("game_id", "team")])
+    # snap share lost to Out/Doubtful players (official report + props_log/manual_out.csv): the
+    # team's offensive line and skill players, and the opponent's defense
+    inj = features.injury_snaps().select("season", "week", "team", "inj_ol", "inj_skill", "inj_def")
+    df = (df.with_columns(pl.col("season", "week").cast(pl.Int32))
+          .join(inj.drop("inj_def"), on=["season", "week", "team"], how="left")
+          .join(inj.select("season", "week", pl.col("team").alias("opp"), "inj_def"), on=["season", "week", "opp"], how="left")
+          .with_columns(pl.col("inj_ol", "inj_skill", "inj_def").fill_null(0)))
     df = (df.join(ro, on=["game_id", "team"]).join(rd, on=["game_id", "opp"])
           .join(qb, on=["game_id", "team"], how="left").with_columns(pl.col("qb_adj").fill_null(0)))
     return df.with_columns(
@@ -160,13 +173,20 @@ def build(drop_garbage: bool = DROP_GARBAGE) -> pl.DataFrame:
 FEATS = list(GROUPS)
 
 
-def project(df: pl.DataFrame) -> pl.DataFrame:
+# Seasons; weights recent seasons more so totals follow the scoring level. Tested 2, 1 and 0.5: totals
+# MAE 10.62 -> 10.54-10.60 but the over/under record got worse (49.2% -> 46.5-48.4%), so none.
+SEASON_HALF_LIFE = None
+
+
+def project(df: pl.DataFrame, half_life: float | None = SEASON_HALF_LIFE, feats: list[str] | None = None) -> pl.DataFrame:
     """Walk-forward: each season projected from a model fit on earlier seasons' team-games."""
+    FEATS = feats or globals()["FEATS"]  # noqa: N806
     out = []
     for s in TEST_SEASONS:
         tr = df.filter((pl.col("season") < s) & pl.col("points").is_not_null()).drop_nulls(FEATS)
         te = df.filter(pl.col("season") == s).drop_nulls(FEATS)
-        m = Ridge(alpha=1.0).fit(tr.select(FEATS).to_numpy(), tr["points"].to_numpy())
+        w = None if half_life is None else 0.5 ** ((s - 1 - tr["season"].to_numpy()) / half_life)
+        m = Ridge(alpha=1.0).fit(tr.select(FEATS).to_numpy(), tr["points"].to_numpy(), sample_weight=w)
         X = te.select(FEATS).to_numpy()
         te = te.with_columns(pl.Series("proj", m.predict(X)), pl.lit(m.intercept_).alias("intercept"),
                              *[pl.Series(f"c_{f}", X[:, i] * m.coef_[i]) for i, f in enumerate(FEATS)])
@@ -196,6 +216,17 @@ def record(g: pl.DataFrame, min_gap: float = 0.0) -> dict:
             "units": w - 1.1 * l,
             "mae_model": (d["result"] - d["model_margin"]).abs().mean(),
             "mae_line": (d["result"] - d["spread_line"]).abs().mean()}
+
+
+def total_record(g: pl.DataFrame, min_gap: float = 0.0) -> dict:
+    """Against the closing total: over when the model's total is higher, under when lower."""
+    d = (g.filter(pl.col("points").is_not_null() & pl.col("total_line").is_not_null())
+         .with_columns((pl.col("proj") + pl.col("a_proj")).alias("mt"), (pl.col("points") + pl.col("a_points")).alias("at"))
+         .filter((pl.col("mt") - pl.col("total_line")).abs() >= min_gap))
+    res = (pl.col("at") - pl.col("total_line")) * (pl.col("mt") - pl.col("total_line")).sign()
+    w, l = d.filter(res > 0).height, d.filter(res < 0).height
+    return {"n": d.height, "w": w, "l": l, "p": d.height - w - l, "pct": w / max(w + l, 1),
+            "mae_model": (d["at"] - d["mt"]).abs().mean(), "mae_line": (d["at"] - d["total_line"]).abs().mean()}
 
 
 if __name__ == "__main__":

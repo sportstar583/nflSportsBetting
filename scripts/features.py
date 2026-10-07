@@ -64,8 +64,10 @@ def rolling_team_form(sched: pl.DataFrame, epa: pl.DataFrame) -> pl.DataFrame:
 QB_PRIOR_DB = 200  # dropbacks of shrinkage toward the league-average QB
 
 
-def qb_form(sched: pl.DataFrame) -> pl.DataFrame:
-    """Shrunk career EPA/dropback for each QB entering each game (prior games only)."""
+def qb_form(sched: pl.DataFrame, prior_offset: float = 0.0) -> pl.DataFrame:
+    """Shrunk career EPA/dropback for each QB entering each game (prior games only).
+    prior_offset moves the shrinkage target below the league average, so a QB with little
+    history (a rookie or a backup) starts at backup level rather than average."""
     db = (
         pl.scan_parquet(DATA / "raw" / "pbp" / "*.parquet")
         .filter((pl.col("qb_dropback") == 1) & pl.col("qb_epa").is_not_null()
@@ -81,7 +83,7 @@ def qb_form(sched: pl.DataFrame) -> pl.DataFrame:
         pl.col("epa_sum").cum_sum().shift(1).over("passer_player_id").fill_null(0).alias("p_epa"),
         pl.col("n").cum_sum().shift(1).over("passer_player_id").fill_null(0).alias("p_n"),
     ).with_columns(
-        ((pl.col("p_epa") + QB_PRIOR_DB * league) / (pl.col("p_n") + QB_PRIOR_DB)).alias("qb_epa"),
+        ((pl.col("p_epa") + QB_PRIOR_DB * (league + prior_offset)) / (pl.col("p_n") + QB_PRIOR_DB)).alias("qb_epa"),
     )
     return db.select("game_id", pl.col("passer_player_id").alias("qb_id"), "qb_epa",
                      pl.col("p_n").alias("qb_n")), league
@@ -97,6 +99,27 @@ INJ_GROUPS = {  # QB is left out: the starting-QB rating already covers it
     "front": (["DE", "DT", "NT", "DL", "LB", "OLB", "ILB", "MLB"], "def_share"),
 }
 SNAP_GAMES = 4  # a player's role = mean snap share over his last 4 games played
+
+
+MANUAL_OUT = DATA.parent / "props_log" / "manual_out.csv"
+
+
+def manual_out_players() -> pl.DataFrame:
+    """Players ruled out by hand (props_log/manual_out.csv: season, week, team, player, note), for
+    news ahead of the official report. Names are matched on that week's team roster."""
+    cols = {"season": pl.Int32, "week": pl.Int32, "team": pl.String, "gsis_id": pl.String,
+            "position": pl.String, "full_name": pl.String}
+    if not MANUAL_OUT.exists():
+        return pl.DataFrame(schema=cols)
+    m = pl.read_csv(MANUAL_OUT).with_columns(pl.col("season", "week").cast(pl.Int32))
+    ros = (pl.read_parquet(DATA / "raw" / "rosters_weekly.parquet")
+           .select(pl.col("season", "week").cast(pl.Int32), pl.col("team").replace(RENAMES), "full_name", "gsis_id", "position")
+           .drop_nulls("gsis_id").unique(["season", "week", "team", "full_name"]))
+    out = m.join(ros, left_on=["season", "week", "team", "player"], right_on=["season", "week", "team", "full_name"], how="left")
+    missing = out.filter(pl.col("gsis_id").is_null())["player"].to_list()
+    if missing:
+        print(f"manual_out.csv: not on that week's roster: {missing}")
+    return out.drop_nulls("gsis_id").select("season", "week", "team", "gsis_id", "position", pl.col("player").alias("full_name"))
 
 
 def injured_players() -> pl.DataFrame:
@@ -120,9 +143,11 @@ def injured_players() -> pl.DataFrame:
     inj = (
         pl.read_parquet(DATA / "raw" / "injuries.parquet")
         .filter(pl.col("report_status").is_in(["Out", "Doubtful"]) & pl.col("game_type").is_not_null())
+        .with_columns(pl.col("team").replace(RENAMES), pl.col("season").cast(pl.Int32), pl.col("week").cast(pl.Int32))
+        .select("season", "week", "team", "gsis_id", "position", "full_name", "report_status")
+        .vstack(manual_out_players().with_columns(pl.lit("Out").alias("report_status")))
         .unique(["season", "week", "team", "gsis_id"])
-        .with_columns(pl.col("team").replace(RENAMES), (key - 1).alias("k"),
-                      pl.col("season").cast(pl.Int32), pl.col("week").cast(pl.Int32))
+        .with_columns((key - 1).alias("k"))
         .join(ids, on="gsis_id", how="left")
         .sort("k")
         .join_asof(snaps.sort("k"), on="k", by_left="pfr_id", by_right="pfr_player_id",

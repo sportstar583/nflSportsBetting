@@ -122,6 +122,10 @@ def game_section(g: dict, lt: pl.DataFrame, rec: dict) -> str:
     else:
         gap, pick, diff = None, "no line yet", "–"
         number = f'<p class="lede">The model makes this <b>{e(fav(g, model))}</b>. No market line yet.</p>'
+    t = total_info(g)
+    if t["line"] is not None:
+        number += (f'<p class="lede">Total: the model has <b>{t["mt"]:.1f}</b> points, the market <b>{t["line"]:.1f}</b>'
+                   + (f', so the model side is the <b>{t["side"].lower()}</b> by {abs(t["gap"]):.1f}.</p>' if t["side"] else ".</p>"))
     result = ""
     if played:
         res = g["points"] - g["a_points"]
@@ -133,6 +137,8 @@ def game_section(g: dict, lt: pl.DataFrame, rec: dict) -> str:
             result = f'<p class="final"><span class="chip {chip}">{verdict}</span> {e(final)} The model side, {e(pick)}, {verdict}.</p>'
         else:
             result = f'<p class="final">{e(final)}</p>'
+        if t["res"] is not None:
+            result += f'<p class="final">{globals()["chip"](t["res"], True)} The {t["side"].lower()} {t["line"]:.1f} {"won" if t["res"] > 0 else "lost" if t["res"] < 0 else "pushed"} ({g["points"] + g["a_points"]} points).</p>'
     qb = "".join(f'<tr><td>{e(n or "TBD")}</td><td>{e(NAME[t])}</td><td class="num">{v:+.3f}</td></tr>'
                  for n, t, v in ((g["a_qb_name"], a, g["a_qb_adj"]), (g["qb_name"], h, g["qb_adj"])))
     ta, th = lt.filter(pl.col("team") == a).row(0, named=True), lt.filter(pl.col("team") == h).row(0, named=True)
@@ -158,7 +164,10 @@ def game_section(g: dict, lt: pl.DataFrame, rec: dict) -> str:
   <section><h3>The number{' <span class="chip flag">gap 3+</span>' if big else ''}</h3>{number}
     <dl class="kv"><div><dt>Vegas line</dt><dd>{e(fav(g, line) if line is not None else "no line yet")}</dd></div>
     <div><dt>Model</dt><dd>{e(fav(g, model))}</dd></div><div><dt>Difference</dt><dd>{diff}</dd></div>
-    <div><dt>Model side</dt><dd>{e(pick)}</dd></div></dl></section>
+    <div><dt>Model side</dt><dd>{e(pick)}</dd></div>
+    <div><dt>Vegas total</dt><dd>{"–" if t["line"] is None else f'{t["line"]:.1f}'}</dd></div>
+    <div><dt>Model total</dt><dd>{t["mt"]:.1f}</dd></div>
+    <div><dt>Total side</dt><dd>{e(f'{t["side"]} {t["line"]:.1f}' if t["side"] else "–")}</dd></div></dl></section>
   <section><h3>Where the margin comes from</h3>{margin_bars(g)}</section>
   <section><h3>Quarterbacks</h3>
     <div class="scroll"><table><thead><tr><th>Listed starter</th><th>Team</th><th class="num">Adjustment, EPA / dropback</th></tr></thead><tbody>{qb}</tbody></table></div>
@@ -172,16 +181,37 @@ def game_section(g: dict, lt: pl.DataFrame, rec: dict) -> str:
 </article>'''
 
 
+def total_info(g: dict) -> dict:
+    """Model total vs the Vegas total: side, gap and (for played games) the graded result."""
+    mt, line = g["proj"] + g["a_proj"], g["total_line"]
+    out = {"mt": mt, "line": line, "side": None, "gap": None, "res": None}
+    if line is not None:
+        out["gap"] = mt - line
+        out["side"] = "Over" if mt > line else "Under" if mt < line else None
+        if g["points"] is not None and out["side"]:
+            out["res"] = (g["points"] + g["a_points"] - line) * (1 if out["side"] == "Over" else -1)
+    return out
+
+
+def chip(res: float, long: bool = False) -> str:
+    cls = "win" if res > 0 else "loss" if res < 0 else "push"
+    txt = ("won" if res > 0 else "lost" if res < 0 else "pushed") if long else ("W" if res > 0 else "L" if res < 0 else "P")
+    return f'<span class="chip {cls}">{txt}</span>'
+
+
 def board_card(g: dict, rec: dict) -> str:
     a, h, line, model = g["a_team"], g["team"], g["spread_line"], g["model_margin"]
     gap = None if line is None else model - line
     side = None if gap is None else (h if gap > 0 else a)
     pick = "–" if side is None else f'{NICK[side]} {(-line if side == h else line):+.1f} ({abs(gap):.1f})'
     status = ""
+    t = total_info(g)
+    tot = "–" if t["line"] is None else f'{t["mt"]:.1f} vs {t["line"]:.1f}' + (f' · {t["side"]}' if t["side"] else "")
     if g["points"] is not None:
         if gap is not None and abs(gap) > 0:
-            ats = (g["points"] - g["a_points"] - line) * (1 if gap > 0 else -1)
-            status = f'<span class="chip {"win" if ats > 0 else "loss" if ats < 0 else "push"}">{"W" if ats > 0 else "L" if ats < 0 else "P"}</span>'
+            status = "ATS " + chip((g["points"] - g["a_points"] - line) * (1 if gap > 0 else -1))
+        if t["res"] is not None:
+            status += " O/U " + chip(t["res"])
         status += f' <span class="fin">{g["a_points"]}-{g["points"]}</span>'
     flag = ' data-big="1"' if gap is not None and abs(gap) >= BIG_GAP else ""
     day = dt.date.fromisoformat(g["gameday"])
@@ -192,6 +222,7 @@ def board_card(g: dict, rec: dict) -> str:
   <span class="kv2"><span>Vegas</span><b>{e(fav(g, line) if line is not None else "–")}</b></span>
   <span class="kv2"><span>Model</span><b>{e(fav(g, model))}</b></span>
   <span class="kv2"><span>Side</span><b>{e(pick)}</b></span>
+  <span class="kv2"><span>Total</span><b>{e(tot)}</b></span>
   <span class="status">{status}</span>
 </a>'''
 
@@ -206,6 +237,8 @@ def render(season: int, weeks: list[int]) -> str:
     back3 = gm.record(g.filter(pl.col("season").is_in([2022, 2023, 2024, 2025])), BIG_GAP)
     cur = gm.record(g.filter(pl.col("season") == season))
     cur3 = gm.record(g.filter(pl.col("season") == season), BIG_GAP)
+    tcur = gm.total_record(g.filter(pl.col("season") == season))
+    tback = gm.total_record(g.filter(pl.col("season").is_in([2022, 2023, 2024, 2025])))
     weeks_html, games_html = [], []
     for wk in weeks:
         wg = g.filter((pl.col("season") == season) & (pl.col("week") == wk)).sort("gameday", "gametime")
@@ -224,17 +257,18 @@ def render(season: int, weeks: list[int]) -> str:
   <header class="masthead">
     <p class="eyebrow">{season} season · model updated {stamp}</p>
     <h1>NFL Game Board</h1>
-    <p class="intro">A projected score for every game, built from play-by-play efficiency adjusted for opponent, beside the market spread. Open any game for where the margin comes from.</p>
+    <p class="intro">A projected score for every game, built from play-by-play efficiency adjusted for opponent, beside the market spread and total. Open any game for where the margin comes from.</p>
     <div class="tally">
       <div><span class="k">{season} against the spread</span><span class="v">{cur["w"]}-{cur["l"]}-{cur["p"]}</span><span class="s">{cur["pct"]:.1%} · {cur3["w"]}-{cur3["l"]} on 3+ gaps</span></div>
       <div><span class="k">2022-2025 backtest</span><span class="v">{back["w"]}-{back["l"]}-{back["p"]}</span><span class="s">{back["pct"]:.1%} · {back3["w"]}-{back3["l"]} on 3+ gaps</span></div>
+      <div><span class="k">{season} over/under</span><span class="v">{tcur["w"]}-{tcur["l"]}-{tcur["p"]}</span><span class="s">{tcur["pct"]:.1%} · 2022-2025 {tback["w"]}-{tback["l"]} ({tback["pct"]:.1%})</span></div>
       <div><span class="k">Margin error, 2022-2025</span><span class="v">{back["mae_model"]:.2f}</span><span class="s">market {back["mae_line"]:.2f} pts per game</span></div>
     </div>
-    <p class="caveat">Graded against closing spreads, the model tracks the market rather than beating it: 52.4% is breakeven at -110, and its misses run larger than the line's. Treat a big gap as a question to look into, not a bet.</p>
+    <p class="caveat">Graded against closing lines, the model tracks the market rather than beating it: 52.4% is breakeven at -110, and its misses run larger than the market's, on spreads and on totals. Treat a big gap as a question to look into, not a bet.</p>
   </header>
   {"".join(weeks_html)}
   <div class="games">{"".join(games_html)}</div>
-  <footer><p>Model output, not betting advice. Every number on this page comes from <code>scripts/game_model.py</code>; nothing is entered by hand.</p></footer>
+  <footer><p>Model output, not betting advice. Every number on this page comes from <code>scripts/game_model.py</code>. The only hand input is the list of players ruled out ahead of the injury report (<code>props_log/manual_out.csv</code>).</p></footer>
 </div>'''
 
 
