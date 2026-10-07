@@ -394,3 +394,20 @@ games. His average goes 93.7 -> 113.1 and his projection 68.0 -> 76.0 yards, 5.3
 This was a choice, not the backtest's pick. Same-rows 2022-2025 receiving-yards MAE by weight:
 1.0 22.673, 0.5 22.664, 0.25 22.651 (best), 0.1 22.706, 0 22.794. Receptions 1.646 -> 1.661 at 0.
 Leaving the games out entirely costs accuracy on average, because it throws away history.
+
+### Long-run track record (16 games, any QB)
+Checked whether the model under-projects receivers who stay with one QB: it doesn't. Receivers
+whose median over their last 16 games with the same QB sat 30+ yards above the projection
+(avg 99.8 vs 61.8) had a median actual of 62 and beat the projection 51.5% of the time. But the
+16-game median over all games (any QB) did carry missing information: 10+ yards above the
+projection, receivers beat it 55-57% of the time; 10+ below, 42%. `long_run()` adds that median,
+the 16-game mean and the receptions median as inputs for receiving yards and receptions:
+
+| | Rec yds MAE | Receptions MAE |
+| --- | --- | --- |
+| Penix-only averages (previous) | 22.768 | 1.665 |
+| + 16-game median and mean | 22.651 | 1.655 |
+
+That is also better than before the QB change (22.673). Drake London for 2026 week 5: projection
+76.0 -> 77.8 yards (receptions 6.3 -> 6.2). His 16-game median is 66.5 (it includes his knee and
+backup-QB games), so it pulls against his 113-yard Penix average.

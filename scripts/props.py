@@ -191,6 +191,22 @@ def rolling_weighted(df: pl.DataFrame, sched: pl.DataFrame, rolling: list[str],
             .drop("hurt_report", "back_from_out", "w_one", "sched_qb"))
 
 
+LONG_RUN = 16  # games
+
+
+def long_run(df: pl.DataFrame) -> pl.DataFrame:
+    """A receiver's median and mean over his last LONG_RUN games, any QB, prior games only.
+
+    The rolling averages are short (half-life 4) and, with OTHER_QB_WEIGHT = 0, only count games
+    with this week's QB. The long view adds what they miss: in the backtest, receivers whose
+    16-game median sat 10+ yards above the projection beat it 55-57% of the time, 42% when 10+
+    below. As inputs: rec yds MAE 22.768 -> 22.651, receptions 1.665 -> 1.655."""
+    return (df.sort("player_id", "gameday").with_columns(
+        pl.col("receiving_yards").shift(1).rolling_median(LONG_RUN, min_samples=4).over("player_id").alias("lr_med_rec"),
+        pl.col("receptions").shift(1).rolling_median(LONG_RUN, min_samples=4).over("player_id").alias("lr_med_recs"),
+        pl.col("receiving_yards").shift(1).rolling_mean(LONG_RUN, min_samples=4).over("player_id").alias("lr_mean_rec")))
+
+
 def game_qbs(sched: pl.DataFrame) -> pl.DataFrame:
     """Per team-game: the starting QB per the schedule (the listed starter for unplayed games)."""
     return pl.concat([sched.select("game_id", pl.col(f"{s}_team").alias("team"), pl.col(f"{s}_qb_id").alias("sched_qb"))
@@ -238,6 +254,7 @@ def build(upcoming: pl.DataFrame | None = None, wind: dict | None = None,
         df = df.with_columns([ewm(c, "player_id").alias(f"e_{c}") for c in rolling])
     else:
         df = rolling_weighted(df, sched, rolling, hurt_weight, other_qb_weight)
+    df = long_run(df)
     df = (df.join(own_injury(), on=["season", "week", "team", "player_id"], how="left")
           .with_columns(pl.col("own_q", "own_dnp", "own_out").fill_null(0)))
     st_own, st_opp = special_teams(ctx)
@@ -708,12 +725,14 @@ MARKETS = {
                 ["e_receiving_yards_adj", "e_receptions_adj", "e_targets_adj", "e_target_share_adj", "e_air_yards_share",
                  "e_yds_per_tgt", "opp_wr_rec_alw", "opp_te_rec_alw", "opp_rb_rec_alw", "opp_adj_def_pass",
                  "is_wr", "is_te", "role_rank", "opp_role_alw", "opp_role_ratio",
-                 "e_adot", "e_pfr_drop_pct", "e_target_share_qb", "e_targets_qb", "n_qb", "e_giveaways"]),
+                 "e_adot", "e_pfr_drop_pct", "e_target_share_qb", "e_targets_qb", "n_qb", "e_giveaways",
+                 "lr_med_rec", "lr_med_recs", "lr_mean_rec"]),
     "receptions": ("receptions", ["WR", "TE", "RB"], pl.col("e_targets") >= 3,
                    ["e_receptions_adj", "e_targets_adj", "e_target_share_adj", "e_air_yards_share",
                     "opp_wr_rec_alw", "opp_te_rec_alw", "opp_rb_rec_alw", "opp_adj_def_pass",
                     "is_wr", "is_te", "role_rank", "opp_role_alw", "opp_role_ratio",
-                    "e_adot", "e_pfr_drop_pct", "e_target_share_qb", "e_targets_qb", "e_receiving_yards_qb", "n_qb"]),
+                    "e_adot", "e_pfr_drop_pct", "e_target_share_qb", "e_targets_qb", "e_receiving_yards_qb", "n_qb",
+                    "lr_med_rec", "lr_med_recs", "lr_mean_rec"]),
 }
 
 
