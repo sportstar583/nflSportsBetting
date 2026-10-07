@@ -14,6 +14,7 @@ from pathlib import Path
 import polars as pl
 
 import game_model as gm
+import totals_model as tm
 from props_week import TEAMS
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -126,6 +127,13 @@ def game_section(g: dict, lt: pl.DataFrame, rec: dict) -> str:
     if t["line"] is not None:
         number += (f'<p class="lede">Total: the model has <b>{t["mt"]:.1f}</b> points, the market <b>{t["line"]:.1f}</b>'
                    + (f', so the model side is the <b>{t["side"].lower()}</b> by {abs(t["gap"]):.1f}.</p>' if t["side"] else ".</p>"))
+        if t["t"]:
+            r = t["t"]
+            wx = "dome" if r["dome"] else ("wind not forecast yet" if r["wind_missing"] else f'{r["wind"]:.0f} mph wind')
+            number += (f'<p class="note">The model total starts from the market and adjusts for what it has missed before: '
+                       f'weather {r["adj_weather"]:+.1f} ({e(wx)}), injuries {r["adj_inj"]:+.1f}'
+                       f'{" (report not out yet)" if r["inj_pending"] else ""}, baseline {r["adj_base"]:+.1f}. '
+                       f'Projected scores above come from the team ratings and need not add up to it.</p>')
     result = ""
     if played:
         res = g["points"] - g["a_points"]
@@ -181,10 +189,16 @@ def game_section(g: dict, lt: pl.DataFrame, rec: dict) -> str:
 </article>'''
 
 
+TOTALS: dict = {}  # game_id -> totals_model.market_total row, filled by render()
+
+
 def total_info(g: dict) -> dict:
-    """Model total vs the Vegas total: side, gap and (for played games) the graded result."""
-    mt, line = g["proj"] + g["a_proj"], g["total_line"]
-    out = {"mt": mt, "line": line, "side": None, "gap": None, "res": None}
+    """Model total (Vegas total adjusted for weather and injuries, totals_model.market_total) vs
+    the Vegas total: side, gap, drivers and (for played games) the graded result."""
+    t = TOTALS.get(g["game_id"])
+    line = g["total_line"]
+    mt = t["proj_total"] if t else g["proj"] + g["a_proj"]
+    out = {"mt": mt, "line": line, "side": None, "gap": None, "res": None, "t": t}
     if line is not None:
         out["gap"] = mt - line
         out["side"] = "Over" if mt > line else "Under" if mt < line else None
@@ -237,8 +251,11 @@ def render(season: int, weeks: list[int]) -> str:
     back3 = gm.record(g.filter(pl.col("season").is_in([2022, 2023, 2024, 2025])), BIG_GAP)
     cur = gm.record(g.filter(pl.col("season") == season))
     cur3 = gm.record(g.filter(pl.col("season") == season), BIG_GAP)
-    tcur = gm.total_record(g.filter(pl.col("season") == season))
-    tback = gm.total_record(g.filter(pl.col("season").is_in([2022, 2023, 2024, 2025])))
+    mt = tm.market_total(tm.build())
+    TOTALS.clear()
+    TOTALS.update({r["game_id"]: r for r in mt.iter_rows(named=True)})
+    tcur = tm.grade(mt.filter(pl.col("season") == season))
+    tback = tm.grade(mt.filter(pl.col("season").is_in([2022, 2023, 2024, 2025])))
     weeks_html, games_html = [], []
     for wk in weeks:
         wg = g.filter((pl.col("season") == season) & (pl.col("week") == wk)).sort("gameday", "gametime")
@@ -261,7 +278,7 @@ def render(season: int, weeks: list[int]) -> str:
     <div class="tally">
       <div><span class="k">{season} against the spread</span><span class="v">{cur["w"]}-{cur["l"]}-{cur["p"]}</span><span class="s">{cur["pct"]:.1%} · {cur3["w"]}-{cur3["l"]} on 3+ gaps</span></div>
       <div><span class="k">2022-2025 backtest</span><span class="v">{back["w"]}-{back["l"]}-{back["p"]}</span><span class="s">{back["pct"]:.1%} · {back3["w"]}-{back3["l"]} on 3+ gaps</span></div>
-      <div><span class="k">{season} over/under</span><span class="v">{tcur["w"]}-{tcur["l"]}-{tcur["p"]}</span><span class="s">{tcur["pct"]:.1%} · 2022-2025 {tback["w"]}-{tback["l"]} ({tback["pct"]:.1%})</span></div>
+      <div><span class="k">{season} over/under</span><span class="v">{tcur["w"]}-{tcur["l"]}</span><span class="s">{tcur["pct"]:.1%} · 2022-2025 {tback["w"]}-{tback["l"]} ({tback["pct"]:.1%})</span></div>
       <div><span class="k">Margin error, 2022-2025</span><span class="v">{back["mae_model"]:.2f}</span><span class="s">market {back["mae_line"]:.2f} pts per game</span></div>
     </div>
     <p class="caveat">Graded against closing lines, the model tracks the market rather than beating it: 52.4% is breakeven at -110, and its misses run larger than the market's, on spreads and on totals. Treat a big gap as a question to look into, not a bet.</p>

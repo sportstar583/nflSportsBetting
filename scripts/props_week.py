@@ -100,7 +100,12 @@ def forecast_wind(games: pl.DataFrame) -> dict:
         if g["stadium_id"] not in STADIUMS:
             continue
         lat, lon = STADIUMS[g["stadium_id"]]
-        kick = dt.datetime.fromisoformat(g["commence_time"].replace("Z", "+00:00"))
+        if g.get("commence_time"):
+            kick = dt.datetime.fromisoformat(g["commence_time"].replace("Z", "+00:00"))
+        else:  # schedule kickoff, Eastern time
+            from zoneinfo import ZoneInfo
+            kick = (dt.datetime.fromisoformat(f'{g["gameday"]}T{g["gametime"]}')
+                    .replace(tzinfo=ZoneInfo("America/New_York")).astimezone(dt.timezone.utc))
         params = {"latitude": lat, "longitude": lon, "hourly": "wind_speed_10m", "wind_speed_unit": "mph",
                   "timezone": "GMT", "start_date": kick.date().isoformat(),
                   "end_date": (kick + dt.timedelta(hours=GAME_HOURS + 1)).date().isoformat()}

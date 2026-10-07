@@ -448,3 +448,34 @@ and leading teams run out the clock.
   instead of the league average, so a rookie or backup with little history starts at backup level.
   Margin MAE 9.971 -> 9.923. Example: Tampa Bay with Jalon Daniels (Baker Mayfield out) at Dallas,
   2026 week 5: model DAL -1.9 -> -4.3 (market -8.5).
+
+### Totals model (`scripts/totals_model.py`)
+Built from the factors pro totals bettors use: opponent-adjusted EPA/play and success rate for both
+offenses vs the opposing defenses (combined by pass rate, garbage time removed), neutral-situation
+seconds per snap with recent games weighted most, both QBs, weather (dome, wind, wind 15+, cold),
+injuries on both lines / skill groups / defenses, and situational spots (short week, off a bye, West
+Coast team at a 1 PM ET kickoff, late-season divisional game, prime time).
+
+Projecting a total from scratch out of all of these never matched the closing total (2022-2025 MAE
+10.48-10.68 vs 10.19, at best 51.7% O/U). What works better is starting from the market total and
+fitting what it has missed (`market_total()`): Vegas total + a ridge fit on weather and injuries.
+Pace, efficiency and situational spots added on top made it worse, so the market already prices them.
+
+| Walk-forward vs the closing total | O/U | MAE (model / line) |
+| --- | --- | --- |
+| From scratch, best variant, 2022-2025 | 584-545 (51.7%) | 10.48 / 10.19 |
+| Market + dome/cold/injuries (no wind) | 595-534 (52.7%) | 10.173 / 10.189 |
+| Market + wind/dome/cold/injuries | 608-521 (53.9%) | 10.161 / 10.189 |
+| ... adjustment 2+ points | 61-48 (56.0%) | |
+| 2026 through week 4 | 30-34 (46.9%) | 10.77 / 10.73 |
+
+Caveats: the wind in the backtest is the measured game-day wind (archived forecasts were rate-
+limited); the forecast a bettor has is noisier, so expect less. Twelve variants were tried, which
+flatters the best. Dome games beat the closing total by ~1.7 points on average but went over only
+51% (334-319): a few shootouts skew the mean, so the model's dome lean is weak. Measured wind of
+15+ mph outdoors: unders 88-65 (57.5%).
+
+Live use: `totals_model.fetch_wind(games)` saves forecast wind to `props_log/forecast_wind.csv`;
+unplayed games use it (retractable roofs take the stadium's usual setting). Until a game's injury
+report has Out/Doubtful statuses, its injury adjustment is held at neutral. The game board's
+"Model total" and over/under record now come from this model.
