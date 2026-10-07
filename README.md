@@ -381,3 +381,14 @@ Against the closing spread it does not beat the market:
 
 Lines here are nflverse's `spread_line` (closing for played games), not the opener a site would
 show, so gaps are smaller than against an early line.
+
+### Receiving averages use only games with this week's QB
+`OTHER_QB_WEIGHT = 0`: a WR/TE/RB's rolling receiving averages leave out games where his team's
+starting QB was not the one listed to start this game (schedule `home_qb_id` / `away_qb_id`). A
+receiver with no games yet with that QB falls back to all his games. Example: Drake London for
+2026 week 5 (Penix starting) drops his two Cooper Rush games. His average goes 93.7 -> 122.2 and
+his projection 68.0 -> 71.3 yards, 5.3 -> 6.2 receptions.
+
+This was a choice, not the backtest's pick. Same-rows 2022-2025 receiving-yards MAE by weight:
+1.0 22.673, 0.5 22.664, 0.25 22.651 (best), 0.1 22.706, 0 22.809. Receptions 1.646 -> 1.661 at 0.
+Leaving the games out entirely costs accuracy on average, because it throws away history.

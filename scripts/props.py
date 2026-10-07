@@ -28,6 +28,14 @@ SKILL = ["QB", "RB", "WR", "TE"]
 # Doubtful without full practice, or first game back from Out), applied only while he is healthy
 # now; a still-hurt player's hurt games are the best guide to how he plays today. QBs are exempt.
 HURT_WEIGHT = 0.25
+# Weight of a past game in the same receiving averages when the team's starting QB was not the one
+# listed to start this game (schedule's home_qb_id/away_qb_id). 0 = a receiver's games with a backup,
+# or with last year's QB, are left out once the current starter is back. A receiver with no games yet
+# with the listed starter falls back to all his games.
+# Same-rows backtest 2022-2025, rec yds MAE: 1.0 22.673, 0.5 22.664, 0.25 22.651, 0.1 22.706,
+# 0 22.835 (receptions 1.646 -> 1.665). 0 is used by choice: it scores worse in the backtest than
+# a partial discount, because it throws away more history.
+OTHER_QB_WEIGHT = 0.0
 HURT_COLS = ["receiving_yards", "receptions", "targets", "target_share", "air_yards_share", "yds_per_tgt", "adot"]
 
 
@@ -135,8 +143,50 @@ def snap_share() -> pl.DataFrame:
             .select("game_id", pl.col("gsis_id").alias("player_id"), "offense_pct"))
 
 
+def rolling_weighted(df: pl.DataFrame, sched: pl.DataFrame, rolling: list[str],
+                     hurt_weight: float, other_qb_weight: float) -> pl.DataFrame:
+    """Rolling averages where a WR/TE/RB's receiving stats (HURT_COLS) discount past games he
+    played hurt (only while he is healthy now) and games with a different QB than this game's.
+
+    The QB weight depends on the game being projected, so for non-QBs each average is computed
+    once per (player, QB) pair he has had, and each row keeps the one for its own game's QB."""
+    flags = pl.col("hurt_report").fill_null(False) | pl.col("back_from_out").fill_null(False)
+    df = (df.join(played_hurt(), on=["season", "week", "player_id"], how="left")
+          .join(game_qbs(sched), on=["game_id", "team"], how="left")
+          .sort("player_id", "gameday")
+          .with_columns(pl.when(flags & (pl.col("position") != "QB")).then(hurt_weight).otherwise(1.0).alias("w_hurt"),
+                        pl.lit(1.0).alias("w_one"))
+          .with_columns([ewm(c, "player_id").alias(f"e_{c}") for c in rolling if c not in HURT_COLS]))
+    qbs = df.filter(pl.col("position") == "QB").with_columns(
+        [pl.when(flags).then(wewm(c, "player_id", "w_one")).otherwise(wewm(c, "player_id", "w_hurt")).alias(f"e_{c}")
+         for c in HURT_COLS])
+    # fallback for a receiver with no prior games with this QB: his average over all games
+    rest = df.filter(pl.col("position") != "QB").with_columns(
+        [pl.when(flags).then(wewm(c, "player_id", "w_one")).otherwise(wewm(c, "player_id", "w_hurt")).alias(f"fb_{c}")
+         for c in HURT_COLS])
+    pairs = rest.select("player_id", pl.col("sched_qb").alias("cur_qb")).unique()
+    by = ["player_id", "cur_qb"]
+    rest = (rest.join(pairs, on="player_id")
+            .with_columns(pl.when(pl.col("sched_qb").eq_missing(pl.col("cur_qb"))).then(1.0).otherwise(other_qb_weight).alias("w_qb"))
+            .with_columns((pl.col("w_qb") * pl.col("w_hurt")).alias("w_both"))
+            .sort("player_id", "cur_qb", "gameday")
+            .with_columns([pl.when(flags).then(wewm(c, by, "w_qb")).otherwise(wewm(c, by, "w_both")).alias(f"e_{c}")
+                           for c in HURT_COLS])
+            .filter(pl.col("sched_qb").eq_missing(pl.col("cur_qb")))
+            .with_columns([pl.col(f"e_{c}").fill_null(pl.col(f"fb_{c}")) for c in HURT_COLS])
+            .drop("cur_qb", "w_qb", "w_both", *[f"fb_{c}" for c in HURT_COLS]))
+    return (pl.concat([qbs, rest], how="vertical_relaxed").sort("player_id", "gameday")
+            .drop("hurt_report", "back_from_out", "w_one", "sched_qb"))
+
+
+def game_qbs(sched: pl.DataFrame) -> pl.DataFrame:
+    """Per team-game: the starting QB per the schedule (the listed starter for unplayed games)."""
+    return pl.concat([sched.select("game_id", pl.col(f"{s}_team").alias("team"), pl.col(f"{s}_qb_id").alias("sched_qb"))
+                      for s in ("home", "away")])
+
+
 def build(upcoming: pl.DataFrame | None = None, wind: dict | None = None,
-          hurt_weight: float = HURT_WEIGHT) -> pl.DataFrame:
+          hurt_weight: float = HURT_WEIGHT, other_qb_weight: float = OTHER_QB_WEIGHT) -> pl.DataFrame:
     sched, ps = load(upcoming, wind)
     ctx = team_context(sched, ps)
     dfn = defense_allowed(ps, ctx)
@@ -172,19 +222,10 @@ def build(upcoming: pl.DataFrame | None = None, wind: dict | None = None,
                "yds_per_car", "receiving_yards", "receptions", "targets", "target_share",
                "air_yards_share", "yds_per_tgt", "offense_pct", "passing_epa", "fantasy_points_ppr", "adot"] + EXTRA
     df = df.with_columns(pl.col("game_id").cum_count().over("player_id").alias("n_prior"))
-    if hurt_weight == 1.0:
+    if hurt_weight == 1.0 and other_qb_weight == 1.0:
         df = df.with_columns([ewm(c, "player_id").alias(f"e_{c}") for c in rolling])
     else:
-        # games played hurt count hurt_weight in the averages, but only for a player healthy today
-        flags = pl.col("hurt_report").fill_null(False) | pl.col("back_from_out").fill_null(False)
-        df = (df.join(played_hurt(), on=["season", "week", "player_id"], how="left")
-              .sort("player_id", "gameday")
-              .with_columns(pl.when(flags & (pl.col("position") != "QB")).then(hurt_weight).otherwise(1.0).alias("w_hurt"),
-                            pl.lit(1.0).alias("w_one"))
-              .with_columns([ewm(c, "player_id").alias(f"e_{c}") for c in rolling if c not in HURT_COLS]
-                            + [pl.when(flags).then(wewm(c, "player_id", "w_one")).otherwise(wewm(c, "player_id", "w_hurt"))
-                               .alias(f"e_{c}") for c in HURT_COLS])
-              .drop("hurt_report", "back_from_out", "w_one"))
+        df = rolling_weighted(df, sched, rolling, hurt_weight, other_qb_weight)
     df = (df.join(own_injury(), on=["season", "week", "team", "player_id"], how="left")
           .with_columns(pl.col("own_q", "own_dnp", "own_out").fill_null(0)))
     st_own, st_opp = special_teams(ctx)
