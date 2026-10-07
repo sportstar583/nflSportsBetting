@@ -18,11 +18,18 @@ MAX_AGE_DAYS = 730
 SPLITS = {"all": ("epa", "n"), "pass": ("pass_epa", "n_pass"), "run": ("run_epa", "n_run")}
 
 
-def team_games(pbp_path, sched: pl.DataFrame) -> pl.DataFrame:
-    """One row per offense per game: EPA/play by split, play counts and seconds per play."""
+# Garbage time: second-half plays with the offense's win probability under 10% or over 90%
+# (21% of plays). Trailing teams pass 80% of the time against soft coverage, leaders run out the clock.
+GARBAGE = (pl.col("qtr") >= 3) & ((pl.col("wp") < 0.10) | (pl.col("wp") > 0.90))
+
+
+def team_games(pbp_path, sched: pl.DataFrame, drop_garbage: bool = False) -> pl.DataFrame:
+    """One row per offense per game: EPA/play by split, play counts and seconds per play.
+    drop_garbage leaves garbage-time plays out of the EPA and play counts."""
+    keep = ~GARBAGE.fill_null(False) if drop_garbage else pl.lit(True)
     pbp = (
         pl.scan_parquet(pbp_path)
-        .filter(pl.col("play_type").is_in(["pass", "run"]) & pl.col("epa").is_not_null())
+        .filter(pl.col("play_type").is_in(["pass", "run"]) & pl.col("epa").is_not_null() & keep)
         .select("game_id", "posteam", "defteam", "play_type", "epa", "drive",
                 "drive_play_count", "drive_time_of_possession")
         .collect()

@@ -375,9 +375,11 @@ Against the closing spread it does not beat the market:
 
 | | ATS | Win % | Margin MAE (model / line) |
 | --- | --- | --- | --- |
-| 2022-2025, all games | 550-560-29 | 49.5% | 10.02 / 9.54 |
-| 2022-2025, 3+ point gaps | 162-180-11 | 47.4% | 10.67 / 9.38 |
-| 2026 through week 4 | 31-27-5 | 53.4% | 9.38 / 9.43 |
+| 2022-2025, all games | 545-565-29 | 49.1% | 10.02 / 9.54 |
+| 2022-2025, 3+ point gaps | 178-175-10 | 50.4% | 10.45 / 9.30 |
+| 2026 through week 4 | 31-28-5 | 52.5% | 9.64 / 9.63 |
+
+(Team ratings leave out garbage-time plays; see below.)
 
 Lines here are nflverse's `spread_line` (closing for played games), not the opener a site would
 show, so gaps are smaller than against an early line.
@@ -418,3 +420,17 @@ one Friday). `props_log/manual_out.csv` (season, week, team, player name, note) 
 treat as out anyway. `props.players_out()` reads it with the official reports and IR/roster
 statuses, so the player is dropped and his targets/carries go to his teammates. Remove the row
 if he ends up playing.
+
+### Garbage time
+`adjust.GARBAGE`: second-half plays where the offense's win probability is under 10% or over 90%.
+That is 21% of all plays. Trailing teams pass 80% of the time (61% when the game is competitive),
+and leading teams run out the clock.
+
+- Game model: team efficiency, success rates and pass rate come from non-garbage plays only;
+  plays per game still counts every play. Overall margin MAE is unchanged (10.024 -> 10.021), but
+  the games where the model disagrees with the line by 3+ improve: 162-180 (47.4%) -> 178-175
+  (50.4%), MAE 10.67 -> 10.45. Still no edge.
+- Props (`props.garbage_time()`): rolling passing yards/attempts, receiving yards/targets/receptions
+  outside garbage time, plus the share of a player's yards that came in it. MAE: passing 62.20 ->
+  61.89, receiving 22.65 -> 22.62, receptions 1.655 -> 1.653. Rushing got worse (24.98 -> 25.07), so
+  the rushing model doesn't use them.

@@ -32,18 +32,25 @@ GROUPS = {"pass": "Passing game", "run": "Running game", "pass_sr": "Pass consis
           "pace": "Pace"}
 
 
-def team_games(sched: pl.DataFrame) -> pl.DataFrame:
-    """adjust.team_games plus success rates, pass rate and plays per team-game."""
-    tg = adjust.team_games(DATA / "raw" / "pbp" / "*.parquet", sched)
-    pbp = (pl.scan_parquet(DATA / "raw" / "pbp" / "*.parquet")
+DROP_GARBAGE = True
+
+
+def team_games(sched: pl.DataFrame, drop_garbage: bool = DROP_GARBAGE) -> pl.DataFrame:
+    """adjust.team_games plus success rates, pass rate and plays per team-game. With drop_garbage,
+    efficiency and pass rate come from non-garbage plays only; plays per game counts every play."""
+    path = DATA / "raw" / "pbp" / "*.parquet"
+    tg = adjust.team_games(path, sched, drop_garbage)
+    keep = ~adjust.GARBAGE.fill_null(False) if drop_garbage else pl.lit(True)
+    pbp = (pl.scan_parquet(path)
            .filter(pl.col("play_type").is_in(["pass", "run"]) & pl.col("epa").is_not_null())
-           .select("game_id", "posteam", "play_type", "success").collect())
+           .select("game_id", "posteam", "play_type", "success", keep.alias("keep")).collect())
     pt = pl.col("play_type")
     sr = pbp.group_by("game_id", "posteam").agg(
-        pl.col("success").filter(pt == "pass").mean().alias("pass_sr"),
-        pl.col("success").filter(pt == "run").mean().alias("run_sr"))
+        pl.col("success").filter((pt == "pass") & pl.col("keep")).mean().alias("pass_sr"),
+        pl.col("success").filter((pt == "run") & pl.col("keep")).mean().alias("run_sr"),
+        pl.len().alias("plays"))
     return (tg.join(sr, on=["game_id", "posteam"], how="left")
-            .with_columns((pl.col("n_pass") / pl.col("n")).alias("pass_rate"), pl.col("n").alias("plays")))
+            .with_columns((pl.col("n_pass") / pl.col("n")).alias("pass_rate")))
 
 
 def ratings(tg: pl.DataFrame, sched: pl.DataFrame) -> pl.DataFrame:
@@ -121,13 +128,13 @@ def qb_adjustment(sched: pl.DataFrame) -> pl.DataFrame:
             .select("game_id", "team", "qb_id", "qb_name", "starter_epa", "window_epa", "qb_adj"))
 
 
-def build() -> pl.DataFrame:
+def build(drop_garbage: bool = DROP_GARBAGE) -> pl.DataFrame:
     """One row per team-game: the team's inputs (own offense + opponent defense) and points."""
     sched = (pl.read_parquet(DATA / "raw" / "schedules.parquet")
              .filter(pl.col("game_type").is_in(["REG", "WC", "DIV", "CON", "SB"]))
              .with_columns(pl.col("home_team", "away_team").replace(RENAMES)))
     QB_WINDOW.clear()
-    r = ratings(team_games(sched), sched)
+    r = ratings(team_games(sched, drop_garbage), sched)
     qb = qb_adjustment(sched)
     sides = []
     for home in (True, False):

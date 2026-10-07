@@ -191,6 +191,34 @@ def rolling_weighted(df: pl.DataFrame, sched: pl.DataFrame, rolling: list[str],
             .drop("hurt_report", "back_from_out", "w_one", "sched_qb"))
 
 
+def garbage_time(df: pl.DataFrame) -> pl.DataFrame:
+    """Rolling production outside garbage time (adjust.GARBAGE: second half, offense's win
+    probability under 10% or over 90%; 21% of plays) and the share of yards gained in it.
+
+    Box-score yards mix real usage with blowout yards (trailing teams pass 80% of the time).
+    As inputs, walk-forward MAE: passing 62.20 -> 61.89, receiving 22.65 -> 22.62, receptions
+    1.655 -> 1.653; rushing got worse (24.98 -> 25.07), so it doesn't use them."""
+    pbp = (pl.scan_parquet(DATA / "raw" / "pbp" / "*.parquet").filter(pl.col("play_type").is_in(["pass", "run"]))
+           .select("game_id", "passer_player_id", "receiver_player_id", "passing_yards", "receiving_yards",
+                   "complete_pass", "pass_attempt", "sack", adjust.GARBAGE.fill_null(False).alias("gb")).collect())
+    ng, gb = ~pl.col("gb"), pl.col("gb")
+    share = lambda c: (pl.col(c).fill_null(0).filter(gb).sum() / pl.col(c).fill_null(0).sum().clip(1))  # noqa: E731
+    rec = (pbp.filter(pl.col("receiver_player_id").is_not_null())
+           .group_by("game_id", pl.col("receiver_player_id").alias("player_id")).agg(
+               pl.col("receiving_yards").fill_null(0).filter(ng).sum().alias("ng_rec_yds"), ng.sum().alias("ng_targets"),
+               pl.col("complete_pass").filter(ng).sum().alias("ng_receptions"), share("receiving_yards").alias("gb_rec_share")))
+    pas = (pbp.filter(pl.col("passer_player_id").is_not_null() & (pl.col("sack") == 0))
+           .group_by("game_id", pl.col("passer_player_id").alias("player_id")).agg(
+               pl.col("passing_yards").fill_null(0).filter(ng).sum().alias("ng_pass_yds"),
+               pl.col("pass_attempt").filter(ng).sum().alias("ng_att"), share("passing_yards").alias("gb_pass_share")))
+    counts = ["ng_rec_yds", "ng_targets", "ng_receptions", "ng_pass_yds", "ng_att"]
+    played = pl.col("passing_yards").is_not_null() | pl.col("receiving_yards").is_not_null()
+    df = (df.join(rec, on=["game_id", "player_id"], how="left").join(pas, on=["game_id", "player_id"], how="left")
+          .with_columns([pl.when(played).then(pl.col(c).fill_null(0)).otherwise(pl.col(c)).alias(c) for c in counts])
+          .sort("player_id", "gameday"))
+    return df.with_columns([ewm(c, "player_id").alias(f"e_{c}") for c in counts + ["gb_rec_share", "gb_pass_share"]])
+
+
 LONG_RUN = 16  # games
 
 
@@ -254,7 +282,7 @@ def build(upcoming: pl.DataFrame | None = None, wind: dict | None = None,
         df = df.with_columns([ewm(c, "player_id").alias(f"e_{c}") for c in rolling])
     else:
         df = rolling_weighted(df, sched, rolling, hurt_weight, other_qb_weight)
-    df = long_run(df)
+    df = garbage_time(long_run(df))
     df = (df.join(own_injury(), on=["season", "week", "team", "player_id"], how="left")
           .with_columns(pl.col("own_q", "own_dnp", "own_out").fill_null(0)))
     st_own, st_opp = special_teams(ctx)
@@ -736,7 +764,7 @@ MARKETS = {
                  ["e_passing_yards", "e_attempts", "e_yds_per_att", "e_passing_epa",
                   "opp_pass_yds_alw", "opp_adj_def_pass",
                   "e_ngs_ttt", "e_ngs_agg", "e_ngs_iay_pass", "e_ngs_cpoe", "e_ngs_ays", "e_giveaways", "e_proe_neutral",
-                  "qb_qtile", "def_x_qb", "jump_pass", "age"]),
+                  "qb_qtile", "def_x_qb", "jump_pass", "age", "e_ng_pass_yds", "e_ng_att", "e_gb_pass_share"]),
     "rush_yds": ("rushing_yards", ["RB"], pl.col("e_carries") >= 6,
                  ["e_rushing_yards_adj", "e_carries_adj", "e_carry_share_adj", "e_yds_per_car",
                   "opp_rb_rush_alw", "opp_adj_def_run", "role_rank", "opp_role_alw", "opp_role_ratio",
@@ -746,13 +774,13 @@ MARKETS = {
                  "e_yds_per_tgt", "opp_wr_rec_alw", "opp_te_rec_alw", "opp_rb_rec_alw", "opp_adj_def_pass",
                  "is_wr", "is_te", "role_rank", "opp_role_alw", "opp_role_ratio",
                  "e_adot", "e_pfr_drop_pct", "e_target_share_qb", "e_targets_qb", "n_qb", "e_giveaways",
-                 "lr_med_rec", "lr_med_recs", "lr_mean_rec"]),
+                 "lr_med_rec", "lr_med_recs", "lr_mean_rec", "e_ng_rec_yds", "e_ng_targets", "e_gb_rec_share"]),
     "receptions": ("receptions", ["WR", "TE", "RB"], pl.col("e_targets") >= 3,
                    ["e_receptions_adj", "e_targets_adj", "e_target_share_adj", "e_air_yards_share",
                     "opp_wr_rec_alw", "opp_te_rec_alw", "opp_rb_rec_alw", "opp_adj_def_pass",
                     "is_wr", "is_te", "role_rank", "opp_role_alw", "opp_role_ratio",
                     "e_adot", "e_pfr_drop_pct", "e_target_share_qb", "e_targets_qb", "e_receiving_yards_qb", "n_qb",
-                    "lr_med_rec", "lr_med_recs", "lr_mean_rec"]),
+                    "lr_med_rec", "lr_med_recs", "lr_mean_rec", "e_ng_receptions", "e_ng_targets", "e_gb_rec_share"]),
 }
 
 
