@@ -14,6 +14,7 @@ from pathlib import Path
 import polars as pl
 
 import game_model as gm
+import madden
 import totals_model as tm
 from props_week import TEAMS
 
@@ -106,6 +107,24 @@ def margin_bars(g: dict) -> str:
             f'drawn toward the team it favours. Together they come to {abs(total):.1f} toward {e(to)}.</p>')
 
 
+def madden_section(g: dict) -> str:
+    """Madden unit ratings for both teams: display only (see madden.py and the README)."""
+    a, h = g["a_team"], g["team"]
+    ma, mh = MADDEN.get((g["season"], g["week"], a)), MADDEN.get((g["season"], g["week"], h))
+    if not ma or not mh:
+        return ""
+    def cell(m, u):
+        v, n = m.get(f"mad_{u}"), m.get(f"unrated_{u}") or 0
+        return "–" if v is None else f'{v:.0f}' + ("*" if n else "")
+    rows = "".join(f'<tr><th scope="row">{lab}</th><td class="num">{cell(ma, u)}</td><td class="num">{cell(mh, u)}</td></tr>'
+                   for lab, u in MADDEN_UNITS)
+    which = ("Madden 26's update for this week" if g["season"] < 2026
+             else "Madden 26's final ratings (EA's API doesn't serve Madden 27), with players on their current teams")
+    return f'''<section><h3>Madden ratings <span class="sub">healthy starters, mean overall by unit</span></h3>
+    <div class="scroll"><table><thead><tr><th></th><th class="num">{e(NICK[a])}</th><th class="num">{e(NICK[h])}</th></tr></thead><tbody>{rows}</tbody></table></div>
+    <p class="note">From {which}. * = includes a player Madden has no rating for (counted as {madden.UNRATED}). Shown for reference only: the market already prices these (the Madden gap between two teams correlates 0.84-0.87 with the spread) and adding them did not improve the projections against the spread.</p></section>'''
+
+
 def game_section(g: dict, lt: pl.DataFrame, rec: dict) -> str:
     a, h = g["a_team"], g["team"]
     day = dt.date.fromisoformat(g["gameday"])
@@ -180,6 +199,7 @@ def game_section(g: dict, lt: pl.DataFrame, rec: dict) -> str:
   <section><h3>Quarterbacks</h3>
     <div class="scroll"><table><thead><tr><th>Listed starter</th><th>Team</th><th class="num">Adjustment, EPA / dropback</th></tr></thead><tbody>{qb}</tbody></table></div>
     <p class="note">The listed starter's rating against the passers who actually played in the games behind the team ratings. Zero means he is the quarterback already in the numbers.</p></section>
+  {madden_section(g)}
   <section><h3>How they rate <span class="sub">percentile vs the league, 100 = best (pass rate and pace: 100 = most)</span></h3>
     <div class="scroll"><table class="pct-table"><thead><tr><th></th><th>{e(NICK[a])} off</th><th>{e(NICK[h])} off</th><th>{e(NICK[a])} def</th><th>{e(NICK[h])} def</th></tr></thead><tbody>{pct}</tbody></table></div></section>
   <section><h3>Team ratings <span class="sub">per play, vs league average</span></h3>
@@ -189,6 +209,9 @@ def game_section(g: dict, lt: pl.DataFrame, rec: dict) -> str:
 </article>'''
 
 
+MADDEN: dict = {}  # (season, week, team) -> Madden unit ratings, filled by render()
+MADDEN_UNITS = [("QB", "qb"), ("Offensive line", "ol"), ("Wide receivers", "wr"), ("Tight end", "te"), ("Running back", "rb"),
+                ("Defensive line", "dl"), ("Linebackers", "lb"), ("Secondary", "db")]
 TOTALS: dict = {}  # game_id -> totals_model.market_total row, filled by render()
 
 
@@ -251,6 +274,10 @@ def render(season: int, weeks: list[int]) -> str:
     back3 = gm.record(g.filter(pl.col("season").is_in([2022, 2023, 2024, 2025])), BIG_GAP)
     cur = gm.record(g.filter(pl.col("season") == season))
     cur3 = gm.record(g.filter(pl.col("season") == season), BIG_GAP)
+    if (madden.DATA / "madden_team_ratings.parquet").exists():
+        MADDEN.clear()
+        MADDEN.update({(r["season"], r["week"], r["team"]): r for r in
+                       pl.read_parquet(madden.DATA / "madden_team_ratings.parquet").iter_rows(named=True)})
     mt = tm.market_total(tm.build())
     TOTALS.clear()
     TOTALS.update({r["game_id"]: r for r in mt.iter_rows(named=True)})
