@@ -34,7 +34,7 @@ def cv(target, cols, base, alpha=50.0):
     d6 = g.filter(pl.col("season") == 2026).drop_nulls(cols + [target]); p6 = m.predict((d6.select(cols).to_numpy() - mu) / sd)
     out = []
     for dd, p in ((d, pred), (d6, p6)):
-        y = dd[target].to_numpy(); b = dd[base].to_numpy() if base else 0
+        y = dd[target].to_numpy()
         mae0 = np.abs(y).mean(); mae1 = np.abs(y - p).mean()
         side = np.sign(p); hit = np.sign(y) * side; w, l = (hit > 0).sum(), (hit < 0).sum()
         out.append(f"MAE {mae0:.3f}->{mae1:.3f}, side {w}-{l} ({w/max(w+l,1):.1%})")
