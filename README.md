@@ -479,3 +479,25 @@ Live use: `totals_model.fetch_wind(games)` saves forecast wind to `props_log/for
 unplayed games use it (retractable roofs take the stadium's usual setting). Until a game's injury
 report has Out/Doubtful statuses, its injury adjustment is held at neutral. The game board's
 "Model total" and over/under record now come from this model.
+
+### Madden ratings (tested, not used)
+`scripts/madden_pull.py` downloads player ratings from EA's ratings API (`drop-api.ea.com`). It only
+serves Madden 26 (the 2025 season): base ratings, every weekly update and the playoffs, about 2,000
+players each. `scripts/madden.py` matches players to nflverse ids by birthdate and name (2,056 of
+2,171) and rates each team-week by unit from its healthy active roster (top QB 1, OL 5, WR 3, TE 1,
+RB 1, DL 4, LB 3, DB 4; injured players dropped). 2025 games use that week's update; 2026 games use
+Madden 26's final ratings with players on their 2026 teams (rookies unrated, counted as 60).
+
+`scripts/madden_backtest.py`:
+
+| | 2025 (current weekly ratings) | 2026 wk 1-4 (last year's ratings) |
+| --- | --- | --- |
+| Madden team gap vs the spread (correlation) | 0.87 | 0.84 |
+| Predicting where the spread missed | 48.9% sides | 47.5% |
+| Predicting where the total missed | 50.9% | 50.0% |
+| Game model margin MAE, + 0.2 x Madden gap | 10.01 -> 9.86 | 9.41 -> 9.69 |
+| Game model ATS, + 0.2 x Madden gap | 49.6% -> 49.3% | 61.0% -> 55.9% |
+
+The market already prices Madden talent. Kept current, Madden helps the game model's margins a
+little, but never against the spread, and last year's ratings hurt 2026. So they are not used
+anywhere, and the board doesn't show them. Revisit if EA's API starts serving Madden 27.
