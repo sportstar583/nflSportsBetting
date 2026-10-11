@@ -7,8 +7,8 @@ the median of each market. Outdoor wind comes from Open-Meteo's live forecast (n
 fills wind after kickoff).
 
 The projection used for betting is a blend, line + k * (model - line), with k per market from
-line_vs_model.py (the market line is more accurate than the model; k is 0.1-0.2 for yardage, 0.5
-for receptions). `pred` is the raw model, `pred_blend` what the EVs use.
+line_vs_model.py (the market line is more accurate than the model; k is 0 for yardage, 0.3 for
+receptions). `pred` is the raw model, `pred_blend` what the EVs use.
 
 P(over a line) comes from the walk-forward residuals that props.py saved: among out-of-sample
 player-games whose prediction was close to this one, how often did actual / predicted exceed
@@ -63,9 +63,18 @@ TEAMS = {
 NEIGHBORS = 400  # historical predictions used to estimate each P(over)
 NEWS_GAP = 0.35  # line this far from the recent average: books likely priced injury/role news we lack
 # Weight of the model next to the consensus line: projection = line + k * (model - line).
-# From line_vs_model.py on 647 graded 2026 player-markets (weeks 1-4): the line beat the model in
-# every yardage market (best k 0.0-0.2); receptions favoured the model (k=1.0, n=68), shrunk here.
-BLEND = {"pass_yds": 0.1, "rush_yds": 0.2, "rec_yds": 0.2, "receptions": 0.5}
+# From line_vs_model.py on 1,304 graded 2026 player-markets (weeks 1-4), re-fit on the current model
+# (2026-10-11): for yardage the line alone is more accurate (best k = 0; the model's side wins 41.9%
+# passing, 52.1% rushing, 49.2% receiving), so yardage edges can only come from a book's number
+# being off the consensus. Receptions is the one market where the model adds something (k = 0.3,
+# model side 53.5%). Re-run line_vs_model.py as more weeks are graded.
+BLEND = {"pass_yds": 0.0, "rush_yds": 0.0, "rec_yds": 0.0, "receptions": 0.3}
+# How much of the model's P(over) to keep, pulled toward 50/50: p = 0.5 + s * (p - 0.5). Receptions,
+# fit on 508 graded 2026 lines: the raw probabilities were far too confident (model 60%+ over ->
+# 50% actual); s = 0.2 minimized log-loss (0.6928 vs 0.7019 unshrunk, 0.6931 for a coin flip).
+# Yardage keeps its spread: with k = 0 its P(over) only moves when a book's number is off the
+# consensus line.
+P_SHRINK = {"pass_yds": 1.0, "rush_yds": 1.0, "rec_yds": 1.0, "receptions": 0.2}
 
 
 def norm_name(s: str) -> str:
@@ -208,10 +217,15 @@ def project(df: pl.DataFrame, game_ids: list[str]) -> pl.DataFrame:
 
 
 def p_over(hist: dict, mkt: str, pred: float, line: float) -> float:
-    """Share of nearby out-of-sample predictions whose actual beat the line, scaled by pred."""
+    """Share of nearby out-of-sample predictions whose actual beat the line, scaled by pred.
+
+    The spread of outcomes comes from the model's walk-forward misses, re-centered on their median
+    so a projection exactly on the line is 50/50. Uncentered, the misses leaned under (P(under)
+    ~0.51-0.52 at the line), while graded 2026 lines went over 50.5% / under 49.2%."""
     p, ratio = hist[mkt]
     idx = np.argsort(np.abs(np.log(np.maximum(p, 0.5)) - np.log(max(pred, 0.5))))[:NEIGHBORS]
-    return float((ratio[idx] * pred > line).mean())
+    r = ratio[idx] / np.median(ratio[idx])
+    return float((r * pred > line).mean())
 
 
 def main():
@@ -269,13 +283,31 @@ def main():
     matched = matched.join(cons_line, on=["game_id", "mkt", "key"]).with_columns(
         (pl.col("cons_line") + pl.col("mkt").replace_strict(BLEND, return_dtype=pl.Float64)
          * (pl.col("pred") - pl.col("cons_line"))).alias("pred_blend"))
+    # the market's own P(over) at the consensus line: books' no-vig probabilities at that number. A
+    # posted line is not a 50/50 point when its prices are lopsided (2.5 receptions at +150 over).
+    def no_vig(o, u):
+        io, iu = 1 / (1 + payout(o)), 1 / (1 + payout(u))
+        return io / (io + iu)
+    mkt_p = (matched.filter((pl.col("point") == pl.col("cons_line")) & pl.col("over_price").is_not_null()
+                            & pl.col("under_price").is_not_null())
+             .with_columns(pl.struct("over_price", "under_price").map_elements(lambda x: no_vig(x["over_price"], x["under_price"]),
+                                                                               return_dtype=pl.Float64).alias("f"))
+             .group_by("game_id", "mkt", "key").agg(pl.col("f").median().alias("cons_fair")))
+    matched = matched.join(mkt_p, on=["game_id", "mkt", "key"], how="left").with_columns(pl.col("cons_fair").fill_null(0.5))
     rows = []
     for r in matched.iter_rows(named=True):
-        po = p_over(hist, r["mkt"], r["pred_blend"], r["point"])
+        # receptions come in whole numbers: a book's 4.5 next to a 3.5 consensus means 5 catches instead
+        # of 4, a jump the smooth outcome distribution understates, so those alternate numbers are not
+        # priced; only prices at the consensus line are compared
+        if r["mkt"] == "receptions" and r["point"] != r["cons_line"]:
+            continue
+        # start from the market's P(over) at its consensus line, then move it by what the model adds:
+        # the blend shifting the center (k), and a book's number differing from the consensus
+        shift = p_over(hist, r["mkt"], r["pred_blend"], r["point"]) - p_over(hist, r["mkt"], r["cons_line"], r["cons_line"])
+        po = min(max(r["cons_fair"] + P_SHRINK[r["mkt"]] * shift if r["point"] == r["cons_line"] else r["cons_fair"] + shift, 0.01), 0.99)
         fair = None
         if r["over_price"] is not None and r["under_price"] is not None:
-            io, iu = 1 / (1 + payout(r["over_price"])), 1 / (1 + payout(r["under_price"]))
-            fair = io / (io + iu)
+            fair = no_vig(r["over_price"], r["under_price"])
         for side, price, p in (("Over", r["over_price"], po), ("Under", r["under_price"], 1 - po)):
             if price is None:
                 continue

@@ -501,3 +501,20 @@ Madden 26's final ratings with players on their 2026 teams (rookies unrated, cou
 The market already prices Madden talent. Kept current, Madden helps the game model's margins a
 little, but never against the spread, and last year's ratings hurt 2026. So they are not used
 anywhere, and the board doesn't show them. Revisit if EA's API starts serving Madden 27.
+
+### Prop EV fixes (2026-10-11)
+Re-fit on the current model, `line_vs_model.py` (1,304 graded 2026 lines) found the line alone beats
+any mix with the model for yardage (best k = 0; model side 41.9% passing, 52.1% rushing, 49.2%
+receiving). Receptions is the one market where the model helps (k = 0.3, model side 53.5%).
+`props_week.py` changes:
+- `BLEND` = 0 for passing/rushing/receiving yards, 0.3 for receptions (was 0.1/0.2/0.2/0.5).
+- P(over) starts from the market's own no-vig probability at the consensus line and only moves
+  by what the model adds (the blend shift, or a book's number differing from the consensus). A line
+  is not a 50/50 point when its prices are lopsided (2.5 receptions at +150 over).
+- Model probabilities re-centered so a projection on the line is 50/50. Uncentered they leaned under,
+  while graded 2026 lines went over 50.5% / under 49.2%.
+- Receptions probabilities shrunk to 20% of the model's lean (log-loss fit on 508 graded lines; at
+  full strength, "60%+ over" calls hit 50%). Alternate receptions numbers (4.5 vs a 3.5 consensus)
+  are not priced: whole-number outcomes make them look like false bargains.
+Result: positive-EV props fell from 60-78% of all offered to 1-6% per market side, nearly all from
+books whose number or price is off the consensus.
