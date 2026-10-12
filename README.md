@@ -518,3 +518,11 @@ receiving). Receptions is the one market where the model helps (k = 0.3, model s
   are not priced: whole-number outcomes make them look like false bargains.
 Result: positive-EV props fell from 60-78% of all offered to 1-6% per market side, nearly all from
 books whose number or price is off the consensus.
+
+### Starting field position (tested, not used)
+Each team's rolling average drive start, drive start allowed by the opponent and special-teams EPA
+(`props.special_teams`) were added to the game model and to the market totals adjustment. Neither
+improved: game-model margin MAE 2022-2025 9.926 -> 9.933 (2026 9.463 -> 9.498-9.542); totals
+53.9% -> 52.9-53.3% O/U and MAE 10.162 -> 10.194-10.204 (line 10.189). Teams' drive starts differ by
+only ~2 yards (one standard deviation), EPA already credits field position play by play, and the
+lines price it. The props model tested the same inputs earlier, also without a gain.
