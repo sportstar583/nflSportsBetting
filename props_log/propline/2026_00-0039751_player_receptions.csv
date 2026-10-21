@@ -1,4 +1,16 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039751,Jordan Whittington,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betmgm,0.5,True
+00-0039751,Jordan Whittington,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,hardrock,0.5,True
+00-0039751,Jordan Whittington,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,sportzino,0.5,True
+00-0039751,Jordan Whittington,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,thescorebet,0.5,True
+00-0039751,Jordan Whittington,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,rebet,0.5,True
+00-0039751,Jordan Whittington,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,prizepicks,0.5,True
+00-0039751,Jordan Whittington,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fliff,0.5,True
+00-0039751,Jordan Whittington,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,bovada,0.5,True
+00-0039751,Jordan Whittington,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,pinnacle,0.5,True
+00-0039751,Jordan Whittington,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,prophetx,0.5,True
+00-0039751,Jordan Whittington,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,sleeper,0.5,True
+00-0039751,Jordan Whittington,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,0.5,True
 00-0039751,Jordan Whittington,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,hardrock,4.5,True
 00-0039751,Jordan Whittington,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,polymarket_us,3.5,True
 00-0039751,Jordan Whittington,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,prophetx,1.5,True

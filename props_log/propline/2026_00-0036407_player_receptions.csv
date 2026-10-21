@@ -1,4 +1,25 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036407,Jerry Jeudy,player_receptions,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,dabble,1.5,True
+00-0036407,Jerry Jeudy,player_receptions,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,rebet,1.5,True
+00-0036407,Jerry Jeudy,player_receptions,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,prophetx,1.5,True
+00-0036407,Jerry Jeudy,player_receptions,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,hardrock,0.5,True
+00-0036407,Jerry Jeudy,player_receptions,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,pinnacle,1.5,True
+00-0036407,Jerry Jeudy,player_receptions,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,fanduel,1.5,True
+00-0036407,Jerry Jeudy,player_receptions,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,prizepicks,0.5,True
+00-0036407,Jerry Jeudy,player_receptions,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,sportzino,1.5,True
+00-0036407,Jerry Jeudy,player_receptions,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,betmgm,1.5,True
+00-0036407,Jerry Jeudy,player_receptions,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,sleeper,1.5,True
+00-0036407,Jerry Jeudy,player_receptions,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,betrivers,1.5,True
+00-0036407,Jerry Jeudy,player_receptions,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,sleeper,1.5,True
+00-0036407,Jerry Jeudy,player_receptions,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,sportzino,1.5,True
+00-0036407,Jerry Jeudy,player_receptions,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,betway,1.5,True
+00-0036407,Jerry Jeudy,player_receptions,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,thescorebet,1.5,True
+00-0036407,Jerry Jeudy,player_receptions,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,pinnacle,1.5,True
+00-0036407,Jerry Jeudy,player_receptions,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,prophetx,1.5,True
+00-0036407,Jerry Jeudy,player_receptions,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,fanduel,1.5,True
+00-0036407,Jerry Jeudy,player_receptions,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,rebet,1.5,True
+00-0036407,Jerry Jeudy,player_receptions,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,betmgm,1.5,True
+00-0036407,Jerry Jeudy,player_receptions,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,dabble,1.5,True
 00-0036407,Jerry Jeudy,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,prophetx,1.5,True
 00-0036407,Jerry Jeudy,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,novig,0.5,True
 00-0036407,Jerry Jeudy,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,1.5,True
@@ -9,19 +30,19 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0036407,Jerry Jeudy,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,rebet,1.5,True
 00-0036407,Jerry Jeudy,player_receptions,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,hardrock,1.5,True
 00-0036407,Jerry Jeudy,player_receptions,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,hardrock,4.5,True
-00-0036407,Jerry Jeudy,player_receptions,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,betmgm,1.5,True
-00-0036407,Jerry Jeudy,player_receptions,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,prophetx,1.5,True
 00-0036407,Jerry Jeudy,player_receptions,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,betway,1.5,True
 00-0036407,Jerry Jeudy,player_receptions,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,pinnacle,1.5,True
 00-0036407,Jerry Jeudy,player_receptions,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,sleeper,1.5,True
 00-0036407,Jerry Jeudy,player_receptions,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,novig,2.5,True
 00-0036407,Jerry Jeudy,player_receptions,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,fanduel,1.5,True
+00-0036407,Jerry Jeudy,player_receptions,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,betmgm,1.5,True
+00-0036407,Jerry Jeudy,player_receptions,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,prophetx,1.5,True
+00-0036407,Jerry Jeudy,player_receptions,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,prophetx,1.5,True
 00-0036407,Jerry Jeudy,player_receptions,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,hardrock,6.5,True
 00-0036407,Jerry Jeudy,player_receptions,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,pinnacle,2.5,True
 00-0036407,Jerry Jeudy,player_receptions,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,betway,2.5,True
 00-0036407,Jerry Jeudy,player_receptions,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,betmgm,2.5,True
 00-0036407,Jerry Jeudy,player_receptions,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,fanduel,2.5,True
-00-0036407,Jerry Jeudy,player_receptions,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,prophetx,1.5,True
 00-0036407,Jerry Jeudy,player_receptions,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,prophetx,2.5,True
 00-0036407,Jerry Jeudy,player_receptions,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,betway,2.5,True
 00-0036407,Jerry Jeudy,player_receptions,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,pinnacle,2.5,True

@@ -1,4 +1,14 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0035676,A.J. Brown,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,dabble,4.5,True
+00-0035676,A.J. Brown,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,prizepicks,2.5,True
+00-0035676,A.J. Brown,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,prophetx,3.5,True
+00-0035676,A.J. Brown,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,fanduel,3.5,True
+00-0035676,A.J. Brown,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,pinnacle,3.5,True
+00-0035676,A.J. Brown,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,hardrock,8.5,True
+00-0035676,A.J. Brown,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,sleeper,3.5,True
+00-0035676,A.J. Brown,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,betmgm,3.5,True
+00-0035676,A.J. Brown,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,rebet,3.5,True
+00-0035676,A.J. Brown,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,sportzino,4.5,True
 00-0035676,A.J. Brown,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,hardrock,11.5,True
 00-0035676,A.J. Brown,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,fanduel,5.5,True
 00-0035676,A.J. Brown,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,fliff,5.5,True

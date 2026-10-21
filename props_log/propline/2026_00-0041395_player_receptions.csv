@@ -1,5 +1,21 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0041395,Eli Raridon,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,novig,0.5,True
+00-0041395,Eli Raridon,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,prizepicks,0.5,True
+00-0041395,Eli Raridon,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,pinnacle,1.5,True
+00-0041395,Eli Raridon,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,hardrock,4.5,True
+00-0041395,Eli Raridon,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,dabble,1.5,True
+00-0041395,Eli Raridon,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,thescorebet,1.5,True
+00-0041395,Eli Raridon,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,sleeper,1.5,True
+00-0041395,Eli Raridon,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,rebet,1.5,True
+00-0041395,Eli Raridon,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,prophetx,1.5,True
+00-0041395,Eli Raridon,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,sportzino,1.5,True
+00-0041395,Eli Raridon,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,rebet,1.5,True
+00-0041395,Eli Raridon,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,sportzino,1.5,True
+00-0041395,Eli Raridon,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,prophetx,1.5,True
+00-0041395,Eli Raridon,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,betway,1.5,True
+00-0041395,Eli Raridon,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,fanduel,1.5,True
+00-0041395,Eli Raridon,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,betmgm,1.5,True
+00-0041395,Eli Raridon,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,prizepicks,1.5,True
+00-0041395,Eli Raridon,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,sleeper,1.5,True
 00-0041395,Eli Raridon,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,prophetx,0.5,True
 00-0041395,Eli Raridon,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,fanduel,0.5,True
 00-0041395,Eli Raridon,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,sportzino,0.5,True
@@ -7,8 +23,9 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0041395,Eli Raridon,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,hardrock,0.5,True
 00-0041395,Eli Raridon,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,sleeper,0.5,True
 00-0041395,Eli Raridon,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,fliff,0.5,True
+00-0041395,Eli Raridon,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,novig,0.5,True
 00-0041395,Eli Raridon,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,prizepicks,0.5,True
-00-0041395,Eli Raridon,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,prophetx,0.5,True
 00-0041395,Eli Raridon,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,hardrock,2.5,True
 00-0041395,Eli Raridon,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,fanduel,0.5,True
 00-0041395,Eli Raridon,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,prizepicks,0.5,True
+00-0041395,Eli Raridon,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,prophetx,0.5,True

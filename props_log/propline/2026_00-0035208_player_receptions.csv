@@ -1,12 +1,39 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0035208,Olamide Zaccheaus,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,novig,0.5,True
-00-0035208,Olamide Zaccheaus,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,pinnacle,1.5,True
+00-0035208,Olamide Zaccheaus,player_receptions,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,fliff,1.5,True
+00-0035208,Olamide Zaccheaus,player_receptions,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,sportzino,1.5,True
+00-0035208,Olamide Zaccheaus,player_receptions,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,prizepicks,1.5,True
+00-0035208,Olamide Zaccheaus,player_receptions,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,prophetx,3.5,True
+00-0035208,Olamide Zaccheaus,player_receptions,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,betmgm,1.5,True
+00-0035208,Olamide Zaccheaus,player_receptions,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,fliff,0.5,True
+00-0035208,Olamide Zaccheaus,player_receptions,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,novig,2.5,True
+00-0035208,Olamide Zaccheaus,player_receptions,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,sportzino,0.5,True
+00-0035208,Olamide Zaccheaus,player_receptions,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,sleeper,0.5,True
+00-0035208,Olamide Zaccheaus,player_receptions,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,thescorebet,0.5,True
+00-0035208,Olamide Zaccheaus,player_receptions,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,fanduel,0.5,True
+00-0035208,Olamide Zaccheaus,player_receptions,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,pinnacle,0.5,True
+00-0035208,Olamide Zaccheaus,player_receptions,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,bovada,0.5,True
+00-0035208,Olamide Zaccheaus,player_receptions,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,rebet,0.5,True
+00-0035208,Olamide Zaccheaus,player_receptions,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,prizepicks,0.5,True
+00-0035208,Olamide Zaccheaus,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,novig,3.5,True
+00-0035208,Olamide Zaccheaus,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betway,1.5,True
+00-0035208,Olamide Zaccheaus,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,prophetx,1.5,True
+00-0035208,Olamide Zaccheaus,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,rebet,1.5,True
+00-0035208,Olamide Zaccheaus,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,1.5,True
+00-0035208,Olamide Zaccheaus,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,1.5,True
+00-0035208,Olamide Zaccheaus,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,prizepicks,0.5,True
+00-0035208,Olamide Zaccheaus,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,pinnacle,1.5,True
+00-0035208,Olamide Zaccheaus,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,sleeper,1.5,True
+00-0035208,Olamide Zaccheaus,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,sportzino,1.5,True
+00-0035208,Olamide Zaccheaus,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,1.5,True
+00-0035208,Olamide Zaccheaus,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,lowvig,1.5,True
 00-0035208,Olamide Zaccheaus,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,betway,1.5,True
 00-0035208,Olamide Zaccheaus,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,hardrock,4.5,True
 00-0035208,Olamide Zaccheaus,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,betmgm,1.5,True
 00-0035208,Olamide Zaccheaus,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,fanduel,1.5,True
 00-0035208,Olamide Zaccheaus,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,prizepicks,0.5,True
+00-0035208,Olamide Zaccheaus,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,novig,0.5,True
 00-0035208,Olamide Zaccheaus,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,prophetx,1.5,True
+00-0035208,Olamide Zaccheaus,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,pinnacle,1.5,True
 00-0035208,Olamide Zaccheaus,player_receptions,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,hardrock,4.5,True
 00-0035208,Olamide Zaccheaus,player_receptions,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,fanduel,1.5,True
 00-0035208,Olamide Zaccheaus,player_receptions,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,prophetx,1.5,True

@@ -1,9 +1,29 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038621,DeMario Douglas,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,prizepicks,1.5,True
+00-0038621,DeMario Douglas,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,pinnacle,1.5,True
+00-0038621,DeMario Douglas,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,sleeper,1.5,True
+00-0038621,DeMario Douglas,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,betmgm,1.5,True
+00-0038621,DeMario Douglas,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,fanduel,1.5,True
+00-0038621,DeMario Douglas,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,rebet,1.5,True
+00-0038621,DeMario Douglas,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,prophetx,1.5,True
+00-0038621,DeMario Douglas,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,sportzino,2.5,True
+00-0038621,DeMario Douglas,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,prophetx,2.5,True
+00-0038621,DeMario Douglas,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,sportzino,2.5,True
+00-0038621,DeMario Douglas,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,betway,2.5,True
+00-0038621,DeMario Douglas,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,fanduel,2.5,True
+00-0038621,DeMario Douglas,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,betmgm,2.5,True
+00-0038621,DeMario Douglas,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,thescorebet,2.5,True
+00-0038621,DeMario Douglas,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,prizepicks,2.5,True
+00-0038621,DeMario Douglas,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,sleeper,2.5,True
+00-0038621,DeMario Douglas,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,pinnacle,2.5,True
+00-0038621,DeMario Douglas,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,novig,6.5,True
+00-0038621,DeMario Douglas,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,rebet,2.5,True
+00-0038621,DeMario Douglas,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,dabble,2.5,True
 00-0038621,DeMario Douglas,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,fanduel,2.5,True
+00-0038621,DeMario Douglas,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,dabble,2.5,True
 00-0038621,DeMario Douglas,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,betmgm,2.5,True
 00-0038621,DeMario Douglas,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,betway,2.5,True
 00-0038621,DeMario Douglas,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,rebet,2.5,True
-00-0038621,DeMario Douglas,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,dabble,2.5,True
 00-0038621,DeMario Douglas,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,pinnacle,2.5,True
 00-0038621,DeMario Douglas,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,novig,4.5,True
 00-0038621,DeMario Douglas,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,sportzino,2.5,True
@@ -11,9 +31,6 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0038621,DeMario Douglas,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,prophetx,2.5,True
 00-0038621,DeMario Douglas,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,sleeper,2.5,True
 00-0038621,DeMario Douglas,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,hardrock,3.5,True
-00-0038621,DeMario Douglas,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,courtside,3.5,True
-00-0038621,DeMario Douglas,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,novig,2.5,True
-00-0038621,DeMario Douglas,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,betmgm,2.5,True
 00-0038621,DeMario Douglas,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,fanduel,2.5,True
 00-0038621,DeMario Douglas,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,hardrock,6.5,True
 00-0038621,DeMario Douglas,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,parlayplay,3.5,True
@@ -21,11 +38,14 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0038621,DeMario Douglas,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,pinnacle,2.5,True
 00-0038621,DeMario Douglas,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,sleeper,2.5,True
 00-0038621,DeMario Douglas,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,prizepicks,1.5,True
+00-0038621,DeMario Douglas,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,novig,2.5,True
+00-0038621,DeMario Douglas,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,courtside,3.5,True
+00-0038621,DeMario Douglas,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,betmgm,2.5,True
+00-0038621,DeMario Douglas,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,pinnacle,3.5,True
 00-0038621,DeMario Douglas,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,prizepicks,2.5,True
 00-0038621,DeMario Douglas,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,betmgm,3.5,True
 00-0038621,DeMario Douglas,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,betway,3.5,True
 00-0038621,DeMario Douglas,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,fanduel,3.5,True
-00-0038621,DeMario Douglas,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,pinnacle,3.5,True
 00-0038621,DeMario Douglas,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,prophetx,2.5,True
 00-0038621,DeMario Douglas,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,prophetx,1.5,True
 00-0038621,DeMario Douglas,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,fanduel,1.5,True

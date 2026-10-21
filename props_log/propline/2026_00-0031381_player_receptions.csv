@@ -1,4 +1,29 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0031381,Davante Adams,player_receptions,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,rebet,4.5,True
+00-0031381,Davante Adams,player_receptions,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,sleeper,4.5,True
+00-0031381,Davante Adams,player_receptions,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,sportzino,4.5,True
+00-0031381,Davante Adams,player_receptions,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,pinnacle,4.5,True
+00-0031381,Davante Adams,player_receptions,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,dabble,4.5,True
+00-0031381,Davante Adams,player_receptions,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,thescorebet,4.5,True
+00-0031381,Davante Adams,player_receptions,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,hardrock,8.5,True
+00-0031381,Davante Adams,player_receptions,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,prophetx,4.5,True
+00-0031381,Davante Adams,player_receptions,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,fanduel,4.5,True
+00-0031381,Davante Adams,player_receptions,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,betmgm,4.5,True
+00-0031381,Davante Adams,player_receptions,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,prizepicks,2.5,True
+00-0031381,Davante Adams,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,dabble,4.5,True
+00-0031381,Davante Adams,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,sleeper,4.5,True
+00-0031381,Davante Adams,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betonlineag,4.5,True
+00-0031381,Davante Adams,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,lowvig,4.5,True
+00-0031381,Davante Adams,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,4.5,True
+00-0031381,Davante Adams,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,hardrock,9.5,True
+00-0031381,Davante Adams,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betmgm,4.5,True
+00-0031381,Davante Adams,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,sportzino,4.5,True
+00-0031381,Davante Adams,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,thescorebet,4.5,True
+00-0031381,Davante Adams,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,prophetx,4.5,True
+00-0031381,Davante Adams,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betway,4.5,True
+00-0031381,Davante Adams,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,prizepicks,3.5,True
+00-0031381,Davante Adams,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,pinnacle,4.5,True
+00-0031381,Davante Adams,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,rebet,4.5,True
 00-0031381,Davante Adams,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,prophetx,4.5,True
 00-0031381,Davante Adams,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,novig,8.5,True
 00-0031381,Davante Adams,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,dabble,4.5,True
@@ -12,8 +37,6 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0031381,Davante Adams,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,prizepicks,3.5,True
 00-0031381,Davante Adams,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,fliff,4.5,True
 00-0031381,Davante Adams,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,hardrock,5.5,True
-00-0031381,Davante Adams,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,prophetx,5.5,True
-00-0031381,Davante Adams,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,novig,4.5,True
 00-0031381,Davante Adams,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,5.5,True
 00-0031381,Davante Adams,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,5.5,True
 00-0031381,Davante Adams,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,5.5,True
@@ -21,7 +44,10 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0031381,Davante Adams,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,sleeper,5.5,True
 00-0031381,Davante Adams,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betway,5.5,True
 00-0031381,Davante Adams,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,hardrock,11.5,True
+00-0031381,Davante Adams,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,prophetx,5.5,True
 00-0031381,Davante Adams,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,dabble,5.5,True
+00-0031381,Davante Adams,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,novig,4.5,True
+00-0031381,Davante Adams,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betmgm,5.5,True
 00-0031381,Davante Adams,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betway,5.5,True
 00-0031381,Davante Adams,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,pinnacle,5.5,True
 00-0031381,Davante Adams,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,prophetx,5.5,True
@@ -29,8 +55,7 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0031381,Davante Adams,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,fanduel,5.5,True
 00-0031381,Davante Adams,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,lowvig,5.5,True
 00-0031381,Davante Adams,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betonlineag,5.5,True
-00-0031381,Davante Adams,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betmgm,5.5,True
-00-0031381,Davante Adams,player_receptions,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,pinnacle,4.5,True
 00-0031381,Davante Adams,player_receptions,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,prizepicks,2.5,True
 00-0031381,Davante Adams,player_receptions,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,prophetx,4.5,True
 00-0031381,Davante Adams,player_receptions,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,fanduel,4.5,True
+00-0031381,Davante Adams,player_receptions,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,pinnacle,4.5,True

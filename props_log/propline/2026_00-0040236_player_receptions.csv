@@ -1,8 +1,9 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0040236,Kyle Monangai,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,fanduel,0.5,True
+00-0040236,Kyle Monangai,player_receptions,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,prizepicks,0.5,True
+00-0040236,Kyle Monangai,player_receptions,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,sportzino,0.5,True
+00-0040236,Kyle Monangai,player_receptions,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,underdog,0.5,True
 00-0040236,Kyle Monangai,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,sleeper,0.5,True
 00-0040236,Kyle Monangai,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,fliff,0.5,True
-00-0040236,Kyle Monangai,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,novig,0.5,True
 00-0040236,Kyle Monangai,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,sportzino,0.5,True
 00-0040236,Kyle Monangai,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,rebet,0.5,True
 00-0040236,Kyle Monangai,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,hardrock,0.5,True
@@ -10,6 +11,8 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0040236,Kyle Monangai,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,prophetx,0.5,True
 00-0040236,Kyle Monangai,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,courtside,1.5,True
 00-0040236,Kyle Monangai,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,bovada,0.5,True
+00-0040236,Kyle Monangai,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,novig,0.5,True
+00-0040236,Kyle Monangai,player_receptions,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,fanduel,0.5,True
 00-0040236,Kyle Monangai,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,betway,1.5,True
 00-0040236,Kyle Monangai,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,sleeper,1.5,True
 00-0040236,Kyle Monangai,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,fanduel,1.5,True

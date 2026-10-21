@@ -1,4 +1,30 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039410,Ryan Flournoy,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,prophetx,3.5,True
+00-0039410,Ryan Flournoy,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,fanduel,2.5,True
+00-0039410,Ryan Flournoy,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,pinnacle,3.5,True
+00-0039410,Ryan Flournoy,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,prizepicks,1.5,True
+00-0039410,Ryan Flournoy,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,rebet,3.5,True
+00-0039410,Ryan Flournoy,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,sportzino,3.5,True
+00-0039410,Ryan Flournoy,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,hardrock,1.5,True
+00-0039410,Ryan Flournoy,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,sleeper,3.5,True
+00-0039410,Ryan Flournoy,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,parlayplay,2.5,True
+00-0039410,Ryan Flournoy,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,lowvig,3.5,True
+00-0039410,Ryan Flournoy,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,betonlineag,3.5,True
+00-0039410,Ryan Flournoy,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,thescorebet,3.5,True
+00-0039410,Ryan Flournoy,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,betmgm,3.5,True
+00-0039410,Ryan Flournoy,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,courtside,2.5,True
+00-0039410,Ryan Flournoy,player_receptions,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,prizepicks,2.5,True
+00-0039410,Ryan Flournoy,player_receptions,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,rebet,3.5,True
+00-0039410,Ryan Flournoy,player_receptions,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,fanduel,3.5,True
+00-0039410,Ryan Flournoy,player_receptions,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,pinnacle,3.5,True
+00-0039410,Ryan Flournoy,player_receptions,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,sleeper,3.5,True
+00-0039410,Ryan Flournoy,player_receptions,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,prophetx,3.5,True
+00-0039410,Ryan Flournoy,player_receptions,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betway,2.5,True
+00-0039410,Ryan Flournoy,player_receptions,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,lowvig,3.5,True
+00-0039410,Ryan Flournoy,player_receptions,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,3.5,True
+00-0039410,Ryan Flournoy,player_receptions,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,sportzino,3.5,True
+00-0039410,Ryan Flournoy,player_receptions,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betmgm,3.5,True
+00-0039410,Ryan Flournoy,player_receptions,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,novig,5.5,True
 00-0039410,Ryan Flournoy,player_receptions,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,novig,5.5,True
 00-0039410,Ryan Flournoy,player_receptions,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,pinnacle,3.5,True
 00-0039410,Ryan Flournoy,player_receptions,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,betmgm,3.5,True
@@ -10,9 +36,7 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0039410,Ryan Flournoy,player_receptions,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,hardrock,3.5,True
 00-0039410,Ryan Flournoy,player_receptions,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,prizepicks,2.5,True
 00-0039410,Ryan Flournoy,player_receptions,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,betway,2.5,True
-00-0039410,Ryan Flournoy,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,betmgm,3.5,True
-00-0039410,Ryan Flournoy,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,fanduel,3.5,True
-00-0039410,Ryan Flournoy,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,sleeper,3.5,True
+00-0039410,Ryan Flournoy,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,hardrock,6.5,True
 00-0039410,Ryan Flournoy,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,novig,3.5,True
 00-0039410,Ryan Flournoy,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,pinnacle,3.5,True
 00-0039410,Ryan Flournoy,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,prizepicks,2.5,True
@@ -20,24 +44,26 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0039410,Ryan Flournoy,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,courtside,3.5,True
 00-0039410,Ryan Flournoy,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,prophetx,3.5,True
 00-0039410,Ryan Flournoy,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,betway,3.5,True
-00-0039410,Ryan Flournoy,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,hardrock,6.5,True
+00-0039410,Ryan Flournoy,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,fanduel,3.5,True
+00-0039410,Ryan Flournoy,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,betmgm,3.5,True
 00-0039410,Ryan Flournoy,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,betonlineag,3.0,True
 00-0039410,Ryan Flournoy,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,lowvig,3.0,True
+00-0039410,Ryan Flournoy,player_receptions,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,sleeper,3.5,True
 00-0039410,Ryan Flournoy,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,fanduel,2.5,True
 00-0039410,Ryan Flournoy,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,prizepicks,2.5,True
 00-0039410,Ryan Flournoy,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,fliff,2.5,True
 00-0039410,Ryan Flournoy,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,pinnacle,2.5,True
 00-0039410,Ryan Flournoy,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,betmgm,2.5,True
 00-0039410,Ryan Flournoy,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,prophetx,2.5,True
-00-0039410,Ryan Flournoy,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,betonlineag,2.5,True
 00-0039410,Ryan Flournoy,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,lowvig,2.5,True
+00-0039410,Ryan Flournoy,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,betonlineag,2.5,True
 00-0039410,Ryan Flournoy,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,betway,2.5,True
+00-0039410,Ryan Flournoy,player_receptions,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,prophetx,2.5,True
+00-0039410,Ryan Flournoy,player_receptions,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,pinnacle,2.5,True
+00-0039410,Ryan Flournoy,player_receptions,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,lowvig,2.5,True
+00-0039410,Ryan Flournoy,player_receptions,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betonlineag,2.5,True
 00-0039410,Ryan Flournoy,player_receptions,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betmgm,2.5,True
 00-0039410,Ryan Flournoy,player_receptions,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,fanduel,2.5,True
 00-0039410,Ryan Flournoy,player_receptions,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betway,2.5,True
 00-0039410,Ryan Flournoy,player_receptions,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,hardrock,6.5,True
 00-0039410,Ryan Flournoy,player_receptions,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,prizepicks,1.5,True
-00-0039410,Ryan Flournoy,player_receptions,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,prophetx,2.5,True
-00-0039410,Ryan Flournoy,player_receptions,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,pinnacle,2.5,True
-00-0039410,Ryan Flournoy,player_receptions,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betonlineag,2.5,True
-00-0039410,Ryan Flournoy,player_receptions,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,lowvig,2.5,True

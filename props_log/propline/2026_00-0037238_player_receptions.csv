@@ -1,21 +1,60 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0037238,Drake London,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,pinnacle,5.5,True
+00-0037238,Drake London,player_receptions,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,prophetx,6.5,True
+00-0037238,Drake London,player_receptions,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,fanduel,6.5,True
+00-0037238,Drake London,player_receptions,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,thescorebet,5.5,True
+00-0037238,Drake London,player_receptions,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,hardrock,3.5,True
+00-0037238,Drake London,player_receptions,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,rebet,6.5,True
+00-0037238,Drake London,player_receptions,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,sportzino,6.5,True
+00-0037238,Drake London,player_receptions,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,pinnacle,6.5,True
+00-0037238,Drake London,player_receptions,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,parlayplay,6.5,True
+00-0037238,Drake London,player_receptions,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,betmgm,6.5,True
+00-0037238,Drake London,player_receptions,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,dabble,6.5,True
+00-0037238,Drake London,player_receptions,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,betonlineag,6.5,True
+00-0037238,Drake London,player_receptions,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,lowvig,6.5,True
+00-0037238,Drake London,player_receptions,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,prizepicks,4.5,True
+00-0037238,Drake London,player_receptions,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,sleeper,6.5,True
+00-0037238,Drake London,player_receptions,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,novig,10.5,True
+00-0037238,Drake London,player_receptions,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,prophetx,7.5,True
+00-0037238,Drake London,player_receptions,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,rebet,6.5,True
+00-0037238,Drake London,player_receptions,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,betmgm,5.5,True
+00-0037238,Drake London,player_receptions,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,parlayplay,6.5,True
+00-0037238,Drake London,player_receptions,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,dabble,6.5,True
+00-0037238,Drake London,player_receptions,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,sportzino,6.5,True
+00-0037238,Drake London,player_receptions,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,sleeper,5.5,True
+00-0037238,Drake London,player_receptions,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,betway,5.5,True
+00-0037238,Drake London,player_receptions,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,fanduel,5.5,True
+00-0037238,Drake London,player_receptions,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,pinnacle,6.5,True
+00-0037238,Drake London,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betway,5.5,True
+00-0037238,Drake London,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,6.5,True
+00-0037238,Drake London,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,novig,10.5,True
+00-0037238,Drake London,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,prophetx,5.5,True
+00-0037238,Drake London,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,hardrock,5.5,True
+00-0037238,Drake London,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,dabble,5.5,True
+00-0037238,Drake London,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,pinnacle,6.5,True
+00-0037238,Drake London,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,rebet,5.5,True
+00-0037238,Drake London,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,sleeper,6.5,True
+00-0037238,Drake London,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,parlayplay,6.5,True
+00-0037238,Drake London,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,sportzino,5.5,True
+00-0037238,Drake London,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,5.5,True
+00-0037238,Drake London,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,5.5,True
+00-0037238,Drake London,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,lowvig,5.5,True
 00-0037238,Drake London,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,betway,5.5,True
-00-0037238,Drake London,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,lowvig,5.5,True
-00-0037238,Drake London,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,betonlineag,5.5,True
 00-0037238,Drake London,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,betmgm,5.5,True
 00-0037238,Drake London,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,novig,5.5,True
+00-0037238,Drake London,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,betonlineag,5.5,True
+00-0037238,Drake London,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,lowvig,5.5,True
 00-0037238,Drake London,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,prophetx,5.5,True
 00-0037238,Drake London,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,fanduel,5.5,True
 00-0037238,Drake London,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,hardrock,11.5,True
-00-0037238,Drake London,player_receptions,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,fanduel,4.5,True
+00-0037238,Drake London,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,pinnacle,5.5,True
 00-0037238,Drake London,player_receptions,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,prophetx,6.5,True
 00-0037238,Drake London,player_receptions,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,pinnacle,4.5,True
+00-0037238,Drake London,player_receptions,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,fanduel,4.5,True
 00-0037238,Drake London,player_receptions,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,betway,4.5,True
 00-0037238,Drake London,player_receptions,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,betmgm,4.5,True
-00-0037238,Drake London,player_receptions,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,betmgm,4.5,True
-00-0037238,Drake London,player_receptions,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,betway,4.5,True
 00-0037238,Drake London,player_receptions,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,fanduel,4.5,True
 00-0037238,Drake London,player_receptions,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,prophetx,4.5,True
 00-0037238,Drake London,player_receptions,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,pinnacle,4.5,True
 00-0037238,Drake London,player_receptions,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,hardrock,11.5,True
+00-0037238,Drake London,player_receptions,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,betway,4.5,True
+00-0037238,Drake London,player_receptions,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,betmgm,4.5,True

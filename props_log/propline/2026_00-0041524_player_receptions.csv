@@ -1,2 +1,11 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0041524,Will Kacmarek,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,sleeper,1.5,True
+00-0041524,Will Kacmarek,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,prizepicks,0.5,True
+00-0041524,Will Kacmarek,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,rebet,0.5,True
+00-0041524,Will Kacmarek,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,thescorebet,0.5,True
+00-0041524,Will Kacmarek,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,fanduel,1.5,True
+00-0041524,Will Kacmarek,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,sportzino,0.5,True
+00-0041524,Will Kacmarek,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,parlayplay,1.5,True
+00-0041524,Will Kacmarek,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,prophetx,0.5,True
+00-0041524,Will Kacmarek,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,bovada,0.5,True
 00-0041524,Will Kacmarek,player_receptions,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,prizepicks,0.5,True

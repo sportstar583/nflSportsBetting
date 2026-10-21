@@ -1,3 +1,8 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036887,Luke Farrell,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,prizepicks,0.5,True
+00-0036887,Luke Farrell,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,dabble,0.5,True
+00-0036887,Luke Farrell,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,parlayplay,0.5,True
+00-0036887,Luke Farrell,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,sportzino,0.5,True
+00-0036887,Luke Farrell,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,underdog,0.5,True
 00-0036887,Luke Farrell,player_receptions,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,prizepicks,1.5,True
 00-0036887,Luke Farrell,player_receptions,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,underdog,1.5,True

@@ -1,4 +1,18 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040024,Darius Cooper,player_receptions,46675,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,polymarket_us,1.5,True
+00-0040024,Darius Cooper,player_receptions,46675,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,prizepicks,1.5,True
+00-0040024,Darius Cooper,player_receptions,46675,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,fliff,1.5,True
+00-0040024,Darius Cooper,player_receptions,46675,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,sportzino,1.5,True
+00-0040024,Darius Cooper,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,sleeper,2.5,True
+00-0040024,Darius Cooper,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,prophetx,2.5,True
+00-0040024,Darius Cooper,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,prizepicks,1.5,True
+00-0040024,Darius Cooper,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,pinnacle,2.5,True
+00-0040024,Darius Cooper,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,sportzino,2.5,True
+00-0040024,Darius Cooper,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,rebet,2.5,True
+00-0040024,Darius Cooper,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betmgm,2.5,True
+00-0040024,Darius Cooper,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,fanduel,2.5,True
+00-0040024,Darius Cooper,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betway,2.5,True
+00-0040024,Darius Cooper,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,thescorebet,2.5,True
 00-0040024,Darius Cooper,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,sportzino,1.5,True
 00-0040024,Darius Cooper,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,prophetx,1.5,True
 00-0040024,Darius Cooper,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,betmgm,1.5,True

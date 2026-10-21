@@ -1,1 +1,9 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0041125,Seth McGowan,player_receptions,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,sportzino,0.5,True
+00-0041125,Seth McGowan,player_receptions,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,fliff,0.5,True
+00-0041125,Seth McGowan,player_receptions,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,parlayplay,0.5,True
+00-0041125,Seth McGowan,player_receptions,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,prizepicks,0.5,True
+00-0041125,Seth McGowan,player_receptions,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,dabble,0.5,True
+00-0041125,Seth McGowan,player_receptions,32683,2026-10-11T17:00:00Z,Pittsburgh Steelers,Indianapolis Colts,sportzino,0.5,True
+00-0041125,Seth McGowan,player_receptions,32683,2026-10-11T17:00:00Z,Pittsburgh Steelers,Indianapolis Colts,fliff,0.5,True
+00-0041125,Seth McGowan,player_receptions,32683,2026-10-11T17:00:00Z,Pittsburgh Steelers,Indianapolis Colts,prizepicks,0.5,True

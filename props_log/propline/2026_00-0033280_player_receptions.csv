@@ -1,4 +1,32 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0033280,Christian McCaffrey,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,prizepicks,2.5,True
+00-0033280,Christian McCaffrey,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,rebet,4.5,True
+00-0033280,Christian McCaffrey,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,prophetx,4.5,True
+00-0033280,Christian McCaffrey,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,courtside,4.5,True
+00-0033280,Christian McCaffrey,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,thescorebet,4.5,True
+00-0033280,Christian McCaffrey,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,4.5,True
+00-0033280,Christian McCaffrey,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,4.5,True
+00-0033280,Christian McCaffrey,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,4.5,True
+00-0033280,Christian McCaffrey,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,sleeper,4.5,True
+00-0033280,Christian McCaffrey,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,dabble,4.5,True
+00-0033280,Christian McCaffrey,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betonlineag,4.5,True
+00-0033280,Christian McCaffrey,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,lowvig,4.5,True
+00-0033280,Christian McCaffrey,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,hardrock,2.5,True
+00-0033280,Christian McCaffrey,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,sportzino,4.5,True
+00-0033280,Christian McCaffrey,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betonlineag,4.5,True
+00-0033280,Christian McCaffrey,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,bovada,4.5,True
+00-0033280,Christian McCaffrey,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,lowvig,4.5,True
+00-0033280,Christian McCaffrey,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,rebet,4.5,True
+00-0033280,Christian McCaffrey,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,pinnacle,4.5,True
+00-0033280,Christian McCaffrey,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betway,5.5,True
+00-0033280,Christian McCaffrey,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,prophetx,3.5,True
+00-0033280,Christian McCaffrey,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,dabble,5.5,True
+00-0033280,Christian McCaffrey,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,4.5,True
+00-0033280,Christian McCaffrey,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,novig,7.5,True
+00-0033280,Christian McCaffrey,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,sportzino,5.5,True
+00-0033280,Christian McCaffrey,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betmgm,4.5,True
+00-0033280,Christian McCaffrey,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,sleeper,4.5,True
+00-0033280,Christian McCaffrey,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,thescorebet,4.5,True
 00-0033280,Christian McCaffrey,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,sleeper,4.5,True
 00-0033280,Christian McCaffrey,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,parlayplay,5.5,True
 00-0033280,Christian McCaffrey,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,novig,6.5,True
@@ -10,21 +38,21 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0033280,Christian McCaffrey,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,rebet,5.5,True
 00-0033280,Christian McCaffrey,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,fanduel,4.5,True
 00-0033280,Christian McCaffrey,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,sportzino,4.5,True
+00-0033280,Christian McCaffrey,player_receptions,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,novig,4.5,True
+00-0033280,Christian McCaffrey,player_receptions,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,prophetx,3.5,True
+00-0033280,Christian McCaffrey,player_receptions,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,fanduel,4.5,True
+00-0033280,Christian McCaffrey,player_receptions,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,hardrock,9.5,True
 00-0033280,Christian McCaffrey,player_receptions,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,betway,4.5,True
 00-0033280,Christian McCaffrey,player_receptions,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,pinnacle,4.5,True
 00-0033280,Christian McCaffrey,player_receptions,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,betmgm,4.5,True
 00-0033280,Christian McCaffrey,player_receptions,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,dabble,4.5,True
 00-0033280,Christian McCaffrey,player_receptions,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,sleeper,4.5,True
-00-0033280,Christian McCaffrey,player_receptions,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,novig,4.5,True
-00-0033280,Christian McCaffrey,player_receptions,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,prophetx,3.5,True
-00-0033280,Christian McCaffrey,player_receptions,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,fanduel,4.5,True
-00-0033280,Christian McCaffrey,player_receptions,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,hardrock,9.5,True
+00-0033280,Christian McCaffrey,player_receptions,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,betway,4.5,True
 00-0033280,Christian McCaffrey,player_receptions,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,pinnacle,4.5,True
 00-0033280,Christian McCaffrey,player_receptions,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,betmgm,4.5,True
 00-0033280,Christian McCaffrey,player_receptions,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,prophetx,4.5,True
 00-0033280,Christian McCaffrey,player_receptions,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,fliff,4.5,True
 00-0033280,Christian McCaffrey,player_receptions,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,fanduel,4.5,True
-00-0033280,Christian McCaffrey,player_receptions,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,betway,4.5,True
-00-0033280,Christian McCaffrey,player_receptions,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,prophetx,1.5,True
 00-0033280,Christian McCaffrey,player_receptions,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,fanduel,4.5,True
 00-0033280,Christian McCaffrey,player_receptions,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,pinnacle,4.5,True
+00-0033280,Christian McCaffrey,player_receptions,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,prophetx,1.5,True

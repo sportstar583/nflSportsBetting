@@ -1,4 +1,19 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038454,Keaton Mitchell,player_receptions,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,hardrock,5.5,True
+00-0038454,Keaton Mitchell,player_receptions,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,rebet,2.5,True
+00-0038454,Keaton Mitchell,player_receptions,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,prizepicks,1.5,True
+00-0038454,Keaton Mitchell,player_receptions,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,sportzino,2.5,True
+00-0038454,Keaton Mitchell,player_receptions,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,betmgm,2.5,True
+00-0038454,Keaton Mitchell,player_receptions,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,sleeper,2.5,True
+00-0038454,Keaton Mitchell,player_receptions,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,prophetx,2.5,True
+00-0038454,Keaton Mitchell,player_receptions,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,fanduel,2.5,True
+00-0038454,Keaton Mitchell,player_receptions,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,pinnacle,2.5,True
+00-0038454,Keaton Mitchell,player_receptions,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,dabble,2.5,True
+00-0038454,Keaton Mitchell,player_receptions,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,thescorebet,2.5,True
+00-0038454,Keaton Mitchell,player_receptions,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,sportzino,2.5,True
+00-0038454,Keaton Mitchell,player_receptions,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,prizepicks,1.5,True
+00-0038454,Keaton Mitchell,player_receptions,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,betway,2.5,True
+00-0038454,Keaton Mitchell,player_receptions,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,fliff,2.5,True
 00-0038454,Keaton Mitchell,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,betway,1.5,True
 00-0038454,Keaton Mitchell,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prizepicks,1.5,True
 00-0038454,Keaton Mitchell,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prophetx,0.5,True

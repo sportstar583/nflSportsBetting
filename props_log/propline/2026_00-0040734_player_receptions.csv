@@ -1,7 +1,26 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040734,TreVeyon Henderson,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,prizepicks,0.5,True
+00-0040734,TreVeyon Henderson,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,rebet,1.5,True
+00-0040734,TreVeyon Henderson,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,prophetx,1.5,True
+00-0040734,TreVeyon Henderson,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,hardrock,3.5,True
+00-0040734,TreVeyon Henderson,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,pinnacle,1.5,True
+00-0040734,TreVeyon Henderson,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,sleeper,1.5,True
+00-0040734,TreVeyon Henderson,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,betmgm,1.5,True
+00-0040734,TreVeyon Henderson,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,sportzino,1.5,True
+00-0040734,TreVeyon Henderson,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,fanduel,1.5,True
+00-0040734,TreVeyon Henderson,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,dabble,1.5,True
+00-0040734,TreVeyon Henderson,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,betway,1.5,True
+00-0040734,TreVeyon Henderson,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,pinnacle,1.5,True
+00-0040734,TreVeyon Henderson,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,prophetx,1.5,True
+00-0040734,TreVeyon Henderson,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,prizepicks,1.5,True
+00-0040734,TreVeyon Henderson,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,fanduel,1.5,True
+00-0040734,TreVeyon Henderson,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,sleeper,1.5,True
+00-0040734,TreVeyon Henderson,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,thescorebet,1.5,True
+00-0040734,TreVeyon Henderson,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,rebet,1.5,True
+00-0040734,TreVeyon Henderson,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,sportzino,1.5,True
+00-0040734,TreVeyon Henderson,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,prophetx,1.5,True
 00-0040734,TreVeyon Henderson,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,fanduel,1.5,True
 00-0040734,TreVeyon Henderson,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,betway,1.5,True
-00-0040734,TreVeyon Henderson,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,prophetx,1.5,True
 00-0040734,TreVeyon Henderson,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,pinnacle,1.5,True
 00-0040734,TreVeyon Henderson,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,rebet,1.5,True
 00-0040734,TreVeyon Henderson,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,hardrock,1.5,True
@@ -11,8 +30,6 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0040734,TreVeyon Henderson,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,prizepicks,0.5,True
 00-0040734,TreVeyon Henderson,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,sleeper,1.5,True
 00-0040734,TreVeyon Henderson,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,bovada,1.5,True
-00-0040734,TreVeyon Henderson,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,hardrock,5.5,True
-00-0040734,TreVeyon Henderson,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,fanduel,1.5,True
 00-0040734,TreVeyon Henderson,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,pinnacle,1.5,True
 00-0040734,TreVeyon Henderson,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,sleeper,1.5,True
 00-0040734,TreVeyon Henderson,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,prizepicks,0.5,True
@@ -20,19 +37,21 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0040734,TreVeyon Henderson,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,prophetx,1.5,True
 00-0040734,TreVeyon Henderson,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,novig,1.5,True
 00-0040734,TreVeyon Henderson,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,bovada,1.5,True
-00-0040734,TreVeyon Henderson,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,prizepicks,1.5,True
+00-0040734,TreVeyon Henderson,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,hardrock,5.5,True
+00-0040734,TreVeyon Henderson,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,fanduel,1.5,True
+00-0040734,TreVeyon Henderson,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,prophetx,1.5,True
 00-0040734,TreVeyon Henderson,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,hardrock,5.5,True
 00-0040734,TreVeyon Henderson,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,fanduel,1.5,True
 00-0040734,TreVeyon Henderson,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,pinnacle,1.5,True
+00-0040734,TreVeyon Henderson,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,prizepicks,1.5,True
 00-0040734,TreVeyon Henderson,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,betmgm,1.5,True
-00-0040734,TreVeyon Henderson,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,prophetx,1.5,True
 00-0040734,TreVeyon Henderson,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,betway,1.5,True
 00-0040734,TreVeyon Henderson,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,bovada,1.5,True
-00-0040734,TreVeyon Henderson,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,draftkings,1.5,True
-00-0040734,TreVeyon Henderson,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,betrivers,1.5,True
-00-0040734,TreVeyon Henderson,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,fanduel,1.5,True
 00-0040734,TreVeyon Henderson,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,prophetx,1.5,True
 00-0040734,TreVeyon Henderson,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,underdog,1.5,True
 00-0040734,TreVeyon Henderson,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,prizepicks,0.5,True
-00-0040734,TreVeyon Henderson,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,bovada,1.5,True
+00-0040734,TreVeyon Henderson,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,betrivers,1.5,True
+00-0040734,TreVeyon Henderson,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,draftkings,1.5,True
 00-0040734,TreVeyon Henderson,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,hardrock,1.5,True
+00-0040734,TreVeyon Henderson,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,bovada,1.5,True
+00-0040734,TreVeyon Henderson,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,fanduel,1.5,True

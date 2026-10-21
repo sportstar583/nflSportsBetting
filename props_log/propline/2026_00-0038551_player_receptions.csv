@@ -1,1 +1,19 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038551,Kendre Miller,player_receptions,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,sportzino,0.5,True
+00-0038551,Kendre Miller,player_receptions,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,prophetx,0.5,True
+00-0038551,Kendre Miller,player_receptions,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,prizepicks,0.5,True
+00-0038551,Kendre Miller,player_receptions,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,hardrock,0.5,True
+00-0038551,Kendre Miller,player_receptions,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,sleeper,0.5,True
+00-0038551,Kendre Miller,player_receptions,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,fliff,0.5,True
+00-0038551,Kendre Miller,player_receptions,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,fanduel,0.5,True
+00-0038551,Kendre Miller,player_receptions,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,sportzino,0.5,True
+00-0038551,Kendre Miller,player_receptions,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,fliff,0.5,True
+00-0038551,Kendre Miller,player_receptions,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,prizepicks,0.5,True
+00-0038551,Kendre Miller,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fliff,1.5,True
+00-0038551,Kendre Miller,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,sportzino,1.5,True
+00-0038551,Kendre Miller,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,sleeper,1.5,True
+00-0038551,Kendre Miller,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,prophetx,1.5,True
+00-0038551,Kendre Miller,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,novig,3.5,True
+00-0038551,Kendre Miller,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,prizepicks,0.5,True
+00-0038551,Kendre Miller,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,0.5,True
+00-0038551,Kendre Miller,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,1.5,True

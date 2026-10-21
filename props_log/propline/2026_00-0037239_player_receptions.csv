@@ -1,4 +1,39 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0037239,Chris Olave,player_receptions,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,dabble,5.5,True
+00-0037239,Chris Olave,player_receptions,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,novig,9.5,True
+00-0037239,Chris Olave,player_receptions,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,prophetx,4.5,True
+00-0037239,Chris Olave,player_receptions,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,fanduel,6.5,True
+00-0037239,Chris Olave,player_receptions,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,thescorebet,6.5,True
+00-0037239,Chris Olave,player_receptions,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,hardrock,11.5,True
+00-0037239,Chris Olave,player_receptions,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betmgm,6.5,True
+00-0037239,Chris Olave,player_receptions,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,sleeper,6.5,True
+00-0037239,Chris Olave,player_receptions,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,prizepicks,4.5,True
+00-0037239,Chris Olave,player_receptions,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,pinnacle,6.5,True
+00-0037239,Chris Olave,player_receptions,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,sportzino,6.5,True
+00-0037239,Chris Olave,player_receptions,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,rebet,6.5,True
+00-0037239,Chris Olave,player_receptions,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,prophetx,7.5,True
+00-0037239,Chris Olave,player_receptions,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,pinnacle,6.5,True
+00-0037239,Chris Olave,player_receptions,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,dabble,6.5,True
+00-0037239,Chris Olave,player_receptions,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,betway,6.5,True
+00-0037239,Chris Olave,player_receptions,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,betmgm,6.5,True
+00-0037239,Chris Olave,player_receptions,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,fanduel,6.5,True
+00-0037239,Chris Olave,player_receptions,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,novig,10.5,True
+00-0037239,Chris Olave,player_receptions,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,sportzino,6.5,True
+00-0037239,Chris Olave,player_receptions,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,rebet,6.5,True
+00-0037239,Chris Olave,player_receptions,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,sleeper,6.5,True
+00-0037239,Chris Olave,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,hardrock,7.5,True
+00-0037239,Chris Olave,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betway,7.5,True
+00-0037239,Chris Olave,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,prophetx,6.5,True
+00-0037239,Chris Olave,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,parlayplay,7.5,True
+00-0037239,Chris Olave,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betmgm,7.5,True
+00-0037239,Chris Olave,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,dabble,6.5,True
+00-0037239,Chris Olave,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,rebet,6.5,True
+00-0037239,Chris Olave,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,novig,11.5,True
+00-0037239,Chris Olave,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,sleeper,6.5,True
+00-0037239,Chris Olave,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,sportzino,7.5,True
+00-0037239,Chris Olave,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,6.5,True
+00-0037239,Chris Olave,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,6.5,True
+00-0037239,Chris Olave,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,lowvig,6.5,True
 00-0037239,Chris Olave,player_receptions,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,hardrock,11.5,True
 00-0037239,Chris Olave,player_receptions,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,fanduel,5.5,True
 00-0037239,Chris Olave,player_receptions,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,sleeper,6.5,True
@@ -9,9 +44,9 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0037239,Chris Olave,player_receptions,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,prophetx,6.5,True
 00-0037239,Chris Olave,player_receptions,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,betway,6.5,True
 00-0037239,Chris Olave,player_receptions,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,dabble,6.5,True
+00-0037239,Chris Olave,player_receptions,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,betway,5.5,True
 00-0037239,Chris Olave,player_receptions,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,hardrock,11.5,True
 00-0037239,Chris Olave,player_receptions,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,fliff,5.5,True
-00-0037239,Chris Olave,player_receptions,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,betway,5.5,True
 00-0037239,Chris Olave,player_receptions,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,fanduel,5.5,True
 00-0037239,Chris Olave,player_receptions,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,betmgm,5.5,True
 00-0037239,Chris Olave,player_receptions,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,prophetx,5.5,True

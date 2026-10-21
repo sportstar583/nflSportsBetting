@@ -1,4 +1,32 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038543,Jaxon Smith-Njigba,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,rebet,6.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betway,6.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,fanduel,6.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,prophetx,5.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,sportzino,6.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,thescorebet,6.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,pinnacle,6.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,polymarket_us,6.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betmgm,6.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betonlineag,6.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,lowvig,6.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,hardrock,4.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,sleeper,6.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,dabble,6.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betway,6.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,dabble,6.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,6.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,sportzino,6.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betmgm,7.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,rebet,7.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,pinnacle,6.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,parlayplay,7.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,sleeper,6.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,lowvig,6.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betonlineag,6.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,novig,9.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,thescorebet,7.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,prophetx,5.5,True
 00-0038543,Jaxon Smith-Njigba,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,parlayplay,6.5,True
 00-0038543,Jaxon Smith-Njigba,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,hardrock,6.5,True
 00-0038543,Jaxon Smith-Njigba,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,betway,6.5,True
@@ -14,16 +42,16 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0038543,Jaxon Smith-Njigba,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,pinnacle,6.5,True
 00-0038543,Jaxon Smith-Njigba,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,novig,5.5,True
 00-0038543,Jaxon Smith-Njigba,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,prophetx,6.5,True
-00-0038543,Jaxon Smith-Njigba,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,betmgm,6.5,True
-00-0038543,Jaxon Smith-Njigba,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,betway,6.5,True
 00-0038543,Jaxon Smith-Njigba,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,dabble,6.5,True
 00-0038543,Jaxon Smith-Njigba,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,sleeper,6.5,True
 00-0038543,Jaxon Smith-Njigba,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,fanduel,6.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,betmgm,6.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,betway,6.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,pinnacle,6.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,betmgm,6.5,True
 00-0038543,Jaxon Smith-Njigba,player_receptions,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,fanduel,6.5,True
 00-0038543,Jaxon Smith-Njigba,player_receptions,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,betway,6.5,True
 00-0038543,Jaxon Smith-Njigba,player_receptions,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,prophetx,6.5,True
-00-0038543,Jaxon Smith-Njigba,player_receptions,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,pinnacle,6.5,True
-00-0038543,Jaxon Smith-Njigba,player_receptions,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,betmgm,6.5,True
-00-0038543,Jaxon Smith-Njigba,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,fanduel,6.5,True
 00-0038543,Jaxon Smith-Njigba,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,prophetx,6.5,True
 00-0038543,Jaxon Smith-Njigba,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,pinnacle,6.5,True
+00-0038543,Jaxon Smith-Njigba,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,fanduel,6.5,True

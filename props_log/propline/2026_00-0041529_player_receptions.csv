@@ -1,4 +1,15 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0041529,Kevin Coleman Jr.,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,betway,1.5,True
+00-0041529,Kevin Coleman Jr.,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,thescorebet,1.5,True
+00-0041529,Kevin Coleman Jr.,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,betmgm,1.5,True
+00-0041529,Kevin Coleman Jr.,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,prizepicks,1.5,True
+00-0041529,Kevin Coleman Jr.,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,rebet,1.5,True
+00-0041529,Kevin Coleman Jr.,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,pinnacle,1.5,True
+00-0041529,Kevin Coleman Jr.,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,prophetx,2.5,True
+00-0041529,Kevin Coleman Jr.,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,betrivers,1.5,True
+00-0041529,Kevin Coleman Jr.,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,sportzino,1.5,True
+00-0041529,Kevin Coleman Jr.,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,sleeper,1.5,True
+00-0041529,Kevin Coleman Jr.,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,fanduel,1.5,True
 00-0041529,Kevin Coleman Jr.,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,pinnacle,1.5,True
 00-0041529,Kevin Coleman Jr.,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,sportzino,1.5,True
 00-0041529,Kevin Coleman Jr.,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,sleeper,1.5,True
@@ -8,13 +19,13 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0041529,Kevin Coleman Jr.,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,prizepicks,1.5,True
 00-0041529,Kevin Coleman Jr.,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,betway,1.5,True
 00-0041529,Kevin Coleman Jr.,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,dabble,1.5,True
-00-0041529,Kevin Coleman Jr.,player_receptions,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,prizepicks,1.5,True
 00-0041529,Kevin Coleman Jr.,player_receptions,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,betway,1.5,True
 00-0041529,Kevin Coleman Jr.,player_receptions,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,fanduel,1.5,True
 00-0041529,Kevin Coleman Jr.,player_receptions,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,dabble,1.5,True
-00-0041529,Kevin Coleman Jr.,player_receptions,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,novig,1.5,True
-00-0041529,Kevin Coleman Jr.,player_receptions,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,prophetx,1.5,True
-00-0041529,Kevin Coleman Jr.,player_receptions,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,pinnacle,1.5,True
-00-0041529,Kevin Coleman Jr.,player_receptions,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,sleeper,1.5,True
+00-0041529,Kevin Coleman Jr.,player_receptions,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,prizepicks,1.5,True
 00-0041529,Kevin Coleman Jr.,player_receptions,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,betmgm,1.5,True
+00-0041529,Kevin Coleman Jr.,player_receptions,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,sleeper,1.5,True
+00-0041529,Kevin Coleman Jr.,player_receptions,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,pinnacle,1.5,True
+00-0041529,Kevin Coleman Jr.,player_receptions,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,prophetx,1.5,True
+00-0041529,Kevin Coleman Jr.,player_receptions,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,novig,1.5,True
 00-0041529,Kevin Coleman Jr.,player_receptions,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,hardrock,4.5,True

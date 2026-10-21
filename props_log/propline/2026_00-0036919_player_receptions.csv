@@ -1,4 +1,9 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036919,Kenny Gainwell,player_receptions,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,prizepicks,1.5,True
+00-0036919,Kenny Gainwell,player_receptions,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,sleeper,2.5,True
+00-0036919,Kenny Gainwell,player_receptions,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,betrivers,2.5,True
+00-0036919,Kenny Gainwell,player_receptions,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,prizepicks,1.5,True
+00-0036919,Kenny Gainwell,player_receptions,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,sleeper,1.5,True
 00-0036919,Kenny Gainwell,player_receptions,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,betrivers,2.5,True
 00-0036919,Kenny Gainwell,player_receptions,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,sleeper,1.5,True
 00-0036919,Kenny Gainwell,player_receptions,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,prizepicks,1.5,True

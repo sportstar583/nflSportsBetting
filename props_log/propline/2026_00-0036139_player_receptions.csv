@@ -1,4 +1,15 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036139,Rico Dowdle,player_receptions,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,prizepicks,0.5,True
+00-0036139,Rico Dowdle,player_receptions,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,dabble,1.5,True
+00-0036139,Rico Dowdle,player_receptions,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,betrivers,1.5,True
+00-0036139,Rico Dowdle,player_receptions,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,prophetx,1.5,True
+00-0036139,Rico Dowdle,player_receptions,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,pinnacle,1.5,True
+00-0036139,Rico Dowdle,player_receptions,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,fanduel,1.5,True
+00-0036139,Rico Dowdle,player_receptions,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,betmgm,1.5,True
+00-0036139,Rico Dowdle,player_receptions,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,rebet,1.5,True
+00-0036139,Rico Dowdle,player_receptions,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,thescorebet,1.5,True
+00-0036139,Rico Dowdle,player_receptions,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,sleeper,1.5,True
+00-0036139,Rico Dowdle,player_receptions,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,sportzino,1.5,True
 00-0036139,Rico Dowdle,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,fanduel,2.5,True
 00-0036139,Rico Dowdle,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,hardrock,7.5,True
 00-0036139,Rico Dowdle,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,pinnacle,2.5,True

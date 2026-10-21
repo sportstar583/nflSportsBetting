@@ -1,4 +1,6 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039890,Adonai Mitchell,player_receptions,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,prizepicks,3.5,True
+00-0039890,Adonai Mitchell,player_receptions,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,underdog,3.5,True
 00-0039890,Adonai Mitchell,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,draftkings,3.5,True
 00-0039890,Adonai Mitchell,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,betway,3.5,True
 00-0039890,Adonai Mitchell,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,prizepicks,1.5,True

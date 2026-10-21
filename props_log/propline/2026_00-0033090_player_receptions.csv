@@ -1,8 +1,30 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0033090,Hunter Henry,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,prizepicks,1.5,True
+00-0033090,Hunter Henry,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,pinnacle,2.5,True
+00-0033090,Hunter Henry,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,prophetx,2.5,True
+00-0033090,Hunter Henry,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,dabble,3.5,True
+00-0033090,Hunter Henry,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,sleeper,2.5,True
+00-0033090,Hunter Henry,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,betmgm,2.5,True
+00-0033090,Hunter Henry,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,rebet,2.5,True
+00-0033090,Hunter Henry,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,hardrock,6.5,True
+00-0033090,Hunter Henry,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,sportzino,2.5,True
+00-0033090,Hunter Henry,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,fanduel,2.5,True
+00-0033090,Hunter Henry,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,prizepicks,3.5,True
+00-0033090,Hunter Henry,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,sportzino,3.5,True
+00-0033090,Hunter Henry,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,betway,3.5,True
+00-0033090,Hunter Henry,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,fanduel,3.5,True
+00-0033090,Hunter Henry,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,thescorebet,3.5,True
+00-0033090,Hunter Henry,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,prophetx,3.5,True
+00-0033090,Hunter Henry,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,betmgm,3.5,True
+00-0033090,Hunter Henry,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,sleeper,3.5,True
+00-0033090,Hunter Henry,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,pinnacle,3.5,True
+00-0033090,Hunter Henry,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,novig,6.5,True
+00-0033090,Hunter Henry,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,rebet,3.5,True
+00-0033090,Hunter Henry,player_receptions,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,dabble,3.5,True
 00-0033090,Hunter Henry,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,betmgm,3.5,True
+00-0033090,Hunter Henry,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,dabble,3.5,True
 00-0033090,Hunter Henry,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,betway,3.5,True
 00-0033090,Hunter Henry,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,rebet,3.5,True
-00-0033090,Hunter Henry,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,dabble,3.5,True
 00-0033090,Hunter Henry,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,fanduel,3.5,True
 00-0033090,Hunter Henry,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,pinnacle,3.5,True
 00-0033090,Hunter Henry,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,parlayplay,2.5,True
@@ -12,8 +34,6 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0033090,Hunter Henry,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,hardrock,2.5,True
 00-0033090,Hunter Henry,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,sleeper,3.5,True
 00-0033090,Hunter Henry,player_receptions,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,novig,2.5,True
-00-0033090,Hunter Henry,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,courtside,4.5,True
-00-0033090,Hunter Henry,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,prophetx,3.5,True
 00-0033090,Hunter Henry,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,hardrock,9.5,True
 00-0033090,Hunter Henry,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,betmgm,3.5,True
 00-0033090,Hunter Henry,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,fanduel,3.5,True
@@ -23,15 +43,17 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0033090,Hunter Henry,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,prizepicks,2.5,True
 00-0033090,Hunter Henry,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,dabble,4.5,True
 00-0033090,Hunter Henry,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,novig,3.5,True
+00-0033090,Hunter Henry,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,courtside,4.5,True
+00-0033090,Hunter Henry,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,prophetx,3.5,True
+00-0033090,Hunter Henry,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,prophetx,1.5,True
+00-0033090,Hunter Henry,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,fanduel,3.5,True
 00-0033090,Hunter Henry,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,betmgm,3.5,True
 00-0033090,Hunter Henry,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,pinnacle,3.5,True
 00-0033090,Hunter Henry,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,prizepicks,3.5,True
 00-0033090,Hunter Henry,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,betway,3.5,True
-00-0033090,Hunter Henry,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,fanduel,3.5,True
-00-0033090,Hunter Henry,player_receptions,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,prophetx,1.5,True
-00-0033090,Hunter Henry,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,fanduel,3.5,True
 00-0033090,Hunter Henry,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,hardrock,7.5,True
 00-0033090,Hunter Henry,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,prophetx,2.5,True
 00-0033090,Hunter Henry,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,fliff,3.5,True
 00-0033090,Hunter Henry,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,prizepicks,1.5,True
 00-0033090,Hunter Henry,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,pinnacle,3.5,True
+00-0033090,Hunter Henry,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,fanduel,3.5,True

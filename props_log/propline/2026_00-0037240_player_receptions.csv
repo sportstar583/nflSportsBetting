@@ -1,16 +1,27 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0037240,Jameson Williams,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,dabble,3.5,True
-00-0037240,Jameson Williams,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,sleeper,3.5,True
-00-0037240,Jameson Williams,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,3.5,True
-00-0037240,Jameson Williams,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,prophetx,3.5,True
+00-0037240,Jameson Williams,player_receptions,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,prophetx,3.5,True
+00-0037240,Jameson Williams,player_receptions,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,fanduel,3.5,True
+00-0037240,Jameson Williams,player_receptions,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,betmgm,3.5,True
+00-0037240,Jameson Williams,player_receptions,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,betway,3.5,True
+00-0037240,Jameson Williams,player_receptions,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,pinnacle,3.5,True
+00-0037240,Jameson Williams,player_receptions,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,rebet,3.5,True
+00-0037240,Jameson Williams,player_receptions,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,sportzino,3.5,True
+00-0037240,Jameson Williams,player_receptions,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,dabble,3.5,True
+00-0037240,Jameson Williams,player_receptions,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,novig,6.5,True
+00-0037240,Jameson Williams,player_receptions,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,thescorebet,3.5,True
+00-0037240,Jameson Williams,player_receptions,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,sleeper,3.5,True
 00-0037240,Jameson Williams,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,sportzino,3.5,True
-00-0037240,Jameson Williams,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,lowvig,3.5,True
-00-0037240,Jameson Williams,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,3.5,True
 00-0037240,Jameson Williams,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betway,3.5,True
 00-0037240,Jameson Williams,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,hardrock,3.5,True
 00-0037240,Jameson Williams,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,rebet,3.5,True
 00-0037240,Jameson Williams,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,novig,7.5,True
+00-0037240,Jameson Williams,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,lowvig,3.5,True
+00-0037240,Jameson Williams,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,3.5,True
 00-0037240,Jameson Williams,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,fanduel,3.5,True
+00-0037240,Jameson Williams,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,dabble,3.5,True
+00-0037240,Jameson Williams,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,sleeper,3.5,True
+00-0037240,Jameson Williams,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betmgm,3.5,True
+00-0037240,Jameson Williams,player_receptions,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,prophetx,3.5,True
 00-0037240,Jameson Williams,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,hardrock,9.5,True
 00-0037240,Jameson Williams,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,betmgm,3.5,True
 00-0037240,Jameson Williams,player_receptions,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,prophetx,3.5,True

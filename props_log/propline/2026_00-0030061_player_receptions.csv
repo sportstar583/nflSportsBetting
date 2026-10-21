@@ -1,15 +1,19 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0030061,Zach Ertz,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,fanduel,1.5,True
+00-0030061,Zach Ertz,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,prizepicks,0.5,True
+00-0030061,Zach Ertz,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,sportzino,0.5,True
+00-0030061,Zach Ertz,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,prophetx,1.5,True
+00-0030061,Zach Ertz,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,fanduel,2.5,True
+00-0030061,Zach Ertz,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,prizepicks,1.5,True
+00-0030061,Zach Ertz,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,prophetx,2.5,True
+00-0030061,Zach Ertz,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,parlayplay,1.5,True
+00-0030061,Zach Ertz,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,underdog,2.5,True
 00-0030061,Zach Ertz,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,betmgm,2.5,True
 00-0030061,Zach Ertz,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,dabble,2.5,True
 00-0030061,Zach Ertz,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,sportzino,2.5,True
 00-0030061,Zach Ertz,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,pinnacle,2.5,True
 00-0030061,Zach Ertz,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,sleeper,2.5,True
 00-0030061,Zach Ertz,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,rebet,2.5,True
-00-0030061,Zach Ertz,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,fanduel,2.5,True
-00-0030061,Zach Ertz,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,prizepicks,1.5,True
-00-0030061,Zach Ertz,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,prophetx,2.5,True
-00-0030061,Zach Ertz,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,parlayplay,1.5,True
-00-0030061,Zach Ertz,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,underdog,2.5,True
 00-0030061,Zach Ertz,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,rebet,1.5,True
 00-0030061,Zach Ertz,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,novig,2.5,True
 00-0030061,Zach Ertz,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,prophetx,1.5,True
