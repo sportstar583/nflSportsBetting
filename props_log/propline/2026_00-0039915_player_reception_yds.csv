@@ -1,8 +1,38 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039915,Ladd McConkey,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,parlayplay,40.5,True
+00-0039915,Ladd McConkey,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,sportzino,41.5,True
+00-0039915,Ladd McConkey,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,pick6,41.5,True
+00-0039915,Ladd McConkey,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,sleeper,41.5,True
+00-0039915,Ladd McConkey,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,rebet,43.5,True
+00-0039915,Ladd McConkey,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,novig,42.5,True
+00-0039915,Ladd McConkey,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,pinnacle,41.5,True
+00-0039915,Ladd McConkey,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,betway,41.5,True
+00-0039915,Ladd McConkey,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,dabble,41.5,True
+00-0039915,Ladd McConkey,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,thescorebet,39.5,True
+00-0039915,Ladd McConkey,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,bovada,42.5,True
+00-0039915,Ladd McConkey,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,prophetx,32.5,True
+00-0039915,Ladd McConkey,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,prizepicks,14.5,True
+00-0039915,Ladd McConkey,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,hardrock,14.5,True
+00-0039915,Ladd McConkey,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,bovada,41.5,True
+00-0039915,Ladd McConkey,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,fanduel,40.5,True
+00-0039915,Ladd McConkey,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,parlayplay,42.5,True
+00-0039915,Ladd McConkey,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,fanatics,40.5,True
+00-0039915,Ladd McConkey,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,courtside,42.5,True
+00-0039915,Ladd McConkey,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,draftkings,41.5,True
+00-0039915,Ladd McConkey,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,novig,41.5,True
+00-0039915,Ladd McConkey,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,polymarket_us,19.5,True
+00-0039915,Ladd McConkey,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,pinnacle,40.5,True
+00-0039915,Ladd McConkey,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,sleeper,40.5,True
+00-0039915,Ladd McConkey,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,betrivers,42.5,True
+00-0039915,Ladd McConkey,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,prizepicks,36.5,True
+00-0039915,Ladd McConkey,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,prophetx,41.5,True
+00-0039915,Ladd McConkey,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,thescorebet,39.5,True
+00-0039915,Ladd McConkey,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,bovada,46.5,True
+00-0039915,Ladd McConkey,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,betway,45.5,True
+00-0039915,Ladd McConkey,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,hardrock,49.5,True
 00-0039915,Ladd McConkey,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,parlayplay,45.5,True
 00-0039915,Ladd McConkey,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,courtside,48.5,True
 00-0039915,Ladd McConkey,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prizepicks,41.5,True
-00-0039915,Ladd McConkey,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,betway,45.5,True
 00-0039915,Ladd McConkey,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,novig,47.5,True
 00-0039915,Ladd McConkey,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sleeper,47.5,True
 00-0039915,Ladd McConkey,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,pinnacle,47.5,True
@@ -11,10 +41,6 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0039915,Ladd McConkey,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,dabble,45.5,True
 00-0039915,Ladd McConkey,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,rebet,47.5,True
 00-0039915,Ladd McConkey,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sportzino,45.5,True
-00-0039915,Ladd McConkey,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,hardrock,49.5,True
-00-0039915,Ladd McConkey,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,bovada,46.5,True
-00-0039915,Ladd McConkey,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,betway,59.5,True
-00-0039915,Ladd McConkey,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,courtside,58.5,True
 00-0039915,Ladd McConkey,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,novig,60.5,True
 00-0039915,Ladd McConkey,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,prizepicks,16.5,True
 00-0039915,Ladd McConkey,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,pinnacle,58.5,True
@@ -22,6 +48,8 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0039915,Ladd McConkey,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,prophetx,56.5,True
 00-0039915,Ladd McConkey,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,dabble,58.5,True
 00-0039915,Ladd McConkey,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,parlayplay,60.5,True
+00-0039915,Ladd McConkey,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,betway,59.5,True
+00-0039915,Ladd McConkey,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,courtside,58.5,True
 00-0039915,Ladd McConkey,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,bovada,59.5,True
 00-0039915,Ladd McConkey,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,betonlineag,59.5,True
 00-0039915,Ladd McConkey,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,lowvig,59.5,True

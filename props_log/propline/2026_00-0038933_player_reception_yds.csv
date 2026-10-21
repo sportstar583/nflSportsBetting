@@ -1,17 +1,48 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0038933,Dalton Kincaid,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,prophetx,47.5,True
-00-0038933,Dalton Kincaid,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,parlayplay,46.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,rebet,53.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,hardrock,75.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,sportzino,54.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,betway,50.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,parlayplay,54.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,prophetx,54.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,novig,50.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,pick6,54.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,sleeper,52.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,pinnacle,52.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,courtside,48.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,thescorebet,54.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,lowvig,52.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,betonlineag,52.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,bovada,50.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,prizepicks,24.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,dabble,46.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,sportzino,56.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,thescorebet,54.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,courtside,54.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,novig,55.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,prophetx,56.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betway,57.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,pinnacle,55.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,rebet,56.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,pick6,53.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,dabble,56.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,sleeper,55.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,bovada,52.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,lowvig,56.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betonlineag,56.5,True
 00-0038933,Dalton Kincaid,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,pinnacle,47.5,True
 00-0038933,Dalton Kincaid,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,pick6,47.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,parlayplay,46.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,prophetx,47.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,bovada,46.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,dabble,49.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,betway,50.5,True
 00-0038933,Dalton Kincaid,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,rebet,47.5,True
 00-0038933,Dalton Kincaid,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,novig,47.5,True
 00-0038933,Dalton Kincaid,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,sportzino,49.5,True
 00-0038933,Dalton Kincaid,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,courtside,52.5,True
 00-0038933,Dalton Kincaid,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,sleeper,48.5,True
 00-0038933,Dalton Kincaid,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,hardrock,49.5,True
-00-0038933,Dalton Kincaid,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,bovada,46.5,True
-00-0038933,Dalton Kincaid,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,dabble,49.5,True
-00-0038933,Dalton Kincaid,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,betway,50.5,True
 00-0038933,Dalton Kincaid,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,pinnacle,57.5,True
 00-0038933,Dalton Kincaid,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,novig,58.5,True
 00-0038933,Dalton Kincaid,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,sleeper,57.5,True
@@ -22,14 +53,14 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0038933,Dalton Kincaid,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,lowvig,56.5,True
 00-0038933,Dalton Kincaid,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,bovada,55.5,True
 00-0038933,Dalton Kincaid,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,betonlineag,56.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,betonlineag,50.5,True
 00-0038933,Dalton Kincaid,player_reception_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,lowvig,50.5,True
 00-0038933,Dalton Kincaid,player_reception_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,bovada,52.5,True
 00-0038933,Dalton Kincaid,player_reception_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,prophetx,53.5,True
-00-0038933,Dalton Kincaid,player_reception_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,pinnacle,52.5,True
 00-0038933,Dalton Kincaid,player_reception_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,betway,51.5,True
-00-0038933,Dalton Kincaid,player_reception_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,betonlineag,50.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,pinnacle,52.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,25073,2026-09-13T17:00:00Z,Houston Texans,Buffalo Bills,bovada,39.5,True
+00-0038933,Dalton Kincaid,player_reception_yds,25073,2026-09-13T17:00:00Z,Houston Texans,Buffalo Bills,prophetx,38.5,True
 00-0038933,Dalton Kincaid,player_reception_yds,25073,2026-09-13T17:00:00Z,Houston Texans,Buffalo Bills,betr,37.5,True
 00-0038933,Dalton Kincaid,player_reception_yds,25073,2026-09-13T17:00:00Z,Houston Texans,Buffalo Bills,betway,38.5,True
 00-0038933,Dalton Kincaid,player_reception_yds,25073,2026-09-13T17:00:00Z,Houston Texans,Buffalo Bills,pinnacle,39.5,True
-00-0038933,Dalton Kincaid,player_reception_yds,25073,2026-09-13T17:00:00Z,Houston Texans,Buffalo Bills,prophetx,38.5,True
-00-0038933,Dalton Kincaid,player_reception_yds,25073,2026-09-13T17:00:00Z,Houston Texans,Buffalo Bills,bovada,39.5,True

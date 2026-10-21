@@ -1,42 +1,74 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0037248,James Cook,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,novig,85.5,True
-00-0037248,James Cook,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,parlayplay,88.5,True
-00-0037248,James Cook,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,courtside,85.5,True
-00-0037248,James Cook,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,rebet,85.5,True
-00-0037248,James Cook,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,prophetx,87.5,True
-00-0037248,James Cook,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,sportzino,84.5,True
-00-0037248,James Cook,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,sleeper,85.5,True
-00-0037248,James Cook,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,bovada,85.5,True
-00-0037248,James Cook,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,betway,84.5,True
-00-0037248,James Cook,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,dabble,87.5,True
-00-0037248,James Cook,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,hardrock,79.5,True
-00-0037248,James Cook,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,pick6,86.5,True
+00-0037248,James Cook,player_rush_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,betway,93.5,True
+00-0037248,James Cook,player_rush_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,hardrock,129.5,True
+00-0037248,James Cook,player_rush_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,prizepicks,59.5,True
+00-0037248,James Cook,player_rush_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,betonlineag,92.5,True
+00-0037248,James Cook,player_rush_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,bovada,94.5,True
+00-0037248,James Cook,player_rush_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,lowvig,92.5,True
+00-0037248,James Cook,player_rush_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,novig,95.5,True
+00-0037248,James Cook,player_rush_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,rebet,94.5,True
+00-0037248,James Cook,player_rush_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,prophetx,119.5,True
+00-0037248,James Cook,player_rush_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,pinnacle,93.5,True
+00-0037248,James Cook,player_rush_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,courtside,90.5,True
+00-0037248,James Cook,player_rush_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,sleeper,93.5,True
+00-0037248,James Cook,player_rush_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,sportzino,92.5,True
+00-0037248,James Cook,player_rush_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,dabble,92.5,True
+00-0037248,James Cook,player_rush_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,thescorebet,94.5,True
+00-0037248,James Cook,player_rush_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,pick6,94.5,True
+00-0037248,James Cook,player_rush_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,parlayplay,76.5,True
+00-0037248,James Cook,player_rush_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,prophetx,72.5,True
+00-0037248,James Cook,player_rush_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,courtside,71.5,True
+00-0037248,James Cook,player_rush_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,sportzino,77.5,True
+00-0037248,James Cook,player_rush_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,novig,78.5,True
+00-0037248,James Cook,player_rush_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,rebet,76.5,True
+00-0037248,James Cook,player_rush_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,pinnacle,75.5,True
+00-0037248,James Cook,player_rush_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,sleeper,76.5,True
+00-0037248,James Cook,player_rush_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betonlineag,75.5,True
+00-0037248,James Cook,player_rush_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,lowvig,75.5,True
+00-0037248,James Cook,player_rush_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,bovada,71.5,True
+00-0037248,James Cook,player_rush_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,pick6,75.5,True
+00-0037248,James Cook,player_rush_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betway,74.5,True
+00-0037248,James Cook,player_rush_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,dabble,75.5,True
+00-0037248,James Cook,player_rush_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,thescorebet,79.5,True
+00-0037248,James Cook,player_rush_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,prizepicks,69.5,True
 00-0037248,James Cook,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,prizepicks,95.5,True
-00-0037248,James Cook,player_rush_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,prizepicks,42.5,True
-00-0037248,James Cook,player_rush_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,dabble,81.5,True
-00-0037248,James Cook,player_rush_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,betway,82.5,True
-00-0037248,James Cook,player_rush_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,lowvig,79.5,True
-00-0037248,James Cook,player_rush_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,betonlineag,79.5,True
-00-0037248,James Cook,player_rush_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,prophetx,80.5,True
-00-0037248,James Cook,player_rush_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,courtside,80.5,True
-00-0037248,James Cook,player_rush_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,bovada,80.5,True
+00-0037248,James Cook,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,pick6,86.5,True
+00-0037248,James Cook,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,hardrock,79.5,True
+00-0037248,James Cook,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,dabble,87.5,True
+00-0037248,James Cook,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,betway,84.5,True
+00-0037248,James Cook,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,sleeper,85.5,True
+00-0037248,James Cook,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,sportzino,84.5,True
+00-0037248,James Cook,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,prophetx,87.5,True
+00-0037248,James Cook,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,rebet,85.5,True
+00-0037248,James Cook,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,courtside,85.5,True
+00-0037248,James Cook,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,parlayplay,88.5,True
+00-0037248,James Cook,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,novig,85.5,True
+00-0037248,James Cook,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,bovada,85.5,True
 00-0037248,James Cook,player_rush_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,sleeper,80.5,True
 00-0037248,James Cook,player_rush_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,pinnacle,79.5,True
 00-0037248,James Cook,player_rush_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,novig,80.5,True
 00-0037248,James Cook,player_rush_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,parlayplay,78.5,True
-00-0037248,James Cook,player_rush_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,pinnacle,79.5,True
+00-0037248,James Cook,player_rush_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,prizepicks,42.5,True
+00-0037248,James Cook,player_rush_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,dabble,81.5,True
+00-0037248,James Cook,player_rush_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,betway,82.5,True
+00-0037248,James Cook,player_rush_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,bovada,80.5,True
+00-0037248,James Cook,player_rush_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,lowvig,79.5,True
+00-0037248,James Cook,player_rush_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,betonlineag,79.5,True
+00-0037248,James Cook,player_rush_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,prophetx,80.5,True
+00-0037248,James Cook,player_rush_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,courtside,80.5,True
+00-0037248,James Cook,player_rush_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,hardrock,24.5,True
 00-0037248,James Cook,player_rush_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,prophetx,78.5,True
+00-0037248,James Cook,player_rush_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,pinnacle,79.5,True
 00-0037248,James Cook,player_rush_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,betonlineag,78.5,True
 00-0037248,James Cook,player_rush_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,bovada,77.5,True
 00-0037248,James Cook,player_rush_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,lowvig,78.5,True
-00-0037248,James Cook,player_rush_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,prizepicks,38.5,True
 00-0037248,James Cook,player_rush_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,betway,78.5,True
-00-0037248,James Cook,player_rush_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,hardrock,24.5,True
+00-0037248,James Cook,player_rush_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,prizepicks,38.5,True
 00-0037248,James Cook,player_rush_yds,25073,2026-09-13T17:00:00Z,Houston Texans,Buffalo Bills,fanatics,75.5,True
-00-0037248,James Cook,player_rush_yds,25073,2026-09-13T17:00:00Z,Houston Texans,Buffalo Bills,hardrock,24.5,True
-00-0037248,James Cook,player_rush_yds,25073,2026-09-13T17:00:00Z,Houston Texans,Buffalo Bills,prophetx,75.5,True
 00-0037248,James Cook,player_rush_yds,25073,2026-09-13T17:00:00Z,Houston Texans,Buffalo Bills,betr,74.5,True
 00-0037248,James Cook,player_rush_yds,25073,2026-09-13T17:00:00Z,Houston Texans,Buffalo Bills,bovada,73.5,True
+00-0037248,James Cook,player_rush_yds,25073,2026-09-13T17:00:00Z,Houston Texans,Buffalo Bills,hardrock,24.5,True
+00-0037248,James Cook,player_rush_yds,25073,2026-09-13T17:00:00Z,Houston Texans,Buffalo Bills,prophetx,75.5,True
 00-0037248,James Cook,player_rush_yds,25073,2026-09-13T17:00:00Z,Houston Texans,Buffalo Bills,betway,74.5,True
 00-0037248,James Cook,player_rush_yds,25073,2026-09-13T17:00:00Z,Houston Texans,Buffalo Bills,prizepicks,38.5,True
 00-0037248,James Cook,player_rush_yds,59766,2026-08-15T20:00:00Z,Buffalo Bills,Carolina Panthers,underdog,13.5,True

@@ -1,4 +1,34 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0041037,Denzel Boston,player_reception_yds,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,rebet,50.5,True
+00-0041037,Denzel Boston,player_reception_yds,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,courtside,52.5,True
+00-0041037,Denzel Boston,player_reception_yds,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,pick6,52.5,True
+00-0041037,Denzel Boston,player_reception_yds,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,hardrock,66.5,True
+00-0041037,Denzel Boston,player_reception_yds,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,prophetx,52.5,True
+00-0041037,Denzel Boston,player_reception_yds,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,betway,51.5,True
+00-0041037,Denzel Boston,player_reception_yds,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,pinnacle,50.5,True
+00-0041037,Denzel Boston,player_reception_yds,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,sportzino,46.5,True
+00-0041037,Denzel Boston,player_reception_yds,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,sleeper,51.5,True
+00-0041037,Denzel Boston,player_reception_yds,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,novig,50.5,True
+00-0041037,Denzel Boston,player_reception_yds,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,dabble,51.5,True
+00-0041037,Denzel Boston,player_reception_yds,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,parlayplay,49.5,True
+00-0041037,Denzel Boston,player_reception_yds,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,prizepicks,19.5,True
+00-0041037,Denzel Boston,player_reception_yds,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,bovada,49.5,True
+00-0041037,Denzel Boston,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,bovada,45.5,True
+00-0041037,Denzel Boston,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,pick6,46.5,True
+00-0041037,Denzel Boston,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,novig,48.5,True
+00-0041037,Denzel Boston,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,betway,47.5,True
+00-0041037,Denzel Boston,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,sportzino,45.5,True
+00-0041037,Denzel Boston,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,sleeper,47.5,True
+00-0041037,Denzel Boston,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,thescorebet,49.5,True
+00-0041037,Denzel Boston,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,prophetx,129.5,True
+00-0041037,Denzel Boston,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,pinnacle,47.5,True
+00-0041037,Denzel Boston,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,prizepicks,40.5,True
+00-0041037,Denzel Boston,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,courtside,45.5,True
+00-0041037,Denzel Boston,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,dabble,45.5,True
+00-0041037,Denzel Boston,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,parlayplay,50.5,True
+00-0041037,Denzel Boston,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,rebet,47.5,True
+00-0041037,Denzel Boston,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,hardrock,39.5,True
+00-0041037,Denzel Boston,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,prophetx,34.5,True
 00-0041037,Denzel Boston,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,novig,37.5,True
 00-0041037,Denzel Boston,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,rebet,39.5,True
 00-0041037,Denzel Boston,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,courtside,31.5,True
@@ -8,31 +38,29 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0041037,Denzel Boston,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,parlayplay,36.5,True
 00-0041037,Denzel Boston,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,38.5,True
 00-0041037,Denzel Boston,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,prizepicks,31.5,True
-00-0041037,Denzel Boston,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,bovada,37.5,True
-00-0041037,Denzel Boston,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,lowvig,36.5,True
 00-0041037,Denzel Boston,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betonlineag,36.5,True
-00-0041037,Denzel Boston,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,hardrock,39.5,True
-00-0041037,Denzel Boston,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,prophetx,34.5,True
-00-0041037,Denzel Boston,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,courtside,46.5,True
-00-0041037,Denzel Boston,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,novig,45.5,True
-00-0041037,Denzel Boston,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,pinnacle,45.5,True
-00-0041037,Denzel Boston,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,betway,45.5,True
+00-0041037,Denzel Boston,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,lowvig,36.5,True
+00-0041037,Denzel Boston,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,bovada,37.5,True
+00-0041037,Denzel Boston,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,prophetx,48.5,True
 00-0041037,Denzel Boston,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,prizepicks,40.5,True
 00-0041037,Denzel Boston,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,sleeper,45.5,True
-00-0041037,Denzel Boston,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,prophetx,48.5,True
 00-0041037,Denzel Boston,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,dabble,46.5,True
+00-0041037,Denzel Boston,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,pinnacle,45.5,True
+00-0041037,Denzel Boston,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,novig,45.5,True
+00-0041037,Denzel Boston,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,courtside,46.5,True
 00-0041037,Denzel Boston,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,bovada,45.5,True
-00-0041037,Denzel Boston,player_reception_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,betway,27.5,True
-00-0041037,Denzel Boston,player_reception_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,prizepicks,6.5,True
-00-0041037,Denzel Boston,player_reception_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,bovada,29.5,True
+00-0041037,Denzel Boston,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,betway,45.5,True
 00-0041037,Denzel Boston,player_reception_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,pinnacle,31.5,True
 00-0041037,Denzel Boston,player_reception_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,prophetx,31.5,True
-00-0041037,Denzel Boston,player_reception_yds,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,prophetx,23.5,True
-00-0041037,Denzel Boston,player_reception_yds,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,betr,24.5,True
-00-0041037,Denzel Boston,player_reception_yds,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,betway,22.5,True
+00-0041037,Denzel Boston,player_reception_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,betway,27.5,True
+00-0041037,Denzel Boston,player_reception_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,bovada,29.5,True
+00-0041037,Denzel Boston,player_reception_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,prizepicks,6.5,True
 00-0041037,Denzel Boston,player_reception_yds,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,prizepicks,4.5,True
 00-0041037,Denzel Boston,player_reception_yds,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,pinnacle,25.5,True
 00-0041037,Denzel Boston,player_reception_yds,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,hardrock,99.5,True
+00-0041037,Denzel Boston,player_reception_yds,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,betway,22.5,True
+00-0041037,Denzel Boston,player_reception_yds,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,prophetx,23.5,True
+00-0041037,Denzel Boston,player_reception_yds,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,betr,24.5,True
 00-0041037,Denzel Boston,player_reception_yds,147753,2026-08-22T17:00:00Z,Cleveland Browns,Buffalo Bills,underdog,22.5,True
 00-0041037,Denzel Boston,player_reception_yds,59768,2026-08-15T17:00:00Z,Chicago Bears,Cleveland Browns,betr,20.5,True
 00-0041037,Denzel Boston,player_reception_yds,59768,2026-08-15T17:00:00Z,Chicago Bears,Cleveland Browns,underdog,20.5,True

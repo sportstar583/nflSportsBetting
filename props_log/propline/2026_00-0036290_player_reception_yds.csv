@@ -1,25 +1,50 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0036290,Cole Kmet,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,sportzino,10.5,True
-00-0036290,Cole Kmet,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,hardrock,24.5,True
-00-0036290,Cole Kmet,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,pinnacle,9.5,True
-00-0036290,Cole Kmet,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,rebet,9.5,True
-00-0036290,Cole Kmet,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,dabble,10.5,True
+00-0036290,Cole Kmet,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,prizepicks,4.5,True
+00-0036290,Cole Kmet,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,novig,8.5,True
+00-0036290,Cole Kmet,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,prophetx,8.5,True
+00-0036290,Cole Kmet,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,parlayplay,10.5,True
+00-0036290,Cole Kmet,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,sportzino,8.5,True
+00-0036290,Cole Kmet,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,betway,8.5,True
+00-0036290,Cole Kmet,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,dabble,8.5,True
+00-0036290,Cole Kmet,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,pick6,9.5,True
+00-0036290,Cole Kmet,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,thescorebet,9.5,True
+00-0036290,Cole Kmet,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,sleeper,9.5,True
+00-0036290,Cole Kmet,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,rebet,9.5,True
+00-0036290,Cole Kmet,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,courtside,9.5,True
+00-0036290,Cole Kmet,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,pinnacle,9.5,True
+00-0036290,Cole Kmet,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,hardrock,27.5,True
+00-0036290,Cole Kmet,player_reception_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,prophetx,49.5,True
+00-0036290,Cole Kmet,player_reception_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,pick6,9.5,True
+00-0036290,Cole Kmet,player_reception_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,betway,10.5,True
+00-0036290,Cole Kmet,player_reception_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,thescorebet,9.5,True
+00-0036290,Cole Kmet,player_reception_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,sportzino,10.5,True
+00-0036290,Cole Kmet,player_reception_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,rebet,9.5,True
+00-0036290,Cole Kmet,player_reception_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,sleeper,9.5,True
+00-0036290,Cole Kmet,player_reception_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,polymarket_us,19.5,True
+00-0036290,Cole Kmet,player_reception_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,novig,9.5,True
+00-0036290,Cole Kmet,player_reception_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,dabble,10.5,True
+00-0036290,Cole Kmet,player_reception_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,pinnacle,9.5,True
 00-0036290,Cole Kmet,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,pick6,10.5,True
 00-0036290,Cole Kmet,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,novig,10.5,True
 00-0036290,Cole Kmet,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,parlayplay,10.5,True
 00-0036290,Cole Kmet,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,betway,10.5,True
 00-0036290,Cole Kmet,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,sleeper,9.5,True
 00-0036290,Cole Kmet,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,prophetx,49.5,True
+00-0036290,Cole Kmet,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,sportzino,10.5,True
+00-0036290,Cole Kmet,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,hardrock,24.5,True
+00-0036290,Cole Kmet,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,pinnacle,9.5,True
+00-0036290,Cole Kmet,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,rebet,9.5,True
+00-0036290,Cole Kmet,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,dabble,10.5,True
 00-0036290,Cole Kmet,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,bovada,10.5,True
-00-0036290,Cole Kmet,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,courtside,9.5,True
-00-0036290,Cole Kmet,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,dabble,9.5,True
-00-0036290,Cole Kmet,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,novig,10.5,True
 00-0036290,Cole Kmet,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,prophetx,10.5,True
 00-0036290,Cole Kmet,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,hardrock,24.5,True
 00-0036290,Cole Kmet,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,betway,9.5,True
 00-0036290,Cole Kmet,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,rebet,8.5,True
 00-0036290,Cole Kmet,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,sleeper,8.5,True
 00-0036290,Cole Kmet,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,parlayplay,10.5,True
+00-0036290,Cole Kmet,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,courtside,9.5,True
+00-0036290,Cole Kmet,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,dabble,9.5,True
+00-0036290,Cole Kmet,player_reception_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,novig,10.5,True
 00-0036290,Cole Kmet,player_reception_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,prophetx,12.5,True
 00-0036290,Cole Kmet,player_reception_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,pinnacle,13.5,True
 00-0036290,Cole Kmet,player_reception_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,betway,12.5,True

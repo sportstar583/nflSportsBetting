@@ -1,4 +1,34 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036550,Rashod Bateman,player_reception_yds,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,rebet,19.5,True
+00-0036550,Rashod Bateman,player_reception_yds,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,prophetx,15.5,True
+00-0036550,Rashod Bateman,player_reception_yds,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,hardrock,30.5,True
+00-0036550,Rashod Bateman,player_reception_yds,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,pick6,20.5,True
+00-0036550,Rashod Bateman,player_reception_yds,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,courtside,20.5,True
+00-0036550,Rashod Bateman,player_reception_yds,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,betway,20.5,True
+00-0036550,Rashod Bateman,player_reception_yds,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,sportzino,20.5,True
+00-0036550,Rashod Bateman,player_reception_yds,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,prizepicks,4.5,True
+00-0036550,Rashod Bateman,player_reception_yds,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,sleeper,19.5,True
+00-0036550,Rashod Bateman,player_reception_yds,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,pinnacle,19.5,True
+00-0036550,Rashod Bateman,player_reception_yds,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,dabble,20.5,True
+00-0036550,Rashod Bateman,player_reception_yds,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,novig,22.5,True
+00-0036550,Rashod Bateman,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,prophetx,18.5,True
+00-0036550,Rashod Bateman,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,rebet,17.5,True
+00-0036550,Rashod Bateman,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,prizepicks,14.5,True
+00-0036550,Rashod Bateman,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,parlayplay,20.5,True
+00-0036550,Rashod Bateman,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,dabble,17.5,True
+00-0036550,Rashod Bateman,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,sportzino,17.5,True
+00-0036550,Rashod Bateman,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,pick6,17.5,True
+00-0036550,Rashod Bateman,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,sleeper,17.5,True
+00-0036550,Rashod Bateman,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,lowvig,17.5,True
+00-0036550,Rashod Bateman,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,betonlineag,17.5,True
+00-0036550,Rashod Bateman,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,novig,18.5,True
+00-0036550,Rashod Bateman,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,betway,17.5,True
+00-0036550,Rashod Bateman,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,pinnacle,17.5,True
+00-0036550,Rashod Bateman,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,pick6,26.5,True
+00-0036550,Rashod Bateman,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,parlayplay,31.5,True
+00-0036550,Rashod Bateman,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,pinnacle,26.5,True
+00-0036550,Rashod Bateman,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,betway,29.5,True
+00-0036550,Rashod Bateman,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,dabble,27.5,True
 00-0036550,Rashod Bateman,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,novig,26.5,True
 00-0036550,Rashod Bateman,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,rebet,26.5,True
 00-0036550,Rashod Bateman,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,prophetx,27.5,True
@@ -7,30 +37,25 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0036550,Rashod Bateman,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,courtside,32.5,True
 00-0036550,Rashod Bateman,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,hardrock,39.5,True
 00-0036550,Rashod Bateman,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,sleeper,26.5,True
-00-0036550,Rashod Bateman,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,parlayplay,31.5,True
-00-0036550,Rashod Bateman,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,pinnacle,26.5,True
-00-0036550,Rashod Bateman,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,pick6,26.5,True
-00-0036550,Rashod Bateman,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,betway,29.5,True
-00-0036550,Rashod Bateman,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,dabble,27.5,True
-00-0036550,Rashod Bateman,player_reception_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,courtside,47.5,True
-00-0036550,Rashod Bateman,player_reception_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,betway,43.5,True
 00-0036550,Rashod Bateman,player_reception_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,prizepicks,33.5,True
 00-0036550,Rashod Bateman,player_reception_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,novig,48.5,True
 00-0036550,Rashod Bateman,player_reception_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,dabble,39.5,True
 00-0036550,Rashod Bateman,player_reception_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,sleeper,40.5,True
 00-0036550,Rashod Bateman,player_reception_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,pinnacle,41.5,True
 00-0036550,Rashod Bateman,player_reception_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,prophetx,48.5,True
+00-0036550,Rashod Bateman,player_reception_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,courtside,47.5,True
+00-0036550,Rashod Bateman,player_reception_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,betway,43.5,True
 00-0036550,Rashod Bateman,player_reception_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,bovada,40.5,True
 00-0036550,Rashod Bateman,player_reception_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,betonlineag,43.5,True
 00-0036550,Rashod Bateman,player_reception_yds,23215,2026-09-27T20:25:00Z,Dallas Cowboys,Baltimore Ravens,lowvig,43.5,True
-00-0036550,Rashod Bateman,player_reception_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,prophetx,37.5,True
 00-0036550,Rashod Bateman,player_reception_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,betway,38.5,True
 00-0036550,Rashod Bateman,player_reception_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,pinnacle,38.5,True
 00-0036550,Rashod Bateman,player_reception_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,bovada,37.5,True
 00-0036550,Rashod Bateman,player_reception_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,prizepicks,10.5,True
+00-0036550,Rashod Bateman,player_reception_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,prophetx,37.5,True
 00-0036550,Rashod Bateman,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,betr,25.5,True
-00-0036550,Rashod Bateman,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,betonlineag,25.5,True
 00-0036550,Rashod Bateman,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,lowvig,25.5,True
+00-0036550,Rashod Bateman,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,betonlineag,25.5,True
 00-0036550,Rashod Bateman,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,prophetx,24.5,True
 00-0036550,Rashod Bateman,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,betway,25.5,True
 00-0036550,Rashod Bateman,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,pinnacle,25.5,True

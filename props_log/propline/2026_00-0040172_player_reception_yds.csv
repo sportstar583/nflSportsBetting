@@ -1,4 +1,12 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040172,Jordan Watkins,player_reception_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,prizepicks,0.5,True
+00-0040172,Jordan Watkins,player_reception_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,sleeper,14.5,True
+00-0040172,Jordan Watkins,player_reception_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,sportzino,6.5,True
+00-0040172,Jordan Watkins,player_reception_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,courtside,4.5,True
+00-0040172,Jordan Watkins,player_reception_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,hardrock,15.5,True
+00-0040172,Jordan Watkins,player_reception_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,novig,14.5,True
+00-0040172,Jordan Watkins,player_reception_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,parlayplay,16.5,True
+00-0040172,Jordan Watkins,player_reception_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,dabble,2.5,True
 00-0040172,Jordan Watkins,player_reception_yds,149926,2026-08-28T00:00:00Z,Las Vegas Raiders,San Francisco 49ers,underdog,31.5,True
 00-0040172,Jordan Watkins,player_reception_yds,147565,2026-08-21T02:00:00Z,Los Angeles Chargers,San Francisco 49ers,betr,27.5,True
 00-0040172,Jordan Watkins,player_reception_yds,147565,2026-08-21T02:00:00Z,Los Angeles Chargers,San Francisco 49ers,underdog,28.5,True

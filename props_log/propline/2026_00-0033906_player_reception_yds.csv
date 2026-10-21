@@ -1,15 +1,53 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0033906,Alvin Kamara,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,hardrock,39.5,True
+00-0033906,Alvin Kamara,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,prizepicks,4.5,True
+00-0033906,Alvin Kamara,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,hardrock,28.5,True
+00-0033906,Alvin Kamara,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,dabble,11.5,True
+00-0033906,Alvin Kamara,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,novig,10.5,True
+00-0033906,Alvin Kamara,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,rebet,11.5,True
+00-0033906,Alvin Kamara,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,prophetx,12.5,True
+00-0033906,Alvin Kamara,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,sleeper,11.5,True
+00-0033906,Alvin Kamara,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,courtside,10.5,True
+00-0033906,Alvin Kamara,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,pick6,10.5,True
+00-0033906,Alvin Kamara,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,sportzino,12.5,True
+00-0033906,Alvin Kamara,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,thescorebet,9.5,True
+00-0033906,Alvin Kamara,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betway,11.5,True
+00-0033906,Alvin Kamara,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,parlayplay,10.5,True
+00-0033906,Alvin Kamara,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,dabble,13.5,True
+00-0033906,Alvin Kamara,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,betway,13.5,True
+00-0033906,Alvin Kamara,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,pick6,15.5,True
+00-0033906,Alvin Kamara,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,pinnacle,15.5,True
+00-0033906,Alvin Kamara,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,courtside,13.5,True
+00-0033906,Alvin Kamara,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,thescorebet,14.5,True
+00-0033906,Alvin Kamara,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,novig,15.5,True
+00-0033906,Alvin Kamara,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,prophetx,13.5,True
+00-0033906,Alvin Kamara,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,parlayplay,14.5,True
+00-0033906,Alvin Kamara,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,sportzino,13.5,True
+00-0033906,Alvin Kamara,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,rebet,15.5,True
+00-0033906,Alvin Kamara,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,sleeper,15.5,True
+00-0033906,Alvin Kamara,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betway,16.5,True
+00-0033906,Alvin Kamara,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,dabble,17.5,True
+00-0033906,Alvin Kamara,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,lowvig,15.5,True
+00-0033906,Alvin Kamara,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,15.5,True
+00-0033906,Alvin Kamara,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,sleeper,15.5,True
+00-0033906,Alvin Kamara,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,pinnacle,15.5,True
+00-0033906,Alvin Kamara,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,pick6,15.5,True
+00-0033906,Alvin Kamara,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,rebet,16.5,True
+00-0033906,Alvin Kamara,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,parlayplay,17.5,True
+00-0033906,Alvin Kamara,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,sportzino,17.5,True
+00-0033906,Alvin Kamara,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,hardrock,24.5,True
+00-0033906,Alvin Kamara,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,courtside,14.5,True
+00-0033906,Alvin Kamara,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,novig,19.5,True
 00-0033906,Alvin Kamara,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,sleeper,13.5,True
 00-0033906,Alvin Kamara,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,dabble,11.5,True
 00-0033906,Alvin Kamara,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,novig,12.5,True
+00-0033906,Alvin Kamara,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,hardrock,39.5,True
 00-0033906,Alvin Kamara,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,parlayplay,12.5,True
 00-0033906,Alvin Kamara,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,courtside,14.5,True
 00-0033906,Alvin Kamara,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,betway,16.5,True
 00-0033906,Alvin Kamara,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,prophetx,49.5,True
 00-0033906,Alvin Kamara,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,pinnacle,13.5,True
-00-0033906,Alvin Kamara,player_reception_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,hardrock,64.5,True
 00-0033906,Alvin Kamara,player_reception_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,pinnacle,12.5,True
 00-0033906,Alvin Kamara,player_reception_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,prophetx,11.5,True
 00-0033906,Alvin Kamara,player_reception_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,betway,12.5,True
 00-0033906,Alvin Kamara,player_reception_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,betrivers,11.5,True
+00-0033906,Alvin Kamara,player_reception_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,hardrock,64.5,True

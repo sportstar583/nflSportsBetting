@@ -1,20 +1,52 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0037256,Rachaad White,player_rush_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,pinnacle,19.5,True
-00-0037256,Rachaad White,player_rush_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,hardrock,64.5,True
-00-0037256,Rachaad White,player_rush_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,parlayplay,19.5,True
-00-0037256,Rachaad White,player_rush_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,prophetx,18.5,True
-00-0037256,Rachaad White,player_rush_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,betway,19.5,True
+00-0037256,Rachaad White,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,sportzino,46.5,True
+00-0037256,Rachaad White,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,sleeper,44.5,True
+00-0037256,Rachaad White,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,prophetx,48.5,True
+00-0037256,Rachaad White,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,rebet,44.5,True
+00-0037256,Rachaad White,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,parlayplay,21.5,True
+00-0037256,Rachaad White,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,novig,45.5,True
+00-0037256,Rachaad White,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pick6,43.5,True
+00-0037256,Rachaad White,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,44.5,True
+00-0037256,Rachaad White,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betonlineag,46.5,True
+00-0037256,Rachaad White,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,lowvig,46.5,True
+00-0037256,Rachaad White,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,bovada,45.5,True
+00-0037256,Rachaad White,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,prizepicks,20.5,True
+00-0037256,Rachaad White,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,hardrock,9.5,True
+00-0037256,Rachaad White,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betway,49.5,True
+00-0037256,Rachaad White,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,dabble,46.5,True
+00-0037256,Rachaad White,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,courtside,46.5,True
+00-0037256,Rachaad White,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,thescorebet,44.5,True
+00-0037256,Rachaad White,player_rush_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,sportzino,22.5,True
+00-0037256,Rachaad White,player_rush_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,novig,20.5,True
+00-0037256,Rachaad White,player_rush_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,rebet,20.5,True
+00-0037256,Rachaad White,player_rush_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,pick6,20.5,True
+00-0037256,Rachaad White,player_rush_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,dabble,23.5,True
+00-0037256,Rachaad White,player_rush_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,betway,23.5,True
+00-0037256,Rachaad White,player_rush_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,prophetx,23.5,True
+00-0037256,Rachaad White,player_rush_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,betmgm,24.5,True
+00-0037256,Rachaad White,player_rush_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,prizepicks,19.5,True
+00-0037256,Rachaad White,player_rush_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,pinnacle,21.5,True
+00-0037256,Rachaad White,player_rush_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,courtside,25.5,True
+00-0037256,Rachaad White,player_rush_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,betrivers,22.5,True
+00-0037256,Rachaad White,player_rush_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,parlayplay,25.5,True
+00-0037256,Rachaad White,player_rush_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,sleeper,21.5,True
+00-0037256,Rachaad White,player_rush_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,bovada,25.5,True
 00-0037256,Rachaad White,player_rush_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,dabble,19.5,True
 00-0037256,Rachaad White,player_rush_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,sleeper,18.5,True
 00-0037256,Rachaad White,player_rush_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,prizepicks,19.5,True
 00-0037256,Rachaad White,player_rush_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,novig,18.5,True
+00-0037256,Rachaad White,player_rush_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,betway,19.5,True
+00-0037256,Rachaad White,player_rush_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,prophetx,18.5,True
+00-0037256,Rachaad White,player_rush_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,parlayplay,19.5,True
+00-0037256,Rachaad White,player_rush_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,hardrock,64.5,True
+00-0037256,Rachaad White,player_rush_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,pinnacle,19.5,True
+00-0037256,Rachaad White,player_rush_yds,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,prophetx,22.5,True
 00-0037256,Rachaad White,player_rush_yds,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,betway,22.5,True
 00-0037256,Rachaad White,player_rush_yds,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,pinnacle,22.5,True
 00-0037256,Rachaad White,player_rush_yds,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,prizepicks,6.5,True
-00-0037256,Rachaad White,player_rush_yds,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,prophetx,22.5,True
-00-0037256,Rachaad White,player_rush_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,prizepicks,6.5,True
-00-0037256,Rachaad White,player_rush_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betway,24.5,True
 00-0037256,Rachaad White,player_rush_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betmgm,23.5,True
 00-0037256,Rachaad White,player_rush_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,pinnacle,22.5,True
 00-0037256,Rachaad White,player_rush_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,prophetx,24.5,True
 00-0037256,Rachaad White,player_rush_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betr,23.5,True
+00-0037256,Rachaad White,player_rush_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,prizepicks,6.5,True
+00-0037256,Rachaad White,player_rush_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betway,24.5,True

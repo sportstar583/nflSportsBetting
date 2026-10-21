@@ -1,6 +1,19 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0039746,Will Shipley,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,sportzino,0.5,True
+00-0039746,Will Shipley,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,rebet,2.5,True
+00-0039746,Will Shipley,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,prizepicks,2.5,True
+00-0039746,Will Shipley,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betway,2.5,True
+00-0039746,Will Shipley,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,thescorebet,2.5,True
+00-0039746,Will Shipley,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,fanduel,2.5,True
+00-0039746,Will Shipley,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,sleeper,2.5,True
+00-0039746,Will Shipley,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,pinnacle,2.5,True
+00-0039746,Will Shipley,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,sportzino,2.5,True
+00-0039746,Will Shipley,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,dabble,2.5,True
+00-0039746,Will Shipley,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,prophetx,2.5,True
+00-0039746,Will Shipley,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betmgm,2.5,True
+00-0039746,Will Shipley,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betonlineag,2.5,True
+00-0039746,Will Shipley,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,lowvig,2.5,True
 00-0039746,Will Shipley,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,prizepicks,0.5,True
+00-0039746,Will Shipley,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,sportzino,0.5,True
 00-0039746,Will Shipley,player_receptions,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,prizepicks,0.5,True
-00-0039746,Will Shipley,player_receptions,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,prizepicks,0.5,True
 00-0039746,Will Shipley,player_receptions,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,betmgm,0.5,True
+00-0039746,Will Shipley,player_receptions,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,prizepicks,0.5,True

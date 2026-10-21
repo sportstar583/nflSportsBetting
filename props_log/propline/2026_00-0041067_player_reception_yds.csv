@@ -1,10 +1,34 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0041067,Bryce Lance,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,parlayplay,16.5,True
+00-0041067,Bryce Lance,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,prizepicks,4.5,True
+00-0041067,Bryce Lance,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,dabble,12.5,True
+00-0041067,Bryce Lance,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,novig,13.5,True
+00-0041067,Bryce Lance,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,rebet,13.5,True
+00-0041067,Bryce Lance,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,prophetx,17.5,True
+00-0041067,Bryce Lance,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,hardrock,31.5,True
+00-0041067,Bryce Lance,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,pinnacle,13.5,True
+00-0041067,Bryce Lance,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,sleeper,12.5,True
+00-0041067,Bryce Lance,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,courtside,13.5,True
+00-0041067,Bryce Lance,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,pick6,13.5,True
+00-0041067,Bryce Lance,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,sportzino,12.5,True
+00-0041067,Bryce Lance,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,thescorebet,14.5,True
+00-0041067,Bryce Lance,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betway,13.5,True
+00-0041067,Bryce Lance,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betmgm,11.5,True
+00-0041067,Bryce Lance,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,parlayplay,11.5,True
+00-0041067,Bryce Lance,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,novig,12.5,True
+00-0041067,Bryce Lance,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,dabble,14.5,True
+00-0041067,Bryce Lance,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,sleeper,14.5,True
+00-0041067,Bryce Lance,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,parlayplay,13.5,True
+00-0041067,Bryce Lance,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,pick6,14.5,True
+00-0041067,Bryce Lance,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,rebet,15.5,True
+00-0041067,Bryce Lance,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,prophetx,10.5,True
+00-0041067,Bryce Lance,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,prizepicks,13.5,True
+00-0041067,Bryce Lance,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,sportzino,14.5,True
 00-0041067,Bryce Lance,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,prophetx,16.5,True
 00-0041067,Bryce Lance,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,novig,16.5,True
 00-0041067,Bryce Lance,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,sleeper,15.5,True
 00-0041067,Bryce Lance,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,dabble,15.5,True
 00-0041067,Bryce Lance,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,hardrock,64.5,True
+00-0041067,Bryce Lance,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,parlayplay,16.5,True
 00-0041067,Bryce Lance,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,courtside,16.5,True
 00-0041067,Bryce Lance,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,pinnacle,15.5,True
 00-0041067,Bryce Lance,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,prizepicks,15.5,True
@@ -12,8 +36,8 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0041067,Bryce Lance,player_reception_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,hardrock,99.5,True
 00-0041067,Bryce Lance,player_reception_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,prizepicks,0.5,True
 00-0041067,Bryce Lance,player_reception_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,betway,19.5,True
-00-0041067,Bryce Lance,player_reception_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betway,8.5,True
 00-0041067,Bryce Lance,player_reception_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,prizepicks,9.5,True
+00-0041067,Bryce Lance,player_reception_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betway,8.5,True
 00-0041067,Bryce Lance,player_reception_yds,153600,2026-08-29T00:00:00Z,Dallas Cowboys,New Orleans Saints,underdog,17.5,True
 00-0041067,Bryce Lance,player_reception_yds,59765,2026-08-15T20:00:00Z,New Orleans Saints,Jacksonville Jaguars,underdog,20.5,True
 00-0041067,Bryce Lance,player_reception_yds,59765,2026-08-15T20:00:00Z,New Orleans Saints,Jacksonville Jaguars,betr,25.5,True

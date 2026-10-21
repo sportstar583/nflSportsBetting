@@ -1,20 +1,63 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0039424,Devaughn Vele,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,sleeper,48.5,True
-00-0039424,Devaughn Vele,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,dabble,45.5,True
+00-0039424,Devaughn Vele,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,pinnacle,41.5,True
+00-0039424,Devaughn Vele,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,thescorebet,43.5,True
+00-0039424,Devaughn Vele,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,sleeper,42.5,True
+00-0039424,Devaughn Vele,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,parlayplay,43.5,True
+00-0039424,Devaughn Vele,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,novig,41.5,True
+00-0039424,Devaughn Vele,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,prizepicks,19.5,True
+00-0039424,Devaughn Vele,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,dabble,41.5,True
+00-0039424,Devaughn Vele,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,bovada,43.5,True
+00-0039424,Devaughn Vele,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,pick6,42.5,True
+00-0039424,Devaughn Vele,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,prophetx,43.5,True
+00-0039424,Devaughn Vele,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,sportzino,37.5,True
+00-0039424,Devaughn Vele,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betway,43.5,True
+00-0039424,Devaughn Vele,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,hardrock,71.5,True
+00-0039424,Devaughn Vele,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,rebet,41.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,bovada,41.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,dabble,40.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,novig,40.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,betway,38.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,pick6,40.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,pinnacle,40.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,prizepicks,35.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,thescorebet,39.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,prophetx,42.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,parlayplay,35.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,courtside,37.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,sportzino,38.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,rebet,40.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,sleeper,40.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,pinnacle,44.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betway,42.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,dabble,43.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,sleeper,45.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,pick6,14.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,prophetx,46.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,rebet,45.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,novig,40.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,sportzino,43.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,hardrock,49.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,prizepicks,39.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,parlayplay,46.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,44.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,lowvig,44.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,43.5,True
 00-0039424,Devaughn Vele,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,novig,50.5,True
 00-0039424,Devaughn Vele,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,pinnacle,48.5,True
 00-0039424,Devaughn Vele,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,prophetx,124.5,True
 00-0039424,Devaughn Vele,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,betway,46.5,True
-00-0039424,Devaughn Vele,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,bovada,49.5,True
 00-0039424,Devaughn Vele,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,prizepicks,39.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,bovada,49.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,sleeper,48.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,dabble,45.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,betway,41.5,True
+00-0039424,Devaughn Vele,player_reception_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,bovada,40.5,True
 00-0039424,Devaughn Vele,player_reception_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,prizepicks,13.5,True
 00-0039424,Devaughn Vele,player_reception_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,prophetx,43.5,True
 00-0039424,Devaughn Vele,player_reception_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,pinnacle,41.5,True
-00-0039424,Devaughn Vele,player_reception_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,betway,41.5,True
-00-0039424,Devaughn Vele,player_reception_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,bovada,40.5,True
+00-0039424,Devaughn Vele,player_reception_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betway,39.5,True
+00-0039424,Devaughn Vele,player_reception_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,pinnacle,39.5,True
 00-0039424,Devaughn Vele,player_reception_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betr,39.5,True
 00-0039424,Devaughn Vele,player_reception_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,prophetx,49.5,True
 00-0039424,Devaughn Vele,player_reception_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,prizepicks,8.5,True
 00-0039424,Devaughn Vele,player_reception_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,bovada,40.5,True
-00-0039424,Devaughn Vele,player_reception_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betway,39.5,True
-00-0039424,Devaughn Vele,player_reception_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,pinnacle,39.5,True

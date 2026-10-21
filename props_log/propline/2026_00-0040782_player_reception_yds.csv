@@ -1,0 +1,10 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040782,Isaiah Bond,player_reception_yds,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,prizepicks,2.5,True
+00-0040782,Isaiah Bond,player_reception_yds,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,parlayplay,2.5,True
+00-0040782,Isaiah Bond,player_reception_yds,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,sportzino,2.5,True
+00-0040782,Isaiah Bond,player_reception_yds,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,polymarket_us,9.5,True
+00-0040782,Isaiah Bond,player_reception_yds,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,dabble,2.5,True
+00-0040782,Isaiah Bond,player_reception_yds,150212,2026-08-28T00:00:00Z,Cleveland Browns,New England Patriots,underdog,16.5,True
+00-0040782,Isaiah Bond,player_reception_yds,147753,2026-08-22T17:00:00Z,Cleveland Browns,Buffalo Bills,underdog,19.5,True
+00-0040782,Isaiah Bond,player_reception_yds,59768,2026-08-15T17:00:00Z,Chicago Bears,Cleveland Browns,underdog,17.5,True
+00-0040782,Isaiah Bond,player_reception_yds,59768,2026-08-15T17:00:00Z,Chicago Bears,Cleveland Browns,betr,15.5,True

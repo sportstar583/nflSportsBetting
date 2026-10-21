@@ -1,5 +1,19 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0037742,Treylon Burks,player_receptions,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,prizepicks,0.5,True
+00-0037742,Treylon Burks,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,sleeper,0.5,True
+00-0037742,Treylon Burks,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,sportzino,0.5,True
+00-0037742,Treylon Burks,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,prizepicks,0.5,True
+00-0037742,Treylon Burks,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,0.5,True
+00-0037742,Treylon Burks,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,novig,0.5,True
+00-0037742,Treylon Burks,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,hardrock,0.5,True
+00-0037742,Treylon Burks,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,prophetx,0.5,True
+00-0037742,Treylon Burks,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,0.5,True
+00-0037742,Treylon Burks,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fliff,0.5,True
+00-0037742,Treylon Burks,player_receptions,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,prizepicks,1.5,True
+00-0037742,Treylon Burks,player_receptions,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,sportzino,1.5,True
+00-0037742,Treylon Burks,player_receptions,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,parlayplay,1.5,True
+00-0037742,Treylon Burks,player_receptions,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,fliff,1.5,True
+00-0037742,Treylon Burks,player_receptions,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,dabble,1.5,True
+00-0037742,Treylon Burks,player_receptions,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,betway,1.5,True
 00-0037742,Treylon Burks,player_receptions,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,fanduel,1.5,True
 00-0037742,Treylon Burks,player_receptions,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,rebet,1.5,True
 00-0037742,Treylon Burks,player_receptions,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,sportzino,1.5,True
@@ -7,9 +21,10 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0037742,Treylon Burks,player_receptions,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,sleeper,1.5,True
 00-0037742,Treylon Burks,player_receptions,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,betmgm,1.5,True
 00-0037742,Treylon Burks,player_receptions,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,prophetx,1.5,True
+00-0037742,Treylon Burks,player_receptions,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,prizepicks,0.5,True
 00-0037742,Treylon Burks,player_receptions,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,dabble,1.5,True
-00-0037742,Treylon Burks,player_receptions,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,fliff,1.5,True
 00-0037742,Treylon Burks,player_receptions,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,prizepicks,1.5,True
 00-0037742,Treylon Burks,player_receptions,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,underdog,1.5,True
 00-0037742,Treylon Burks,player_receptions,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,hardrock,1.5,True
+00-0037742,Treylon Burks,player_receptions,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,fliff,1.5,True
 00-0037742,Treylon Burks,player_receptions,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betway,1.5,True

@@ -1,4 +1,19 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0037252,Greg Dulcich,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,fanduel,2.5,True
+00-0037252,Greg Dulcich,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,thescorebet,2.5,True
+00-0037252,Greg Dulcich,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,betway,2.5,True
+00-0037252,Greg Dulcich,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,prophetx,2.5,True
+00-0037252,Greg Dulcich,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,sportzino,2.5,True
+00-0037252,Greg Dulcich,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,sleeper,2.5,True
+00-0037252,Greg Dulcich,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,dabble,2.5,True
+00-0037252,Greg Dulcich,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,prizepicks,2.5,True
+00-0037252,Greg Dulcich,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,betmgm,2.5,True
+00-0037252,Greg Dulcich,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,rebet,2.5,True
+00-0037252,Greg Dulcich,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,novig,5.5,True
+00-0037252,Greg Dulcich,player_receptions,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,betrivers,2.5,True
+00-0037252,Greg Dulcich,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,prophetx,3.5,True
+00-0037252,Greg Dulcich,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,fanduel,2.5,True
+00-0037252,Greg Dulcich,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,dabble,2.5,True
 00-0037252,Greg Dulcich,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,pinnacle,2.5,True
 00-0037252,Greg Dulcich,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,rebet,2.5,True
 00-0037252,Greg Dulcich,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,prizepicks,2.5,True
@@ -9,9 +24,6 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0037252,Greg Dulcich,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,betway,2.5,True
 00-0037252,Greg Dulcich,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,parlayplay,3.5,True
 00-0037252,Greg Dulcich,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,hardrock,2.5,True
-00-0037252,Greg Dulcich,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,prophetx,3.5,True
-00-0037252,Greg Dulcich,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,fanduel,2.5,True
-00-0037252,Greg Dulcich,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,dabble,2.5,True
 00-0037252,Greg Dulcich,player_receptions,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,prizepicks,2.5,True
 00-0037252,Greg Dulcich,player_receptions,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,prophetx,2.5,True
 00-0037252,Greg Dulcich,player_receptions,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,pinnacle,2.5,True
@@ -20,13 +32,13 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0037252,Greg Dulcich,player_receptions,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,novig,1.5,True
 00-0037252,Greg Dulcich,player_receptions,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,betway,2.5,True
 00-0037252,Greg Dulcich,player_receptions,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,dabble,2.5,True
-00-0037252,Greg Dulcich,player_receptions,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,hardrock,6.5,True
 00-0037252,Greg Dulcich,player_receptions,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,prophetx,2.5,True
 00-0037252,Greg Dulcich,player_receptions,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,prizepicks,1.5,True
 00-0037252,Greg Dulcich,player_receptions,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,fliff,2.5,True
 00-0037252,Greg Dulcich,player_receptions,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,betmgm,2.5,True
-00-0037252,Greg Dulcich,player_receptions,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,betway,2.5,True
 00-0037252,Greg Dulcich,player_receptions,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,fanduel,2.5,True
+00-0037252,Greg Dulcich,player_receptions,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,hardrock,6.5,True
+00-0037252,Greg Dulcich,player_receptions,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,betway,2.5,True
 00-0037252,Greg Dulcich,player_receptions,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,betway,2.5,True
 00-0037252,Greg Dulcich,player_receptions,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,prophetx,2.5,True
 00-0037252,Greg Dulcich,player_receptions,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,hardrock,7.5,True

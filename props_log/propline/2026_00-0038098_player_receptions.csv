@@ -1,0 +1,13 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038098,Pierre Strong,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,fanduel,2.5,True
+00-0038098,Pierre Strong,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,sportzino,1.5,True
+00-0038098,Pierre Strong,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,sleeper,2.5,True
+00-0038098,Pierre Strong,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,parlayplay,1.5,True
+00-0038098,Pierre Strong,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,underdog,2.5,True
+00-0038098,Pierre Strong,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,prizepicks,1.5,True
+00-0038098,Pierre Strong,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,rebet,2.5,True
+00-0038098,Pierre Strong,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,hardrock,0.5,True
+00-0038098,Pierre Strong,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,prophetx,1.5,True
+00-0038098,Pierre Strong,player_receptions,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,sportzino,0.5,True
+00-0038098,Pierre Strong,player_receptions,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,underdog,0.5,True
+00-0038098,Pierre Strong,player_receptions,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,prizepicks,0.5,True

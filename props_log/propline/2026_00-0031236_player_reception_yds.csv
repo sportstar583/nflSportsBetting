@@ -1,0 +1,9 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0031236,Brandin Cooks,player_reception_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,parlayplay,20.5,True
+00-0031236,Brandin Cooks,player_reception_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,prizepicks,4.5,True
+00-0031236,Brandin Cooks,player_reception_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,sleeper,20.5,True
+00-0031236,Brandin Cooks,player_reception_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,sportzino,22.5,True
+00-0031236,Brandin Cooks,player_reception_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,hardrock,37.5,True
+00-0031236,Brandin Cooks,player_reception_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,20.5,True
+00-0031236,Brandin Cooks,player_reception_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,novig,20.5,True
+00-0031236,Brandin Cooks,player_reception_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,dabble,22.5,True

@@ -1,0 +1,27 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0033217,Mo Alie-Cox,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,courtside,13.5,True
+00-0033217,Mo Alie-Cox,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,prizepicks,4.5,True
+00-0033217,Mo Alie-Cox,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,novig,13.5,True
+00-0033217,Mo Alie-Cox,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,underdog,14.5,True
+00-0033217,Mo Alie-Cox,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,prophetx,13.5,True
+00-0033217,Mo Alie-Cox,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,fanduel,14.5,True
+00-0033217,Mo Alie-Cox,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,pinnacle,14.5,True
+00-0033217,Mo Alie-Cox,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,sportzino,13.5,True
+00-0033217,Mo Alie-Cox,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,fliff,13.5,True
+00-0033217,Mo Alie-Cox,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,parlayplay,13.5,True
+00-0033217,Mo Alie-Cox,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,sleeper,13.5,True
+00-0033217,Mo Alie-Cox,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,dabble,13.5,True
+00-0033217,Mo Alie-Cox,player_reception_yds,32683,2026-10-11T17:00:00Z,Pittsburgh Steelers,Indianapolis Colts,parlayplay,2.5,True
+00-0033217,Mo Alie-Cox,player_reception_yds,32683,2026-10-11T17:00:00Z,Pittsburgh Steelers,Indianapolis Colts,prizepicks,2.5,True
+00-0033217,Mo Alie-Cox,player_reception_yds,32683,2026-10-11T17:00:00Z,Pittsburgh Steelers,Indianapolis Colts,fliff,2.5,True
+00-0033217,Mo Alie-Cox,player_reception_yds,32683,2026-10-11T17:00:00Z,Pittsburgh Steelers,Indianapolis Colts,dabble,2.5,True
+00-0033217,Mo Alie-Cox,player_reception_yds,32683,2026-10-11T17:00:00Z,Pittsburgh Steelers,Indianapolis Colts,sportzino,2.5,True
+00-0033217,Mo Alie-Cox,player_reception_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,prophetx,29.5,True
+00-0033217,Mo Alie-Cox,player_reception_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,underdog,3.5,True
+00-0033217,Mo Alie-Cox,player_reception_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,dabble,2.5,True
+00-0033217,Mo Alie-Cox,player_reception_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,sportzino,2.5,True
+00-0033217,Mo Alie-Cox,player_reception_yds,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,prizepicks,2.5,True
+00-0033217,Mo Alie-Cox,player_reception_yds,32646,2026-09-21T00:22:43Z,Kansas City Chiefs,Indianapolis Colts,prizepicks,0.5,True
+00-0033217,Mo Alie-Cox,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,underdog,4.5,True
+00-0033217,Mo Alie-Cox,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,prizepicks,4.5,True
+00-0033217,Mo Alie-Cox,player_reception_yds,25072,2026-09-13T17:00:00Z,Indianapolis Colts,Baltimore Ravens,betway,3.5,True

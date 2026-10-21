@@ -1,4 +1,31 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039847,Theo Johnson,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,prophetx,7.5,True
+00-0039847,Theo Johnson,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betmgm,7.5,True
+00-0039847,Theo Johnson,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,prizepicks,7.5,True
+00-0039847,Theo Johnson,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,dabble,8.5,True
+00-0039847,Theo Johnson,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,novig,7.5,True
+00-0039847,Theo Johnson,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,rebet,7.5,True
+00-0039847,Theo Johnson,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,hardrock,7.5,True
+00-0039847,Theo Johnson,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,pick6,7.5,True
+00-0039847,Theo Johnson,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,draftkings,7.5,True
+00-0039847,Theo Johnson,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,sportzino,8.5,True
+00-0039847,Theo Johnson,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,underdog,4.5,True
+00-0039847,Theo Johnson,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,thescorebet,7.5,True
+00-0039847,Theo Johnson,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,courtside,7.5,True
+00-0039847,Theo Johnson,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,bovada,7.5,True
+00-0039847,Theo Johnson,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,pinnacle,7.5,True
+00-0039847,Theo Johnson,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,sleeper,7.5,True
+00-0039847,Theo Johnson,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,fanduel,7.5,True
+00-0039847,Theo Johnson,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,parlayplay,7.5,True
+00-0039847,Theo Johnson,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betrivers,8.5,True
+00-0039847,Theo Johnson,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,fanatics,10.5,True
+00-0039847,Theo Johnson,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,fliff,7.5,True
+00-0039847,Theo Johnson,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,parlayplay,0.5,True
+00-0039847,Theo Johnson,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,dabble,0.5,True
+00-0039847,Theo Johnson,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,sportzino,0.5,True
+00-0039847,Theo Johnson,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,fliff,2.5,True
+00-0039847,Theo Johnson,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,prizepicks,0.5,True
+00-0039847,Theo Johnson,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,prophetx,7.5,True
 00-0039847,Theo Johnson,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,novig,7.5,True
 00-0039847,Theo Johnson,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,sportzino,7.5,True
 00-0039847,Theo Johnson,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,rebet,8.5,True
@@ -8,18 +35,17 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0039847,Theo Johnson,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,pinnacle,8.5,True
 00-0039847,Theo Johnson,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,pick6,7.5,True
 00-0039847,Theo Johnson,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,fliff,8.5,True
-00-0039847,Theo Johnson,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,prophetx,7.5,True
-00-0039847,Theo Johnson,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,betway,7.5,True
-00-0039847,Theo Johnson,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,polymarket_us,9.5,True
 00-0039847,Theo Johnson,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,parlayplay,7.5,True
 00-0039847,Theo Johnson,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,prizepicks,7.5,True
 00-0039847,Theo Johnson,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,dabble,6.5,True
 00-0039847,Theo Johnson,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,sleeper,7.5,True
-00-0039847,Theo Johnson,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,prophetx,14.5,True
-00-0039847,Theo Johnson,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betrivers,6.5,True
+00-0039847,Theo Johnson,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,betway,7.5,True
+00-0039847,Theo Johnson,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,polymarket_us,9.5,True
 00-0039847,Theo Johnson,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,prizepicks,2.5,True
 00-0039847,Theo Johnson,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,hardrock,64.5,True
 00-0039847,Theo Johnson,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,pinnacle,8.5,True
+00-0039847,Theo Johnson,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,prophetx,14.5,True
+00-0039847,Theo Johnson,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betrivers,6.5,True
 00-0039847,Theo Johnson,player_reception_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betmgm,13.5,True
 00-0039847,Theo Johnson,player_reception_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betway,14.5,True
 00-0039847,Theo Johnson,player_reception_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,pinnacle,14.5,True

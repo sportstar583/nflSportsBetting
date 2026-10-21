@@ -1,25 +1,47 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0040142,Kaleb Johnson,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,courtside,31.5,True
-00-0040142,Kaleb Johnson,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,parlayplay,29.5,True
-00-0040142,Kaleb Johnson,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,sleeper,31.5,True
-00-0040142,Kaleb Johnson,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,pick6,32.5,True
-00-0040142,Kaleb Johnson,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,rebet,31.5,True
-00-0040142,Kaleb Johnson,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,hardrock,24.5,True
+00-0040142,Kaleb Johnson,player_rush_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,sportzino,11.5,True
+00-0040142,Kaleb Johnson,player_rush_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,fliff,9.5,True
+00-0040142,Kaleb Johnson,player_rush_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,sleeper,9.5,True
+00-0040142,Kaleb Johnson,player_rush_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,dabble,11.5,True
+00-0040142,Kaleb Johnson,player_rush_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,prizepicks,4.5,True
+00-0040142,Kaleb Johnson,player_rush_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,betway,13.5,True
+00-0040142,Kaleb Johnson,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,parlayplay,35.5,True
+00-0040142,Kaleb Johnson,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,betway,32.5,True
+00-0040142,Kaleb Johnson,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,novig,32.5,True
+00-0040142,Kaleb Johnson,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,sportzino,31.5,True
+00-0040142,Kaleb Johnson,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,pick6,31.5,True
+00-0040142,Kaleb Johnson,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,sleeper,32.5,True
+00-0040142,Kaleb Johnson,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,dabble,31.5,True
+00-0040142,Kaleb Johnson,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,rebet,32.5,True
+00-0040142,Kaleb Johnson,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,prizepicks,29.5,True
+00-0040142,Kaleb Johnson,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,courtside,35.5,True
+00-0040142,Kaleb Johnson,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,pinnacle,32.5,True
+00-0040142,Kaleb Johnson,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,lowvig,31.5,True
+00-0040142,Kaleb Johnson,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,betonlineag,31.5,True
+00-0040142,Kaleb Johnson,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,bovada,27.5,True
+00-0040142,Kaleb Johnson,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,thescorebet,29.5,True
+00-0040142,Kaleb Johnson,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,prophetx,31.5,True
 00-0040142,Kaleb Johnson,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,pinnacle,31.5,True
 00-0040142,Kaleb Johnson,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,dabble,31.5,True
 00-0040142,Kaleb Johnson,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,betway,32.5,True
 00-0040142,Kaleb Johnson,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,novig,31.5,True
 00-0040142,Kaleb Johnson,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,prizepicks,26.5,True
 00-0040142,Kaleb Johnson,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,sportzino,28.5,True
+00-0040142,Kaleb Johnson,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,courtside,31.5,True
+00-0040142,Kaleb Johnson,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,parlayplay,29.5,True
+00-0040142,Kaleb Johnson,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,sleeper,31.5,True
+00-0040142,Kaleb Johnson,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,pick6,32.5,True
+00-0040142,Kaleb Johnson,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,rebet,31.5,True
+00-0040142,Kaleb Johnson,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,hardrock,24.5,True
 00-0040142,Kaleb Johnson,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,bovada,32.5,True
-00-0040142,Kaleb Johnson,player_rush_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,pinnacle,38.5,True
-00-0040142,Kaleb Johnson,player_rush_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,parlayplay,36.5,True
 00-0040142,Kaleb Johnson,player_rush_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,courtside,38.5,True
 00-0040142,Kaleb Johnson,player_rush_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,prophetx,59.5,True
 00-0040142,Kaleb Johnson,player_rush_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,novig,38.5,True
 00-0040142,Kaleb Johnson,player_rush_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,betway,38.5,True
 00-0040142,Kaleb Johnson,player_rush_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,prizepicks,13.5,True
 00-0040142,Kaleb Johnson,player_rush_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,hardrock,99.5,True
+00-0040142,Kaleb Johnson,player_rush_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,pinnacle,38.5,True
+00-0040142,Kaleb Johnson,player_rush_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,parlayplay,36.5,True
 00-0040142,Kaleb Johnson,player_rush_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,betonlineag,37.5,True
 00-0040142,Kaleb Johnson,player_rush_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,lowvig,37.5,True
 00-0040142,Kaleb Johnson,player_rush_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,bovada,36.5,True

@@ -1,0 +1,21 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038098,Pierre Strong,player_rush_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,sportzino,18.5,True
+00-0038098,Pierre Strong,player_rush_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,pinnacle,16.5,True
+00-0038098,Pierre Strong,player_rush_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,sleeper,16.5,True
+00-0038098,Pierre Strong,player_rush_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,underdog,14.5,True
+00-0038098,Pierre Strong,player_rush_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,novig,15.5,True
+00-0038098,Pierre Strong,player_rush_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,betway,18.5,True
+00-0038098,Pierre Strong,player_rush_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,prizepicks,4.5,True
+00-0038098,Pierre Strong,player_rush_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,hardrock,5.5,True
+00-0038098,Pierre Strong,player_rush_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,pick6,17.5,True
+00-0038098,Pierre Strong,player_rush_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,dabble,19.5,True
+00-0038098,Pierre Strong,player_rush_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,rebet,17.5,True
+00-0038098,Pierre Strong,player_rush_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,parlayplay,16.5,True
+00-0038098,Pierre Strong,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,sportzino,15.5,True
+00-0038098,Pierre Strong,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,parlayplay,15.5,True
+00-0038098,Pierre Strong,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,underdog,14.5,True
+00-0038098,Pierre Strong,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,dabble,15.5,True
+00-0038098,Pierre Strong,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,prizepicks,15.5,True
+00-0038098,Pierre Strong,player_rush_yds,147649,2026-08-22T01:00:00Z,Denver Broncos,Green Bay Packers,underdog,17.5,True
+00-0038098,Pierre Strong,player_rush_yds,59776,2026-08-14T02:00:00Z,Pittsburgh Steelers,Green Bay Packers,underdog,27.5,True
+00-0038098,Pierre Strong,player_rush_yds,59776,2026-08-14T02:00:00Z,Pittsburgh Steelers,Green Bay Packers,betr,28.5,True

@@ -1,8 +1,32 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0041251,Jalon Daniels,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,courtside,33.5,True
-00-0041251,Jalon Daniels,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,pinnacle,32.5,True
-00-0041251,Jalon Daniels,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,prizepicks,29.5,True
-00-0041251,Jalon Daniels,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,dabble,36.5,True
+00-0041251,Jalon Daniels,player_rush_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,dabble,32.5,True
+00-0041251,Jalon Daniels,player_rush_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,sleeper,33.5,True
+00-0041251,Jalon Daniels,player_rush_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,thescorebet,34.5,True
+00-0041251,Jalon Daniels,player_rush_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,rebet,32.5,True
+00-0041251,Jalon Daniels,player_rush_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,prophetx,38.5,True
+00-0041251,Jalon Daniels,player_rush_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,pinnacle,32.5,True
+00-0041251,Jalon Daniels,player_rush_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,betway,35.5,True
+00-0041251,Jalon Daniels,player_rush_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,courtside,36.5,True
+00-0041251,Jalon Daniels,player_rush_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,hardrock,34.5,True
+00-0041251,Jalon Daniels,player_rush_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,sportzino,32.5,True
+00-0041251,Jalon Daniels,player_rush_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,novig,32.5,True
+00-0041251,Jalon Daniels,player_rush_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,bovada,34.5,True
+00-0041251,Jalon Daniels,player_rush_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,parlayplay,34.5,True
+00-0041251,Jalon Daniels,player_rush_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,pick6,35.5,True
+00-0041251,Jalon Daniels,player_rush_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,prizepicks,15.5,True
+00-0041251,Jalon Daniels,player_rush_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,courtside,38.5,True
+00-0041251,Jalon Daniels,player_rush_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,rebet,44.5,True
+00-0041251,Jalon Daniels,player_rush_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,novig,109.5,True
+00-0041251,Jalon Daniels,player_rush_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,sportzino,41.5,True
+00-0041251,Jalon Daniels,player_rush_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,prizepicks,33.5,True
+00-0041251,Jalon Daniels,player_rush_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,sleeper,43.5,True
+00-0041251,Jalon Daniels,player_rush_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,dabble,46.5,True
+00-0041251,Jalon Daniels,player_rush_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betway,46.5,True
+00-0041251,Jalon Daniels,player_rush_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,pick6,44.5,True
+00-0041251,Jalon Daniels,player_rush_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,parlayplay,45.5,True
+00-0041251,Jalon Daniels,player_rush_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,bovada,45.5,True
+00-0041251,Jalon Daniels,player_rush_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,46.5,True
+00-0041251,Jalon Daniels,player_rush_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,lowvig,46.5,True
 00-0041251,Jalon Daniels,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,betway,36.5,True
 00-0041251,Jalon Daniels,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,prophetx,37.5,True
 00-0041251,Jalon Daniels,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,sportzino,35.5,True
@@ -12,5 +36,9 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0041251,Jalon Daniels,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,rebet,32.5,True
 00-0041251,Jalon Daniels,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,novig,33.5,True
 00-0041251,Jalon Daniels,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,parlayplay,38.5,True
+00-0041251,Jalon Daniels,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,courtside,33.5,True
 00-0041251,Jalon Daniels,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,bovada,33.5,True
+00-0041251,Jalon Daniels,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,pinnacle,32.5,True
+00-0041251,Jalon Daniels,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,prizepicks,29.5,True
+00-0041251,Jalon Daniels,player_rush_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,dabble,36.5,True
 00-0041251,Jalon Daniels,player_rush_yds,157481,2026-08-28T23:30:00Z,Jacksonville Jaguars,Tampa Bay Buccaneers,underdog,15.5,True

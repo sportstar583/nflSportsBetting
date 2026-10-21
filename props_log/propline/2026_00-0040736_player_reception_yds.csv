@@ -1,10 +1,35 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040736,Mason Taylor,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,prizepicks,4.5,True
+00-0040736,Mason Taylor,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,prophetx,10.5,True
+00-0040736,Mason Taylor,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,parlayplay,14.5,True
+00-0040736,Mason Taylor,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,hardrock,13.5,True
+00-0040736,Mason Taylor,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,pick6,13.5,True
+00-0040736,Mason Taylor,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,dabble,14.5,True
+00-0040736,Mason Taylor,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,thescorebet,13.5,True
+00-0040736,Mason Taylor,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,betway,15.5,True
+00-0040736,Mason Taylor,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,courtside,13.5,True
+00-0040736,Mason Taylor,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,pinnacle,13.5,True
+00-0040736,Mason Taylor,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,rebet,13.5,True
+00-0040736,Mason Taylor,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,sportzino,14.5,True
+00-0040736,Mason Taylor,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,sleeper,13.5,True
+00-0040736,Mason Taylor,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,thescorebet,13.5,True
+00-0040736,Mason Taylor,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,pick6,13.5,True
+00-0040736,Mason Taylor,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,betway,14.5,True
+00-0040736,Mason Taylor,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,sportzino,13.5,True
+00-0040736,Mason Taylor,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,pinnacle,13.5,True
+00-0040736,Mason Taylor,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,sleeper,13.5,True
+00-0040736,Mason Taylor,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,prizepicks,13.5,True
+00-0040736,Mason Taylor,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,prophetx,49.5,True
+00-0040736,Mason Taylor,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,courtside,12.5,True
+00-0040736,Mason Taylor,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,parlayplay,14.5,True
+00-0040736,Mason Taylor,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,novig,12.5,True
+00-0040736,Mason Taylor,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,dabble,13.5,True
 00-0040736,Mason Taylor,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,polymarket_us,9.5,True
-00-0040736,Mason Taylor,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prizepicks,0.5,True
-00-0040736,Mason Taylor,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prophetx,16.5,True
 00-0040736,Mason Taylor,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,betway,19.5,True
 00-0040736,Mason Taylor,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,pinnacle,17.5,True
 00-0040736,Mason Taylor,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,hardrock,79.5,True
+00-0040736,Mason Taylor,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prizepicks,0.5,True
+00-0040736,Mason Taylor,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prophetx,16.5,True
 00-0040736,Mason Taylor,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,betr,18.5,True
 00-0040736,Mason Taylor,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,betway,21.5,True
 00-0040736,Mason Taylor,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,pinnacle,21.5,True

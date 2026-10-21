@@ -1,4 +1,6 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038728,Jared Wayne,player_reception_yds,32682,2026-10-11T17:00:00Z,Tennessee Titans,Houston Texans,prizepicks,2.5,True
+00-0038728,Jared Wayne,player_reception_yds,32682,2026-10-11T17:00:00Z,Tennessee Titans,Houston Texans,betrivers,2.5,True
 00-0038728,Jared Wayne,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,hardrock,64.5,True
 00-0038728,Jared Wayne,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,prophetx,13.5,True
 00-0038728,Jared Wayne,player_reception_yds,32654,2026-09-27T17:00:00Z,Indianapolis Colts,Houston Texans,parlayplay,14.5,True

@@ -1,27 +1,57 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0039901,Keon Coleman,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,betway,13.5,True
-00-0039901,Keon Coleman,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,hardrock,24.5,True
-00-0039901,Keon Coleman,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,parlayplay,13.5,True
+00-0039901,Keon Coleman,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,sportzino,40.5,True
+00-0039901,Keon Coleman,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,betway,39.5,True
+00-0039901,Keon Coleman,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,pick6,39.5,True
+00-0039901,Keon Coleman,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,rebet,39.5,True
+00-0039901,Keon Coleman,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,parlayplay,33.5,True
+00-0039901,Keon Coleman,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,sleeper,37.5,True
+00-0039901,Keon Coleman,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,pinnacle,39.5,True
+00-0039901,Keon Coleman,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,novig,36.5,True
+00-0039901,Keon Coleman,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,prophetx,35.5,True
+00-0039901,Keon Coleman,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,prizepicks,14.5,True
+00-0039901,Keon Coleman,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,dabble,34.5,True
+00-0039901,Keon Coleman,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,thescorebet,39.5,True
+00-0039901,Keon Coleman,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,bovada,39.5,True
+00-0039901,Keon Coleman,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,lowvig,34.5,True
+00-0039901,Keon Coleman,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,betonlineag,34.5,True
+00-0039901,Keon Coleman,player_reception_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,rebet,42.5,True
+00-0039901,Keon Coleman,player_reception_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,pick6,39.5,True
+00-0039901,Keon Coleman,player_reception_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,dabble,43.5,True
+00-0039901,Keon Coleman,player_reception_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,sleeper,41.5,True
+00-0039901,Keon Coleman,player_reception_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,courtside,38.5,True
+00-0039901,Keon Coleman,player_reception_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,prophetx,41.5,True
+00-0039901,Keon Coleman,player_reception_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,parlayplay,39.5,True
+00-0039901,Keon Coleman,player_reception_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,sportzino,45.5,True
+00-0039901,Keon Coleman,player_reception_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,thescorebet,39.5,True
+00-0039901,Keon Coleman,player_reception_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,novig,42.5,True
+00-0039901,Keon Coleman,player_reception_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betway,38.5,True
+00-0039901,Keon Coleman,player_reception_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,pinnacle,40.5,True
+00-0039901,Keon Coleman,player_reception_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,lowvig,42.5,True
+00-0039901,Keon Coleman,player_reception_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,bovada,37.5,True
+00-0039901,Keon Coleman,player_reception_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betonlineag,42.5,True
 00-0039901,Keon Coleman,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,pinnacle,12.5,True
-00-0039901,Keon Coleman,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,dabble,13.5,True
 00-0039901,Keon Coleman,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,pick6,13.5,True
 00-0039901,Keon Coleman,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,rebet,13.5,True
-00-0039901,Keon Coleman,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,bovada,13.5,True
 00-0039901,Keon Coleman,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,sportzino,13.5,True
 00-0039901,Keon Coleman,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,sleeper,12.5,True
 00-0039901,Keon Coleman,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,novig,13.5,True
-00-0039901,Keon Coleman,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,sleeper,14.5,True
-00-0039901,Keon Coleman,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,novig,14.5,True
-00-0039901,Keon Coleman,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,dabble,13.5,True
+00-0039901,Keon Coleman,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,betway,13.5,True
+00-0039901,Keon Coleman,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,dabble,13.5,True
+00-0039901,Keon Coleman,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,bovada,13.5,True
+00-0039901,Keon Coleman,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,hardrock,24.5,True
+00-0039901,Keon Coleman,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,parlayplay,13.5,True
 00-0039901,Keon Coleman,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,courtside,14.5,True
+00-0039901,Keon Coleman,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,dabble,13.5,True
+00-0039901,Keon Coleman,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,novig,14.5,True
+00-0039901,Keon Coleman,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,sleeper,14.5,True
 00-0039901,Keon Coleman,player_reception_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,betway,13.5,True
 00-0039901,Keon Coleman,player_reception_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,pinnacle,14.5,True
 00-0039901,Keon Coleman,player_reception_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,prophetx,14.5,True
 00-0039901,Keon Coleman,player_reception_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,betonlineag,13.5,True
 00-0039901,Keon Coleman,player_reception_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,lowvig,13.5,True
-00-0039901,Keon Coleman,player_reception_yds,25073,2026-09-13T17:00:00Z,Houston Texans,Buffalo Bills,betway,10.5,True
-00-0039901,Keon Coleman,player_reception_yds,25073,2026-09-13T17:00:00Z,Houston Texans,Buffalo Bills,hardrock,79.5,True
-00-0039901,Keon Coleman,player_reception_yds,25073,2026-09-13T17:00:00Z,Houston Texans,Buffalo Bills,prophetx,11.5,True
 00-0039901,Keon Coleman,player_reception_yds,25073,2026-09-13T17:00:00Z,Houston Texans,Buffalo Bills,pinnacle,11.5,True
-00-0039901,Keon Coleman,player_reception_yds,59766,2026-08-15T20:00:00Z,Buffalo Bills,Carolina Panthers,betr,15.5,True
+00-0039901,Keon Coleman,player_reception_yds,25073,2026-09-13T17:00:00Z,Houston Texans,Buffalo Bills,prophetx,11.5,True
+00-0039901,Keon Coleman,player_reception_yds,25073,2026-09-13T17:00:00Z,Houston Texans,Buffalo Bills,hardrock,79.5,True
+00-0039901,Keon Coleman,player_reception_yds,25073,2026-09-13T17:00:00Z,Houston Texans,Buffalo Bills,betway,10.5,True
 00-0039901,Keon Coleman,player_reception_yds,59766,2026-08-15T20:00:00Z,Buffalo Bills,Carolina Panthers,underdog,16.5,True
+00-0039901,Keon Coleman,player_reception_yds,59766,2026-08-15T20:00:00Z,Buffalo Bills,Carolina Panthers,betr,15.5,True

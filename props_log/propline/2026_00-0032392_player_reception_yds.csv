@@ -1,7 +1,38 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0032392,Austin Hooper,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,prizepicks,0.5,True
+00-0032392,Austin Hooper,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,parlayplay,3.5,True
+00-0032392,Austin Hooper,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,dabble,3.5,True
+00-0032392,Austin Hooper,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,prizepicks,3.5,True
+00-0032392,Austin Hooper,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,sportzino,3.5,True
+00-0032392,Austin Hooper,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,fliff,4.5,True
+00-0032392,Austin Hooper,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,novig,29.5,True
+00-0032392,Austin Hooper,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,parlayplay,6.5,True
+00-0032392,Austin Hooper,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,dabble,5.5,True
+00-0032392,Austin Hooper,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,prophetx,10.5,True
+00-0032392,Austin Hooper,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,sportzino,5.5,True
+00-0032392,Austin Hooper,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,pick6,6.5,True
+00-0032392,Austin Hooper,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,sleeper,6.5,True
+00-0032392,Austin Hooper,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,pinnacle,7.5,True
+00-0032392,Austin Hooper,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,rebet,6.5,True
+00-0032392,Austin Hooper,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,prizepicks,6.5,True
+00-0032392,Austin Hooper,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,fliff,6.5,True
+00-0032392,Austin Hooper,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,hardrock,6.5,True
+00-0032392,Austin Hooper,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,pick6,6.5,True
+00-0032392,Austin Hooper,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,rebet,6.5,True
+00-0032392,Austin Hooper,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,courtside,7.5,True
+00-0032392,Austin Hooper,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,sportzino,7.5,True
+00-0032392,Austin Hooper,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,hardrock,6.5,True
+00-0032392,Austin Hooper,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,parlayplay,12.5,True
+00-0032392,Austin Hooper,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betway,9.5,True
+00-0032392,Austin Hooper,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,prophetx,8.5,True
+00-0032392,Austin Hooper,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,dabble,7.5,True
+00-0032392,Austin Hooper,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,novig,4.5,True
+00-0032392,Austin Hooper,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,prizepicks,4.5,True
+00-0032392,Austin Hooper,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,sleeper,6.5,True
+00-0032392,Austin Hooper,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,6.5,True
+00-0032392,Austin Hooper,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,lowvig,6.5,True
 00-0032392,Austin Hooper,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,pinnacle,7.5,True
 00-0032392,Austin Hooper,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,hardrock,24.5,True
 00-0032392,Austin Hooper,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,parlayplay,6.5,True
 00-0032392,Austin Hooper,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,novig,6.5,True
 00-0032392,Austin Hooper,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,prophetx,6.5,True
+00-0032392,Austin Hooper,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,prizepicks,0.5,True

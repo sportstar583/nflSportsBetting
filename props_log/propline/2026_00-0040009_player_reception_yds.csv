@@ -1,0 +1,14 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040009,Savion Williams,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,fliff,6.5,True
+00-0040009,Savion Williams,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,novig,6.5,True
+00-0040009,Savion Williams,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,prizepicks,4.5,True
+00-0040009,Savion Williams,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,hardrock,6.5,True
+00-0040009,Savion Williams,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,sportzino,3.5,True
+00-0040009,Savion Williams,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,courtside,1.5,True
+00-0040009,Savion Williams,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,sleeper,6.5,True
+00-0040009,Savion Williams,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,dabble,3.5,True
+00-0040009,Savion Williams,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,parlayplay,6.5,True
+00-0040009,Savion Williams,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,prophetx,2.5,True
+00-0040009,Savion Williams,player_reception_yds,147649,2026-08-22T01:00:00Z,Denver Broncos,Green Bay Packers,underdog,22.5,True
+00-0040009,Savion Williams,player_reception_yds,59776,2026-08-14T02:00:00Z,Pittsburgh Steelers,Green Bay Packers,betr,20.5,True
+00-0040009,Savion Williams,player_reception_yds,59776,2026-08-14T02:00:00Z,Pittsburgh Steelers,Green Bay Packers,underdog,20.5,True

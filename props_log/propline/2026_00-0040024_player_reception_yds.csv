@@ -1,4 +1,23 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040024,Darius Cooper,player_reception_yds,46675,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,dabble,10.5,True
+00-0040024,Darius Cooper,player_reception_yds,46675,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,sportzino,10.5,True
+00-0040024,Darius Cooper,player_reception_yds,46675,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,parlayplay,10.5,True
+00-0040024,Darius Cooper,player_reception_yds,46675,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,prizepicks,10.5,True
+00-0040024,Darius Cooper,player_reception_yds,46675,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,betway,9.5,True
+00-0040024,Darius Cooper,player_reception_yds,46675,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,fliff,10.5,True
+00-0040024,Darius Cooper,player_reception_yds,46675,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,polymarket_us,39.5,True
+00-0040024,Darius Cooper,player_reception_yds,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betway,22.5,True
+00-0040024,Darius Cooper,player_reception_yds,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,prophetx,23.5,True
+00-0040024,Darius Cooper,player_reception_yds,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,sleeper,22.5,True
+00-0040024,Darius Cooper,player_reception_yds,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,pick6,23.5,True
+00-0040024,Darius Cooper,player_reception_yds,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,prizepicks,19.5,True
+00-0040024,Darius Cooper,player_reception_yds,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,sportzino,22.5,True
+00-0040024,Darius Cooper,player_reception_yds,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,dabble,22.5,True
+00-0040024,Darius Cooper,player_reception_yds,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,novig,23.5,True
+00-0040024,Darius Cooper,player_reception_yds,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,courtside,24.5,True
+00-0040024,Darius Cooper,player_reception_yds,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,parlayplay,21.5,True
+00-0040024,Darius Cooper,player_reception_yds,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,rebet,20.5,True
+00-0040024,Darius Cooper,player_reception_yds,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,thescorebet,24.5,True
 00-0040024,Darius Cooper,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,parlayplay,22.5,True
 00-0040024,Darius Cooper,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,pick6,20.5,True
 00-0040024,Darius Cooper,player_reception_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,dabble,15.5,True

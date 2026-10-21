@@ -1,4 +1,30 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0041042,Malachi Fields,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,prizepicks,4.5,True
+00-0041042,Malachi Fields,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,dabble,22.5,True
+00-0041042,Malachi Fields,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,rebet,22.5,True
+00-0041042,Malachi Fields,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,prophetx,22.5,True
+00-0041042,Malachi Fields,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,parlayplay,25.5,True
+00-0041042,Malachi Fields,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,hardrock,37.5,True
+00-0041042,Malachi Fields,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,pinnacle,22.5,True
+00-0041042,Malachi Fields,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,novig,22.5,True
+00-0041042,Malachi Fields,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,thescorebet,25.5,True
+00-0041042,Malachi Fields,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,sleeper,22.5,True
+00-0041042,Malachi Fields,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,courtside,24.5,True
+00-0041042,Malachi Fields,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,pick6,23.5,True
+00-0041042,Malachi Fields,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,sportzino,26.5,True
+00-0041042,Malachi Fields,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betway,26.5,True
+00-0041042,Malachi Fields,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,parlayplay,26.5,True
+00-0041042,Malachi Fields,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,rebet,25.5,True
+00-0041042,Malachi Fields,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,sportzino,25.5,True
+00-0041042,Malachi Fields,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,thescorebet,22.5,True
+00-0041042,Malachi Fields,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,pinnacle,25.5,True
+00-0041042,Malachi Fields,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,prizepicks,22.5,True
+00-0041042,Malachi Fields,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,novig,26.5,True
+00-0041042,Malachi Fields,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,pick6,25.5,True
+00-0041042,Malachi Fields,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,prophetx,23.5,True
+00-0041042,Malachi Fields,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,dabble,25.5,True
+00-0041042,Malachi Fields,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,sleeper,25.5,True
+00-0041042,Malachi Fields,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,betway,24.5,True
 00-0041042,Malachi Fields,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,sportzino,26.5,True
 00-0041042,Malachi Fields,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,dabble,26.5,True
 00-0041042,Malachi Fields,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,parlayplay,22.5,True
@@ -26,12 +52,12 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0041042,Malachi Fields,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,pinnacle,26.5,True
 00-0041042,Malachi Fields,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betonlineag,26.5,True
 00-0041042,Malachi Fields,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,lowvig,26.5,True
-00-0041042,Malachi Fields,player_reception_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,lowvig,24.5,True
-00-0041042,Malachi Fields,player_reception_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betonlineag,24.5,True
 00-0041042,Malachi Fields,player_reception_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betmgm,22.5,True
 00-0041042,Malachi Fields,player_reception_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betway,26.5,True
 00-0041042,Malachi Fields,player_reception_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betr,20.5,True
 00-0041042,Malachi Fields,player_reception_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,prophetx,23.5,True
 00-0041042,Malachi Fields,player_reception_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,hardrock,99.5,True
 00-0041042,Malachi Fields,player_reception_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,prizepicks,0.5,True
+00-0041042,Malachi Fields,player_reception_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,lowvig,24.5,True
+00-0041042,Malachi Fields,player_reception_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betonlineag,24.5,True
 00-0041042,Malachi Fields,player_reception_yds,147686,2026-08-22T20:00:00Z,Miami Dolphins,New York Giants,underdog,16.5,True

@@ -1,5 +1,31 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039851,Drake Maye,player_rush_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,novig,26.5,True
+00-0039851,Drake Maye,player_rush_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,courtside,28.5,True
+00-0039851,Drake Maye,player_rush_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,pinnacle,27.5,True
+00-0039851,Drake Maye,player_rush_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,rebet,26.5,True
+00-0039851,Drake Maye,player_rush_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,thescorebet,24.5,True
+00-0039851,Drake Maye,player_rush_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,prophetx,30.5,True
+00-0039851,Drake Maye,player_rush_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,betway,25.5,True
+00-0039851,Drake Maye,player_rush_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,hardrock,44.5,True
+00-0039851,Drake Maye,player_rush_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,bovada,25.5,True
+00-0039851,Drake Maye,player_rush_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,parlayplay,26.5,True
+00-0039851,Drake Maye,player_rush_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,dabble,27.5,True
+00-0039851,Drake Maye,player_rush_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,sportzino,26.5,True
+00-0039851,Drake Maye,player_rush_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,pick6,27.5,True
+00-0039851,Drake Maye,player_rush_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,prizepicks,14.5,True
+00-0039851,Drake Maye,player_rush_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,sleeper,27.5,True
+00-0039851,Drake Maye,player_rush_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,bovada,32.5,True
+00-0039851,Drake Maye,player_rush_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,prophetx,32.5,True
+00-0039851,Drake Maye,player_rush_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,betway,31.5,True
+00-0039851,Drake Maye,player_rush_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,novig,31.5,True
+00-0039851,Drake Maye,player_rush_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,dabble,31.5,True
+00-0039851,Drake Maye,player_rush_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,sleeper,31.5,True
+00-0039851,Drake Maye,player_rush_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,sportzino,33.5,True
+00-0039851,Drake Maye,player_rush_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,parlayplay,32.5,True
+00-0039851,Drake Maye,player_rush_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,rebet,31.5,True
+00-0039851,Drake Maye,player_rush_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,pick6,33.5,True
 00-0039851,Drake Maye,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,novig,26.5,True
+00-0039851,Drake Maye,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,hardrock,24.5,True
 00-0039851,Drake Maye,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,betway,26.5,True
 00-0039851,Drake Maye,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,dabble,26.5,True
 00-0039851,Drake Maye,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,pinnacle,27.5,True
@@ -11,21 +37,20 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0039851,Drake Maye,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,courtside,27.5,True
 00-0039851,Drake Maye,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,sleeper,26.5,True
 00-0039851,Drake Maye,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,bovada,28.5,True
-00-0039851,Drake Maye,player_rush_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,hardrock,24.5,True
-00-0039851,Drake Maye,player_rush_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,sleeper,26.5,True
-00-0039851,Drake Maye,player_rush_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,hardrock,79.5,True
-00-0039851,Drake Maye,player_rush_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,pinnacle,26.5,True
-00-0039851,Drake Maye,player_rush_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,prophetx,89.5,True
 00-0039851,Drake Maye,player_rush_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,dabble,24.5,True
+00-0039851,Drake Maye,player_rush_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,pinnacle,26.5,True
+00-0039851,Drake Maye,player_rush_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,bovada,26.5,True
+00-0039851,Drake Maye,player_rush_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,hardrock,79.5,True
+00-0039851,Drake Maye,player_rush_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,sleeper,26.5,True
 00-0039851,Drake Maye,player_rush_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,betway,25.5,True
 00-0039851,Drake Maye,player_rush_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,novig,25.5,True
-00-0039851,Drake Maye,player_rush_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,bovada,26.5,True
+00-0039851,Drake Maye,player_rush_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,prophetx,89.5,True
+00-0039851,Drake Maye,player_rush_yds,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,prophetx,22.5,True
+00-0039851,Drake Maye,player_rush_yds,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,hardrock,79.5,True
 00-0039851,Drake Maye,player_rush_yds,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,pinnacle,27.5,True
 00-0039851,Drake Maye,player_rush_yds,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,betway,26.5,True
-00-0039851,Drake Maye,player_rush_yds,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,hardrock,79.5,True
-00-0039851,Drake Maye,player_rush_yds,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,prophetx,22.5,True
 00-0039851,Drake Maye,player_rush_yds,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,bovada,26.5,True
-00-0039851,Drake Maye,player_rush_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,bovada,26.5,True
 00-0039851,Drake Maye,player_rush_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,prophetx,26.5,True
-00-0039851,Drake Maye,player_rush_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,betr,24.5,True
 00-0039851,Drake Maye,player_rush_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,pinnacle,25.5,True
+00-0039851,Drake Maye,player_rush_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,betr,24.5,True
+00-0039851,Drake Maye,player_rush_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,bovada,26.5,True

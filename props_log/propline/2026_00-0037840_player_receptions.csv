@@ -1,4 +1,31 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0037840,Kyren Williams,player_receptions,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,fanduel,3.5,True
+00-0037840,Kyren Williams,player_receptions,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,rebet,2.5,True
+00-0037840,Kyren Williams,player_receptions,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,betmgm,2.5,True
+00-0037840,Kyren Williams,player_receptions,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,parlayplay,3.5,True
+00-0037840,Kyren Williams,player_receptions,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,sleeper,2.5,True
+00-0037840,Kyren Williams,player_receptions,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,sportzino,3.5,True
+00-0037840,Kyren Williams,player_receptions,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,dabble,3.5,True
+00-0037840,Kyren Williams,player_receptions,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,hardrock,6.5,True
+00-0037840,Kyren Williams,player_receptions,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,prophetx,2.5,True
+00-0037840,Kyren Williams,player_receptions,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,pinnacle,3.5,True
+00-0037840,Kyren Williams,player_receptions,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,prizepicks,1.5,True
+00-0037840,Kyren Williams,player_receptions,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,thescorebet,2.5,True
+00-0037840,Kyren Williams,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,novig,7.5,True
+00-0037840,Kyren Williams,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betonlineag,3.5,True
+00-0037840,Kyren Williams,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,lowvig,3.5,True
+00-0037840,Kyren Williams,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,3.5,True
+00-0037840,Kyren Williams,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,prophetx,3.5,True
+00-0037840,Kyren Williams,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,hardrock,1.5,True
+00-0037840,Kyren Williams,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betmgm,2.5,True
+00-0037840,Kyren Williams,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,sportzino,3.5,True
+00-0037840,Kyren Williams,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,thescorebet,2.5,True
+00-0037840,Kyren Williams,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,rebet,3.5,True
+00-0037840,Kyren Williams,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,parlayplay,2.5,True
+00-0037840,Kyren Williams,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betway,2.5,True
+00-0037840,Kyren Williams,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,pinnacle,3.5,True
+00-0037840,Kyren Williams,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,dabble,3.5,True
+00-0037840,Kyren Williams,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,sleeper,3.5,True
 00-0037840,Kyren Williams,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,dabble,2.5,True
 00-0037840,Kyren Williams,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,sportzino,2.5,True
 00-0037840,Kyren Williams,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,prophetx,2.5,True
@@ -8,22 +35,22 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0037840,Kyren Williams,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,betmgm,2.5,True
 00-0037840,Kyren Williams,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,rebet,2.5,True
 00-0037840,Kyren Williams,player_receptions,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,pinnacle,2.5,True
-00-0037840,Kyren Williams,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,hardrock,6.5,True
-00-0037840,Kyren Williams,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,2.5,True
 00-0037840,Kyren Williams,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,2.5,True
 00-0037840,Kyren Williams,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,1.5,True
 00-0037840,Kyren Williams,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,sleeper,2.5,True
 00-0037840,Kyren Williams,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,prophetx,2.5,True
 00-0037840,Kyren Williams,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betway,1.5,True
+00-0037840,Kyren Williams,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,2.5,True
+00-0037840,Kyren Williams,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,hardrock,6.5,True
 00-0037840,Kyren Williams,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,lowvig,2.5,True
 00-0037840,Kyren Williams,player_receptions,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betonlineag,2.5,True
-00-0037840,Kyren Williams,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betmgm,2.5,True
-00-0037840,Kyren Williams,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,fanduel,2.5,True
+00-0037840,Kyren Williams,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,pinnacle,2.5,True
 00-0037840,Kyren Williams,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,prophetx,2.5,True
 00-0037840,Kyren Williams,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betway,2.5,True
-00-0037840,Kyren Williams,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,pinnacle,2.5,True
 00-0037840,Kyren Williams,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,lowvig,2.5,True
 00-0037840,Kyren Williams,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betonlineag,2.5,True
+00-0037840,Kyren Williams,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betmgm,2.5,True
+00-0037840,Kyren Williams,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,fanduel,2.5,True
 00-0037840,Kyren Williams,player_receptions,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,pinnacle,1.5,True
 00-0037840,Kyren Williams,player_receptions,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,prophetx,1.5,True
 00-0037840,Kyren Williams,player_receptions,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,fanduel,1.5,True

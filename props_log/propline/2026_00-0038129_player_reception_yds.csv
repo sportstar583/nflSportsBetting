@@ -1,30 +1,58 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0038129,Cade Otton,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,prizepicks,24.5,True
+00-0038129,Cade Otton,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,courtside,27.5,True
+00-0038129,Cade Otton,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,dabble,27.5,True
+00-0038129,Cade Otton,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,rebet,27.5,True
+00-0038129,Cade Otton,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,prophetx,49.5,True
+00-0038129,Cade Otton,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,hardrock,39.5,True
+00-0038129,Cade Otton,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,betway,28.5,True
+00-0038129,Cade Otton,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,sportzino,27.5,True
+00-0038129,Cade Otton,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,pinnacle,27.5,True
+00-0038129,Cade Otton,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,sleeper,27.5,True
+00-0038129,Cade Otton,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,novig,26.5,True
+00-0038129,Cade Otton,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,pick6,26.5,True
+00-0038129,Cade Otton,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,thescorebet,24.5,True
+00-0038129,Cade Otton,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,parlayplay,26.5,True
+00-0038129,Cade Otton,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,prizepicks,9.5,True
+00-0038129,Cade Otton,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,lowvig,29.5,True
+00-0038129,Cade Otton,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,29.5,True
+00-0038129,Cade Otton,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,bovada,30.5,True
+00-0038129,Cade Otton,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,prophetx,99.5,True
+00-0038129,Cade Otton,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,rebet,31.5,True
+00-0038129,Cade Otton,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,prizepicks,27.5,True
+00-0038129,Cade Otton,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,novig,31.5,True
+00-0038129,Cade Otton,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,sleeper,30.5,True
+00-0038129,Cade Otton,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,dabble,28.5,True
+00-0038129,Cade Otton,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,parlayplay,29.5,True
+00-0038129,Cade Otton,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betway,29.5,True
+00-0038129,Cade Otton,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,pick6,30.5,True
+00-0038129,Cade Otton,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,sportzino,28.5,True
+00-0038129,Cade Otton,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,pinnacle,29.5,True
+00-0038129,Cade Otton,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,sportzino,27.5,True
 00-0038129,Cade Otton,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,novig,25.5,True
+00-0038129,Cade Otton,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,prophetx,25.5,True
+00-0038129,Cade Otton,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,prizepicks,24.5,True
+00-0038129,Cade Otton,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,betway,27.5,True
+00-0038129,Cade Otton,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,pick6,25.5,True
 00-0038129,Cade Otton,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,rebet,24.5,True
 00-0038129,Cade Otton,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,dabble,25.5,True
 00-0038129,Cade Otton,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,pinnacle,24.5,True
 00-0038129,Cade Otton,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,parlayplay,25.5,True
 00-0038129,Cade Otton,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,sleeper,25.5,True
 00-0038129,Cade Otton,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,hardrock,24.5,True
-00-0038129,Cade Otton,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,prophetx,25.5,True
-00-0038129,Cade Otton,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,betway,27.5,True
-00-0038129,Cade Otton,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,pick6,25.5,True
-00-0038129,Cade Otton,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,sportzino,27.5,True
-00-0038129,Cade Otton,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,parlayplay,26.5,True
-00-0038129,Cade Otton,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,prizepicks,6.5,True
-00-0038129,Cade Otton,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,courtside,26.5,True
 00-0038129,Cade Otton,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,dabble,24.5,True
 00-0038129,Cade Otton,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,betway,25.5,True
 00-0038129,Cade Otton,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,sleeper,27.5,True
+00-0038129,Cade Otton,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,prizepicks,6.5,True
 00-0038129,Cade Otton,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,novig,26.5,True
+00-0038129,Cade Otton,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,parlayplay,26.5,True
+00-0038129,Cade Otton,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,courtside,26.5,True
 00-0038129,Cade Otton,player_reception_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,pinnacle,27.5,True
 00-0038129,Cade Otton,player_reception_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,betway,27.5,True
 00-0038129,Cade Otton,player_reception_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,prizepicks,7.5,True
-00-0038129,Cade Otton,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,prizepicks,6.5,True
-00-0038129,Cade Otton,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betr,28.5,True
-00-0038129,Cade Otton,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,bovada,33.5,True
-00-0038129,Cade Otton,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betway,32.5,True
 00-0038129,Cade Otton,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,pinnacle,31.5,True
 00-0038129,Cade Otton,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,prophetx,31.5,True
+00-0038129,Cade Otton,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,prizepicks,6.5,True
+00-0038129,Cade Otton,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betr,28.5,True
+00-0038129,Cade Otton,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betway,32.5,True
+00-0038129,Cade Otton,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,bovada,33.5,True
 00-0038129,Cade Otton,player_reception_yds,147834,2026-08-22T23:30:00Z,Tampa Bay Buccaneers,Kansas City Chiefs,underdog,14.5,True

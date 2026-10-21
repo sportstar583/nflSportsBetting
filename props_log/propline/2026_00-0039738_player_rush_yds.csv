@@ -1,7 +1,33 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0039738,Blake Corum,player_rush_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,betrivers,41.5,True
-00-0039738,Blake Corum,player_rush_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,courtside,41.5,True
-00-0039738,Blake Corum,player_rush_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,hardrock,39.5,True
+00-0039738,Blake Corum,player_rush_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,pick6,44.5,True
+00-0039738,Blake Corum,player_rush_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,betway,42.5,True
+00-0039738,Blake Corum,player_rush_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,parlayplay,40.5,True
+00-0039738,Blake Corum,player_rush_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,betrivers,43.5,True
+00-0039738,Blake Corum,player_rush_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,prophetx,9.5,True
+00-0039738,Blake Corum,player_rush_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,sportzino,43.5,True
+00-0039738,Blake Corum,player_rush_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,novig,43.5,True
+00-0039738,Blake Corum,player_rush_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,rebet,44.5,True
+00-0039738,Blake Corum,player_rush_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,bovada,43.5,True
+00-0039738,Blake Corum,player_rush_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,thescorebet,44.5,True
+00-0039738,Blake Corum,player_rush_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,sleeper,44.5,True
+00-0039738,Blake Corum,player_rush_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,dabble,43.5,True
+00-0039738,Blake Corum,player_rush_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,hardrock,19.5,True
+00-0039738,Blake Corum,player_rush_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,prizepicks,19.5,True
+00-0039738,Blake Corum,player_rush_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,pinnacle,44.5,True
+00-0039738,Blake Corum,player_rush_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,prizepicks,29.5,True
+00-0039738,Blake Corum,player_rush_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,bovada,32.5,True
+00-0039738,Blake Corum,player_rush_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,courtside,36.5,True
+00-0039738,Blake Corum,player_rush_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,parlayplay,34.5,True
+00-0039738,Blake Corum,player_rush_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,sportzino,33.5,True
+00-0039738,Blake Corum,player_rush_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,thescorebet,29.5,True
+00-0039738,Blake Corum,player_rush_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,novig,33.5,True
+00-0039738,Blake Corum,player_rush_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,rebet,34.5,True
+00-0039738,Blake Corum,player_rush_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,pick6,32.5,True
+00-0039738,Blake Corum,player_rush_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betway,38.5,True
+00-0039738,Blake Corum,player_rush_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,prophetx,74.5,True
+00-0039738,Blake Corum,player_rush_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,pinnacle,33.5,True
+00-0039738,Blake Corum,player_rush_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,sleeper,33.5,True
+00-0039738,Blake Corum,player_rush_yds,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,dabble,34.5,True
 00-0039738,Blake Corum,player_rush_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,novig,38.5,True
 00-0039738,Blake Corum,player_rush_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,prophetx,43.5,True
 00-0039738,Blake Corum,player_rush_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,betway,42.5,True
@@ -13,23 +39,26 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0039738,Blake Corum,player_rush_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,pinnacle,39.5,True
 00-0039738,Blake Corum,player_rush_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,parlayplay,41.5,True
 00-0039738,Blake Corum,player_rush_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,pick6,38.5,True
+00-0039738,Blake Corum,player_rush_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,betrivers,41.5,True
+00-0039738,Blake Corum,player_rush_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,courtside,41.5,True
+00-0039738,Blake Corum,player_rush_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,hardrock,39.5,True
 00-0039738,Blake Corum,player_rush_yds,32671,2026-10-04T17:00:00Z,Philadelphia Eagles,Los Angeles Rams,bovada,38.5,True
-00-0039738,Blake Corum,player_rush_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,novig,51.5,True
-00-0039738,Blake Corum,player_rush_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,49.5,True
-00-0039738,Blake Corum,player_rush_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,dabble,46.5,True
-00-0039738,Blake Corum,player_rush_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,parlayplay,48.5,True
-00-0039738,Blake Corum,player_rush_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,prizepicks,18.5,True
 00-0039738,Blake Corum,player_rush_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betway,45.5,True
 00-0039738,Blake Corum,player_rush_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,sleeper,50.5,True
 00-0039738,Blake Corum,player_rush_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,prophetx,51.5,True
+00-0039738,Blake Corum,player_rush_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,novig,51.5,True
+00-0039738,Blake Corum,player_rush_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,49.5,True
+00-0039738,Blake Corum,player_rush_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,dabble,46.5,True
+00-0039738,Blake Corum,player_rush_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,prizepicks,18.5,True
+00-0039738,Blake Corum,player_rush_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,parlayplay,48.5,True
 00-0039738,Blake Corum,player_rush_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,bovada,47.5,True
-00-0039738,Blake Corum,player_rush_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betway,48.5,True
-00-0039738,Blake Corum,player_rush_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,pinnacle,49.5,True
-00-0039738,Blake Corum,player_rush_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,prophetx,44.5,True
 00-0039738,Blake Corum,player_rush_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,bovada,47.5,True
+00-0039738,Blake Corum,player_rush_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,prophetx,44.5,True
+00-0039738,Blake Corum,player_rush_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,pinnacle,49.5,True
 00-0039738,Blake Corum,player_rush_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,prizepicks,18.5,True
+00-0039738,Blake Corum,player_rush_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betway,48.5,True
+00-0039738,Blake Corum,player_rush_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,prizepicks,12.5,True
+00-0039738,Blake Corum,player_rush_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,pinnacle,43.5,True
 00-0039738,Blake Corum,player_rush_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,prophetx,42.5,True
 00-0039738,Blake Corum,player_rush_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,betr,37.5,True
 00-0039738,Blake Corum,player_rush_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,bovada,41.5,True
-00-0039738,Blake Corum,player_rush_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,prizepicks,12.5,True
-00-0039738,Blake Corum,player_rush_yds,23211,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,pinnacle,43.5,True

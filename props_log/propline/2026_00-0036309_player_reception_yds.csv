@@ -1,4 +1,30 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036309,Darnell Mooney,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,prizepicks,4.5,True
+00-0036309,Darnell Mooney,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,rebet,18.5,True
+00-0036309,Darnell Mooney,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,dabble,21.5,True
+00-0036309,Darnell Mooney,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,hardrock,40.5,True
+00-0036309,Darnell Mooney,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,courtside,18.5,True
+00-0036309,Darnell Mooney,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,pinnacle,21.5,True
+00-0036309,Darnell Mooney,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,sleeper,20.5,True
+00-0036309,Darnell Mooney,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,pick6,21.5,True
+00-0036309,Darnell Mooney,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,sportzino,21.5,True
+00-0036309,Darnell Mooney,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,thescorebet,19.5,True
+00-0036309,Darnell Mooney,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betway,21.5,True
+00-0036309,Darnell Mooney,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,novig,21.5,True
+00-0036309,Darnell Mooney,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,prophetx,18.5,True
+00-0036309,Darnell Mooney,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,parlayplay,20.5,True
+00-0036309,Darnell Mooney,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,parlayplay,18.5,True
+00-0036309,Darnell Mooney,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,rebet,17.5,True
+00-0036309,Darnell Mooney,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,sportzino,15.5,True
+00-0036309,Darnell Mooney,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,prophetx,17.5,True
+00-0036309,Darnell Mooney,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,pinnacle,17.5,True
+00-0036309,Darnell Mooney,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,betrivers,17.5,True
+00-0036309,Darnell Mooney,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,prizepicks,14.5,True
+00-0036309,Darnell Mooney,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,novig,17.5,True
+00-0036309,Darnell Mooney,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,pick6,18.5,True
+00-0036309,Darnell Mooney,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,dabble,18.5,True
+00-0036309,Darnell Mooney,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,sleeper,17.5,True
+00-0036309,Darnell Mooney,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,betway,18.5,True
 00-0036309,Darnell Mooney,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,parlayplay,21.5,True
 00-0036309,Darnell Mooney,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,sportzino,21.5,True
 00-0036309,Darnell Mooney,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,novig,19.5,True
@@ -11,7 +37,6 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0036309,Darnell Mooney,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,courtside,21.5,True
 00-0036309,Darnell Mooney,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,pick6,20.5,True
 00-0036309,Darnell Mooney,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,rebet,20.5,True
-00-0036309,Darnell Mooney,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,parlayplay,16.5,True
 00-0036309,Darnell Mooney,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,prizepicks,14.5,True
 00-0036309,Darnell Mooney,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,hardrock,79.5,True
 00-0036309,Darnell Mooney,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,prophetx,17.5,True
@@ -21,6 +46,7 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0036309,Darnell Mooney,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,pinnacle,16.5,True
 00-0036309,Darnell Mooney,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,dabble,13.5,True
 00-0036309,Darnell Mooney,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,sleeper,17.5,True
+00-0036309,Darnell Mooney,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,parlayplay,16.5,True
 00-0036309,Darnell Mooney,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,betrivers,16.5,True
 00-0036309,Darnell Mooney,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,prophetx,11.5,True
 00-0036309,Darnell Mooney,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,pinnacle,19.5,True

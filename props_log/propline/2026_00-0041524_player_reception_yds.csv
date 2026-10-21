@@ -1,4 +1,18 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0041524,Will Kacmarek,player_reception_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,rebet,6.5,True
+00-0041524,Will Kacmarek,player_reception_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,novig,6.5,True
+00-0041524,Will Kacmarek,player_reception_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,courtside,7.5,True
+00-0041524,Will Kacmarek,player_reception_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,prophetx,39.5,True
+00-0041524,Will Kacmarek,player_reception_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,pick6,6.5,True
+00-0041524,Will Kacmarek,player_reception_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,prizepicks,4.5,True
+00-0041524,Will Kacmarek,player_reception_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,sportzino,6.5,True
+00-0041524,Will Kacmarek,player_reception_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,hardrock,6.5,True
+00-0041524,Will Kacmarek,player_reception_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,parlayplay,5.5,True
+00-0041524,Will Kacmarek,player_reception_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,fanatics,10.5,True
+00-0041524,Will Kacmarek,player_reception_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,fliff,6.5,True
+00-0041524,Will Kacmarek,player_reception_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,sleeper,6.5,True
+00-0041524,Will Kacmarek,player_reception_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,dabble,6.5,True
+00-0041524,Will Kacmarek,player_reception_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,thescorebet,4.5,True
 00-0041524,Will Kacmarek,player_reception_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,prizepicks,3.5,True
 00-0041524,Will Kacmarek,player_reception_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,parlayplay,3.5,True
 00-0041524,Will Kacmarek,player_reception_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,dabble,3.5,True

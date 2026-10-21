@@ -1,4 +1,28 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0041040,Antonio Williams,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,sleeper,2.5,True
+00-0041040,Antonio Williams,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,dabble,1.5,True
+00-0041040,Antonio Williams,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,sportzino,1.5,True
+00-0041040,Antonio Williams,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,prizepicks,1.5,True
+00-0041040,Antonio Williams,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,2.5,True
+00-0041040,Antonio Williams,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,rebet,2.5,True
+00-0041040,Antonio Williams,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,prophetx,2.5,True
+00-0041040,Antonio Williams,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,hardrock,5.5,True
+00-0041040,Antonio Williams,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,thescorebet,2.5,True
+00-0041040,Antonio Williams,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,2.5,True
+00-0041040,Antonio Williams,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,lowvig,2.5,True
+00-0041040,Antonio Williams,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betonlineag,2.5,True
+00-0041040,Antonio Williams,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,2.5,True
+00-0041040,Antonio Williams,player_receptions,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,prizepicks,2.5,True
+00-0041040,Antonio Williams,player_receptions,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,courtside,3.5,True
+00-0041040,Antonio Williams,player_receptions,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,sportzino,3.5,True
+00-0041040,Antonio Williams,player_receptions,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,pinnacle,3.5,True
+00-0041040,Antonio Williams,player_receptions,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,fanduel,3.5,True
+00-0041040,Antonio Williams,player_receptions,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,thescorebet,3.5,True
+00-0041040,Antonio Williams,player_receptions,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,prophetx,3.5,True
+00-0041040,Antonio Williams,player_receptions,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,betmgm,3.5,True
+00-0041040,Antonio Williams,player_receptions,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,sleeper,3.5,True
+00-0041040,Antonio Williams,player_receptions,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,betway,3.5,True
+00-0041040,Antonio Williams,player_receptions,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,rebet,3.5,True
 00-0041040,Antonio Williams,player_receptions,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,prophetx,2.5,True
 00-0041040,Antonio Williams,player_receptions,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,sportzino,2.5,True
 00-0041040,Antonio Williams,player_receptions,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,prizepicks,1.5,True
@@ -8,26 +32,26 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0041040,Antonio Williams,player_receptions,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,novig,1.5,True
 00-0041040,Antonio Williams,player_receptions,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,fanduel,2.5,True
 00-0041040,Antonio Williams,player_receptions,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,dabble,2.5,True
-00-0041040,Antonio Williams,player_receptions,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,lowvig,2.5,True
-00-0041040,Antonio Williams,player_receptions,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,betonlineag,2.5,True
 00-0041040,Antonio Williams,player_receptions,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,pinnacle,2.5,True
-00-0041040,Antonio Williams,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,betrivers,1.5,True
-00-0041040,Antonio Williams,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,prizepicks,1.5,True
-00-0041040,Antonio Williams,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,hardrock,5.5,True
-00-0041040,Antonio Williams,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,prophetx,1.5,True
-00-0041040,Antonio Williams,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,pinnacle,1.5,True
-00-0041040,Antonio Williams,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,betway,1.5,True
+00-0041040,Antonio Williams,player_receptions,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,betonlineag,2.5,True
+00-0041040,Antonio Williams,player_receptions,24886,2026-10-04T13:30:00Z,Washington Commanders,Indianapolis Colts,lowvig,2.5,True
 00-0041040,Antonio Williams,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,betmgm,1.5,True
+00-0041040,Antonio Williams,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,prizepicks,1.5,True
 00-0041040,Antonio Williams,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,dabble,1.5,True
 00-0041040,Antonio Williams,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,sleeper,1.5,True
 00-0041040,Antonio Williams,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,fanduel,1.5,True
+00-0041040,Antonio Williams,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,hardrock,5.5,True
+00-0041040,Antonio Williams,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,betrivers,1.5,True
+00-0041040,Antonio Williams,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,prophetx,1.5,True
+00-0041040,Antonio Williams,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,pinnacle,1.5,True
+00-0041040,Antonio Williams,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,betway,1.5,True
+00-0041040,Antonio Williams,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,lowvig,2.5,True
+00-0041040,Antonio Williams,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,betmgm,2.5,True
+00-0041040,Antonio Williams,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,betway,2.5,True
 00-0041040,Antonio Williams,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,prophetx,1.5,True
 00-0041040,Antonio Williams,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,hardrock,6.5,True
 00-0041040,Antonio Williams,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,fliff,2.5,True
 00-0041040,Antonio Williams,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,prizepicks,2.5,True
 00-0041040,Antonio Williams,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,pinnacle,2.5,True
 00-0041040,Antonio Williams,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,fanduel,2.5,True
-00-0041040,Antonio Williams,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,betway,2.5,True
-00-0041040,Antonio Williams,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,lowvig,2.5,True
-00-0041040,Antonio Williams,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,betmgm,2.5,True
 00-0041040,Antonio Williams,player_receptions,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,betonlineag,2.5,True

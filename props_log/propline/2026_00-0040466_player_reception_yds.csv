@@ -1,4 +1,17 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040466,Raheim Sanders,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,pick6,11.5,True
+00-0040466,Raheim Sanders,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,pinnacle,10.5,True
+00-0040466,Raheim Sanders,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,sportzino,10.5,True
+00-0040466,Raheim Sanders,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,sleeper,11.5,True
+00-0040466,Raheim Sanders,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,prizepicks,11.5,True
+00-0040466,Raheim Sanders,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,prophetx,10.5,True
+00-0040466,Raheim Sanders,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,parlayplay,12.5,True
+00-0040466,Raheim Sanders,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,novig,10.5,True
+00-0040466,Raheim Sanders,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,thescorebet,12.5,True
+00-0040466,Raheim Sanders,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,courtside,13.5,True
+00-0040466,Raheim Sanders,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,rebet,10.5,True
+00-0040466,Raheim Sanders,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,dabble,10.5,True
+00-0040466,Raheim Sanders,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,rebet,11.5,True
 00-0040466,Raheim Sanders,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,novig,11.5,True
 00-0040466,Raheim Sanders,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,courtside,12.5,True
 00-0040466,Raheim Sanders,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,parlayplay,10.5,True
@@ -8,7 +21,6 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0040466,Raheim Sanders,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,sleeper,12.5,True
 00-0040466,Raheim Sanders,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,prophetx,10.5,True
 00-0040466,Raheim Sanders,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,hardrock,24.5,True
-00-0040466,Raheim Sanders,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,rebet,11.5,True
 00-0040466,Raheim Sanders,player_reception_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,bovada,12.5,True
 00-0040466,Raheim Sanders,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,prizepicks,2.5,True
 00-0040466,Raheim Sanders,player_reception_yds,32657,2026-09-27T17:00:00Z,Cleveland Browns,Carolina Panthers,hardrock,24.5,True

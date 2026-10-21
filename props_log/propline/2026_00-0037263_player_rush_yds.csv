@@ -1,4 +1,35 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0037263,Tyler Allgeier,player_rush_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,novig,48.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,prophetx,47.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,rebet,47.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,sleeper,47.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,pick6,48.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,betway,45.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,hardrock,11.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,sportzino,46.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,pinnacle,46.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,courtside,46.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,parlayplay,50.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,thescorebet,49.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,dabble,46.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,prizepicks,19.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,bovada,46.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,bovada,27.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,pick6,27.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,thescorebet,29.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,pinnacle,27.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,sportzino,27.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,prophetx,28.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,novig,26.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,dabble,27.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,sleeper,26.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,betway,27.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,prizepicks,17.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,rebet,26.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,parlayplay,28.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,novig,21.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,parlayplay,20.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,prizepicks,18.5,True
 00-0037263,Tyler Allgeier,player_rush_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,dabble,22.5,True
 00-0037263,Tyler Allgeier,player_rush_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,betway,19.5,True
 00-0037263,Tyler Allgeier,player_rush_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,pick6,21.5,True
@@ -9,10 +40,6 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0037263,Tyler Allgeier,player_rush_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,hardrock,24.5,True
 00-0037263,Tyler Allgeier,player_rush_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,rebet,22.5,True
 00-0037263,Tyler Allgeier,player_rush_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,prophetx,18.5,True
-00-0037263,Tyler Allgeier,player_rush_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,novig,21.5,True
-00-0037263,Tyler Allgeier,player_rush_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,parlayplay,20.5,True
-00-0037263,Tyler Allgeier,player_rush_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,prizepicks,18.5,True
-00-0037263,Tyler Allgeier,player_rush_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,prizepicks,11.5,True
 00-0037263,Tyler Allgeier,player_rush_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,dabble,33.5,True
 00-0037263,Tyler Allgeier,player_rush_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,betway,32.5,True
 00-0037263,Tyler Allgeier,player_rush_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,sleeper,32.5,True
@@ -22,12 +49,13 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0037263,Tyler Allgeier,player_rush_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,pinnacle,33.5,True
 00-0037263,Tyler Allgeier,player_rush_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,parlayplay,34.5,True
 00-0037263,Tyler Allgeier,player_rush_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,hardrock,99.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,prizepicks,11.5,True
 00-0037263,Tyler Allgeier,player_rush_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,bovada,33.5,True
-00-0037263,Tyler Allgeier,player_rush_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,betway,35.5,True
 00-0037263,Tyler Allgeier,player_rush_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,prizepicks,14.5,True
 00-0037263,Tyler Allgeier,player_rush_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,prophetx,35.5,True
 00-0037263,Tyler Allgeier,player_rush_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,pinnacle,34.5,True
 00-0037263,Tyler Allgeier,player_rush_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,bovada,33.5,True
+00-0037263,Tyler Allgeier,player_rush_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,betway,35.5,True
 00-0037263,Tyler Allgeier,player_rush_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,betmgm,30.5,True
 00-0037263,Tyler Allgeier,player_rush_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,pinnacle,34.5,True
 00-0037263,Tyler Allgeier,player_rush_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,betr,27.5,True

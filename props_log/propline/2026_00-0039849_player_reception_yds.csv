@@ -1,6 +1,40 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039849,Marvin Harrison Jr.,player_reception_yds,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,dabble,21.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,parlayplay,20.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,sleeper,22.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,lowvig,23.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,betonlineag,23.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,thescorebet,24.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,prizepicks,4.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,hardrock,18.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,prophetx,18.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,sportzino,21.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,novig,20.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,rebet,23.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,pick6,21.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,sportzino,32.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,dabble,32.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,pinnacle,34.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,underdog,39.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,sleeper,33.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,bovada,33.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,kalshi,34.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,betrivers,35.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,betmgm,34.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,courtside,32.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,novig,34.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,parlayplay,34.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,fliff,33.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,prophetx,35.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,pick6,33.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,draftkings,33.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,fanduel,34.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,fanatics,30.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,hardrock,34.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,polymarket_us,29.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,rebet,34.5,True
 00-0039849,Marvin Harrison Jr.,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,sleeper,33.5,True
-00-0039849,Marvin Harrison Jr.,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,bovada,33.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,pinnacle,34.5,True
 00-0039849,Marvin Harrison Jr.,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,prophetx,34.5,True
 00-0039849,Marvin Harrison Jr.,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,courtside,34.5,True
 00-0039849,Marvin Harrison Jr.,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,sportzino,31.5,True
@@ -11,23 +45,23 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0039849,Marvin Harrison Jr.,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,betway,30.5,True
 00-0039849,Marvin Harrison Jr.,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,pick6,33.5,True
 00-0039849,Marvin Harrison Jr.,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,hardrock,39.5,True
-00-0039849,Marvin Harrison Jr.,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,pinnacle,34.5,True
-00-0039849,Marvin Harrison Jr.,player_reception_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,pinnacle,32.5,True
-00-0039849,Marvin Harrison Jr.,player_reception_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,sleeper,32.5,True
-00-0039849,Marvin Harrison Jr.,player_reception_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,novig,33.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,bovada,33.5,True
 00-0039849,Marvin Harrison Jr.,player_reception_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,betway,29.5,True
 00-0039849,Marvin Harrison Jr.,player_reception_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,dabble,30.5,True
 00-0039849,Marvin Harrison Jr.,player_reception_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,parlayplay,34.5,True
 00-0039849,Marvin Harrison Jr.,player_reception_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,courtside,34.5,True
 00-0039849,Marvin Harrison Jr.,player_reception_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,hardrock,99.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,sleeper,32.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,pinnacle,32.5,True
 00-0039849,Marvin Harrison Jr.,player_reception_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,bovada,32.5,True
-00-0039849,Marvin Harrison Jr.,player_reception_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,betway,33.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,32659,2026-09-27T20:05:00Z,San Francisco 49ers,Arizona Cardinals,novig,33.5,True
 00-0039849,Marvin Harrison Jr.,player_reception_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,bovada,33.5,True
-00-0039849,Marvin Harrison Jr.,player_reception_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,betway,48.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,betway,33.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,pinnacle,47.5,True
 00-0039849,Marvin Harrison Jr.,player_reception_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,prophetx,49.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,fanatics,45.5,True
 00-0039849,Marvin Harrison Jr.,player_reception_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,betmgm,48.5,True
 00-0039849,Marvin Harrison Jr.,player_reception_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,betr,49.5,True
-00-0039849,Marvin Harrison Jr.,player_reception_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,fanatics,45.5,True
-00-0039849,Marvin Harrison Jr.,player_reception_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,pinnacle,47.5,True
-00-0039849,Marvin Harrison Jr.,player_reception_yds,59774,2026-08-14T03:00:00Z,Las Vegas Raiders,Arizona Cardinals,betr,10.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,betway,48.5,True
 00-0039849,Marvin Harrison Jr.,player_reception_yds,59774,2026-08-14T03:00:00Z,Las Vegas Raiders,Arizona Cardinals,underdog,10.5,True
+00-0039849,Marvin Harrison Jr.,player_reception_yds,59774,2026-08-14T03:00:00Z,Las Vegas Raiders,Arizona Cardinals,betr,10.5,True

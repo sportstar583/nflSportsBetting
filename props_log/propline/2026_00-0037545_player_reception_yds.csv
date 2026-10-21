@@ -1,4 +1,34 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0037545,Rashid Shaheed,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,thescorebet,24.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,prophetx,23.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,hardrock,7.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betway,21.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,pinnacle,22.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,sportzino,22.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,parlayplay,21.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,polymarket_us,19.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,prizepicks,19.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,rebet,22.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,sleeper,22.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,pick6,22.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,dabble,22.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,novig,22.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betonlineag,21.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,lowvig,21.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betonlineag,20.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,lowvig,20.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,parlayplay,21.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,novig,21.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,pinnacle,20.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,thescorebet,19.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,prophetx,21.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,dabble,24.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,sportzino,23.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betway,23.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,prizepicks,19.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,pick6,20.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,sleeper,20.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,rebet,20.5,True
 00-0037545,Rashid Shaheed,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,betway,22.5,True
 00-0037545,Rashid Shaheed,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sleeper,22.5,True
 00-0037545,Rashid Shaheed,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,pinnacle,23.5,True
@@ -10,15 +40,15 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0037545,Rashid Shaheed,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prophetx,21.5,True
 00-0037545,Rashid Shaheed,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,parlayplay,22.5,True
 00-0037545,Rashid Shaheed,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sportzino,22.5,True
-00-0037545,Rashid Shaheed,player_reception_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,prizepicks,28.5,True
-00-0037545,Rashid Shaheed,player_reception_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,novig,27.5,True
-00-0037545,Rashid Shaheed,player_reception_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,prophetx,99.5,True
-00-0037545,Rashid Shaheed,player_reception_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,hardrock,99.5,True
 00-0037545,Rashid Shaheed,player_reception_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,pinnacle,28.5,True
 00-0037545,Rashid Shaheed,player_reception_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,betway,30.5,True
 00-0037545,Rashid Shaheed,player_reception_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,parlayplay,27.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,prizepicks,28.5,True
 00-0037545,Rashid Shaheed,player_reception_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,dabble,25.5,True
 00-0037545,Rashid Shaheed,player_reception_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,sleeper,28.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,novig,27.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,prophetx,99.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,hardrock,99.5,True
 00-0037545,Rashid Shaheed,player_reception_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,prophetx,23.5,True
 00-0037545,Rashid Shaheed,player_reception_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,pinnacle,24.5,True
 00-0037545,Rashid Shaheed,player_reception_yds,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,betway,26.5,True
@@ -26,5 +56,5 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0037545,Rashid Shaheed,player_reception_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,prizepicks,6.5,True
 00-0037545,Rashid Shaheed,player_reception_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,betr,30.5,True
 00-0037545,Rashid Shaheed,player_reception_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,pinnacle,31.5,True
-00-0037545,Rashid Shaheed,player_reception_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,bovada,31.5,True
 00-0037545,Rashid Shaheed,player_reception_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,prophetx,30.5,True
+00-0037545,Rashid Shaheed,player_reception_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,bovada,31.5,True

@@ -1,6 +1,33 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0040730,RJ Harvey,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,hardrock,24.5,True
-00-0040730,RJ Harvey,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,sleeper,21.5,True
+00-0040730,RJ Harvey,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,pinnacle,21.5,True
+00-0040730,RJ Harvey,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betway,21.5,True
+00-0040730,RJ Harvey,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betonlineag,21.5,True
+00-0040730,RJ Harvey,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,lowvig,21.5,True
+00-0040730,RJ Harvey,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,sportzino,23.5,True
+00-0040730,RJ Harvey,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,courtside,24.5,True
+00-0040730,RJ Harvey,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,prophetx,25.5,True
+00-0040730,RJ Harvey,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,hardrock,18.5,True
+00-0040730,RJ Harvey,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,parlayplay,22.5,True
+00-0040730,RJ Harvey,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,rebet,22.5,True
+00-0040730,RJ Harvey,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,thescorebet,24.5,True
+00-0040730,RJ Harvey,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,prizepicks,19.5,True
+00-0040730,RJ Harvey,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,novig,21.5,True
+00-0040730,RJ Harvey,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,sleeper,22.5,True
+00-0040730,RJ Harvey,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,pick6,23.5,True
+00-0040730,RJ Harvey,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,dabble,23.5,True
+00-0040730,RJ Harvey,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,pick6,25.5,True
+00-0040730,RJ Harvey,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,rebet,25.5,True
+00-0040730,RJ Harvey,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,sportzino,27.5,True
+00-0040730,RJ Harvey,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,prophetx,27.5,True
+00-0040730,RJ Harvey,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,parlayplay,28.5,True
+00-0040730,RJ Harvey,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,thescorebet,24.5,True
+00-0040730,RJ Harvey,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,pinnacle,25.5,True
+00-0040730,RJ Harvey,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,betway,29.5,True
+00-0040730,RJ Harvey,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,sleeper,26.5,True
+00-0040730,RJ Harvey,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,prizepicks,24.5,True
+00-0040730,RJ Harvey,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,novig,25.5,True
+00-0040730,RJ Harvey,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,courtside,26.5,True
+00-0040730,RJ Harvey,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,dabble,27.5,True
 00-0040730,RJ Harvey,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,prizepicks,21.5,True
 00-0040730,RJ Harvey,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,betway,22.5,True
 00-0040730,RJ Harvey,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,courtside,23.5,True
@@ -10,21 +37,23 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0040730,RJ Harvey,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,dabble,22.5,True
 00-0040730,RJ Harvey,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,pinnacle,21.5,True
 00-0040730,RJ Harvey,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,rebet,21.5,True
+00-0040730,RJ Harvey,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,sleeper,21.5,True
+00-0040730,RJ Harvey,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,hardrock,24.5,True
 00-0040730,RJ Harvey,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,sportzino,22.5,True
-00-0040730,RJ Harvey,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,17.5,True
 00-0040730,RJ Harvey,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,prophetx,18.5,True
 00-0040730,RJ Harvey,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,sleeper,17.5,True
+00-0040730,RJ Harvey,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,17.5,True
 00-0040730,RJ Harvey,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,novig,18.5,True
 00-0040730,RJ Harvey,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betway,14.5,True
 00-0040730,RJ Harvey,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,prizepicks,14.5,True
 00-0040730,RJ Harvey,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,dabble,18.5,True
 00-0040730,RJ Harvey,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,courtside,18.5,True
 00-0040730,RJ Harvey,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,parlayplay,18.5,True
-00-0040730,RJ Harvey,player_reception_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,prizepicks,19.5,True
 00-0040730,RJ Harvey,player_reception_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,fanatics,20.5,True
 00-0040730,RJ Harvey,player_reception_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,underdog,19.5,True
-00-0040730,RJ Harvey,player_reception_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,fliff,20.5,True
+00-0040730,RJ Harvey,player_reception_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,prizepicks,19.5,True
 00-0040730,RJ Harvey,player_reception_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,betway,19.5,True
+00-0040730,RJ Harvey,player_reception_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,fliff,20.5,True
 00-0040730,RJ Harvey,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,betway,16.5,True
 00-0040730,RJ Harvey,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,prophetx,9.5,True
 00-0040730,RJ Harvey,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,prizepicks,1.5,True

@@ -1,0 +1,5 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039923,J.J. McCarthy,player_pass_yds,158170,2026-08-29T01:00:00Z,Denver Broncos,Minnesota Vikings,underdog,69.5,True
+00-0039923,J.J. McCarthy,player_pass_yds,147751,2026-08-22T17:00:00Z,Minnesota Vikings,Baltimore Ravens,underdog,93.5,True
+00-0039923,J.J. McCarthy,player_pass_yds,59767,2026-08-15T20:00:00Z,New York Giants,Minnesota Vikings,betr,78.5,True
+00-0039923,J.J. McCarthy,player_pass_yds,59767,2026-08-15T20:00:00Z,New York Giants,Minnesota Vikings,underdog,81.5,True

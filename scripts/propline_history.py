@@ -8,6 +8,7 @@ player-market covers every week at once, and results are cached in props_log/pro
     python scripts/propline_history.py              # fetch (cached) + grade every completed week
     python scripts/propline_history.py --week 3     # report one week
     python scripts/propline_history.py --no-fetch   # grade from the cache only
+    python scripts/propline_history.py --refresh    # re-fetch cached players to add new weeks
 
 Needs PROP_LINE_KEY in the environment (sent as X-API-Key).
 """
@@ -66,18 +67,21 @@ def fetch(name: str, market: str, key: str) -> list[dict] | None:
     return r.json().get("entries", []), remaining
 
 
-def fetch_all(season: int, key: str, budget: int, **sel) -> pl.DataFrame:
+def fetch_all(season: int, key: str, budget: int, refresh: bool = False, **sel) -> pl.DataFrame:
+    """refresh: re-fetch player-markets already cached (a cached file only holds the weeks played
+    when it was fetched, so later weeks need a refresh)."""
     CACHE.mkdir(parents=True, exist_ok=True)
     todo = players(season, **sel)
-    todo = todo.filter(~pl.struct("player_id", "market").map_elements(
-        lambda r: (CACHE / f"{season}_{r['player_id']}_{r['market']}.csv").exists(), return_dtype=pl.Boolean))
+    if not refresh:
+        todo = todo.filter(~pl.struct("player_id", "market").map_elements(
+            lambda r: (CACHE / f"{season}_{r['player_id']}_{r['market']}.csv").exists(), return_dtype=pl.Boolean))
     if todo.height > budget:
         print(f"{todo.height} player-markets to fetch but --budget is {budget}; fetching the first {budget}", file=sys.stderr)
         todo = todo.head(budget)
     out, n_req, remaining = [], 0, "?"
     for r in todo.iter_rows(named=True):
         path = CACHE / f"{season}_{r['player_id']}_{r['market']}.csv"
-        if path.exists():
+        if path.exists() and not refresh:
             continue
         res = fetch(r["player_display_name"], r["market"], key)
         n_req += 1
@@ -172,6 +176,7 @@ def main():
     ap.add_argument("--week", type=int, help="report this week only (default: every completed week)")
     ap.add_argument("--top", type=int, default=12)
     ap.add_argument("--no-fetch", action="store_true")
+    ap.add_argument("--refresh", action="store_true", help="re-fetch cached player-markets to pick up new weeks")
     ap.add_argument("--budget", type=int, default=900, help="max requests this run (daily limit is 1000)")
     ap.add_argument("--only-week", type=int, help="fetch only players who played this week")
     ap.add_argument("--markets", help="comma-separated market keys to fetch")
@@ -183,7 +188,7 @@ def main():
         key = os.environ.get("PROP_LINE_KEY")
         if not key:
             sys.exit("PROP_LINE_KEY is not set")
-        lines = fetch_all(args.season, key, args.budget, week=args.only_week,
+        lines = fetch_all(args.season, key, args.budget, refresh=args.refresh, week=args.only_week,
                           markets=args.markets.split(",") if args.markets else None, scale=args.scale)
     if lines.is_empty():
         sys.exit("no lines in the cache")

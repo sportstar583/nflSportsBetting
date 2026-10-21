@@ -1,19 +1,38 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0040236,Kyle Monangai,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,betway,39.5,True
-00-0040236,Kyle Monangai,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,hardrock,39.5,True
-00-0040236,Kyle Monangai,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,sleeper,40.5,True
+00-0040236,Kyle Monangai,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,sportzino,47.5,True
+00-0040236,Kyle Monangai,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,pick6,51.5,True
+00-0040236,Kyle Monangai,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,sleeper,51.5,True
+00-0040236,Kyle Monangai,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,dabble,47.5,True
+00-0040236,Kyle Monangai,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,bovada,51.5,True
+00-0040236,Kyle Monangai,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,fanatics,50.5,True
+00-0040236,Kyle Monangai,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,prizepicks,51.5,True
+00-0040236,Kyle Monangai,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,novig,51.5,True
+00-0040236,Kyle Monangai,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,hardrock,51.5,True
+00-0040236,Kyle Monangai,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,betrivers,50.5,True
+00-0040236,Kyle Monangai,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,betmgm,52.5,True
+00-0040236,Kyle Monangai,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,courtside,53.5,True
+00-0040236,Kyle Monangai,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,fliff,51.5,True
+00-0040236,Kyle Monangai,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,parlayplay,51.5,True
+00-0040236,Kyle Monangai,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,underdog,49.5,True
+00-0040236,Kyle Monangai,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,draftkings,51.5,True
+00-0040236,Kyle Monangai,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,fanduel,51.5,True
+00-0040236,Kyle Monangai,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,prophetx,51.5,True
+00-0040236,Kyle Monangai,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,pinnacle,51.5,True
+00-0040236,Kyle Monangai,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,rebet,48.5,True
 00-0040236,Kyle Monangai,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,rebet,39.5,True
 00-0040236,Kyle Monangai,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,sportzino,39.5,True
 00-0040236,Kyle Monangai,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,pinnacle,39.5,True
 00-0040236,Kyle Monangai,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,prizepicks,34.5,True
+00-0040236,Kyle Monangai,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,bovada,39.5,True
 00-0040236,Kyle Monangai,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,dabble,37.5,True
 00-0040236,Kyle Monangai,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,novig,40.5,True
 00-0040236,Kyle Monangai,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,prophetx,38.5,True
 00-0040236,Kyle Monangai,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,courtside,38.5,True
 00-0040236,Kyle Monangai,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,parlayplay,40.5,True
 00-0040236,Kyle Monangai,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,pick6,39.5,True
-00-0040236,Kyle Monangai,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,bovada,39.5,True
-00-0040236,Kyle Monangai,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,hardrock,99.5,True
+00-0040236,Kyle Monangai,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,betway,39.5,True
+00-0040236,Kyle Monangai,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,hardrock,39.5,True
+00-0040236,Kyle Monangai,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,sleeper,40.5,True
 00-0040236,Kyle Monangai,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,sleeper,40.5,True
 00-0040236,Kyle Monangai,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,rebet,40.5,True
 00-0040236,Kyle Monangai,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,betway,41.5,True
@@ -24,6 +43,7 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0040236,Kyle Monangai,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,novig,41.5,True
 00-0040236,Kyle Monangai,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,dabble,41.5,True
 00-0040236,Kyle Monangai,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,prophetx,41.5,True
+00-0040236,Kyle Monangai,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,hardrock,99.5,True
 00-0040236,Kyle Monangai,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,lowvig,37.5,True
 00-0040236,Kyle Monangai,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,bovada,36.5,True
 00-0040236,Kyle Monangai,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,betonlineag,37.5,True

@@ -1,15 +1,28 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0035229,T.J. Hockenson,player_receptions,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,pinnacle,4.5,True
+00-0035229,T.J. Hockenson,player_receptions,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,betmgm,4.5,True
+00-0035229,T.J. Hockenson,player_receptions,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,fliff,4.5,True
+00-0035229,T.J. Hockenson,player_receptions,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,novig,4.5,True
+00-0035229,T.J. Hockenson,player_receptions,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,sportzino,4.5,True
+00-0035229,T.J. Hockenson,player_receptions,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,rebet,4.5,True
+00-0035229,T.J. Hockenson,player_receptions,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,sleeper,4.5,True
+00-0035229,T.J. Hockenson,player_receptions,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,dabble,4.5,True
+00-0035229,T.J. Hockenson,player_receptions,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,betway,4.5,True
+00-0035229,T.J. Hockenson,player_receptions,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,courtside,4.5,True
+00-0035229,T.J. Hockenson,player_receptions,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,prophetx,4.5,True
+00-0035229,T.J. Hockenson,player_receptions,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,fanduel,4.5,True
+00-0035229,T.J. Hockenson,player_receptions,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,draftkings,4.5,True
+00-0035229,T.J. Hockenson,player_receptions,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,parlayplay,4.5,True
+00-0035229,T.J. Hockenson,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,rebet,4.5,True
+00-0035229,T.J. Hockenson,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,prophetx,3.5,True
+00-0035229,T.J. Hockenson,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,novig,8.5,True
+00-0035229,T.J. Hockenson,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,dabble,4.5,True
 00-0035229,T.J. Hockenson,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,pinnacle,4.5,True
 00-0035229,T.J. Hockenson,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,fanduel,4.5,True
 00-0035229,T.J. Hockenson,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,sportzino,4.5,True
 00-0035229,T.J. Hockenson,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,betmgm,4.5,True
 00-0035229,T.J. Hockenson,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,sleeper,4.5,True
 00-0035229,T.J. Hockenson,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,betway,4.5,True
-00-0035229,T.J. Hockenson,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,rebet,4.5,True
-00-0035229,T.J. Hockenson,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,prophetx,3.5,True
-00-0035229,T.J. Hockenson,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,novig,8.5,True
-00-0035229,T.J. Hockenson,player_receptions,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,dabble,4.5,True
-00-0035229,T.J. Hockenson,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,betmgm,3.5,True
 00-0035229,T.J. Hockenson,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,pinnacle,3.5,True
 00-0035229,T.J. Hockenson,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,dabble,3.5,True
 00-0035229,T.J. Hockenson,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,sleeper,3.5,True
@@ -18,11 +31,12 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0035229,T.J. Hockenson,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,fanduel,3.5,True
 00-0035229,T.J. Hockenson,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,hardrock,7.5,True
 00-0035229,T.J. Hockenson,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,betway,3.5,True
-00-0035229,T.J. Hockenson,player_receptions,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,prophetx,3.5,True
+00-0035229,T.J. Hockenson,player_receptions,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,betmgm,3.5,True
 00-0035229,T.J. Hockenson,player_receptions,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,betmgm,3.5,True
 00-0035229,T.J. Hockenson,player_receptions,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,fanduel,3.5,True
 00-0035229,T.J. Hockenson,player_receptions,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,betway,3.5,True
 00-0035229,T.J. Hockenson,player_receptions,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,pinnacle,3.5,True
+00-0035229,T.J. Hockenson,player_receptions,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,prophetx,3.5,True
 00-0035229,T.J. Hockenson,player_receptions,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betway,3.5,True
 00-0035229,T.J. Hockenson,player_receptions,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,fanduel,3.5,True
 00-0035229,T.J. Hockenson,player_receptions,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betmgm,3.5,True

@@ -1,4 +1,31 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0023459,Aaron Rodgers,player_pass_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,betway,224.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,novig,221.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,courtside,219.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,parlayplay,229.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,bovada,225.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,sportzino,226.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,thescorebet,219.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,pinnacle,226.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,sleeper,225.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,pick6,217.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,prizepicks,159.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,dabble,231.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,hardrock,260.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,rebet,222.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,prophetx,220.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,32683,2026-10-11T17:00:00Z,Pittsburgh Steelers,Indianapolis Colts,courtside,217.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,32683,2026-10-11T17:00:00Z,Pittsburgh Steelers,Indianapolis Colts,bovada,218.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,32683,2026-10-11T17:00:00Z,Pittsburgh Steelers,Indianapolis Colts,prophetx,218.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,32683,2026-10-11T17:00:00Z,Pittsburgh Steelers,Indianapolis Colts,prizepicks,213.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,32683,2026-10-11T17:00:00Z,Pittsburgh Steelers,Indianapolis Colts,sportzino,226.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,32683,2026-10-11T17:00:00Z,Pittsburgh Steelers,Indianapolis Colts,novig,216.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,32683,2026-10-11T17:00:00Z,Pittsburgh Steelers,Indianapolis Colts,betway,230.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,32683,2026-10-11T17:00:00Z,Pittsburgh Steelers,Indianapolis Colts,pinnacle,223.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,32683,2026-10-11T17:00:00Z,Pittsburgh Steelers,Indianapolis Colts,pick6,216.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,32683,2026-10-11T17:00:00Z,Pittsburgh Steelers,Indianapolis Colts,rebet,223.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,32683,2026-10-11T17:00:00Z,Pittsburgh Steelers,Indianapolis Colts,dabble,224.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,32683,2026-10-11T17:00:00Z,Pittsburgh Steelers,Indianapolis Colts,sleeper,221.5,True
 00-0023459,Aaron Rodgers,player_pass_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,courtside,211.5,True
 00-0023459,Aaron Rodgers,player_pass_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,rebet,215.5,True
 00-0023459,Aaron Rodgers,player_pass_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,novig,215.5,True
@@ -7,28 +34,28 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0023459,Aaron Rodgers,player_pass_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,prophetx,215.5,True
 00-0023459,Aaron Rodgers,player_pass_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betway,214.5,True
 00-0023459,Aaron Rodgers,player_pass_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,215.5,True
-00-0023459,Aaron Rodgers,player_pass_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,lowvig,212.5,True
-00-0023459,Aaron Rodgers,player_pass_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betonlineag,212.5,True
-00-0023459,Aaron Rodgers,player_pass_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,bovada,212.5,True
 00-0023459,Aaron Rodgers,player_pass_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,hardrock,224.5,True
 00-0023459,Aaron Rodgers,player_pass_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,prizepicks,205.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,bovada,212.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betonlineag,212.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,32663,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,lowvig,212.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,betway,222.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,courtside,219.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,bovada,221.5,True
 00-0023459,Aaron Rodgers,player_pass_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,hardrock,124.5,True
 00-0023459,Aaron Rodgers,player_pass_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,prizepicks,145.5,True
-00-0023459,Aaron Rodgers,player_pass_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,courtside,219.5,True
-00-0023459,Aaron Rodgers,player_pass_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,betway,222.5,True
-00-0023459,Aaron Rodgers,player_pass_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,novig,219.5,True
 00-0023459,Aaron Rodgers,player_pass_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,prophetx,219.5,True
 00-0023459,Aaron Rodgers,player_pass_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,dabble,220.5,True
 00-0023459,Aaron Rodgers,player_pass_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,sleeper,222.5,True
-00-0023459,Aaron Rodgers,player_pass_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,bovada,221.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,32649,2026-09-27T17:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,novig,219.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,prizepicks,137.5,True
 00-0023459,Aaron Rodgers,player_pass_yds,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,prophetx,203.5,True
 00-0023459,Aaron Rodgers,player_pass_yds,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,pinnacle,213.5,True
 00-0023459,Aaron Rodgers,player_pass_yds,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,betway,209.5,True
-00-0023459,Aaron Rodgers,player_pass_yds,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,prizepicks,137.5,True
 00-0023459,Aaron Rodgers,player_pass_yds,32638,2026-09-20T17:02:22Z,New England Patriots,Pittsburgh Steelers,bovada,202.5,True
-00-0023459,Aaron Rodgers,player_pass_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,prizepicks,141.5,True
-00-0023459,Aaron Rodgers,player_pass_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,betway,216.5,True
-00-0023459,Aaron Rodgers,player_pass_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,betr,214.5,True
-00-0023459,Aaron Rodgers,player_pass_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,pinnacle,212.5,True
-00-0023459,Aaron Rodgers,player_pass_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,prophetx,210.5,True
 00-0023459,Aaron Rodgers,player_pass_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,bovada,212.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,prizepicks,141.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,prophetx,210.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,pinnacle,212.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,betr,214.5,True
+00-0023459,Aaron Rodgers,player_pass_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,betway,216.5,True

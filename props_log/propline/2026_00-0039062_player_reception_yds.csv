@@ -1,3 +1,5 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039062,Jonathan Mingo,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,prizepicks,0.5,True
+00-0039062,Jonathan Mingo,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,sportzino,0.5,True
 00-0039062,Jonathan Mingo,player_reception_yds,59762,2026-08-16T00:00:00Z,Seattle Seahawks,Dallas Cowboys,underdog,22.5,True
 00-0039062,Jonathan Mingo,player_reception_yds,59762,2026-08-16T00:00:00Z,Seattle Seahawks,Dallas Cowboys,betr,21.5,True

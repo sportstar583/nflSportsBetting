@@ -1,1 +1,6 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036862,Ben Skowronek,player_reception_yds,32683,2026-10-11T17:00:00Z,Pittsburgh Steelers,Indianapolis Colts,sportzino,3.5,True
+00-0036862,Ben Skowronek,player_reception_yds,32683,2026-10-11T17:00:00Z,Pittsburgh Steelers,Indianapolis Colts,parlayplay,3.5,True
+00-0036862,Ben Skowronek,player_reception_yds,32683,2026-10-11T17:00:00Z,Pittsburgh Steelers,Indianapolis Colts,prizepicks,3.5,True
+00-0036862,Ben Skowronek,player_reception_yds,32683,2026-10-11T17:00:00Z,Pittsburgh Steelers,Indianapolis Colts,fliff,3.5,True
+00-0036862,Ben Skowronek,player_reception_yds,32683,2026-10-11T17:00:00Z,Pittsburgh Steelers,Indianapolis Colts,dabble,3.5,True

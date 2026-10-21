@@ -1,0 +1,30 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0037091,Bo Melton,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,underdog,0.5,True
+00-0037091,Bo Melton,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,betmgm,0.5,True
+00-0037091,Bo Melton,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,prizepicks,0.5,True
+00-0037091,Bo Melton,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,pinnacle,0.5,True
+00-0037091,Bo Melton,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,fanduel,0.5,True
+00-0037091,Bo Melton,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,hardrock,1.5,True
+00-0037091,Bo Melton,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,courtside,1.5,True
+00-0037091,Bo Melton,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,rebet,0.5,True
+00-0037091,Bo Melton,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,sportzino,1.5,True
+00-0037091,Bo Melton,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,fliff,0.5,True
+00-0037091,Bo Melton,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,sleeper,0.5,True
+00-0037091,Bo Melton,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,prophetx,2.5,True
+00-0037091,Bo Melton,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,dabble,1.5,True
+00-0037091,Bo Melton,player_receptions,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,prizepicks,0.5,True
+00-0037091,Bo Melton,player_receptions,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,parlayplay,0.5,True
+00-0037091,Bo Melton,player_receptions,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,fliff,0.5,True
+00-0037091,Bo Melton,player_receptions,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,underdog,0.5,True
+00-0037091,Bo Melton,player_receptions,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,sportzino,0.5,True
+00-0037091,Bo Melton,player_receptions,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,dabble,0.5,True
+00-0037091,Bo Melton,player_receptions,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,sportzino,0.5,True
+00-0037091,Bo Melton,player_receptions,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,prizepicks,0.5,True
+00-0037091,Bo Melton,player_receptions,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,parlayplay,0.5,True
+00-0037091,Bo Melton,player_receptions,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,dabble,0.5,True
+00-0037091,Bo Melton,player_receptions,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,underdog,0.5,True
+00-0037091,Bo Melton,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,parlayplay,0.5,True
+00-0037091,Bo Melton,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,prizepicks,0.5,True
+00-0037091,Bo Melton,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,underdog,0.5,True
+00-0037091,Bo Melton,player_receptions,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prizepicks,0.5,True
+00-0037091,Bo Melton,player_receptions,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,underdog,0.5,True

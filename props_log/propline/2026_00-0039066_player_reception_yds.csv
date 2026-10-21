@@ -1,4 +1,31 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039066,Michael Mayer,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,dabble,27.5,True
+00-0039066,Michael Mayer,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,hardrock,7.5,True
+00-0039066,Michael Mayer,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,thescorebet,29.5,True
+00-0039066,Michael Mayer,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,novig,26.5,True
+00-0039066,Michael Mayer,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,sportzino,28.5,True
+00-0039066,Michael Mayer,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,betway,27.5,True
+00-0039066,Michael Mayer,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,prophetx,26.5,True
+00-0039066,Michael Mayer,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,parlayplay,26.5,True
+00-0039066,Michael Mayer,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,pick6,27.5,True
+00-0039066,Michael Mayer,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,rebet,27.5,True
+00-0039066,Michael Mayer,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,sleeper,27.5,True
+00-0039066,Michael Mayer,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,prizepicks,9.5,True
+00-0039066,Michael Mayer,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,pinnacle,27.5,True
+00-0039066,Michael Mayer,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,parlayplay,29.5,True
+00-0039066,Michael Mayer,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,bovada,30.5,True
+00-0039066,Michael Mayer,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,pinnacle,28.5,True
+00-0039066,Michael Mayer,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,novig,28.5,True
+00-0039066,Michael Mayer,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,sportzino,30.5,True
+00-0039066,Michael Mayer,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,betway,30.5,True
+00-0039066,Michael Mayer,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,thescorebet,29.5,True
+00-0039066,Michael Mayer,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,prizepicks,33.5,True
+00-0039066,Michael Mayer,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,courtside,30.5,True
+00-0039066,Michael Mayer,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,sleeper,29.5,True
+00-0039066,Michael Mayer,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,pick6,30.5,True
+00-0039066,Michael Mayer,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,rebet,30.5,True
+00-0039066,Michael Mayer,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,dabble,30.5,True
+00-0039066,Michael Mayer,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,prophetx,99.5,True
 00-0039066,Michael Mayer,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,prophetx,23.5,True
 00-0039066,Michael Mayer,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,betway,22.5,True
 00-0039066,Michael Mayer,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,betrivers,22.5,True
@@ -6,8 +33,6 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0039066,Michael Mayer,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,rebet,25.5,True
 00-0039066,Michael Mayer,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,prizepicks,24.5,True
 00-0039066,Michael Mayer,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,hardrock,24.5,True
-00-0039066,Michael Mayer,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,betonlineag,25.5,True
-00-0039066,Michael Mayer,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,lowvig,25.5,True
 00-0039066,Michael Mayer,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,parlayplay,22.5,True
 00-0039066,Michael Mayer,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,pick6,25.5,True
 00-0039066,Michael Mayer,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,courtside,21.5,True
@@ -15,8 +40,8 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0039066,Michael Mayer,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,sleeper,24.5,True
 00-0039066,Michael Mayer,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,dabble,24.5,True
 00-0039066,Michael Mayer,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,pinnacle,24.5,True
-00-0039066,Michael Mayer,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,parlayplay,19.5,True
-00-0039066,Michael Mayer,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,hardrock,79.5,True
+00-0039066,Michael Mayer,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,lowvig,25.5,True
+00-0039066,Michael Mayer,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,betonlineag,25.5,True
 00-0039066,Michael Mayer,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,sleeper,20.5,True
 00-0039066,Michael Mayer,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,dabble,17.5,True
 00-0039066,Michael Mayer,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,prophetx,21.5,True
@@ -25,14 +50,16 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0039066,Michael Mayer,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,pinnacle,21.5,True
 00-0039066,Michael Mayer,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,prizepicks,21.5,True
 00-0039066,Michael Mayer,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,betway,18.5,True
+00-0039066,Michael Mayer,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,hardrock,79.5,True
+00-0039066,Michael Mayer,player_reception_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,parlayplay,19.5,True
 00-0039066,Michael Mayer,player_reception_yds,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,prizepicks,18.5,True
 00-0039066,Michael Mayer,player_reception_yds,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,betway,44.5,True
 00-0039066,Michael Mayer,player_reception_yds,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,pinnacle,44.5,True
 00-0039066,Michael Mayer,player_reception_yds,32642,2026-09-20T20:05:18Z,Los Angeles Chargers,Las Vegas Raiders,bovada,44.5,True
-00-0039066,Michael Mayer,player_reception_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,betway,40.5,True
 00-0039066,Michael Mayer,player_reception_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,prizepicks,0.5,True
 00-0039066,Michael Mayer,player_reception_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,betr,19.5,True
 00-0039066,Michael Mayer,player_reception_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,betmgm,40.5,True
 00-0039066,Michael Mayer,player_reception_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,pinnacle,39.5,True
 00-0039066,Michael Mayer,player_reception_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,bovada,40.5,True
 00-0039066,Michael Mayer,player_reception_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,prophetx,15.5,True
+00-0039066,Michael Mayer,player_reception_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,betway,40.5,True

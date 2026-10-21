@@ -1,35 +1,60 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040719,Bhayshul Tuten,player_receptions,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,hardrock,5.5,True
+00-0040719,Bhayshul Tuten,player_receptions,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,betmgm,1.5,True
+00-0040719,Bhayshul Tuten,player_receptions,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,prizepicks,0.5,True
+00-0040719,Bhayshul Tuten,player_receptions,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,prophetx,1.5,True
+00-0040719,Bhayshul Tuten,player_receptions,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,sleeper,1.5,True
+00-0040719,Bhayshul Tuten,player_receptions,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,thescorebet,1.5,True
+00-0040719,Bhayshul Tuten,player_receptions,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,betonlineag,1.5,True
+00-0040719,Bhayshul Tuten,player_receptions,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,lowvig,1.5,True
+00-0040719,Bhayshul Tuten,player_receptions,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,pinnacle,1.5,True
+00-0040719,Bhayshul Tuten,player_receptions,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,novig,0.5,True
+00-0040719,Bhayshul Tuten,player_receptions,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,dabble,1.5,True
+00-0040719,Bhayshul Tuten,player_receptions,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,rebet,1.5,True
+00-0040719,Bhayshul Tuten,player_receptions,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,fanduel,1.5,True
+00-0040719,Bhayshul Tuten,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betway,1.5,True
+00-0040719,Bhayshul Tuten,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,prizepicks,1.5,True
+00-0040719,Bhayshul Tuten,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betmgm,1.5,True
+00-0040719,Bhayshul Tuten,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,fanduel,1.5,True
+00-0040719,Bhayshul Tuten,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,sleeper,1.5,True
+00-0040719,Bhayshul Tuten,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,pinnacle,1.5,True
+00-0040719,Bhayshul Tuten,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,rebet,1.5,True
+00-0040719,Bhayshul Tuten,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,novig,4.5,True
+00-0040719,Bhayshul Tuten,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,prophetx,1.5,True
+00-0040719,Bhayshul Tuten,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,sportzino,1.5,True
+00-0040719,Bhayshul Tuten,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,dabble,1.5,True
+00-0040719,Bhayshul Tuten,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,thescorebet,1.5,True
+00-0040719,Bhayshul Tuten,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,fanduel,1.5,True
+00-0040719,Bhayshul Tuten,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,novig,3.5,True
+00-0040719,Bhayshul Tuten,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,betway,1.5,True
 00-0040719,Bhayshul Tuten,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,prizepicks,1.5,True
 00-0040719,Bhayshul Tuten,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,pinnacle,1.5,True
 00-0040719,Bhayshul Tuten,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,betmgm,1.5,True
-00-0040719,Bhayshul Tuten,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,novig,3.5,True
 00-0040719,Bhayshul Tuten,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,prophetx,1.5,True
 00-0040719,Bhayshul Tuten,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,rebet,1.5,True
-00-0040719,Bhayshul Tuten,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,fanduel,1.5,True
 00-0040719,Bhayshul Tuten,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,sleeper,1.5,True
 00-0040719,Bhayshul Tuten,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,sportzino,1.5,True
-00-0040719,Bhayshul Tuten,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,betway,1.5,True
-00-0040719,Bhayshul Tuten,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,betmgm,1.5,True
-00-0040719,Bhayshul Tuten,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,novig,3.5,True
 00-0040719,Bhayshul Tuten,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,hardrock,4.5,True
 00-0040719,Bhayshul Tuten,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,pinnacle,1.5,True
 00-0040719,Bhayshul Tuten,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,fanduel,1.5,True
 00-0040719,Bhayshul Tuten,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,sleeper,1.5,True
 00-0040719,Bhayshul Tuten,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,prizepicks,0.5,True
 00-0040719,Bhayshul Tuten,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,dabble,1.5,True
+00-0040719,Bhayshul Tuten,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,novig,3.5,True
+00-0040719,Bhayshul Tuten,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,betmgm,1.5,True
 00-0040719,Bhayshul Tuten,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,prophetx,1.5,True
+00-0040719,Bhayshul Tuten,player_receptions,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,prophetx,1.5,True
+00-0040719,Bhayshul Tuten,player_receptions,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,hardrock,4.5,True
+00-0040719,Bhayshul Tuten,player_receptions,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,betway,1.5,True
 00-0040719,Bhayshul Tuten,player_receptions,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,betmgm,1.5,True
 00-0040719,Bhayshul Tuten,player_receptions,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,fanduel,1.5,True
 00-0040719,Bhayshul Tuten,player_receptions,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,fliff,1.5,True
 00-0040719,Bhayshul Tuten,player_receptions,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,prizepicks,1.5,True
 00-0040719,Bhayshul Tuten,player_receptions,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,pinnacle,1.5,True
-00-0040719,Bhayshul Tuten,player_receptions,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,prophetx,1.5,True
-00-0040719,Bhayshul Tuten,player_receptions,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,hardrock,4.5,True
-00-0040719,Bhayshul Tuten,player_receptions,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,betway,1.5,True
-00-0040719,Bhayshul Tuten,player_receptions,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,hardrock,5.5,True
-00-0040719,Bhayshul Tuten,player_receptions,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,betway,1.5,True
 00-0040719,Bhayshul Tuten,player_receptions,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,fanduel,1.5,True
 00-0040719,Bhayshul Tuten,player_receptions,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,prizepicks,1.5,True
 00-0040719,Bhayshul Tuten,player_receptions,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,prophetx,1.5,True
 00-0040719,Bhayshul Tuten,player_receptions,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,betmgm,1.5,True
 00-0040719,Bhayshul Tuten,player_receptions,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,pinnacle,1.5,True
+00-0040719,Bhayshul Tuten,player_receptions,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,hardrock,5.5,True
+00-0040719,Bhayshul Tuten,player_receptions,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,betway,1.5,True

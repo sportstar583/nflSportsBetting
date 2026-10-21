@@ -1,4 +1,30 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038621,DeMario Douglas,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,prizepicks,4.5,True
+00-0038621,DeMario Douglas,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,rebet,21.5,True
+00-0038621,DeMario Douglas,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,pick6,20.5,True
+00-0038621,DeMario Douglas,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,pinnacle,21.5,True
+00-0038621,DeMario Douglas,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,dabble,21.5,True
+00-0038621,DeMario Douglas,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,betway,23.5,True
+00-0038621,DeMario Douglas,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,prophetx,89.5,True
+00-0038621,DeMario Douglas,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,novig,22.5,True
+00-0038621,DeMario Douglas,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,parlayplay,20.5,True
+00-0038621,DeMario Douglas,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,sportzino,21.5,True
+00-0038621,DeMario Douglas,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,sleeper,21.5,True
+00-0038621,DeMario Douglas,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,courtside,21.5,True
+00-0038621,DeMario Douglas,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,sportzino,25.5,True
+00-0038621,DeMario Douglas,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,betway,26.5,True
+00-0038621,DeMario Douglas,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,pinnacle,25.5,True
+00-0038621,DeMario Douglas,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,thescorebet,24.5,True
+00-0038621,DeMario Douglas,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,prophetx,23.5,True
+00-0038621,DeMario Douglas,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,prizepicks,25.5,True
+00-0038621,DeMario Douglas,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,sleeper,25.5,True
+00-0038621,DeMario Douglas,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,parlayplay,23.5,True
+00-0038621,DeMario Douglas,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,pick6,25.5,True
+00-0038621,DeMario Douglas,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,rebet,26.5,True
+00-0038621,DeMario Douglas,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,dabble,25.5,True
+00-0038621,DeMario Douglas,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,novig,25.5,True
+00-0038621,DeMario Douglas,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,courtside,24.5,True
+00-0038621,DeMario Douglas,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,pick6,28.5,True
 00-0038621,DeMario Douglas,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,dabble,27.5,True
 00-0038621,DeMario Douglas,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,hardrock,24.5,True
 00-0038621,DeMario Douglas,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,betway,26.5,True
@@ -6,7 +32,6 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0038621,DeMario Douglas,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,novig,28.5,True
 00-0038621,DeMario Douglas,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,pinnacle,30.5,True
 00-0038621,DeMario Douglas,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,prophetx,27.5,True
-00-0038621,DeMario Douglas,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,pick6,28.5,True
 00-0038621,DeMario Douglas,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,prizepicks,29.5,True
 00-0038621,DeMario Douglas,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,rebet,29.5,True
 00-0038621,DeMario Douglas,player_reception_yds,32669,2026-10-04T17:00:00Z,Buffalo Bills,New England Patriots,sportzino,27.5,True

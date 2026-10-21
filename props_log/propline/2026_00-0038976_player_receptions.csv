@@ -1,7 +1,31 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0038976,Marvin Mims Jr.,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,prizepicks,1.5,True
+00-0038976,Marvin Mims Jr.,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,prizepicks,1.5,True
+00-0038976,Marvin Mims Jr.,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,thescorebet,1.5,True
+00-0038976,Marvin Mims Jr.,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,sportzino,1.5,True
+00-0038976,Marvin Mims Jr.,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betmgm,1.5,True
+00-0038976,Marvin Mims Jr.,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,sleeper,1.5,True
+00-0038976,Marvin Mims Jr.,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,rebet,1.5,True
+00-0038976,Marvin Mims Jr.,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betway,1.5,True
+00-0038976,Marvin Mims Jr.,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,hardrock,0.5,True
+00-0038976,Marvin Mims Jr.,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,pinnacle,1.5,True
+00-0038976,Marvin Mims Jr.,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,prophetx,1.5,True
+00-0038976,Marvin Mims Jr.,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,fanduel,1.5,True
+00-0038976,Marvin Mims Jr.,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,polymarket_us,1.5,True
+00-0038976,Marvin Mims Jr.,player_receptions,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,rebet,1.5,True
+00-0038976,Marvin Mims Jr.,player_receptions,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,sleeper,1.5,True
+00-0038976,Marvin Mims Jr.,player_receptions,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,thescorebet,1.5,True
+00-0038976,Marvin Mims Jr.,player_receptions,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,betmgm,1.5,True
+00-0038976,Marvin Mims Jr.,player_receptions,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,sportzino,1.5,True
+00-0038976,Marvin Mims Jr.,player_receptions,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,betway,1.5,True
+00-0038976,Marvin Mims Jr.,player_receptions,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,fanduel,1.5,True
+00-0038976,Marvin Mims Jr.,player_receptions,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,prizepicks,1.5,True
+00-0038976,Marvin Mims Jr.,player_receptions,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,pinnacle,1.5,True
+00-0038976,Marvin Mims Jr.,player_receptions,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,dabble,1.5,True
+00-0038976,Marvin Mims Jr.,player_receptions,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,novig,0.5,True
+00-0038976,Marvin Mims Jr.,player_receptions,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,prophetx,1.5,True
 00-0038976,Marvin Mims Jr.,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,sportzino,1.5,True
 00-0038976,Marvin Mims Jr.,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,betway,1.5,True
+00-0038976,Marvin Mims Jr.,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,prizepicks,1.5,True
 00-0038976,Marvin Mims Jr.,player_receptions,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,fanduel,1.5,True
 00-0038976,Marvin Mims Jr.,player_receptions,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,prizepicks,1.5,True
 00-0038976,Marvin Mims Jr.,player_receptions,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,prophetx,1.5,True

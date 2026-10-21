@@ -1,4 +1,13 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040142,Kaleb Johnson,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,prizepicks,0.5,True
+00-0040142,Kaleb Johnson,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,sportzino,0.5,True
+00-0040142,Kaleb Johnson,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,fliff,0.5,True
+00-0040142,Kaleb Johnson,player_reception_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,parlayplay,0.5,True
+00-0040142,Kaleb Johnson,player_reception_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,prizepicks,0.5,True
+00-0040142,Kaleb Johnson,player_reception_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,dabble,0.5,True
+00-0040142,Kaleb Johnson,player_reception_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,fliff,0.5,True
+00-0040142,Kaleb Johnson,player_reception_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,underdog,0.5,True
+00-0040142,Kaleb Johnson,player_reception_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,sportzino,0.5,True
 00-0040142,Kaleb Johnson,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,prizepicks,3.5,True
 00-0040142,Kaleb Johnson,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,sportzino,3.5,True
 00-0040142,Kaleb Johnson,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,parlayplay,3.5,True

@@ -1,5 +1,39 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036275,D'Andre Swift,player_rush_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,bovada,64.5,True
+00-0036275,D'Andre Swift,player_rush_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,novig,62.5,True
+00-0036275,D'Andre Swift,player_rush_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,rebet,64.5,True
+00-0036275,D'Andre Swift,player_rush_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,prophetx,64.5,True
+00-0036275,D'Andre Swift,player_rush_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,pick6,63.5,True
+00-0036275,D'Andre Swift,player_rush_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,parlayplay,62.5,True
+00-0036275,D'Andre Swift,player_rush_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,betway,64.5,True
+00-0036275,D'Andre Swift,player_rush_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,pinnacle,64.5,True
+00-0036275,D'Andre Swift,player_rush_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,thescorebet,64.5,True
+00-0036275,D'Andre Swift,player_rush_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,courtside,64.5,True
+00-0036275,D'Andre Swift,player_rush_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,hardrock,79.5,True
+00-0036275,D'Andre Swift,player_rush_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,dabble,66.5,True
+00-0036275,D'Andre Swift,player_rush_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,sportzino,66.5,True
+00-0036275,D'Andre Swift,player_rush_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,prizepicks,34.5,True
+00-0036275,D'Andre Swift,player_rush_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,lowvig,65.5,True
+00-0036275,D'Andre Swift,player_rush_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,betonlineag,65.5,True
+00-0036275,D'Andre Swift,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,betonlineag,81.5,True
+00-0036275,D'Andre Swift,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,bovada,84.5,True
+00-0036275,D'Andre Swift,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,lowvig,81.5,True
+00-0036275,D'Andre Swift,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,sportzino,80.5,True
+00-0036275,D'Andre Swift,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,pick6,84.5,True
+00-0036275,D'Andre Swift,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,sleeper,83.5,True
+00-0036275,D'Andre Swift,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,dabble,70.5,True
+00-0036275,D'Andre Swift,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,novig,85.5,True
+00-0036275,D'Andre Swift,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,courtside,84.5,True
+00-0036275,D'Andre Swift,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,rebet,84.5,True
+00-0036275,D'Andre Swift,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,prophetx,82.5,True
+00-0036275,D'Andre Swift,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,pinnacle,83.5,True
+00-0036275,D'Andre Swift,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,betway,83.5,True
+00-0036275,D'Andre Swift,player_rush_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,thescorebet,84.5,True
 00-0036275,D'Andre Swift,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,sleeper,63.5,True
+00-0036275,D'Andre Swift,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,novig,63.5,True
+00-0036275,D'Andre Swift,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,pick6,64.5,True
+00-0036275,D'Andre Swift,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,betway,65.5,True
+00-0036275,D'Andre Swift,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,courtside,66.5,True
 00-0036275,D'Andre Swift,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,rebet,64.5,True
 00-0036275,D'Andre Swift,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,prophetx,65.5,True
 00-0036275,D'Andre Swift,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,sportzino,64.5,True
@@ -7,29 +41,25 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0036275,D'Andre Swift,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,parlayplay,65.5,True
 00-0036275,D'Andre Swift,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,dabble,66.5,True
 00-0036275,D'Andre Swift,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,hardrock,64.5,True
-00-0036275,D'Andre Swift,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,novig,63.5,True
-00-0036275,D'Andre Swift,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,pick6,64.5,True
-00-0036275,D'Andre Swift,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,betway,65.5,True
-00-0036275,D'Andre Swift,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,courtside,66.5,True
 00-0036275,D'Andre Swift,player_rush_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,bovada,64.5,True
-00-0036275,D'Andre Swift,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,novig,58.5,True
-00-0036275,D'Andre Swift,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,parlayplay,58.5,True
-00-0036275,D'Andre Swift,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,sleeper,63.5,True
-00-0036275,D'Andre Swift,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,betway,60.5,True
 00-0036275,D'Andre Swift,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,pinnacle,62.5,True
 00-0036275,D'Andre Swift,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,rebet,63.5,True
 00-0036275,D'Andre Swift,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,prophetx,74.5,True
 00-0036275,D'Andre Swift,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,courtside,58.5,True
 00-0036275,D'Andre Swift,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,dabble,60.5,True
+00-0036275,D'Andre Swift,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,novig,58.5,True
+00-0036275,D'Andre Swift,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,betway,60.5,True
+00-0036275,D'Andre Swift,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,sleeper,63.5,True
+00-0036275,D'Andre Swift,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,parlayplay,58.5,True
 00-0036275,D'Andre Swift,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,betonlineag,61.5,True
 00-0036275,D'Andre Swift,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,lowvig,61.5,True
 00-0036275,D'Andre Swift,player_rush_yds,32662,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,bovada,59.5,True
-00-0036275,D'Andre Swift,player_rush_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,bovada,60.5,True
+00-0036275,D'Andre Swift,player_rush_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,pinnacle,60.5,True
 00-0036275,D'Andre Swift,player_rush_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,prophetx,63.5,True
 00-0036275,D'Andre Swift,player_rush_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,betway,58.5,True
-00-0036275,D'Andre Swift,player_rush_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,pinnacle,60.5,True
+00-0036275,D'Andre Swift,player_rush_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,bovada,60.5,True
+00-0036275,D'Andre Swift,player_rush_yds,25074,2026-09-13T17:00:00Z,Carolina Panthers,Chicago Bears,betr,69.5,True
+00-0036275,D'Andre Swift,player_rush_yds,25074,2026-09-13T17:00:00Z,Carolina Panthers,Chicago Bears,bovada,59.5,True
 00-0036275,D'Andre Swift,player_rush_yds,25074,2026-09-13T17:00:00Z,Carolina Panthers,Chicago Bears,prophetx,62.5,True
 00-0036275,D'Andre Swift,player_rush_yds,25074,2026-09-13T17:00:00Z,Carolina Panthers,Chicago Bears,betway,63.5,True
 00-0036275,D'Andre Swift,player_rush_yds,25074,2026-09-13T17:00:00Z,Carolina Panthers,Chicago Bears,pinnacle,60.5,True
-00-0036275,D'Andre Swift,player_rush_yds,25074,2026-09-13T17:00:00Z,Carolina Panthers,Chicago Bears,betr,69.5,True
-00-0036275,D'Andre Swift,player_rush_yds,25074,2026-09-13T17:00:00Z,Carolina Panthers,Chicago Bears,bovada,59.5,True

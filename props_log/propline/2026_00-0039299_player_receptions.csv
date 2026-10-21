@@ -1,5 +1,31 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0039299,George Holani,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,betway,1.5,True
+00-0039299,George Holani,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,thescorebet,1.5,True
+00-0039299,George Holani,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betway,1.5,True
+00-0039299,George Holani,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,prophetx,1.5,True
+00-0039299,George Holani,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,rebet,1.5,True
+00-0039299,George Holani,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,sportzino,1.5,True
+00-0039299,George Holani,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,pinnacle,1.5,True
+00-0039299,George Holani,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,hardrock,0.5,True
+00-0039299,George Holani,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,fanduel,1.5,True
+00-0039299,George Holani,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,novig,0.5,True
+00-0039299,George Holani,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,prizepicks,1.5,True
+00-0039299,George Holani,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betmgm,1.5,True
+00-0039299,George Holani,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,sleeper,1.5,True
+00-0039299,George Holani,player_receptions,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,dabble,1.5,True
+00-0039299,George Holani,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,prophetx,1.5,True
+00-0039299,George Holani,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,prizepicks,1.5,True
+00-0039299,George Holani,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betway,1.5,True
+00-0039299,George Holani,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betrivers,1.5,True
+00-0039299,George Holani,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,dabble,1.5,True
+00-0039299,George Holani,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,fanduel,1.5,True
+00-0039299,George Holani,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,thescorebet,1.5,True
+00-0039299,George Holani,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,pinnacle,1.5,True
+00-0039299,George Holani,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,novig,1.5,True
+00-0039299,George Holani,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,sportzino,1.5,True
+00-0039299,George Holani,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,betmgm,1.5,True
+00-0039299,George Holani,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,rebet,1.5,True
+00-0039299,George Holani,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,sleeper,1.5,True
+00-0039299,George Holani,player_receptions,32687,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,bovada,1.5,True
 00-0039299,George Holani,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prizepicks,1.5,True
 00-0039299,George Holani,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,betmgm,1.5,True
 00-0039299,George Holani,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sleeper,1.5,True
@@ -9,8 +35,9 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0039299,George Holani,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,pinnacle,1.5,True
 00-0039299,George Holani,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sportzino,1.5,True
 00-0039299,George Holani,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,rebet,1.5,True
-00-0039299,George Holani,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,betway,1.5,True
+00-0039299,George Holani,player_receptions,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,betway,1.5,True
 00-0039299,George Holani,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,prizepicks,0.5,True
+00-0039299,George Holani,player_receptions,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,betway,1.5,True
 00-0039299,George Holani,player_receptions,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,prizepicks,1.5,True
 00-0039299,George Holani,player_receptions,32645,2026-09-20T20:25:38Z,Arizona Cardinals,Seattle Seahawks,betway,1.5,True
 00-0039299,George Holani,player_receptions,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,pinnacle,1.5,True

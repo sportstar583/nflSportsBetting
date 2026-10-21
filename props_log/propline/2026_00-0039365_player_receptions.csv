@@ -1,4 +1,14 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039365,Jacob Cowing,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,sleeper,1.5,True
+00-0039365,Jacob Cowing,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,sportzino,0.5,True
+00-0039365,Jacob Cowing,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,prizepicks,0.5,True
+00-0039365,Jacob Cowing,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,1.5,True
+00-0039365,Jacob Cowing,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,prophetx,1.5,True
+00-0039365,Jacob Cowing,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,1.5,True
+00-0039365,Jacob Cowing,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,1.5,True
+00-0039365,Jacob Cowing,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fliff,1.5,True
+00-0039365,Jacob Cowing,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,hardrock,5.5,True
+00-0039365,Jacob Cowing,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,underdog,1.5,True
 00-0039365,Jacob Cowing,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,prizepicks,0.5,True
 00-0039365,Jacob Cowing,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,underdog,0.5,True
 00-0039365,Jacob Cowing,player_receptions,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,sportzino,0.5,True

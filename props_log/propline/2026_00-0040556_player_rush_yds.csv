@@ -1,4 +1,18 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040556,Corey Kiner,player_rush_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,hardrock,17.5,True
+00-0040556,Corey Kiner,player_rush_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,prizepicks,17.5,True
+00-0040556,Corey Kiner,player_rush_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,draftkings,17.5,True
+00-0040556,Corey Kiner,player_rush_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,sleeper,17.5,True
+00-0040556,Corey Kiner,player_rush_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,courtside,17.5,True
+00-0040556,Corey Kiner,player_rush_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,fanduel,17.5,True
+00-0040556,Corey Kiner,player_rush_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,betrivers,18.5,True
+00-0040556,Corey Kiner,player_rush_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,parlayplay,17.5,True
+00-0040556,Corey Kiner,player_rush_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,fliff,17.5,True
+00-0040556,Corey Kiner,player_rush_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,novig,17.5,True
+00-0040556,Corey Kiner,player_rush_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,prophetx,17.5,True
+00-0040556,Corey Kiner,player_rush_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,fanatics,15.5,True
+00-0040556,Corey Kiner,player_rush_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,pinnacle,17.5,True
+00-0040556,Corey Kiner,player_rush_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,pick6,17.5,True
 00-0040556,Corey Kiner,player_rush_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,fanatics,5.5,True
 00-0040556,Corey Kiner,player_rush_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,prophetx,9.5,True
 00-0040556,Corey Kiner,player_rush_yds,25070,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,prizepicks,2.5,True

@@ -1,6 +1,46 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0038551,Kendre Miller,player_rush_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,fanatics,5.5,True
+00-0038551,Kendre Miller,player_rush_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,parlayplay,33.5,True
+00-0038551,Kendre Miller,player_rush_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,courtside,33.5,True
+00-0038551,Kendre Miller,player_rush_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,sleeper,35.5,True
+00-0038551,Kendre Miller,player_rush_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,prophetx,33.5,True
+00-0038551,Kendre Miller,player_rush_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,pinnacle,36.5,True
+00-0038551,Kendre Miller,player_rush_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,thescorebet,34.5,True
+00-0038551,Kendre Miller,player_rush_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,rebet,36.5,True
+00-0038551,Kendre Miller,player_rush_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,prizepicks,14.5,True
+00-0038551,Kendre Miller,player_rush_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,bovada,34.5,True
+00-0038551,Kendre Miller,player_rush_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,dabble,34.5,True
+00-0038551,Kendre Miller,player_rush_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,hardrock,62.5,True
+00-0038551,Kendre Miller,player_rush_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betway,34.5,True
+00-0038551,Kendre Miller,player_rush_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,novig,36.5,True
+00-0038551,Kendre Miller,player_rush_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,pick6,36.5,True
+00-0038551,Kendre Miller,player_rush_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,sportzino,38.5,True
+00-0038551,Kendre Miller,player_rush_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,betway,20.5,True
+00-0038551,Kendre Miller,player_rush_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,pinnacle,23.5,True
+00-0038551,Kendre Miller,player_rush_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,rebet,21.5,True
+00-0038551,Kendre Miller,player_rush_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,prizepicks,19.5,True
+00-0038551,Kendre Miller,player_rush_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,prophetx,18.5,True
+00-0038551,Kendre Miller,player_rush_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,courtside,19.5,True
+00-0038551,Kendre Miller,player_rush_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,novig,23.5,True
+00-0038551,Kendre Miller,player_rush_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,pick6,23.5,True
+00-0038551,Kendre Miller,player_rush_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,sportzino,22.5,True
+00-0038551,Kendre Miller,player_rush_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,sleeper,22.5,True
+00-0038551,Kendre Miller,player_rush_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,dabble,22.5,True
+00-0038551,Kendre Miller,player_rush_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,26.5,True
+00-0038551,Kendre Miller,player_rush_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,prizepicks,19.5,True
+00-0038551,Kendre Miller,player_rush_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,rebet,26.5,True
+00-0038551,Kendre Miller,player_rush_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,courtside,27.5,True
+00-0038551,Kendre Miller,player_rush_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,dabble,28.5,True
+00-0038551,Kendre Miller,player_rush_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,sportzino,28.5,True
+00-0038551,Kendre Miller,player_rush_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,26.5,True
+00-0038551,Kendre Miller,player_rush_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,prophetx,27.5,True
+00-0038551,Kendre Miller,player_rush_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,sleeper,26.5,True
+00-0038551,Kendre Miller,player_rush_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,parlayplay,21.5,True
+00-0038551,Kendre Miller,player_rush_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,lowvig,26.5,True
+00-0038551,Kendre Miller,player_rush_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,novig,21.5,True
+00-0038551,Kendre Miller,player_rush_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,hardrock,24.5,True
+00-0038551,Kendre Miller,player_rush_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,pick6,26.5,True
 00-0038551,Kendre Miller,player_rush_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,polymarket_us,19.5,True
+00-0038551,Kendre Miller,player_rush_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,fanatics,5.5,True
 00-0038551,Kendre Miller,player_rush_yds,153600,2026-08-29T00:00:00Z,Dallas Cowboys,New Orleans Saints,underdog,20.5,True
-00-0038551,Kendre Miller,player_rush_yds,59765,2026-08-15T20:00:00Z,New Orleans Saints,Jacksonville Jaguars,underdog,22.5,True
 00-0038551,Kendre Miller,player_rush_yds,59765,2026-08-15T20:00:00Z,New Orleans Saints,Jacksonville Jaguars,betr,22.5,True
+00-0038551,Kendre Miller,player_rush_yds,59765,2026-08-15T20:00:00Z,New Orleans Saints,Jacksonville Jaguars,underdog,22.5,True

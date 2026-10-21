@@ -1,0 +1,14 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038951,Sean Tucker,player_rush_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,fanatics,10.5,True
+00-0038951,Sean Tucker,player_rush_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,prophetx,11.5,True
+00-0038951,Sean Tucker,player_rush_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,rebet,9.5,True
+00-0038951,Sean Tucker,player_rush_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,prizepicks,8.5,True
+00-0038951,Sean Tucker,player_rush_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,pinnacle,9.5,True
+00-0038951,Sean Tucker,player_rush_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,sportzino,10.5,True
+00-0038951,Sean Tucker,player_rush_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,dabble,10.5,True
+00-0038951,Sean Tucker,player_rush_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betway,11.5,True
+00-0038951,Sean Tucker,player_rush_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,parlayplay,11.5,True
+00-0038951,Sean Tucker,player_rush_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,pick6,11.5,True
+00-0038951,Sean Tucker,player_rush_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,prizepicks,9.5,True
+00-0038951,Sean Tucker,player_rush_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,fanatics,10.5,True
+00-0038951,Sean Tucker,player_rush_yds,157481,2026-08-28T23:30:00Z,Jacksonville Jaguars,Tampa Bay Buccaneers,underdog,28.5,True

@@ -1,20 +1,46 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0033106,Jared Goff,player_pass_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,bovada,260.5,True
+00-0033106,Jared Goff,player_pass_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,pick6,285.5,True
+00-0033106,Jared Goff,player_pass_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,rebet,285.5,True
+00-0033106,Jared Goff,player_pass_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,dabble,279.5,True
+00-0033106,Jared Goff,player_pass_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,pinnacle,280.5,True
+00-0033106,Jared Goff,player_pass_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,bovada,280.5,True
+00-0033106,Jared Goff,player_pass_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,betway,279.5,True
+00-0033106,Jared Goff,player_pass_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,sportzino,279.5,True
+00-0033106,Jared Goff,player_pass_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,prophetx,285.5,True
+00-0033106,Jared Goff,player_pass_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,thescorebet,284.5,True
+00-0033106,Jared Goff,player_pass_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,novig,285.5,True
+00-0033106,Jared Goff,player_pass_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,courtside,282.5,True
+00-0033106,Jared Goff,player_pass_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,sleeper,281.5,True
+00-0033106,Jared Goff,player_pass_yds,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,courtside,255.5,True
+00-0033106,Jared Goff,player_pass_yds,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,hardrock,249.5,True
+00-0033106,Jared Goff,player_pass_yds,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,pinnacle,257.5,True
+00-0033106,Jared Goff,player_pass_yds,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,prophetx,260.5,True
+00-0033106,Jared Goff,player_pass_yds,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,sleeper,259.5,True
+00-0033106,Jared Goff,player_pass_yds,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betonlineag,260.5,True
+00-0033106,Jared Goff,player_pass_yds,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,lowvig,260.5,True
+00-0033106,Jared Goff,player_pass_yds,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,bovada,255.5,True
+00-0033106,Jared Goff,player_pass_yds,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,rebet,257.5,True
+00-0033106,Jared Goff,player_pass_yds,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,pick6,199.5,True
+00-0033106,Jared Goff,player_pass_yds,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,sportzino,263.5,True
+00-0033106,Jared Goff,player_pass_yds,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betway,259.5,True
+00-0033106,Jared Goff,player_pass_yds,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,dabble,257.5,True
+00-0033106,Jared Goff,player_pass_yds,32676,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,novig,256.5,True
+00-0033106,Jared Goff,player_pass_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,betway,260.5,True
+00-0033106,Jared Goff,player_pass_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,courtside,265.5,True
 00-0033106,Jared Goff,player_pass_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,prophetx,265.5,True
 00-0033106,Jared Goff,player_pass_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,novig,257.5,True
 00-0033106,Jared Goff,player_pass_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,dabble,248.5,True
 00-0033106,Jared Goff,player_pass_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,pinnacle,258.5,True
 00-0033106,Jared Goff,player_pass_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,sleeper,259.5,True
-00-0033106,Jared Goff,player_pass_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,betway,260.5,True
-00-0033106,Jared Goff,player_pass_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,courtside,265.5,True
-00-0033106,Jared Goff,player_pass_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,betway,269.5,True
-00-0033106,Jared Goff,player_pass_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,prophetx,257.5,True
+00-0033106,Jared Goff,player_pass_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,bovada,260.5,True
 00-0033106,Jared Goff,player_pass_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,pinnacle,258.5,True
-00-0033106,Jared Goff,player_pass_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,bovada,255.5,True
+00-0033106,Jared Goff,player_pass_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,prophetx,257.5,True
+00-0033106,Jared Goff,player_pass_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,betway,269.5,True
 00-0033106,Jared Goff,player_pass_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,lowvig,260.5,True
 00-0033106,Jared Goff,player_pass_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,betonlineag,260.5,True
-00-0033106,Jared Goff,player_pass_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,prophetx,260.5,True
-00-0033106,Jared Goff,player_pass_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betr,261.5,True
+00-0033106,Jared Goff,player_pass_yds,23214,2026-09-18T00:15:00Z,Buffalo Bills,Detroit Lions,bovada,255.5,True
 00-0033106,Jared Goff,player_pass_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,pinnacle,258.5,True
 00-0033106,Jared Goff,player_pass_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betway,259.5,True
+00-0033106,Jared Goff,player_pass_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betr,261.5,True
 00-0033106,Jared Goff,player_pass_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,bovada,259.5,True
+00-0033106,Jared Goff,player_pass_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,prophetx,260.5,True

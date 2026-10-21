@@ -1,4 +1,16 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039365,Jacob Cowing,player_reception_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,polymarket_us,69.5,True
+00-0039365,Jacob Cowing,player_reception_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,prizepicks,4.5,True
+00-0039365,Jacob Cowing,player_reception_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,sleeper,10.5,True
+00-0039365,Jacob Cowing,player_reception_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,sportzino,9.5,True
+00-0039365,Jacob Cowing,player_reception_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,hardrock,27.5,True
+00-0039365,Jacob Cowing,player_reception_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,courtside,14.5,True
+00-0039365,Jacob Cowing,player_reception_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,10.5,True
+00-0039365,Jacob Cowing,player_reception_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,novig,10.5,True
+00-0039365,Jacob Cowing,player_reception_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,parlayplay,9.5,True
+00-0039365,Jacob Cowing,player_reception_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,underdog,14.5,True
+00-0039365,Jacob Cowing,player_reception_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fliff,10.5,True
+00-0039365,Jacob Cowing,player_reception_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,dabble,9.5,True
 00-0039365,Jacob Cowing,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,prizepicks,5.5,True
 00-0039365,Jacob Cowing,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,parlayplay,5.5,True
 00-0039365,Jacob Cowing,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,underdog,5.5,True

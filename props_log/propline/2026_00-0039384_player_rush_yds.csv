@@ -1,0 +1,8 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039384,Tyrone Tracy Jr.,player_rush_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,fanatics,5.5,True
+00-0039384,Tyrone Tracy Jr.,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,parlayplay,15.5,True
+00-0039384,Tyrone Tracy Jr.,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,polymarket_us,29.5,True
+00-0039384,Tyrone Tracy Jr.,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,prizepicks,15.5,True
+00-0039384,Tyrone Tracy Jr.,player_rush_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,betmgm,15.5,True
+00-0039384,Tyrone Tracy Jr.,player_rush_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,prizepicks,4.5,True
+00-0039384,Tyrone Tracy Jr.,player_rush_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,prophetx,16.5,True

@@ -1,4 +1,10 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036849,Tutu Atwell,player_receptions,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,prizepicks,0.5,True
+00-0036849,Tutu Atwell,player_receptions,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,sportzino,0.5,True
+00-0036849,Tutu Atwell,player_receptions,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,fliff,0.5,True
+00-0036849,Tutu Atwell,player_receptions,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,underdog,0.5,True
+00-0036849,Tutu Atwell,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,sportzino,0.5,True
+00-0036849,Tutu Atwell,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,prizepicks,0.5,True
 00-0036849,Tutu Atwell,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,fanduel,0.5,True
 00-0036849,Tutu Atwell,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betmgm,0.5,True
 00-0036849,Tutu Atwell,player_receptions,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,prizepicks,0.5,True

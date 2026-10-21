@@ -1,4 +1,36 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0037740,Garrett Wilson,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,novig,70.5,True
+00-0037740,Garrett Wilson,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,rebet,72.5,True
+00-0037740,Garrett Wilson,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,pick6,71.5,True
+00-0037740,Garrett Wilson,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,pinnacle,70.5,True
+00-0037740,Garrett Wilson,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,dabble,72.5,True
+00-0037740,Garrett Wilson,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,betway,70.5,True
+00-0037740,Garrett Wilson,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,hardrock,99.5,True
+00-0037740,Garrett Wilson,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,sportzino,70.5,True
+00-0037740,Garrett Wilson,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,courtside,75.5,True
+00-0037740,Garrett Wilson,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,prophetx,71.5,True
+00-0037740,Garrett Wilson,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,sleeper,71.5,True
+00-0037740,Garrett Wilson,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,prizepicks,39.5,True
+00-0037740,Garrett Wilson,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,bovada,72.5,True
+00-0037740,Garrett Wilson,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,bovada,65.5,True
+00-0037740,Garrett Wilson,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,pick6,68.5,True
+00-0037740,Garrett Wilson,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,prizepicks,60.5,True
+00-0037740,Garrett Wilson,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,parlayplay,69.5,True
+00-0037740,Garrett Wilson,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,betway,67.5,True
+00-0037740,Garrett Wilson,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,sportzino,69.5,True
+00-0037740,Garrett Wilson,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,sleeper,68.5,True
+00-0037740,Garrett Wilson,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,thescorebet,69.5,True
+00-0037740,Garrett Wilson,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,prophetx,66.5,True
+00-0037740,Garrett Wilson,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,courtside,65.5,True
+00-0037740,Garrett Wilson,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,pinnacle,69.5,True
+00-0037740,Garrett Wilson,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,novig,68.5,True
+00-0037740,Garrett Wilson,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,dabble,69.5,True
+00-0037740,Garrett Wilson,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,rebet,69.5,True
+00-0037740,Garrett Wilson,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,pick6,76.5,True
+00-0037740,Garrett Wilson,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,prophetx,77.5,True
+00-0037740,Garrett Wilson,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,betway,76.5,True
+00-0037740,Garrett Wilson,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,sleeper,75.5,True
+00-0037740,Garrett Wilson,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,prizepicks,70.5,True
 00-0037740,Garrett Wilson,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,sportzino,72.5,True
 00-0037740,Garrett Wilson,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,courtside,75.5,True
 00-0037740,Garrett Wilson,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,pinnacle,75.5,True
@@ -6,29 +38,24 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0037740,Garrett Wilson,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,dabble,72.5,True
 00-0037740,Garrett Wilson,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,novig,73.5,True
 00-0037740,Garrett Wilson,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,hardrock,79.5,True
-00-0037740,Garrett Wilson,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,pick6,76.5,True
-00-0037740,Garrett Wilson,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,prophetx,77.5,True
-00-0037740,Garrett Wilson,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,betway,76.5,True
-00-0037740,Garrett Wilson,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,sleeper,75.5,True
-00-0037740,Garrett Wilson,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,prizepicks,70.5,True
 00-0037740,Garrett Wilson,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,bovada,75.5,True
-00-0037740,Garrett Wilson,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,sleeper,77.5,True
-00-0037740,Garrett Wilson,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,prizepicks,23.5,True
-00-0037740,Garrett Wilson,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,prophetx,68.5,True
-00-0037740,Garrett Wilson,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,novig,67.5,True
-00-0037740,Garrett Wilson,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,betway,76.5,True
 00-0037740,Garrett Wilson,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,courtside,64.5,True
 00-0037740,Garrett Wilson,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,pinnacle,77.5,True
+00-0037740,Garrett Wilson,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,sleeper,77.5,True
+00-0037740,Garrett Wilson,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,novig,67.5,True
+00-0037740,Garrett Wilson,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,prophetx,68.5,True
+00-0037740,Garrett Wilson,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,prizepicks,23.5,True
 00-0037740,Garrett Wilson,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,bovada,75.5,True
+00-0037740,Garrett Wilson,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,betway,76.5,True
+00-0037740,Garrett Wilson,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,bovada,65.5,True
+00-0037740,Garrett Wilson,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prophetx,65.5,True
+00-0037740,Garrett Wilson,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prizepicks,28.5,True
 00-0037740,Garrett Wilson,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,betway,67.5,True
 00-0037740,Garrett Wilson,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,pinnacle,68.5,True
-00-0037740,Garrett Wilson,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prizepicks,28.5,True
-00-0037740,Garrett Wilson,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prophetx,65.5,True
-00-0037740,Garrett Wilson,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,bovada,65.5,True
-00-0037740,Garrett Wilson,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,betr,61.5,True
-00-0037740,Garrett Wilson,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,prizepicks,19.5,True
-00-0037740,Garrett Wilson,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,bovada,63.5,True
 00-0037740,Garrett Wilson,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,betway,61.5,True
 00-0037740,Garrett Wilson,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,pinnacle,61.5,True
 00-0037740,Garrett Wilson,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,prophetx,61.5,True
+00-0037740,Garrett Wilson,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,betr,61.5,True
+00-0037740,Garrett Wilson,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,prizepicks,19.5,True
+00-0037740,Garrett Wilson,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,bovada,63.5,True
 00-0037740,Garrett Wilson,player_reception_yds,147550,2026-08-21T23:00:00Z,Pittsburgh Steelers,New York Jets,underdog,13.5,True

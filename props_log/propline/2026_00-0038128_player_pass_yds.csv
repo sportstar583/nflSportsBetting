@@ -1,4 +1,17 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038128,Malik Willis,player_pass_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,betway,190.5,True
+00-0038128,Malik Willis,player_pass_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,prophetx,186.5,True
+00-0038128,Malik Willis,player_pass_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,pick6,194.5,True
+00-0038128,Malik Willis,player_pass_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,thescorebet,194.5,True
+00-0038128,Malik Willis,player_pass_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,prizepicks,159.5,True
+00-0038128,Malik Willis,player_pass_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,courtside,192.5,True
+00-0038128,Malik Willis,player_pass_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,pinnacle,190.5,True
+00-0038128,Malik Willis,player_pass_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,rebet,189.5,True
+00-0038128,Malik Willis,player_pass_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,bovada,189.5,True
+00-0038128,Malik Willis,player_pass_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,sportzino,184.5,True
+00-0038128,Malik Willis,player_pass_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,sleeper,191.5,True
+00-0038128,Malik Willis,player_pass_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,dabble,182.5,True
+00-0038128,Malik Willis,player_pass_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,novig,190.5,True
 00-0038128,Malik Willis,player_pass_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,sportzino,168.5,True
 00-0038128,Malik Willis,player_pass_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,betway,166.5,True
 00-0038128,Malik Willis,player_pass_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,sleeper,170.5,True
@@ -13,8 +26,8 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0038128,Malik Willis,player_pass_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,rebet,172.5,True
 00-0038128,Malik Willis,player_pass_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,prizepicks,138.5,True
 00-0038128,Malik Willis,player_pass_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,pinnacle,169.5,True
+00-0038128,Malik Willis,player_pass_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,prizepicks,145.5,True
 00-0038128,Malik Willis,player_pass_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,parlayplay,174.5,True
-00-0038128,Malik Willis,player_pass_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,bovada,175.5,True
 00-0038128,Malik Willis,player_pass_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,sleeper,176.5,True
 00-0038128,Malik Willis,player_pass_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,novig,175.5,True
 00-0038128,Malik Willis,player_pass_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,pinnacle,174.5,True
@@ -22,18 +35,18 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0038128,Malik Willis,player_pass_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,dabble,182.5,True
 00-0038128,Malik Willis,player_pass_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,courtside,176.5,True
 00-0038128,Malik Willis,player_pass_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,prophetx,175.5,True
-00-0038128,Malik Willis,player_pass_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,prizepicks,145.5,True
-00-0038128,Malik Willis,player_pass_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,prizepicks,111.5,True
-00-0038128,Malik Willis,player_pass_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,betway,168.5,True
+00-0038128,Malik Willis,player_pass_yds,32650,2026-09-27T17:00:00Z,Miami Dolphins,Kansas City Chiefs,bovada,175.5,True
 00-0038128,Malik Willis,player_pass_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,hardrock,324.5,True
-00-0038128,Malik Willis,player_pass_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,prophetx,178.5,True
+00-0038128,Malik Willis,player_pass_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,betway,168.5,True
+00-0038128,Malik Willis,player_pass_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,prizepicks,111.5,True
 00-0038128,Malik Willis,player_pass_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,bovada,178.5,True
+00-0038128,Malik Willis,player_pass_yds,32643,2026-09-20T20:26:23Z,San Francisco 49ers,Miami Dolphins,prophetx,178.5,True
+00-0038128,Malik Willis,player_pass_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,bovada,179.5,True
+00-0038128,Malik Willis,player_pass_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,prizepicks,100.5,True
+00-0038128,Malik Willis,player_pass_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,betway,179.5,True
+00-0038128,Malik Willis,player_pass_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,prophetx,182.5,True
+00-0038128,Malik Willis,player_pass_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,betr,180.5,True
 00-0038128,Malik Willis,player_pass_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,pinnacle,179.5,True
 00-0038128,Malik Willis,player_pass_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,betmgm,175.5,True
-00-0038128,Malik Willis,player_pass_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,betr,180.5,True
-00-0038128,Malik Willis,player_pass_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,prophetx,182.5,True
-00-0038128,Malik Willis,player_pass_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,betway,179.5,True
-00-0038128,Malik Willis,player_pass_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,prizepicks,100.5,True
-00-0038128,Malik Willis,player_pass_yds,25081,2026-09-13T20:25:00Z,Las Vegas Raiders,Miami Dolphins,bovada,179.5,True
 00-0038128,Malik Willis,player_pass_yds,59771,2026-08-14T23:00:00Z,Washington Commanders,Miami Dolphins,betr,33.5,True
 00-0038128,Malik Willis,player_pass_yds,59771,2026-08-14T23:00:00Z,Washington Commanders,Miami Dolphins,underdog,35.5,True

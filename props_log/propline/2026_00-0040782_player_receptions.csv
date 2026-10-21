@@ -1,0 +1,5 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040782,Isaiah Bond,player_receptions,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,dabble,0.5,True
+00-0040782,Isaiah Bond,player_receptions,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,sportzino,0.5,True
+00-0040782,Isaiah Bond,player_receptions,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,prizepicks,0.5,True
+00-0040782,Isaiah Bond,player_receptions,46678,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,parlayplay,0.5,True

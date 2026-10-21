@@ -1,4 +1,36 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039811,MarShawn Lloyd,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,pinnacle,10.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,courtside,11.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,betway,10.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,prophetx,12.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,sportzino,11.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,rebet,10.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,pick6,10.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,sleeper,11.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,dabble,11.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,thescorebet,10.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,parlayplay,10.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,novig,10.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,hardrock,28.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,lowvig,12.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,betonlineag,12.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,prizepicks,4.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,lowvig,12.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,betonlineag,12.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,betway,12.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,sportzino,13.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,sleeper,13.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,rebet,12.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,parlayplay,13.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,prizepicks,4.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,novig,12.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,prophetx,13.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,thescorebet,12.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,dabble,13.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,pinnacle,12.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,pick6,14.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,prizepicks,5.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,hardrock,5.5,True
 00-0039811,MarShawn Lloyd,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,rebet,6.5,True
 00-0039811,MarShawn Lloyd,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,pick6,7.5,True
 00-0039811,MarShawn Lloyd,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,sportzino,5.5,True
@@ -9,21 +41,19 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0039811,MarShawn Lloyd,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,novig,6.5,True
 00-0039811,MarShawn Lloyd,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,fliff,6.5,True
 00-0039811,MarShawn Lloyd,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,parlayplay,7.5,True
-00-0039811,MarShawn Lloyd,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,prizepicks,5.5,True
-00-0039811,MarShawn Lloyd,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,hardrock,5.5,True
 00-0039811,MarShawn Lloyd,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,bovada,7.5,True
-00-0039811,MarShawn Lloyd,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,novig,5.5,True
-00-0039811,MarShawn Lloyd,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,prophetx,6.5,True
-00-0039811,MarShawn Lloyd,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,prizepicks,0.5,True
 00-0039811,MarShawn Lloyd,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,courtside,6.5,True
 00-0039811,MarShawn Lloyd,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,pinnacle,5.5,True
 00-0039811,MarShawn Lloyd,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,betmgm,5.5,True
 00-0039811,MarShawn Lloyd,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,parlayplay,6.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,prophetx,6.5,True
 00-0039811,MarShawn Lloyd,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,hardrock,24.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,novig,5.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,prizepicks,0.5,True
+00-0039811,MarShawn Lloyd,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prophetx,9.5,True
 00-0039811,MarShawn Lloyd,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prizepicks,0.5,True
 00-0039811,MarShawn Lloyd,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,pinnacle,6.5,True
 00-0039811,MarShawn Lloyd,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,hardrock,24.5,True
-00-0039811,MarShawn Lloyd,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prophetx,9.5,True
 00-0039811,MarShawn Lloyd,player_reception_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,prophetx,11.5,True
 00-0039811,MarShawn Lloyd,player_reception_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betway,11.5,True
 00-0039811,MarShawn Lloyd,player_reception_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betr,11.5,True

@@ -1,5 +1,32 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0034837,Calvin Ridley,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,prophetx,5.5,True
+00-0034837,Calvin Ridley,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,hardrock,29.5,True
+00-0034837,Calvin Ridley,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,prophetx,13.0,True
+00-0034837,Calvin Ridley,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,prizepicks,4.5,True
+00-0034837,Calvin Ridley,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,rebet,12.5,True
+00-0034837,Calvin Ridley,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,pick6,13.5,True
+00-0034837,Calvin Ridley,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,fanduel,11.5,True
+00-0034837,Calvin Ridley,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,betway,13.5,True
+00-0034837,Calvin Ridley,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,sportzino,13.5,True
+00-0034837,Calvin Ridley,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,courtside,12.5,True
+00-0034837,Calvin Ridley,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,sleeper,12.5,True
+00-0034837,Calvin Ridley,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,betrivers,11.5,True
+00-0034837,Calvin Ridley,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,thescorebet,11.5,True
+00-0034837,Calvin Ridley,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,dabble,13.5,True
+00-0034837,Calvin Ridley,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,novig,16.5,True
+00-0034837,Calvin Ridley,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,parlayplay,13.5,True
+00-0034837,Calvin Ridley,player_reception_yds,32682,2026-10-11T17:00:00Z,Tennessee Titans,Houston Texans,novig,7.5,True
+00-0034837,Calvin Ridley,player_reception_yds,32682,2026-10-11T17:00:00Z,Tennessee Titans,Houston Texans,betrivers,6.5,True
+00-0034837,Calvin Ridley,player_reception_yds,32682,2026-10-11T17:00:00Z,Tennessee Titans,Houston Texans,hardrock,6.5,True
+00-0034837,Calvin Ridley,player_reception_yds,32682,2026-10-11T17:00:00Z,Tennessee Titans,Houston Texans,thescorebet,9.5,True
+00-0034837,Calvin Ridley,player_reception_yds,32682,2026-10-11T17:00:00Z,Tennessee Titans,Houston Texans,prophetx,6.5,True
+00-0034837,Calvin Ridley,player_reception_yds,32682,2026-10-11T17:00:00Z,Tennessee Titans,Houston Texans,betway,8.5,True
+00-0034837,Calvin Ridley,player_reception_yds,32682,2026-10-11T17:00:00Z,Tennessee Titans,Houston Texans,courtside,9.5,True
+00-0034837,Calvin Ridley,player_reception_yds,32682,2026-10-11T17:00:00Z,Tennessee Titans,Houston Texans,pinnacle,8.5,True
+00-0034837,Calvin Ridley,player_reception_yds,32682,2026-10-11T17:00:00Z,Tennessee Titans,Houston Texans,pick6,7.5,True
+00-0034837,Calvin Ridley,player_reception_yds,32682,2026-10-11T17:00:00Z,Tennessee Titans,Houston Texans,fliff,7.5,True
+00-0034837,Calvin Ridley,player_reception_yds,32682,2026-10-11T17:00:00Z,Tennessee Titans,Houston Texans,sportzino,7.5,True
+00-0034837,Calvin Ridley,player_reception_yds,32682,2026-10-11T17:00:00Z,Tennessee Titans,Houston Texans,sleeper,7.5,True
+00-0034837,Calvin Ridley,player_reception_yds,32682,2026-10-11T17:00:00Z,Tennessee Titans,Houston Texans,dabble,7.5,True
 00-0034837,Calvin Ridley,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,dabble,10.5,True
 00-0034837,Calvin Ridley,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,courtside,7.5,True
 00-0034837,Calvin Ridley,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,parlayplay,7.5,True
@@ -12,6 +39,7 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0034837,Calvin Ridley,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,pinnacle,5.5,True
 00-0034837,Calvin Ridley,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,pick6,4.5,True
 00-0034837,Calvin Ridley,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,betway,8.5,True
+00-0034837,Calvin Ridley,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,prophetx,5.5,True
 00-0034837,Calvin Ridley,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,parlayplay,14.5,True
 00-0034837,Calvin Ridley,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,dabble,14.5,True
 00-0034837,Calvin Ridley,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,sleeper,13.5,True

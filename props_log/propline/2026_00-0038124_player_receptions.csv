@@ -1,6 +1,30 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0038124,Christian Watson,player_receptions,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,courtside,5.5,True
+00-0038124,Christian Watson,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,fanduel,4.5,True
+00-0038124,Christian Watson,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,prizepicks,3.5,True
+00-0038124,Christian Watson,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,hardrock,10.5,True
+00-0038124,Christian Watson,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,rebet,4.5,True
+00-0038124,Christian Watson,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,sportzino,4.5,True
+00-0038124,Christian Watson,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,sleeper,4.5,True
+00-0038124,Christian Watson,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,prophetx,6.5,True
+00-0038124,Christian Watson,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,lowvig,4.5,True
+00-0038124,Christian Watson,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,betonlineag,4.5,True
+00-0038124,Christian Watson,player_receptions,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,dabble,4.5,True
+00-0038124,Christian Watson,player_receptions,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,prizepicks,3.5,True
+00-0038124,Christian Watson,player_receptions,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,prophetx,4.5,True
+00-0038124,Christian Watson,player_receptions,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,betmgm,4.5,True
+00-0038124,Christian Watson,player_receptions,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,novig,7.5,True
+00-0038124,Christian Watson,player_receptions,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,dabble,4.5,True
+00-0038124,Christian Watson,player_receptions,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,pinnacle,4.5,True
+00-0038124,Christian Watson,player_receptions,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,thescorebet,4.5,True
+00-0038124,Christian Watson,player_receptions,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,fanduel,4.5,True
+00-0038124,Christian Watson,player_receptions,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,betway,4.5,True
+00-0038124,Christian Watson,player_receptions,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,lowvig,4.5,True
+00-0038124,Christian Watson,player_receptions,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,betonlineag,4.5,True
+00-0038124,Christian Watson,player_receptions,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,sportzino,3.5,True
+00-0038124,Christian Watson,player_receptions,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,sleeper,4.5,True
+00-0038124,Christian Watson,player_receptions,46671,2026-10-11T17:00:00Z,Green Bay Packers,Chicago Bears,rebet,4.5,True
 00-0038124,Christian Watson,player_receptions,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,betway,4.5,True
+00-0038124,Christian Watson,player_receptions,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,courtside,5.5,True
 00-0038124,Christian Watson,player_receptions,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,fanduel,4.5,True
 00-0038124,Christian Watson,player_receptions,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,pinnacle,4.5,True
 00-0038124,Christian Watson,player_receptions,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,sportzino,4.5,True
@@ -13,26 +37,26 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0038124,Christian Watson,player_receptions,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,prizepicks,4.5,True
 00-0038124,Christian Watson,player_receptions,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,prophetx,4.5,True
 00-0038124,Christian Watson,player_receptions,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,hardrock,4.5,True
-00-0038124,Christian Watson,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,prizepicks,2.5,True
-00-0038124,Christian Watson,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,hardrock,1.5,True
 00-0038124,Christian Watson,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,pinnacle,4.5,True
 00-0038124,Christian Watson,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,novig,4.5,True
 00-0038124,Christian Watson,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,betway,4.5,True
 00-0038124,Christian Watson,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,betmgm,4.5,True
+00-0038124,Christian Watson,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,lowvig,4.5,True
+00-0038124,Christian Watson,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,betonlineag,4.5,True
 00-0038124,Christian Watson,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,fanduel,4.5,True
 00-0038124,Christian Watson,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,prophetx,4.5,True
-00-0038124,Christian Watson,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,betonlineag,4.5,True
-00-0038124,Christian Watson,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,lowvig,4.5,True
+00-0038124,Christian Watson,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,prizepicks,2.5,True
+00-0038124,Christian Watson,player_receptions,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,hardrock,1.5,True
+00-0038124,Christian Watson,player_receptions,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,hardrock,9.5,True
+00-0038124,Christian Watson,player_receptions,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,pinnacle,4.5,True
+00-0038124,Christian Watson,player_receptions,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prizepicks,3.5,True
 00-0038124,Christian Watson,player_receptions,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,betway,4.5,True
 00-0038124,Christian Watson,player_receptions,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,betmgm,4.5,True
 00-0038124,Christian Watson,player_receptions,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,fanduel,4.5,True
 00-0038124,Christian Watson,player_receptions,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prophetx,3.5,True
-00-0038124,Christian Watson,player_receptions,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prizepicks,3.5,True
-00-0038124,Christian Watson,player_receptions,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,hardrock,9.5,True
-00-0038124,Christian Watson,player_receptions,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,pinnacle,4.5,True
-00-0038124,Christian Watson,player_receptions,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,prizepicks,2.5,True
 00-0038124,Christian Watson,player_receptions,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,pinnacle,3.5,True
 00-0038124,Christian Watson,player_receptions,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betway,3.5,True
 00-0038124,Christian Watson,player_receptions,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,fanduel,3.5,True
 00-0038124,Christian Watson,player_receptions,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betmgm,4.5,True
 00-0038124,Christian Watson,player_receptions,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,prophetx,4.5,True
+00-0038124,Christian Watson,player_receptions,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,prizepicks,2.5,True

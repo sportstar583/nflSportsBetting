@@ -1,1 +1,4 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0041326,CJ Donaldson,player_receptions,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,prizepicks,0.5,True
+00-0041326,CJ Donaldson,player_receptions,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,sportzino,0.5,True
+00-0041326,CJ Donaldson,player_receptions,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,fliff,1.5,True

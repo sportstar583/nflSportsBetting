@@ -1,1 +1,12 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040172,Jordan Watkins,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,sleeper,0.5,True
+00-0040172,Jordan Watkins,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,dabble,0.5,True
+00-0040172,Jordan Watkins,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,sportzino,0.5,True
+00-0040172,Jordan Watkins,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,prizepicks,0.5,True
+00-0040172,Jordan Watkins,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,1.5,True
+00-0040172,Jordan Watkins,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,novig,0.5,True
+00-0040172,Jordan Watkins,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,courtside,0.5,True
+00-0040172,Jordan Watkins,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,hardrock,1.5,True
+00-0040172,Jordan Watkins,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,prophetx,1.5,True
+00-0040172,Jordan Watkins,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,parlayplay,0.5,True
+00-0040172,Jordan Watkins,player_receptions,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fliff,0.5,True

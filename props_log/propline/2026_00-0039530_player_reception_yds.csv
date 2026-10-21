@@ -1,8 +1,29 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0039530,Brevyn Spann-Ford,player_reception_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,dabble,2.5,True
-00-0039530,Brevyn Spann-Ford,player_reception_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,underdog,2.5,True
+00-0039530,Brevyn Spann-Ford,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,fliff,2.5,True
+00-0039530,Brevyn Spann-Ford,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,prizepicks,9.5,True
+00-0039530,Brevyn Spann-Ford,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,underdog,4.5,True
+00-0039530,Brevyn Spann-Ford,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,novig,2.5,True
+00-0039530,Brevyn Spann-Ford,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,sportzino,4.5,True
+00-0039530,Brevyn Spann-Ford,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,hardrock,1.5,True
+00-0039530,Brevyn Spann-Ford,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,pick6,4.5,True
+00-0039530,Brevyn Spann-Ford,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,parlayplay,4.5,True
+00-0039530,Brevyn Spann-Ford,player_reception_yds,53166,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,dabble,4.5,True
+00-0039530,Brevyn Spann-Ford,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,prophetx,2.5,True
+00-0039530,Brevyn Spann-Ford,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,novig,2.5,True
+00-0039530,Brevyn Spann-Ford,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,rebet,4.5,True
+00-0039530,Brevyn Spann-Ford,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,courtside,4.5,True
+00-0039530,Brevyn Spann-Ford,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,parlayplay,5.5,True
+00-0039530,Brevyn Spann-Ford,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,prizepicks,2.5,True
+00-0039530,Brevyn Spann-Ford,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,dabble,4.5,True
+00-0039530,Brevyn Spann-Ford,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,pick6,5.5,True
+00-0039530,Brevyn Spann-Ford,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,sportzino,4.5,True
+00-0039530,Brevyn Spann-Ford,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,pinnacle,3.5,True
+00-0039530,Brevyn Spann-Ford,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,underdog,14.5,True
+00-0039530,Brevyn Spann-Ford,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,bovada,5.5,True
 00-0039530,Brevyn Spann-Ford,player_reception_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,prizepicks,2.5,True
 00-0039530,Brevyn Spann-Ford,player_reception_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,sportzino,2.5,True
 00-0039530,Brevyn Spann-Ford,player_reception_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,parlayplay,2.5,True
-00-0039530,Brevyn Spann-Ford,player_reception_yds,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,prizepicks,8.5,True
+00-0039530,Brevyn Spann-Ford,player_reception_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,dabble,2.5,True
+00-0039530,Brevyn Spann-Ford,player_reception_yds,32666,2026-10-04T17:00:00Z,Houston Texans,Dallas Cowboys,underdog,2.5,True
 00-0039530,Brevyn Spann-Ford,player_reception_yds,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,underdog,8.5,True
+00-0039530,Brevyn Spann-Ford,player_reception_yds,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,prizepicks,8.5,True

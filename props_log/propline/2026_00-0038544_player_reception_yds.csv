@@ -1,18 +1,30 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0038544,Quentin Johnston,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prophetx,35.5,True
+00-0038544,Quentin Johnston,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,pinnacle,36.5,True
+00-0038544,Quentin Johnston,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,betway,33.5,True
+00-0038544,Quentin Johnston,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,novig,33.5,True
+00-0038544,Quentin Johnston,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,sportzino,34.5,True
+00-0038544,Quentin Johnston,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,pick6,35.5,True
+00-0038544,Quentin Johnston,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,bovada,33.5,True
+00-0038544,Quentin Johnston,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,sleeper,35.5,True
+00-0038544,Quentin Johnston,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,rebet,36.5,True
+00-0038544,Quentin Johnston,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,parlayplay,33.5,True
+00-0038544,Quentin Johnston,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,prizepicks,14.5,True
+00-0038544,Quentin Johnston,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,hardrock,64.5,True
+00-0038544,Quentin Johnston,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,dabble,34.5,True
 00-0038544,Quentin Johnston,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,courtside,34.5,True
-00-0038544,Quentin Johnston,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,betway,39.5,True
 00-0038544,Quentin Johnston,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,hardrock,39.5,True
 00-0038544,Quentin Johnston,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sleeper,34.5,True
 00-0038544,Quentin Johnston,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,pinnacle,34.5,True
 00-0038544,Quentin Johnston,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,novig,33.5,True
+00-0038544,Quentin Johnston,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,bovada,35.5,True
 00-0038544,Quentin Johnston,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,pick6,36.5,True
 00-0038544,Quentin Johnston,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,dabble,33.5,True
 00-0038544,Quentin Johnston,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prizepicks,30.5,True
 00-0038544,Quentin Johnston,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,rebet,34.5,True
 00-0038544,Quentin Johnston,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,parlayplay,35.5,True
-00-0038544,Quentin Johnston,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,bovada,35.5,True
 00-0038544,Quentin Johnston,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,sportzino,34.5,True
+00-0038544,Quentin Johnston,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,betway,39.5,True
+00-0038544,Quentin Johnston,player_reception_yds,32673,2026-10-04T20:25:00Z,Seattle Seahawks,Los Angeles Chargers,prophetx,35.5,True
 00-0038544,Quentin Johnston,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,courtside,35.5,True
 00-0038544,Quentin Johnston,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,prizepicks,8.5,True
 00-0038544,Quentin Johnston,player_reception_yds,32655,2026-09-27T17:00:00Z,Buffalo Bills,Los Angeles Chargers,pinnacle,35.5,True
@@ -34,5 +46,5 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0038544,Quentin Johnston,player_reception_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,betmgm,43.5,True
 00-0038544,Quentin Johnston,player_reception_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,pinnacle,42.5,True
 00-0038544,Quentin Johnston,player_reception_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,betr,42.5,True
-00-0038544,Quentin Johnston,player_reception_yds,147565,2026-08-21T02:00:00Z,Los Angeles Chargers,San Francisco 49ers,betr,10.5,True
 00-0038544,Quentin Johnston,player_reception_yds,147565,2026-08-21T02:00:00Z,Los Angeles Chargers,San Francisco 49ers,underdog,11.5,True
+00-0038544,Quentin Johnston,player_reception_yds,147565,2026-08-21T02:00:00Z,Los Angeles Chargers,San Francisco 49ers,betr,10.5,True

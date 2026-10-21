@@ -1,6 +1,33 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0039337,Malik Nabers,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,novig,55.5,True
+00-0039337,Malik Nabers,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,rebet,74.5,True
+00-0039337,Malik Nabers,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,prophetx,68.5,True
+00-0039337,Malik Nabers,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,courtside,70.5,True
+00-0039337,Malik Nabers,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,pinnacle,71.5,True
+00-0039337,Malik Nabers,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,pick6,72.5,True
+00-0039337,Malik Nabers,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,sportzino,72.5,True
+00-0039337,Malik Nabers,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betway,72.5,True
+00-0039337,Malik Nabers,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,novig,72.5,True
+00-0039337,Malik Nabers,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,hardrock,108.5,True
+00-0039337,Malik Nabers,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,prizepicks,39.5,True
+00-0039337,Malik Nabers,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,dabble,72.5,True
+00-0039337,Malik Nabers,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,bovada,73.5,True
+00-0039337,Malik Nabers,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,thescorebet,69.5,True
+00-0039337,Malik Nabers,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,sleeper,72.5,True
+00-0039337,Malik Nabers,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,bovada,55.5,True
+00-0039337,Malik Nabers,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,prophetx,57.5,True
+00-0039337,Malik Nabers,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,courtside,57.5,True
+00-0039337,Malik Nabers,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,novig,56.5,True
+00-0039337,Malik Nabers,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,dabble,54.5,True
+00-0039337,Malik Nabers,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,sleeper,54.5,True
+00-0039337,Malik Nabers,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,betway,55.5,True
+00-0039337,Malik Nabers,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,sportzino,56.5,True
+00-0039337,Malik Nabers,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,rebet,56.5,True
+00-0039337,Malik Nabers,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,pinnacle,52.5,True
+00-0039337,Malik Nabers,player_reception_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,pick6,57.5,True
 00-0039337,Malik Nabers,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,sportzino,56.5,True
+00-0039337,Malik Nabers,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,prophetx,54.5,True
+00-0039337,Malik Nabers,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,courtside,53.5,True
+00-0039337,Malik Nabers,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,novig,55.5,True
 00-0039337,Malik Nabers,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,dabble,54.5,True
 00-0039337,Malik Nabers,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,sleeper,55.5,True
 00-0039337,Malik Nabers,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,hardrock,49.5,True
@@ -9,26 +36,24 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0039337,Malik Nabers,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,betway,59.5,True
 00-0039337,Malik Nabers,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,pick6,54.5,True
 00-0039337,Malik Nabers,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,bovada,54.5,True
-00-0039337,Malik Nabers,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,prophetx,54.5,True
-00-0039337,Malik Nabers,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,courtside,53.5,True
+00-0039337,Malik Nabers,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,sleeper,52.5,True
+00-0039337,Malik Nabers,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,novig,52.5,True
+00-0039337,Malik Nabers,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,betway,51.5,True
+00-0039337,Malik Nabers,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,bovada,54.5,True
 00-0039337,Malik Nabers,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,parlayplay,54.5,True
 00-0039337,Malik Nabers,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,courtside,53.5,True
-00-0039337,Malik Nabers,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,betway,51.5,True
 00-0039337,Malik Nabers,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,pinnacle,52.5,True
 00-0039337,Malik Nabers,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,prophetx,53.5,True
 00-0039337,Malik Nabers,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,dabble,51.5,True
-00-0039337,Malik Nabers,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,sleeper,52.5,True
-00-0039337,Malik Nabers,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,novig,52.5,True
-00-0039337,Malik Nabers,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,bovada,54.5,True
 00-0039337,Malik Nabers,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,prophetx,66.5,True
 00-0039337,Malik Nabers,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betway,62.5,True
 00-0039337,Malik Nabers,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,pinnacle,61.5,True
 00-0039337,Malik Nabers,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,bovada,61.5,True
 00-0039337,Malik Nabers,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,betonlineag,65.5,True
 00-0039337,Malik Nabers,player_reception_yds,32647,2026-09-22T00:16:43Z,Los Angeles Rams,New York Giants,lowvig,65.5,True
+00-0039337,Malik Nabers,player_reception_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betr,60.5,True
+00-0039337,Malik Nabers,player_reception_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betway,56.5,True
+00-0039337,Malik Nabers,player_reception_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betmgm,61.5,True
+00-0039337,Malik Nabers,player_reception_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,lowvig,60.5,True
 00-0039337,Malik Nabers,player_reception_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betonlineag,60.5,True
 00-0039337,Malik Nabers,player_reception_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,bovada,54.5,True
-00-0039337,Malik Nabers,player_reception_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betmgm,61.5,True
-00-0039337,Malik Nabers,player_reception_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betway,56.5,True
-00-0039337,Malik Nabers,player_reception_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,betr,60.5,True
-00-0039337,Malik Nabers,player_reception_yds,23213,2026-09-14T00:20:00Z,New York Giants,Dallas Cowboys,lowvig,60.5,True

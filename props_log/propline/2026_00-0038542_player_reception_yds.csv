@@ -1,19 +1,62 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038542,Bijan Robinson,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,prizepicks,9.5,True
+00-0038542,Bijan Robinson,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,hardrock,47.5,True
+00-0038542,Bijan Robinson,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,sportzino,28.5,True
+00-0038542,Bijan Robinson,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,pinnacle,30.5,True
+00-0038542,Bijan Robinson,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,betway,29.5,True
+00-0038542,Bijan Robinson,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,thescorebet,29.5,True
+00-0038542,Bijan Robinson,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,courtside,29.5,True
+00-0038542,Bijan Robinson,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,parlayplay,30.5,True
+00-0038542,Bijan Robinson,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,betonlineag,29.5,True
+00-0038542,Bijan Robinson,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,lowvig,29.5,True
+00-0038542,Bijan Robinson,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,dabble,28.5,True
+00-0038542,Bijan Robinson,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,novig,30.5,True
+00-0038542,Bijan Robinson,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,pick6,30.5,True
+00-0038542,Bijan Robinson,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,sleeper,28.5,True
+00-0038542,Bijan Robinson,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,rebet,30.5,True
+00-0038542,Bijan Robinson,player_reception_yds,46677,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,prophetx,25.5,True
+00-0038542,Bijan Robinson,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,rebet,27.5,True
+00-0038542,Bijan Robinson,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,lowvig,26.5,True
+00-0038542,Bijan Robinson,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,betonlineag,26.5,True
+00-0038542,Bijan Robinson,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,dabble,26.5,True
+00-0038542,Bijan Robinson,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,sportzino,26.5,True
+00-0038542,Bijan Robinson,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,parlayplay,27.5,True
+00-0038542,Bijan Robinson,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,pick6,27.5,True
+00-0038542,Bijan Robinson,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,sleeper,27.5,True
+00-0038542,Bijan Robinson,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,novig,27.5,True
+00-0038542,Bijan Robinson,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,betway,26.5,True
+00-0038542,Bijan Robinson,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,pinnacle,26.5,True
+00-0038542,Bijan Robinson,player_reception_yds,46672,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,prophetx,99.5,True
+00-0038542,Bijan Robinson,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betway,37.5,True
+00-0038542,Bijan Robinson,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,prophetx,35.5,True
+00-0038542,Bijan Robinson,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,dabble,39.5,True
+00-0038542,Bijan Robinson,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,hardrock,39.5,True
+00-0038542,Bijan Robinson,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,parlayplay,35.5,True
+00-0038542,Bijan Robinson,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,sleeper,36.5,True
+00-0038542,Bijan Robinson,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,novig,36.5,True
+00-0038542,Bijan Robinson,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,pick6,36.5,True
+00-0038542,Bijan Robinson,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,pinnacle,36.5,True
+00-0038542,Bijan Robinson,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,rebet,36.5,True
+00-0038542,Bijan Robinson,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,courtside,35.5,True
+00-0038542,Bijan Robinson,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,sportzino,35.5,True
+00-0038542,Bijan Robinson,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,37.5,True
+00-0038542,Bijan Robinson,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,35.5,True
+00-0038542,Bijan Robinson,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,lowvig,37.5,True
 00-0038542,Bijan Robinson,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,novig,36.5,True
-00-0038542,Bijan Robinson,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,lowvig,40.5,True
-00-0038542,Bijan Robinson,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,betonlineag,40.5,True
-00-0038542,Bijan Robinson,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,bovada,36.5,True
 00-0038542,Bijan Robinson,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,pinnacle,37.5,True
 00-0038542,Bijan Robinson,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,courtside,42.5,True
 00-0038542,Bijan Robinson,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,betway,41.5,True
 00-0038542,Bijan Robinson,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,parlayplay,36.5,True
+00-0038542,Bijan Robinson,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,bovada,36.5,True
+00-0038542,Bijan Robinson,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,betonlineag,40.5,True
+00-0038542,Bijan Robinson,player_reception_yds,32648,2026-09-25T00:15:29Z,Green Bay Packers,Atlanta Falcons,lowvig,40.5,True
 00-0038542,Bijan Robinson,player_reception_yds,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,prophetx,40.5,True
 00-0038542,Bijan Robinson,player_reception_yds,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,betway,40.5,True
 00-0038542,Bijan Robinson,player_reception_yds,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,pinnacle,42.5,True
 00-0038542,Bijan Robinson,player_reception_yds,32633,2026-09-20T17:02:58Z,Atlanta Falcons,Carolina Panthers,bovada,41.5,True
-00-0038542,Bijan Robinson,player_reception_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,bovada,35.5,True
+00-0038542,Bijan Robinson,player_reception_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,prophetx,32.5,True
 00-0038542,Bijan Robinson,player_reception_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,pinnacle,33.5,True
 00-0038542,Bijan Robinson,player_reception_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,betr,37.5,True
 00-0038542,Bijan Robinson,player_reception_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,betway,33.5,True
-00-0038542,Bijan Robinson,player_reception_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,prophetx,32.5,True
+00-0038542,Bijan Robinson,player_reception_yds,25071,2026-09-13T17:00:00Z,Pittsburgh Steelers,Atlanta Falcons,bovada,35.5,True
 00-0038542,Bijan Robinson,player_reception_yds,59769,2026-08-14T23:00:00Z,Atlanta Falcons,Denver Broncos,underdog,0.5,True

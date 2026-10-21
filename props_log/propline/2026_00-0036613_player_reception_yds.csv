@@ -1,4 +1,35 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0036613,Jaylen Waddle,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,courtside,50.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betway,47.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,novig,51.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,pinnacle,46.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,hardrock,110.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,sportzino,45.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,bovada,45.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,polymarket_us,49.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,prizepicks,40.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,rebet,47.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,sleeper,46.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,pick6,45.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,dabble,45.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,prophetx,46.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,parlayplay,45.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betonlineag,47.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,46674,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,lowvig,47.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,bovada,54.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,prizepicks,49.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,sportzino,54.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,parlayplay,58.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,betway,55.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,sleeper,56.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,prophetx,57.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,pinnacle,55.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,dabble,54.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,novig,57.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,pick6,57.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,32686,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,thescorebet,54.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,parlayplay,57.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,sleeper,57.5,True
 00-0036613,Jaylen Waddle,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,betway,57.5,True
 00-0036613,Jaylen Waddle,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,prizepicks,51.5,True
 00-0036613,Jaylen Waddle,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,novig,52.5,True
@@ -9,31 +40,29 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0036613,Jaylen Waddle,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,rebet,57.5,True
 00-0036613,Jaylen Waddle,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,prophetx,58.5,True
 00-0036613,Jaylen Waddle,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,sportzino,58.5,True
-00-0036613,Jaylen Waddle,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,parlayplay,57.5,True
-00-0036613,Jaylen Waddle,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,sleeper,57.5,True
 00-0036613,Jaylen Waddle,player_reception_yds,32674,2026-10-04T20:25:00Z,San Francisco 49ers,Denver Broncos,bovada,57.5,True
-00-0036613,Jaylen Waddle,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,parlayplay,61.5,True
-00-0036613,Jaylen Waddle,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,prophetx,74.5,True
-00-0036613,Jaylen Waddle,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,prizepicks,20.5,True
 00-0036613,Jaylen Waddle,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,59.5,True
 00-0036613,Jaylen Waddle,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,sleeper,61.5,True
 00-0036613,Jaylen Waddle,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,novig,55.5,True
 00-0036613,Jaylen Waddle,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betway,60.5,True
 00-0036613,Jaylen Waddle,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,dabble,58.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,parlayplay,61.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,prophetx,74.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,prizepicks,20.5,True
 00-0036613,Jaylen Waddle,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betonlineag,59.5,True
 00-0036613,Jaylen Waddle,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,lowvig,59.5,True
 00-0036613,Jaylen Waddle,player_reception_yds,32661,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,bovada,60.5,True
-00-0036613,Jaylen Waddle,player_reception_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,pinnacle,52.5,True
 00-0036613,Jaylen Waddle,player_reception_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,prophetx,54.5,True
-00-0036613,Jaylen Waddle,player_reception_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,betway,50.5,True
 00-0036613,Jaylen Waddle,player_reception_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,bovada,53.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,betway,50.5,True
 00-0036613,Jaylen Waddle,player_reception_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,prizepicks,21.5,True
-00-0036613,Jaylen Waddle,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,betr,53.5,True
-00-0036613,Jaylen Waddle,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,betonlineag,58.5,True
-00-0036613,Jaylen Waddle,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,bovada,59.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,pinnacle,52.5,True
 00-0036613,Jaylen Waddle,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,lowvig,58.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,bovada,59.5,True
 00-0036613,Jaylen Waddle,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,prophetx,57.5,True
 00-0036613,Jaylen Waddle,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,prizepicks,22.5,True
 00-0036613,Jaylen Waddle,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,betway,52.5,True
-00-0036613,Jaylen Waddle,player_reception_yds,59769,2026-08-14T23:00:00Z,Atlanta Falcons,Denver Broncos,underdog,17.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,betr,53.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,betonlineag,58.5,True
 00-0036613,Jaylen Waddle,player_reception_yds,59769,2026-08-14T23:00:00Z,Atlanta Falcons,Denver Broncos,betr,15.5,True
+00-0036613,Jaylen Waddle,player_reception_yds,59769,2026-08-14T23:00:00Z,Atlanta Falcons,Denver Broncos,underdog,17.5,True

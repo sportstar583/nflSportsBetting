@@ -1,4 +1,35 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040584,Gunnar Helm,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,prizepicks,4.5,True
+00-0040584,Gunnar Helm,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,betrivers,15.5,True
+00-0040584,Gunnar Helm,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,rebet,15.5,True
+00-0040584,Gunnar Helm,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,pick6,15.5,True
+00-0040584,Gunnar Helm,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,prophetx,17.5,True
+00-0040584,Gunnar Helm,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,hardrock,29.5,True
+00-0040584,Gunnar Helm,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,fanduel,15.5,True
+00-0040584,Gunnar Helm,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,betway,17.5,True
+00-0040584,Gunnar Helm,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,pinnacle,15.5,True
+00-0040584,Gunnar Helm,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,thescorebet,14.5,True
+00-0040584,Gunnar Helm,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,sportzino,17.5,True
+00-0040584,Gunnar Helm,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,sleeper,15.5,True
+00-0040584,Gunnar Helm,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,dabble,17.5,True
+00-0040584,Gunnar Helm,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,parlayplay,17.5,True
+00-0040584,Gunnar Helm,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,novig,18.5,True
+00-0040584,Gunnar Helm,player_reception_yds,56777,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,courtside,17.5,True
+00-0040584,Gunnar Helm,player_reception_yds,32682,2026-10-11T17:00:00Z,Tennessee Titans,Houston Texans,betway,17.5,True
+00-0040584,Gunnar Helm,player_reception_yds,32682,2026-10-11T17:00:00Z,Tennessee Titans,Houston Texans,betrivers,16.5,True
+00-0040584,Gunnar Helm,player_reception_yds,32682,2026-10-11T17:00:00Z,Tennessee Titans,Houston Texans,pinnacle,16.5,True
+00-0040584,Gunnar Helm,player_reception_yds,32682,2026-10-11T17:00:00Z,Tennessee Titans,Houston Texans,novig,16.5,True
+00-0040584,Gunnar Helm,player_reception_yds,32682,2026-10-11T17:00:00Z,Tennessee Titans,Houston Texans,thescorebet,13.5,True
+00-0040584,Gunnar Helm,player_reception_yds,32682,2026-10-11T17:00:00Z,Tennessee Titans,Houston Texans,courtside,16.5,True
+00-0040584,Gunnar Helm,player_reception_yds,32682,2026-10-11T17:00:00Z,Tennessee Titans,Houston Texans,prophetx,16.5,True
+00-0040584,Gunnar Helm,player_reception_yds,32682,2026-10-11T17:00:00Z,Tennessee Titans,Houston Texans,pick6,14.5,True
+00-0040584,Gunnar Helm,player_reception_yds,32682,2026-10-11T17:00:00Z,Tennessee Titans,Houston Texans,prizepicks,13.5,True
+00-0040584,Gunnar Helm,player_reception_yds,32682,2026-10-11T17:00:00Z,Tennessee Titans,Houston Texans,parlayplay,18.5,True
+00-0040584,Gunnar Helm,player_reception_yds,32682,2026-10-11T17:00:00Z,Tennessee Titans,Houston Texans,rebet,16.5,True
+00-0040584,Gunnar Helm,player_reception_yds,32682,2026-10-11T17:00:00Z,Tennessee Titans,Houston Texans,sportzino,18.5,True
+00-0040584,Gunnar Helm,player_reception_yds,32682,2026-10-11T17:00:00Z,Tennessee Titans,Houston Texans,sleeper,15.5,True
+00-0040584,Gunnar Helm,player_reception_yds,32682,2026-10-11T17:00:00Z,Tennessee Titans,Houston Texans,dabble,14.5,True
+00-0040584,Gunnar Helm,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,courtside,18.5,True
 00-0040584,Gunnar Helm,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,pinnacle,18.5,True
 00-0040584,Gunnar Helm,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,pick6,19.5,True
 00-0040584,Gunnar Helm,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,betway,20.5,True
@@ -10,8 +41,6 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0040584,Gunnar Helm,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,parlayplay,19.5,True
 00-0040584,Gunnar Helm,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,sleeper,18.5,True
 00-0040584,Gunnar Helm,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,hardrock,24.5,True
-00-0040584,Gunnar Helm,player_reception_yds,32665,2026-10-04T17:00:00Z,Baltimore Ravens,Tennessee Titans,courtside,18.5,True
-00-0040584,Gunnar Helm,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,prizepicks,19.5,True
 00-0040584,Gunnar Helm,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,hardrock,79.5,True
 00-0040584,Gunnar Helm,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,courtside,19.5,True
 00-0040584,Gunnar Helm,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,betway,21.5,True
@@ -20,12 +49,13 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0040584,Gunnar Helm,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,sleeper,20.5,True
 00-0040584,Gunnar Helm,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,novig,20.5,True
 00-0040584,Gunnar Helm,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,prophetx,22.5,True
+00-0040584,Gunnar Helm,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,prizepicks,19.5,True
 00-0040584,Gunnar Helm,player_reception_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,prizepicks,7.5,True
 00-0040584,Gunnar Helm,player_reception_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,betway,23.5,True
 00-0040584,Gunnar Helm,player_reception_yds,32634,2026-09-20T17:02:50Z,Tennessee Titans,Philadelphia Eagles,pinnacle,22.5,True
-00-0040584,Gunnar Helm,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,prophetx,20.5,True
-00-0040584,Gunnar Helm,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,betway,20.5,True
 00-0040584,Gunnar Helm,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,pinnacle,21.5,True
 00-0040584,Gunnar Helm,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,prizepicks,1.5,True
-00-0040584,Gunnar Helm,player_reception_yds,148033,2026-08-24T00:10:00Z,Tennessee Titans,Seattle Seahawks,underdog,9.5,True
+00-0040584,Gunnar Helm,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,prophetx,20.5,True
+00-0040584,Gunnar Helm,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,betway,20.5,True
 00-0040584,Gunnar Helm,player_reception_yds,148033,2026-08-24T00:10:00Z,Tennessee Titans,Seattle Seahawks,betr,12.5,True
+00-0040584,Gunnar Helm,player_reception_yds,148033,2026-08-24T00:10:00Z,Tennessee Titans,Seattle Seahawks,underdog,9.5,True

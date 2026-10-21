@@ -1,5 +1,31 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0039794,Braelon Allen,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,pick6,12.5,True
+00-0039794,Braelon Allen,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,prizepicks,4.5,True
+00-0039794,Braelon Allen,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,prophetx,15.5,True
+00-0039794,Braelon Allen,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,parlayplay,14.5,True
+00-0039794,Braelon Allen,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,pick6,14.5,True
+00-0039794,Braelon Allen,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,hardrock,28.5,True
+00-0039794,Braelon Allen,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,pinnacle,14.5,True
+00-0039794,Braelon Allen,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,rebet,15.5,True
+00-0039794,Braelon Allen,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,thescorebet,14.5,True
+00-0039794,Braelon Allen,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,dabble,13.5,True
+00-0039794,Braelon Allen,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,betway,13.5,True
+00-0039794,Braelon Allen,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,courtside,16.5,True
+00-0039794,Braelon Allen,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,novig,15.5,True
+00-0039794,Braelon Allen,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,sportzino,13.5,True
+00-0039794,Braelon Allen,player_reception_yds,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,sleeper,14.5,True
+00-0039794,Braelon Allen,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,pick6,13.5,True
+00-0039794,Braelon Allen,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,prophetx,12.5,True
+00-0039794,Braelon Allen,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,betway,13.5,True
+00-0039794,Braelon Allen,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,sportzino,12.5,True
+00-0039794,Braelon Allen,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,courtside,13.5,True
+00-0039794,Braelon Allen,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,sleeper,13.5,True
+00-0039794,Braelon Allen,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,thescorebet,14.5,True
+00-0039794,Braelon Allen,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,pinnacle,13.5,True
+00-0039794,Braelon Allen,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,prizepicks,13.5,True
+00-0039794,Braelon Allen,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,parlayplay,15.5,True
+00-0039794,Braelon Allen,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,novig,12.5,True
+00-0039794,Braelon Allen,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,dabble,12.5,True
+00-0039794,Braelon Allen,player_reception_yds,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,rebet,13.5,True
 00-0039794,Braelon Allen,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,novig,11.5,True
 00-0039794,Braelon Allen,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,betway,8.5,True
 00-0039794,Braelon Allen,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,prophetx,49.5,True
@@ -10,8 +36,9 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0039794,Braelon Allen,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,prizepicks,10.5,True
 00-0039794,Braelon Allen,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,dabble,11.5,True
 00-0039794,Braelon Allen,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,rebet,11.5,True
-00-0039794,Braelon Allen,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,prizepicks,2.5,True
+00-0039794,Braelon Allen,player_reception_yds,32667,2026-10-04T17:00:00Z,Chicago Bears,New York Jets,pick6,12.5,True
 00-0039794,Braelon Allen,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,dabble,2.5,True
+00-0039794,Braelon Allen,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,prizepicks,2.5,True
 00-0039794,Braelon Allen,player_reception_yds,32656,2026-09-27T17:00:00Z,Detroit Lions,New York Jets,parlayplay,2.5,True
 00-0039794,Braelon Allen,player_reception_yds,32636,2026-09-20T17:03:51Z,New York Jets,Green Bay Packers,prizepicks,3.5,True
 00-0039794,Braelon Allen,player_reception_yds,25077,2026-09-13T17:00:00Z,Tennessee Titans,New York Jets,betway,0.5,True

@@ -1,4 +1,36 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038935,Brenton Strange,player_reception_yds,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,prizepicks,14.5,True
+00-0038935,Brenton Strange,player_reception_yds,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,bovada,38.5,True
+00-0038935,Brenton Strange,player_reception_yds,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,betonlineag,39.5,True
+00-0038935,Brenton Strange,player_reception_yds,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,lowvig,39.5,True
+00-0038935,Brenton Strange,player_reception_yds,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,sportzino,36.5,True
+00-0038935,Brenton Strange,player_reception_yds,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,sleeper,37.5,True
+00-0038935,Brenton Strange,player_reception_yds,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,betway,35.5,True
+00-0038935,Brenton Strange,player_reception_yds,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,novig,37.5,True
+00-0038935,Brenton Strange,player_reception_yds,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,prophetx,36.5,True
+00-0038935,Brenton Strange,player_reception_yds,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,rebet,37.5,True
+00-0038935,Brenton Strange,player_reception_yds,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,pick6,37.5,True
+00-0038935,Brenton Strange,player_reception_yds,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,pinnacle,37.5,True
+00-0038935,Brenton Strange,player_reception_yds,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,dabble,36.5,True
+00-0038935,Brenton Strange,player_reception_yds,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,thescorebet,39.5,True
+00-0038935,Brenton Strange,player_reception_yds,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,parlayplay,35.5,True
+00-0038935,Brenton Strange,player_reception_yds,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,hardrock,15.5,True
+00-0038935,Brenton Strange,player_reception_yds,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betway,33.5,True
+00-0038935,Brenton Strange,player_reception_yds,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,prophetx,34.5,True
+00-0038935,Brenton Strange,player_reception_yds,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,bovada,32.5,True
+00-0038935,Brenton Strange,player_reception_yds,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betonlineag,33.5,True
+00-0038935,Brenton Strange,player_reception_yds,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,lowvig,33.5,True
+00-0038935,Brenton Strange,player_reception_yds,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,parlayplay,34.5,True
+00-0038935,Brenton Strange,player_reception_yds,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,sleeper,32.5,True
+00-0038935,Brenton Strange,player_reception_yds,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,novig,31.5,True
+00-0038935,Brenton Strange,player_reception_yds,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,thescorebet,34.5,True
+00-0038935,Brenton Strange,player_reception_yds,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,pick6,33.5,True
+00-0038935,Brenton Strange,player_reception_yds,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,prizepicks,29.5,True
+00-0038935,Brenton Strange,player_reception_yds,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,sportzino,32.5,True
+00-0038935,Brenton Strange,player_reception_yds,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,dabble,38.5,True
+00-0038935,Brenton Strange,player_reception_yds,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,rebet,31.5,True
+00-0038935,Brenton Strange,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,pick6,36.5,True
+00-0038935,Brenton Strange,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,rebet,38.5,True
 00-0038935,Brenton Strange,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,betway,35.5,True
 00-0038935,Brenton Strange,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,parlayplay,35.5,True
 00-0038935,Brenton Strange,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,prizepicks,30.5,True
@@ -8,30 +40,28 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0038935,Brenton Strange,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,sportzino,35.5,True
 00-0038935,Brenton Strange,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,dabble,35.5,True
 00-0038935,Brenton Strange,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,prophetx,36.5,True
-00-0038935,Brenton Strange,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,bovada,35.5,True
-00-0038935,Brenton Strange,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,lowvig,35.5,True
 00-0038935,Brenton Strange,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,betonlineag,35.5,True
-00-0038935,Brenton Strange,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,pick6,36.5,True
-00-0038935,Brenton Strange,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,rebet,38.5,True
-00-0038935,Brenton Strange,player_reception_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,prizepicks,5.5,True
-00-0038935,Brenton Strange,player_reception_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,courtside,26.5,True
-00-0038935,Brenton Strange,player_reception_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,hardrock,99.5,True
-00-0038935,Brenton Strange,player_reception_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,pinnacle,30.5,True
-00-0038935,Brenton Strange,player_reception_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,parlayplay,26.5,True
+00-0038935,Brenton Strange,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,lowvig,35.5,True
+00-0038935,Brenton Strange,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,bovada,35.5,True
 00-0038935,Brenton Strange,player_reception_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,novig,30.5,True
 00-0038935,Brenton Strange,player_reception_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,sleeper,29.5,True
 00-0038935,Brenton Strange,player_reception_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,dabble,28.5,True
 00-0038935,Brenton Strange,player_reception_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,betway,27.5,True
 00-0038935,Brenton Strange,player_reception_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,prophetx,26.5,True
+00-0038935,Brenton Strange,player_reception_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,pinnacle,30.5,True
+00-0038935,Brenton Strange,player_reception_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,hardrock,99.5,True
+00-0038935,Brenton Strange,player_reception_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,courtside,26.5,True
+00-0038935,Brenton Strange,player_reception_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,prizepicks,5.5,True
 00-0038935,Brenton Strange,player_reception_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,bovada,32.5,True
+00-0038935,Brenton Strange,player_reception_yds,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,parlayplay,26.5,True
+00-0038935,Brenton Strange,player_reception_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,bovada,31.5,True
+00-0038935,Brenton Strange,player_reception_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,prizepicks,7.5,True
+00-0038935,Brenton Strange,player_reception_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,betway,31.5,True
 00-0038935,Brenton Strange,player_reception_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,pinnacle,30.5,True
 00-0038935,Brenton Strange,player_reception_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,hardrock,99.5,True
-00-0038935,Brenton Strange,player_reception_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,betway,31.5,True
-00-0038935,Brenton Strange,player_reception_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,prizepicks,7.5,True
-00-0038935,Brenton Strange,player_reception_yds,32641,2026-09-20T20:05:33Z,Denver Broncos,Jacksonville Jaguars,bovada,31.5,True
-00-0038935,Brenton Strange,player_reception_yds,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,bovada,34.5,True
 00-0038935,Brenton Strange,player_reception_yds,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,prophetx,35.5,True
 00-0038935,Brenton Strange,player_reception_yds,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,betr,36.5,True
 00-0038935,Brenton Strange,player_reception_yds,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,betway,35.5,True
 00-0038935,Brenton Strange,player_reception_yds,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,prizepicks,10.5,True
 00-0038935,Brenton Strange,player_reception_yds,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,pinnacle,36.5,True
+00-0038935,Brenton Strange,player_reception_yds,25075,2026-09-13T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,bovada,34.5,True

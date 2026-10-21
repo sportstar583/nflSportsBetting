@@ -1,4 +1,17 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040785,Dohnte Meyers,player_reception_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,novig,25.5,True
+00-0040785,Dohnte Meyers,player_reception_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,thescorebet,25.5,True
+00-0040785,Dohnte Meyers,player_reception_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,sportzino,26.5,True
+00-0040785,Dohnte Meyers,player_reception_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,prophetx,23.5,True
+00-0040785,Dohnte Meyers,player_reception_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,parlayplay,24.5,True
+00-0040785,Dohnte Meyers,player_reception_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,sleeper,24.5,True
+00-0040785,Dohnte Meyers,player_reception_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,dabble,25.5,True
+00-0040785,Dohnte Meyers,player_reception_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,courtside,24.5,True
+00-0040785,Dohnte Meyers,player_reception_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,prizepicks,9.5,True
+00-0040785,Dohnte Meyers,player_reception_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,betway,24.5,True
+00-0040785,Dohnte Meyers,player_reception_yds,32680,2026-10-11T17:00:00Z,Miami Dolphins,Cincinnati Bengals,pick6,25.5,True
+00-0040785,Dohnte Meyers,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,sportzino,22.5,True
+00-0040785,Dohnte Meyers,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,dabble,18.5,True
 00-0040785,Dohnte Meyers,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,betonlineag,19.5,True
 00-0040785,Dohnte Meyers,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,prophetx,17.5,True
 00-0040785,Dohnte Meyers,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,parlayplay,17.5,True
@@ -11,7 +24,5 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0040785,Dohnte Meyers,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,courtside,17.5,True
 00-0040785,Dohnte Meyers,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,hardrock,24.5,True
 00-0040785,Dohnte Meyers,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,sleeper,19.5,True
-00-0040785,Dohnte Meyers,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,sportzino,22.5,True
-00-0040785,Dohnte Meyers,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,dabble,18.5,True
 00-0040785,Dohnte Meyers,player_reception_yds,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,lowvig,19.5,True
 00-0040785,Dohnte Meyers,player_reception_yds,147802,2026-08-22T23:00:00Z,Cincinnati Bengals,Chicago Bears,underdog,16.5,True

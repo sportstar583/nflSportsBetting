@@ -1,0 +1,16 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0033375,Tim Patrick,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,prizepicks,0.5,True
+00-0033375,Tim Patrick,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,rebet,1.5,True
+00-0033375,Tim Patrick,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,prophetx,1.5,True
+00-0033375,Tim Patrick,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,pinnacle,1.5,True
+00-0033375,Tim Patrick,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,dabble,1.5,True
+00-0033375,Tim Patrick,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,thescorebet,1.5,True
+00-0033375,Tim Patrick,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,hardrock,4.5,True
+00-0033375,Tim Patrick,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,sleeper,1.5,True
+00-0033375,Tim Patrick,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,sportzino,1.5,True
+00-0033375,Tim Patrick,player_receptions,53246,2026-10-18T17:00:00Z,New England Patriots,New York Jets,fanduel,1.5,True
+00-0033375,Tim Patrick,player_receptions,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,sportzino,0.5,True
+00-0033375,Tim Patrick,player_receptions,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,polymarket_us,2.5,True
+00-0033375,Tim Patrick,player_receptions,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,prizepicks,0.5,True
+00-0033375,Tim Patrick,player_receptions,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,fliff,0.5,True
+00-0033375,Tim Patrick,player_receptions,32685,2026-10-11T17:00:00Z,New York Jets,Cleveland Browns,underdog,0.5,True

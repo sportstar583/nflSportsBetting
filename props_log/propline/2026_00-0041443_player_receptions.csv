@@ -1,0 +1,16 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0041443,Skyler Bell,player_receptions,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,sportzino,1.5,True
+00-0041443,Skyler Bell,player_receptions,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,prophetx,1.5,True
+00-0041443,Skyler Bell,player_receptions,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,fanduel,1.5,True
+00-0041443,Skyler Bell,player_receptions,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,novig,1.5,True
+00-0041443,Skyler Bell,player_receptions,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,fliff,1.5,True
+00-0041443,Skyler Bell,player_receptions,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,sleeper,1.5,True
+00-0041443,Skyler Bell,player_receptions,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,prizepicks,0.5,True
+00-0041443,Skyler Bell,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,sportzino,1.5,True
+00-0041443,Skyler Bell,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,prophetx,1.5,True
+00-0041443,Skyler Bell,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,prizepicks,0.5,True
+00-0041443,Skyler Bell,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fliff,1.5,True
+00-0041443,Skyler Bell,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,sleeper,1.5,True
+00-0041443,Skyler Bell,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,1.5,True
+00-0041443,Skyler Bell,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,hardrock,3.5,True
+00-0041443,Skyler Bell,player_receptions,46673,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betmgm,1.5,True

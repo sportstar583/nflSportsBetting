@@ -1,4 +1,29 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039361,Bucky Irving,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,prizepicks,4.5,True
+00-0039361,Bucky Irving,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,dabble,13.5,True
+00-0039361,Bucky Irving,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,rebet,10.5,True
+00-0039361,Bucky Irving,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,courtside,12.5,True
+00-0039361,Bucky Irving,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,betway,12.5,True
+00-0039361,Bucky Irving,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,sportzino,13.5,True
+00-0039361,Bucky Irving,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,thescorebet,9.5,True
+00-0039361,Bucky Irving,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,sleeper,10.5,True
+00-0039361,Bucky Irving,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,parlayplay,11.5,True
+00-0039361,Bucky Irving,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,prophetx,11.5,True
+00-0039361,Bucky Irving,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,hardrock,25.5,True
+00-0039361,Bucky Irving,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,pick6,10.5,True
+00-0039361,Bucky Irving,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,novig,11.5,True
+00-0039361,Bucky Irving,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,prizepicks,13.5,True
+00-0039361,Bucky Irving,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,rebet,13.5,True
+00-0039361,Bucky Irving,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,lowvig,12.5,True
+00-0039361,Bucky Irving,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,12.5,True
+00-0039361,Bucky Irving,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,sleeper,13.5,True
+00-0039361,Bucky Irving,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,dabble,13.5,True
+00-0039361,Bucky Irving,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betway,13.5,True
+00-0039361,Bucky Irving,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,pick6,13.5,True
+00-0039361,Bucky Irving,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,sportzino,13.5,True
+00-0039361,Bucky Irving,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,pinnacle,12.5,True
+00-0039361,Bucky Irving,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,parlayplay,11.5,True
+00-0039361,Bucky Irving,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,prophetx,69.5,True
 00-0039361,Bucky Irving,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,prizepicks,12.5,True
 00-0039361,Bucky Irving,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,novig,13.5,True
 00-0039361,Bucky Irving,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,parlayplay,12.5,True
@@ -13,7 +38,6 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0039361,Bucky Irving,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,sleeper,12.5,True
 00-0039361,Bucky Irving,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,courtside,12.5,True
 00-0039361,Bucky Irving,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,fliff,12.5,True
-00-0039361,Bucky Irving,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,hardrock,64.5,True
 00-0039361,Bucky Irving,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,pinnacle,15.5,True
 00-0039361,Bucky Irving,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,dabble,18.5,True
 00-0039361,Bucky Irving,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,novig,16.5,True
@@ -21,11 +45,12 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0039361,Bucky Irving,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,sleeper,15.5,True
 00-0039361,Bucky Irving,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,prizepicks,14.5,True
 00-0039361,Bucky Irving,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,prophetx,59.5,True
+00-0039361,Bucky Irving,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,hardrock,64.5,True
+00-0039361,Bucky Irving,player_reception_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,hardrock,79.5,True
 00-0039361,Bucky Irving,player_reception_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,pinnacle,16.5,True
 00-0039361,Bucky Irving,player_reception_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,prizepicks,1.5,True
 00-0039361,Bucky Irving,player_reception_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,prophetx,19.5,True
 00-0039361,Bucky Irving,player_reception_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,betway,15.5,True
-00-0039361,Bucky Irving,player_reception_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,hardrock,79.5,True
 00-0039361,Bucky Irving,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,prophetx,14.5,True
 00-0039361,Bucky Irving,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,pinnacle,13.5,True
 00-0039361,Bucky Irving,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betrivers,14.5,True

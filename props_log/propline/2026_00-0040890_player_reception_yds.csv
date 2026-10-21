@@ -1,0 +1,23 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040890,Cyrus Allen,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,dabble,15.5,True
+00-0040890,Cyrus Allen,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,novig,11.5,True
+00-0040890,Cyrus Allen,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,rebet,12.5,True
+00-0040890,Cyrus Allen,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,prophetx,16.5,True
+00-0040890,Cyrus Allen,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,pick6,11.5,True
+00-0040890,Cyrus Allen,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,betway,12.5,True
+00-0040890,Cyrus Allen,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,fliff,12.5,True
+00-0040890,Cyrus Allen,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,prizepicks,4.5,True
+00-0040890,Cyrus Allen,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,hardrock,29.5,True
+00-0040890,Cyrus Allen,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,sportzino,14.5,True
+00-0040890,Cyrus Allen,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,parlayplay,11.5,True
+00-0040890,Cyrus Allen,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,sleeper,12.5,True
+00-0040890,Cyrus Allen,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,pinnacle,12.5,True
+00-0040890,Cyrus Allen,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,thescorebet,11.5,True
+00-0040890,Cyrus Allen,player_reception_yds,53248,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,courtside,14.5,True
+00-0040890,Cyrus Allen,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,prophetx,9.5,True
+00-0040890,Cyrus Allen,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,fliff,10.5,True
+00-0040890,Cyrus Allen,player_reception_yds,24859,2026-09-15T00:15:00Z,Kansas City Chiefs,Denver Broncos,prizepicks,0.5,True
+00-0040890,Cyrus Allen,player_reception_yds,152536,2026-08-29T00:00:00Z,Kansas City Chiefs,Seattle Seahawks,underdog,19.5,True
+00-0040890,Cyrus Allen,player_reception_yds,147834,2026-08-22T23:30:00Z,Tampa Bay Buccaneers,Kansas City Chiefs,underdog,20.5,True
+00-0040890,Cyrus Allen,player_reception_yds,59764,2026-08-15T23:00:00Z,Kansas City Chiefs,Los Angeles Rams,underdog,23.5,True
+00-0040890,Cyrus Allen,player_reception_yds,59764,2026-08-15T23:00:00Z,Kansas City Chiefs,Los Angeles Rams,betr,22.5,True

@@ -1,0 +1,6 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0041070,Reggie Virgil,player_reception_yds,159141,2026-08-29T00:00:00Z,Green Bay Packers,Arizona Cardinals,underdog,24.5,True
+00-0041070,Reggie Virgil,player_reception_yds,147655,2026-08-23T02:00:00Z,Arizona Cardinals,Dallas Cowboys,underdog,24.5,True
+00-0041070,Reggie Virgil,player_reception_yds,59774,2026-08-14T03:00:00Z,Las Vegas Raiders,Arizona Cardinals,betr,23.5,True
+00-0041070,Reggie Virgil,player_reception_yds,59774,2026-08-14T03:00:00Z,Las Vegas Raiders,Arizona Cardinals,underdog,26.5,True
+00-0041070,Reggie Virgil,player_reception_yds,59778,2026-08-07T00:00:00Z,Arizona Cardinals,Carolina Panthers,underdog,23.5,True

@@ -1,0 +1,7 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0041041,Oscar Delp,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,prophetx,0.5,True
+00-0041041,Oscar Delp,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fanduel,0.5,True
+00-0041041,Oscar Delp,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,prizepicks,0.5,True
+00-0041041,Oscar Delp,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,sleeper,1.5,True
+00-0041041,Oscar Delp,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,sportzino,1.5,True
+00-0041041,Oscar Delp,player_receptions,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,fliff,1.5,True

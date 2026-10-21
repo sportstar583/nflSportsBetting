@@ -1,4 +1,32 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040129,Emeka Egbuka,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,novig,36.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,rebet,37.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,parlayplay,36.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,pinnacle,36.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,betway,39.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,thescorebet,34.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,hardrock,68.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,sportzino,37.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,sleeper,36.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,bovada,37.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,pick6,36.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,prizepicks,14.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,courtside,38.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,53245,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,dabble,37.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,rebet,37.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,lowvig,34.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betonlineag,34.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,bovada,36.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,courtside,29.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,prizepicks,29.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,sleeper,36.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,dabble,30.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,parlayplay,31.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,betway,33.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,pick6,36.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,sportzino,34.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,32678,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,novig,9.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,prizepicks,31.5,True
 00-0040129,Emeka Egbuka,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,novig,38.5,True
 00-0040129,Emeka Egbuka,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,betway,35.5,True
 00-0040129,Emeka Egbuka,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,parlayplay,38.5,True
@@ -12,22 +40,21 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0040129,Emeka Egbuka,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,courtside,37.5,True
 00-0040129,Emeka Egbuka,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,hardrock,39.5,True
 00-0040129,Emeka Egbuka,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,bovada,36.5,True
-00-0040129,Emeka Egbuka,player_reception_yds,32664,2026-10-04T17:00:00Z,Tampa Bay Buccaneers,Green Bay Packers,prizepicks,31.5,True
-00-0040129,Emeka Egbuka,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,prizepicks,15.5,True
-00-0040129,Emeka Egbuka,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,dabble,48.5,True
 00-0040129,Emeka Egbuka,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,betway,51.5,True
 00-0040129,Emeka Egbuka,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,sleeper,49.5,True
 00-0040129,Emeka Egbuka,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,novig,50.5,True
 00-0040129,Emeka Egbuka,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,prophetx,119.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,prizepicks,15.5,True
 00-0040129,Emeka Egbuka,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,bovada,49.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,dabble,48.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,bovada,52.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,prophetx,51.5,True
 00-0040129,Emeka Egbuka,player_reception_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,pinnacle,52.5,True
 00-0040129,Emeka Egbuka,player_reception_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,prizepicks,18.5,True
 00-0040129,Emeka Egbuka,player_reception_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,betway,52.5,True
-00-0040129,Emeka Egbuka,player_reception_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,prophetx,51.5,True
-00-0040129,Emeka Egbuka,player_reception_yds,32635,2026-09-20T17:02:40Z,Tampa Bay Buccaneers,Cleveland Browns,bovada,52.5,True
-00-0040129,Emeka Egbuka,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,pinnacle,58.5,True
-00-0040129,Emeka Egbuka,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betr,54.5,True
-00-0040129,Emeka Egbuka,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,bovada,57.5,True
 00-0040129,Emeka Egbuka,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betway,55.5,True
 00-0040129,Emeka Egbuka,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,prophetx,53.5,True
 00-0040129,Emeka Egbuka,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,prizepicks,18.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,pinnacle,58.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,betr,54.5,True
+00-0040129,Emeka Egbuka,player_reception_yds,25078,2026-09-13T17:00:00Z,Cincinnati Bengals,Tampa Bay Buccaneers,bovada,57.5,True

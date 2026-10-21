@@ -1,0 +1,4 @@
+player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0040705,Chimere Dike,player_reception_yds,32682,2026-10-11T17:00:00Z,Tennessee Titans,Houston Texans,betrivers,3.5,True
+00-0040705,Chimere Dike,player_reception_yds,32653,2026-09-27T17:00:00Z,New York Giants,Tennessee Titans,polymarket_us,9.5,True
+00-0040705,Chimere Dike,player_reception_yds,148033,2026-08-24T00:10:00Z,Tennessee Titans,Seattle Seahawks,underdog,10.5,True

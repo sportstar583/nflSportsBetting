@@ -1,1 +1,22 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0038551,Kendre Miller,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,novig,3.5,True
+00-0038551,Kendre Miller,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,dabble,2.5,True
+00-0038551,Kendre Miller,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,prophetx,39.5,True
+00-0038551,Kendre Miller,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,parlayplay,3.5,True
+00-0038551,Kendre Miller,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,hardrock,3.5,True
+00-0038551,Kendre Miller,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,fliff,2.5,True
+00-0038551,Kendre Miller,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,pick6,3.5,True
+00-0038551,Kendre Miller,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,sportzino,2.5,True
+00-0038551,Kendre Miller,player_reception_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,prizepicks,3.5,True
+00-0038551,Kendre Miller,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,dabble,4.5,True
+00-0038551,Kendre Miller,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,fliff,3.5,True
+00-0038551,Kendre Miller,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,prizepicks,4.5,True
+00-0038551,Kendre Miller,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,parlayplay,4.5,True
+00-0038551,Kendre Miller,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,sportzino,4.5,True
+00-0038551,Kendre Miller,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,courtside,4.5,True
+00-0038551,Kendre Miller,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,dabble,6.5,True
+00-0038551,Kendre Miller,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,hardrock,5.5,True
+00-0038551,Kendre Miller,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,prizepicks,6.5,True
+00-0038551,Kendre Miller,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,parlayplay,6.5,True
+00-0038551,Kendre Miller,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,sportzino,6.5,True
+00-0038551,Kendre Miller,player_reception_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,novig,4.5,True

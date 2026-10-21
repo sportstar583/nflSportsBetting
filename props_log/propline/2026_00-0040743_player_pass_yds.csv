@@ -1,21 +1,64 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0040743,Tyler Shough,player_pass_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,sleeper,252.5,True
-00-0040743,Tyler Shough,player_pass_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,novig,252.5,True
+00-0040743,Tyler Shough,player_pass_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,rebet,227.5,True
+00-0040743,Tyler Shough,player_pass_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,prophetx,225.5,True
+00-0040743,Tyler Shough,player_pass_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,pinnacle,227.5,True
+00-0040743,Tyler Shough,player_pass_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betway,231.5,True
+00-0040743,Tyler Shough,player_pass_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,pick6,226.5,True
+00-0040743,Tyler Shough,player_pass_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,sleeper,229.5,True
+00-0040743,Tyler Shough,player_pass_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,bovada,231.5,True
+00-0040743,Tyler Shough,player_pass_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,hardrock,234.5,True
+00-0040743,Tyler Shough,player_pass_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,sportzino,232.5,True
+00-0040743,Tyler Shough,player_pass_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,thescorebet,225.5,True
+00-0040743,Tyler Shough,player_pass_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,novig,226.5,True
+00-0040743,Tyler Shough,player_pass_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,courtside,230.5,True
+00-0040743,Tyler Shough,player_pass_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,prizepicks,169.5,True
+00-0040743,Tyler Shough,player_pass_yds,46676,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,dabble,230.5,True
+00-0040743,Tyler Shough,player_pass_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,bovada,235.5,True
+00-0040743,Tyler Shough,player_pass_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,thescorebet,233.5,True
+00-0040743,Tyler Shough,player_pass_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,betway,241.5,True
+00-0040743,Tyler Shough,player_pass_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,pinnacle,237.5,True
+00-0040743,Tyler Shough,player_pass_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,rebet,237.5,True
+00-0040743,Tyler Shough,player_pass_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,prophetx,240.5,True
+00-0040743,Tyler Shough,player_pass_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,dabble,237.5,True
+00-0040743,Tyler Shough,player_pass_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,prizepicks,209.5,True
+00-0040743,Tyler Shough,player_pass_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,courtside,239.5,True
+00-0040743,Tyler Shough,player_pass_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,pick6,236.5,True
+00-0040743,Tyler Shough,player_pass_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,sportzino,240.5,True
+00-0040743,Tyler Shough,player_pass_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,sleeper,236.5,True
+00-0040743,Tyler Shough,player_pass_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,novig,240.5,True
+00-0040743,Tyler Shough,player_pass_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,sleeper,261.5,True
+00-0040743,Tyler Shough,player_pass_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,prizepicks,227.5,True
+00-0040743,Tyler Shough,player_pass_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betway,256.5,True
+00-0040743,Tyler Shough,player_pass_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,parlayplay,260.5,True
+00-0040743,Tyler Shough,player_pass_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,novig,260.5,True
+00-0040743,Tyler Shough,player_pass_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,courtside,260.5,True
+00-0040743,Tyler Shough,player_pass_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,rebet,264.5,True
+00-0040743,Tyler Shough,player_pass_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,hardrock,249.5,True
+00-0040743,Tyler Shough,player_pass_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,pinnacle,259.5,True
+00-0040743,Tyler Shough,player_pass_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,prophetx,258.5,True
+00-0040743,Tyler Shough,player_pass_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,dabble,261.5,True
+00-0040743,Tyler Shough,player_pass_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,sportzino,263.5,True
+00-0040743,Tyler Shough,player_pass_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,pick6,199.5,True
+00-0040743,Tyler Shough,player_pass_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,betonlineag,257.5,True
+00-0040743,Tyler Shough,player_pass_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,lowvig,257.5,True
+00-0040743,Tyler Shough,player_pass_yds,32677,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,bovada,257.5,True
 00-0040743,Tyler Shough,player_pass_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,dabble,253.5,True
+00-0040743,Tyler Shough,player_pass_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,novig,252.5,True
+00-0040743,Tyler Shough,player_pass_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,sleeper,252.5,True
 00-0040743,Tyler Shough,player_pass_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,bovada,253.5,True
-00-0040743,Tyler Shough,player_pass_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,betway,251.5,True
+00-0040743,Tyler Shough,player_pass_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,prizepicks,172.5,True
 00-0040743,Tyler Shough,player_pass_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,courtside,253.5,True
 00-0040743,Tyler Shough,player_pass_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,pinnacle,252.5,True
 00-0040743,Tyler Shough,player_pass_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,prophetx,253.5,True
-00-0040743,Tyler Shough,player_pass_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,prizepicks,172.5,True
+00-0040743,Tyler Shough,player_pass_yds,32660,2026-09-27T20:25:00Z,New Orleans Saints,Las Vegas Raiders,betway,251.5,True
 00-0040743,Tyler Shough,player_pass_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,prophetx,228.5,True
 00-0040743,Tyler Shough,player_pass_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,prizepicks,160.5,True
 00-0040743,Tyler Shough,player_pass_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,betway,240.5,True
 00-0040743,Tyler Shough,player_pass_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,pinnacle,231.5,True
 00-0040743,Tyler Shough,player_pass_yds,32639,2026-09-20T17:02:38Z,Baltimore Ravens,New Orleans Saints,bovada,227.5,True
-00-0040743,Tyler Shough,player_pass_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betr,246.5,True
-00-0040743,Tyler Shough,player_pass_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,prophetx,243.5,True
-00-0040743,Tyler Shough,player_pass_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,prizepicks,165.5,True
 00-0040743,Tyler Shough,player_pass_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,bovada,240.5,True
-00-0040743,Tyler Shough,player_pass_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betway,243.5,True
 00-0040743,Tyler Shough,player_pass_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,pinnacle,240.5,True
+00-0040743,Tyler Shough,player_pass_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betway,243.5,True
+00-0040743,Tyler Shough,player_pass_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,prophetx,243.5,True
+00-0040743,Tyler Shough,player_pass_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,betr,246.5,True
+00-0040743,Tyler Shough,player_pass_yds,25076,2026-09-13T17:00:00Z,Detroit Lions,New Orleans Saints,prizepicks,165.5,True

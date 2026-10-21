@@ -1,15 +1,39 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0039041,Elijah Higgins,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,sportzino,4.5,True
-00-0039041,Elijah Higgins,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,betrivers,3.5,True
+00-0039041,Elijah Higgins,player_reception_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,novig,10.5,True
+00-0039041,Elijah Higgins,player_reception_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,betrivers,12.5,True
+00-0039041,Elijah Higgins,player_reception_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,prophetx,10.5,True
+00-0039041,Elijah Higgins,player_reception_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,parlayplay,12.5,True
+00-0039041,Elijah Higgins,player_reception_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,betway,14.5,True
+00-0039041,Elijah Higgins,player_reception_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,prizepicks,4.5,True
+00-0039041,Elijah Higgins,player_reception_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,sleeper,13.5,True
+00-0039041,Elijah Higgins,player_reception_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,pick6,14.5,True
+00-0039041,Elijah Higgins,player_reception_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,sportzino,12.5,True
+00-0039041,Elijah Higgins,player_reception_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,dabble,12.5,True
+00-0039041,Elijah Higgins,player_reception_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,rebet,13.5,True
+00-0039041,Elijah Higgins,player_reception_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,pinnacle,14.5,True
+00-0039041,Elijah Higgins,player_reception_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,thescorebet,15.5,True
+00-0039041,Elijah Higgins,player_reception_yds,53247,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,hardrock,3.5,True
+00-0039041,Elijah Higgins,player_reception_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,prizepicks,9.5,True
+00-0039041,Elijah Higgins,player_reception_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,rebet,9.5,True
+00-0039041,Elijah Higgins,player_reception_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,novig,10.5,True
+00-0039041,Elijah Higgins,player_reception_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,sleeper,9.5,True
+00-0039041,Elijah Higgins,player_reception_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,pick6,10.5,True
+00-0039041,Elijah Higgins,player_reception_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,pinnacle,9.5,True
+00-0039041,Elijah Higgins,player_reception_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,betway,10.5,True
+00-0039041,Elijah Higgins,player_reception_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,sportzino,10.5,True
+00-0039041,Elijah Higgins,player_reception_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,dabble,10.5,True
+00-0039041,Elijah Higgins,player_reception_yds,46670,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,thescorebet,9.5,True
 00-0039041,Elijah Higgins,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,novig,4.5,True
 00-0039041,Elijah Higgins,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,courtside,4.5,True
 00-0039041,Elijah Higgins,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,hardrock,4.5,True
 00-0039041,Elijah Higgins,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,prophetx,3.5,True
+00-0039041,Elijah Higgins,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,sportzino,4.5,True
 00-0039041,Elijah Higgins,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,dabble,4.5,True
 00-0039041,Elijah Higgins,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,pinnacle,4.5,True
 00-0039041,Elijah Higgins,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,prizepicks,4.5,True
 00-0039041,Elijah Higgins,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,parlayplay,3.5,True
 00-0039041,Elijah Higgins,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,pick6,3.5,True
 00-0039041,Elijah Higgins,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,rebet,4.5,True
-00-0039041,Elijah Higgins,player_reception_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,betway,10.5,True
+00-0039041,Elijah Higgins,player_reception_yds,32668,2026-10-04T17:00:00Z,New York Giants,Arizona Cardinals,betrivers,3.5,True
 00-0039041,Elijah Higgins,player_reception_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,prizepicks,19.5,True
+00-0039041,Elijah Higgins,player_reception_yds,25079,2026-09-13T20:25:00Z,Los Angeles Chargers,Arizona Cardinals,betway,10.5,True

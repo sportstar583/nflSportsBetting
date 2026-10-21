@@ -1,17 +1,47 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0039910,Jayden Daniels,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,prizepicks,17.5,True
+00-0039910,Jayden Daniels,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,sportzino,39.5,True
+00-0039910,Jayden Daniels,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,sleeper,39.5,True
+00-0039910,Jayden Daniels,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,parlayplay,36.5,True
+00-0039910,Jayden Daniels,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,thescorebet,39.5,True
+00-0039910,Jayden Daniels,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,novig,38.5,True
+00-0039910,Jayden Daniels,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pick6,39.5,True
+00-0039910,Jayden Daniels,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,38.5,True
+00-0039910,Jayden Daniels,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betonlineag,38.5,True
+00-0039910,Jayden Daniels,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,lowvig,38.5,True
+00-0039910,Jayden Daniels,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,bovada,37.5,True
+00-0039910,Jayden Daniels,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,rebet,39.5,True
+00-0039910,Jayden Daniels,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betway,37.5,True
+00-0039910,Jayden Daniels,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,dabble,37.5,True
+00-0039910,Jayden Daniels,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,prophetx,40.5,True
+00-0039910,Jayden Daniels,player_rush_yds,53249,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,hardrock,63.5,True
+00-0039910,Jayden Daniels,player_rush_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,sportzino,30.5,True
+00-0039910,Jayden Daniels,player_rush_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,pick6,28.5,True
+00-0039910,Jayden Daniels,player_rush_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,pinnacle,30.5,True
+00-0039910,Jayden Daniels,player_rush_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,dabble,30.5,True
+00-0039910,Jayden Daniels,player_rush_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,thescorebet,29.5,True
+00-0039910,Jayden Daniels,player_rush_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,betway,30.5,True
+00-0039910,Jayden Daniels,player_rush_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,rebet,30.5,True
+00-0039910,Jayden Daniels,player_rush_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,prophetx,31.5,True
+00-0039910,Jayden Daniels,player_rush_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,prizepicks,19.5,True
+00-0039910,Jayden Daniels,player_rush_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,parlayplay,28.5,True
+00-0039910,Jayden Daniels,player_rush_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,courtside,32.5,True
+00-0039910,Jayden Daniels,player_rush_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,novig,30.5,True
+00-0039910,Jayden Daniels,player_rush_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,sleeper,29.5,True
+00-0039910,Jayden Daniels,player_rush_yds,32679,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,bovada,29.5,True
 00-0039910,Jayden Daniels,player_rush_yds,32652,2026-09-27T17:00:00Z,Washington Commanders,Seattle Seahawks,polymarket_us,29.5,True
 00-0039910,Jayden Daniels,player_rush_yds,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,prophetx,38.5,True
-00-0039910,Jayden Daniels,player_rush_yds,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,bovada,35.5,True
 00-0039910,Jayden Daniels,player_rush_yds,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,prizepicks,16.5,True
 00-0039910,Jayden Daniels,player_rush_yds,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,betonlineag,36.5,True
 00-0039910,Jayden Daniels,player_rush_yds,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,lowvig,36.5,True
+00-0039910,Jayden Daniels,player_rush_yds,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,bovada,35.5,True
 00-0039910,Jayden Daniels,player_rush_yds,32644,2026-09-20T20:25:36Z,Dallas Cowboys,Washington Commanders,betway,37.5,True
-00-0039910,Jayden Daniels,player_rush_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,lowvig,36.5,True
-00-0039910,Jayden Daniels,player_rush_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betway,36.5,True
-00-0039910,Jayden Daniels,player_rush_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,prizepicks,15.5,True
 00-0039910,Jayden Daniels,player_rush_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,pinnacle,35.5,True
 00-0039910,Jayden Daniels,player_rush_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,prophetx,36.5,True
 00-0039910,Jayden Daniels,player_rush_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betr,38.5,True
 00-0039910,Jayden Daniels,player_rush_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betmgm,37.5,True
 00-0039910,Jayden Daniels,player_rush_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,bovada,37.5,True
 00-0039910,Jayden Daniels,player_rush_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betonlineag,36.5,True
+00-0039910,Jayden Daniels,player_rush_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,lowvig,36.5,True
+00-0039910,Jayden Daniels,player_rush_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,betway,36.5,True
+00-0039910,Jayden Daniels,player_rush_yds,25082,2026-09-13T20:25:00Z,Philadelphia Eagles,Washington Commanders,prizepicks,15.5,True

@@ -1,16 +1,38 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0038994,Jordan Addison,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,prophetx,55.5,True
+00-0038994,Jordan Addison,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,underdog,39.5,True
+00-0038994,Jordan Addison,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,fanduel,40.5,True
+00-0038994,Jordan Addison,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,sportzino,42.5,True
+00-0038994,Jordan Addison,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,prophetx,39.5,True
+00-0038994,Jordan Addison,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,sleeper,40.5,True
+00-0038994,Jordan Addison,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,draftkings,40.5,True
+00-0038994,Jordan Addison,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,fliff,40.5,True
+00-0038994,Jordan Addison,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,betrivers,38.5,True
+00-0038994,Jordan Addison,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,courtside,40.5,True
+00-0038994,Jordan Addison,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,prizepicks,35.5,True
+00-0038994,Jordan Addison,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,betmgm,39.5,True
+00-0038994,Jordan Addison,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,hardrock,40.5,True
+00-0038994,Jordan Addison,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,pinnacle,40.5,True
+00-0038994,Jordan Addison,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,parlayplay,40.5,True
+00-0038994,Jordan Addison,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,thescorebet,39.5,True
+00-0038994,Jordan Addison,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,bovada,40.5,True
+00-0038994,Jordan Addison,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,rebet,40.5,True
+00-0038994,Jordan Addison,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,fanatics,40.5,True
+00-0038994,Jordan Addison,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,novig,40.5,True
+00-0038994,Jordan Addison,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,dabble,42.5,True
+00-0038994,Jordan Addison,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,betway,42.5,True
+00-0038994,Jordan Addison,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,pick6,40.5,True
 00-0038994,Jordan Addison,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,sportzino,61.5,True
 00-0038994,Jordan Addison,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,prizepicks,67.5,True
 00-0038994,Jordan Addison,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,sleeper,62.5,True
 00-0038994,Jordan Addison,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,betway,64.5,True
 00-0038994,Jordan Addison,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,rebet,64.5,True
 00-0038994,Jordan Addison,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,novig,63.5,True
+00-0038994,Jordan Addison,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,bovada,62.5,True
 00-0038994,Jordan Addison,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,courtside,63.5,True
 00-0038994,Jordan Addison,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,dabble,62.5,True
 00-0038994,Jordan Addison,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,pick6,62.5,True
 00-0038994,Jordan Addison,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,pinnacle,62.5,True
-00-0038994,Jordan Addison,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,bovada,62.5,True
+00-0038994,Jordan Addison,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,prophetx,55.5,True
 00-0038994,Jordan Addison,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,prophetx,35.5,True
 00-0038994,Jordan Addison,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,parlayplay,34.5,True
 00-0038994,Jordan Addison,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,prizepicks,6.5,True
@@ -24,11 +46,11 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0038994,Jordan Addison,player_reception_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,prizepicks,8.5,True
 00-0038994,Jordan Addison,player_reception_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,betway,39.5,True
 00-0038994,Jordan Addison,player_reception_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,pinnacle,39.5,True
-00-0038994,Jordan Addison,player_reception_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,bovada,39.5,True
 00-0038994,Jordan Addison,player_reception_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,prophetx,33.5,True
-00-0038994,Jordan Addison,player_reception_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betr,42.5,True
+00-0038994,Jordan Addison,player_reception_yds,32637,2026-09-20T17:02:38Z,Chicago Bears,Minnesota Vikings,bovada,39.5,True
 00-0038994,Jordan Addison,player_reception_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,pinnacle,42.5,True
 00-0038994,Jordan Addison,player_reception_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,bovada,42.5,True
 00-0038994,Jordan Addison,player_reception_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,prizepicks,12.5,True
 00-0038994,Jordan Addison,player_reception_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betmgm,41.5,True
 00-0038994,Jordan Addison,player_reception_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betway,40.5,True
+00-0038994,Jordan Addison,player_reception_yds,25080,2026-09-13T20:25:00Z,Minnesota Vikings,Green Bay Packers,betr,42.5,True

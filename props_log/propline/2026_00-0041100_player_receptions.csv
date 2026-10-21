@@ -1,4 +1,30 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
+00-0041100,Josh Cameron,player_receptions,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,prizepicks,0.5,True
+00-0041100,Josh Cameron,player_receptions,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,hardrock,5.5,True
+00-0041100,Josh Cameron,player_receptions,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,prophetx,1.5,True
+00-0041100,Josh Cameron,player_receptions,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,sportzino,1.5,True
+00-0041100,Josh Cameron,player_receptions,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,fanduel,1.5,True
+00-0041100,Josh Cameron,player_receptions,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,betmgm,1.5,True
+00-0041100,Josh Cameron,player_receptions,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,sleeper,1.5,True
+00-0041100,Josh Cameron,player_receptions,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,rebet,1.5,True
+00-0041100,Josh Cameron,player_receptions,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,lowvig,1.5,True
+00-0041100,Josh Cameron,player_receptions,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,betonlineag,1.5,True
+00-0041100,Josh Cameron,player_receptions,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,pinnacle,1.5,True
+00-0041100,Josh Cameron,player_receptions,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,dabble,1.5,True
+00-0041100,Josh Cameron,player_receptions,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,novig,4.5,True
+00-0041100,Josh Cameron,player_receptions,32690,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,thescorebet,1.5,True
+00-0041100,Josh Cameron,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,thescorebet,1.5,True
+00-0041100,Josh Cameron,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betway,1.5,True
+00-0041100,Josh Cameron,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,rebet,1.5,True
+00-0041100,Josh Cameron,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,prizepicks,1.5,True
+00-0041100,Josh Cameron,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,fliff,1.5,True
+00-0041100,Josh Cameron,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,sleeper,1.5,True
+00-0041100,Josh Cameron,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,prophetx,1.5,True
+00-0041100,Josh Cameron,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,pinnacle,1.5,True
+00-0041100,Josh Cameron,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,fanduel,1.5,True
+00-0041100,Josh Cameron,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,sportzino,1.5,True
+00-0041100,Josh Cameron,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,betmgm,1.5,True
+00-0041100,Josh Cameron,player_receptions,24872,2026-10-11T13:30:00Z,Jacksonville Jaguars,Philadelphia Eagles,bovada,1.5,True
 00-0041100,Josh Cameron,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,betway,1.5,True
 00-0041100,Josh Cameron,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,prophetx,1.5,True
 00-0041100,Josh Cameron,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,pinnacle,1.5,True
@@ -9,7 +35,7 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0041100,Josh Cameron,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,sportzino,0.5,True
 00-0041100,Josh Cameron,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,novig,3.5,True
 00-0041100,Josh Cameron,player_receptions,32670,2026-10-04T17:00:00Z,Cincinnati Bengals,Jacksonville Jaguars,bovada,1.5,True
-00-0041100,Josh Cameron,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,parlayplay,0.5,True
-00-0041100,Josh Cameron,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,dabble,0.5,True
 00-0041100,Josh Cameron,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,prizepicks,0.5,True
 00-0041100,Josh Cameron,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,underdog,0.5,True
+00-0041100,Josh Cameron,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,parlayplay,0.5,True
+00-0041100,Josh Cameron,player_receptions,32651,2026-09-27T17:00:00Z,Jacksonville Jaguars,New England Patriots,dabble,0.5,True

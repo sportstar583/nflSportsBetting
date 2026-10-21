@@ -1,15 +1,27 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0033293,Aaron Jones,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,parlayplay,21.5,True
-00-0033293,Aaron Jones,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,rebet,19.5,True
-00-0033293,Aaron Jones,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,pick6,19.5,True
-00-0033293,Aaron Jones,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,dabble,19.5,True
+00-0033293,Aaron Jones,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,dabble,20.5,True
+00-0033293,Aaron Jones,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,betway,20.5,True
+00-0033293,Aaron Jones,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,pick6,21.5,True
+00-0033293,Aaron Jones,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,prizepicks,14.5,True
+00-0033293,Aaron Jones,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,pinnacle,18.5,True
+00-0033293,Aaron Jones,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,prophetx,18.5,True
+00-0033293,Aaron Jones,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,courtside,21.5,True
+00-0033293,Aaron Jones,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,novig,19.5,True
+00-0033293,Aaron Jones,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,sportzino,20.5,True
+00-0033293,Aaron Jones,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,rebet,19.5,True
+00-0033293,Aaron Jones,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,sleeper,20.5,True
+00-0033293,Aaron Jones,player_reception_yds,32681,2026-10-11T17:00:00Z,New Orleans Saints,Minnesota Vikings,parlayplay,17.5,True
 00-0033293,Aaron Jones,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,betway,20.5,True
+00-0033293,Aaron Jones,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,parlayplay,21.5,True
 00-0033293,Aaron Jones,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,prizepicks,19.5,True
 00-0033293,Aaron Jones,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,pinnacle,19.5,True
 00-0033293,Aaron Jones,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,prophetx,18.5,True
 00-0033293,Aaron Jones,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,novig,18.5,True
 00-0033293,Aaron Jones,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,sportzino,19.5,True
 00-0033293,Aaron Jones,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,sleeper,19.5,True
+00-0033293,Aaron Jones,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,rebet,19.5,True
+00-0033293,Aaron Jones,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,pick6,19.5,True
+00-0033293,Aaron Jones,player_reception_yds,32672,2026-10-04T20:05:00Z,Minnesota Vikings,Miami Dolphins,dabble,19.5,True
 00-0033293,Aaron Jones,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,courtside,11.5,True
 00-0033293,Aaron Jones,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,pinnacle,12.5,True
 00-0033293,Aaron Jones,player_reception_yds,32658,2026-09-27T20:05:00Z,Tampa Bay Buccaneers,Minnesota Vikings,novig,9.5,True

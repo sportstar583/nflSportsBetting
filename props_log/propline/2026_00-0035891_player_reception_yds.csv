@@ -1,5 +1,30 @@
 player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_main_line
-00-0035891,Cody White,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,bovada,10.5,True
+00-0035891,Cody White,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,prizepicks,4.5,True
+00-0035891,Cody White,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,dabble,12.5,True
+00-0035891,Cody White,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,rebet,13.5,True
+00-0035891,Cody White,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,thescorebet,12.5,True
+00-0035891,Cody White,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,sportzino,12.5,True
+00-0035891,Cody White,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,prophetx,15.5,True
+00-0035891,Cody White,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,underdog,14.5,True
+00-0035891,Cody White,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,parlayplay,12.5,True
+00-0035891,Cody White,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,pick6,13.5,True
+00-0035891,Cody White,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,sleeper,13.5,True
+00-0035891,Cody White,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,novig,13.5,True
+00-0035891,Cody White,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,pinnacle,13.5,True
+00-0035891,Cody White,player_reception_yds,53165,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,bovada,13.5,True
+00-0035891,Cody White,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,thescorebet,24.5,True
+00-0035891,Cody White,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,prizepicks,14.5,True
+00-0035891,Cody White,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,sportzino,21.5,True
+00-0035891,Cody White,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,pinnacle,23.5,True
+00-0035891,Cody White,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,sleeper,22.5,True
+00-0035891,Cody White,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,prophetx,22.5,True
+00-0035891,Cody White,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,courtside,16.5,True
+00-0035891,Cody White,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,parlayplay,17.5,True
+00-0035891,Cody White,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,rebet,22.5,True
+00-0035891,Cody White,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,pick6,22.5,True
+00-0035891,Cody White,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,underdog,24.5,True
+00-0035891,Cody White,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,dabble,20.5,True
+00-0035891,Cody White,player_reception_yds,32684,2026-10-11T17:00:00Z,New England Patriots,Las Vegas Raiders,novig,22.5,True
 00-0035891,Cody White,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,rebet,10.5,True
 00-0035891,Cody White,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,underdog,9.5,True
 00-0035891,Cody White,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,betrivers,10.5,True
@@ -11,5 +36,6 @@ player_id,player,market,event_id,commence_time,home_team,away_team,book,line,is_
 00-0035891,Cody White,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,sleeper,9.5,True
 00-0035891,Cody White,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,dabble,10.5,True
 00-0035891,Cody White,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,pinnacle,9.5,True
+00-0035891,Cody White,player_reception_yds,32675,2026-10-04T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,bovada,10.5,True
 00-0035891,Cody White,player_reception_yds,152536,2026-08-29T00:00:00Z,Kansas City Chiefs,Seattle Seahawks,underdog,16.5,True
 00-0035891,Cody White,player_reception_yds,148033,2026-08-24T00:10:00Z,Tennessee Titans,Seattle Seahawks,underdog,16.5,True
